@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
 //Name: tableee.ma
-//Last modified: Mon, Sep 01, 2025 10:00:03 PM
+//Last modified: Mon, Sep 01, 2025 10:06:33 PM
 //Codeset: 1252
 requires maya "2026";
 requires "stereoCamera" "10.0";
@@ -12,13 +12,13 @@ fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202507081222-4d6919b75c";
 fileInfo "osv" "Windows 11 Pro N v2009 (Build: 26100)";
-fileInfo "UUID" "99A543D9-4F4A-CCB8-D4FB-3E9D6D694CDC";
+fileInfo "UUID" "D784D640-431E-24D7-C1A7-BB9CF71DA801";
 fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "56E5A7F2-4F8F-ADDC-EE6D-E8BE202F9BEB";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -25.07504592887274 5.5622667874860445 2.3593750743866924 ;
-	setAttr ".r" -type "double3" -8.4000000000555737 273.20000000002653 -1.4244307287248412e-14 ;
+	setAttr ".t" -type "double3" -23.763550416428075 5.5622667874856191 8.7484830213305713 ;
+	setAttr ".r" -type "double3" -8.4000000000544919 290.00000000002257 -2.3248299431530679e-15 ;
 	setAttr ".rpt" -type "double3" 5.5678924427503235e-16 -6.1641222675673218e-16 -5.9651919917651562e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "8FC75803-49EA-D578-337E-9BA901DB0EFD";
@@ -95,7 +95,7 @@ createNode mesh -n "pCubeShape1" -p "pCube1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 5 ".pt";
+	setAttr -s 4 ".pt";
 	setAttr ".pt[5]" -type "float3" 0.034746557 0 -0.034244254 ;
 	setAttr ".pt[6]" -type "float3" -0.034746557 0 -0.034244254 ;
 	setAttr ".pt[8]" -type "float3" 0.034746557 0 0.034244254 ;
@@ -7176,20 +7176,20 @@ createNode mesh -n "pCylinderShape7" -p "pCylinder7";
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".dr" 1;
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "01843F72-43F1-BD31-8B86-13AE20E770BE";
+	rename -uid "D9BEDEB3-406D-D5BE-EE64-9BB6246BCF0C";
 	setAttr -s 2 ".lnk";
 	setAttr -s 2 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "3D809752-4A55-B83B-9694-1E8388F84157";
+	rename -uid "AAD828E5-4912-41EE-9315-93B63824210B";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "426E4EE1-4966-C4A9-124A-0EACA733E3EB";
+	rename -uid "97D76F41-422A-AE48-8EF0-42951046C581";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "6397A7AC-4FD4-B276-1B59-15B75359C6B5";
+	rename -uid "F32A39BF-455D-2AFE-BDDE-A98C5F6E5E97";
 createNode displayLayer -n "defaultLayer";
 	rename -uid "172F14F4-42CD-78DD-2BB8-9B92A9B69CD0";
 	setAttr ".ufem" -type "stringArray" 0  ;
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "9747CB32-4D36-2F90-4599-E68BBA33E7FA";
+	rename -uid "434F83A1-4AF8-DBE2-A8EC-C4832450AD08";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "F85BFA43-4E19-8175-CA0B-968F90E1AD64";
 	setAttr ".g" yes;
@@ -7808,7 +7808,7 @@ createNode polySplitRing -n "polySplitRing16";
 createNode polyTweak -n "polyTweak7";
 	rename -uid "CEFB6C9F-4772-B4FA-646B-939F867E6C75";
 	setAttr ".uopa" yes;
-	setAttr -s 218 ".tk";
+	setAttr -s 217 ".tk";
 	setAttr ".tk[0]" -type "float3" 0 0 -0.31552988 ;
 	setAttr ".tk[1]" -type "float3" 0 0 -0.31552988 ;
 	setAttr ".tk[2]" -type "float3" 0 0 -0.31552988 ;
