@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
 //Name: tableee.ma
-//Last modified: Tue, Sep 09, 2025 03:57:59 PM
+//Last modified: Tue, Sep 09, 2025 11:22:06 PM
 //Codeset: 1252
 requires maya "2026";
 requires "stereoCamera" "10.0";
@@ -13,19 +13,19 @@ fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202507081222-4d6919b75c";
 fileInfo "osv" "Windows 11 Pro N v2009 (Build: 26100)";
-fileInfo "UUID" "750BE4A4-45BC-7EC6-E8AE-3B8EFFD8AAB7";
+fileInfo "UUID" "41983A71-4588-07A0-8C14-B1969DC8BD10";
 fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "56E5A7F2-4F8F-ADDC-EE6D-E8BE202F9BEB";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 7.5408250718763679 3.7345677530436356 -2.741256080048788 ;
-	setAttr ".r" -type "double3" -8.4000000000000359 416.39999999995467 -1.436846427185473e-15 ;
+	setAttr ".t" -type "double3" 22.942664077118721 7.3159924188361227 17.095417960350261 ;
+	setAttr ".r" -type "double3" -9.6000000000002998 407.19999999994775 5.8514154598632422e-16 ;
 	setAttr ".rpt" -type "double3" 5.5678924427503235e-16 -6.1641222675673218e-16 -5.9651919917651562e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "8FC75803-49EA-D578-337E-9BA901DB0EFD";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 9.6498483945327287;
+	setAttr ".coi" 34.555565703261991;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -7473,19 +7473,9 @@ createNode mesh -n "pCubeShape13" -p "pCube13";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 14 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[25]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[26]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[27]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[28]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[29]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[30]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[31]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[32]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[33]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[34]" -type "float3" 0 1.107846 0 ;
-	setAttr ".pt[35]" -type "float3" 0 1.107846 0 ;
+	setAttr -s 12 ".pt[24:35]" -type "float3"  0 1.107846 0 0 1.107846 0 
+		0 1.107846 0 0 1.107846 0 0 1.107846 0 0 1.107846 0 0 1.107846 0 0 1.107846 0 0 1.107846 
+		0 0 1.107846 0 0 1.107846 0 0 1.107846 0;
 	setAttr -s 36 ".vt[0:35]"  -0.5 -0.5 0.50000024 0.50000006 -0.5 0.50000024
 		 -0.5 -0.2787146 0.50000024 0.50000006 -0.2787146 0.50000024 -0.5 -0.2787146 -0.5
 		 0.50000006 -0.2787146 -0.5 -0.5 -0.5 -0.5 0.50000006 -0.5 -0.5 -0.47603244 -0.27871463 -0.5
@@ -7632,15 +7622,9 @@ createNode mesh -n "pCubeShape16" -p "pCube16";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.01690105 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.01690105 0 0 -0.01690105 
+		0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 
+		0 -0.01690105;
 	setAttr ".dr" 1;
 createNode mesh -n "polySurfaceShape2" -p "pCube16";
 	rename -uid "4B9537FA-4219-A8D8-B228-D4A39780514D";
@@ -7772,15 +7756,9 @@ createNode mesh -n "pCubeShape17" -p "pCube17";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr ".dr" 1;
 createNode mesh -n "polySurfaceShape3" -p "pCube17";
 	rename -uid "BEA814EA-4B1A-D6D6-29FC-0FB667A376B6";
@@ -7812,7 +7790,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube17";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -7932,15 +7910,9 @@ createNode mesh -n "pCubeShape18" -p "pCube18";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -8052,7 +8024,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube18";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -8172,15 +8144,9 @@ createNode mesh -n "pCubeShape19" -p "pCube19";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -8292,7 +8258,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube19";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -8412,15 +8378,9 @@ createNode mesh -n "pCubeShape20" -p "pCube20";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -8532,7 +8492,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube20";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -8652,15 +8612,9 @@ createNode mesh -n "pCubeShape21" -p "pCube21";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -8772,7 +8726,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube21";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -9011,15 +8965,9 @@ createNode mesh -n "pCubeShape23" -p "pCube23";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.01690105 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.01690105 0 0 -0.01690105 
+		0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 
+		0 -0.01690105;
 	setAttr -s 32 ".vt[0:31]"  -0.49999809 -0.60513711 0.5 0.50000191 -0.60513711 0.5
 		 -0.49999809 0.35604835 0.5 0.50000191 0.35604835 0.5 -0.49999809 0.35604835 -0.5
 		 0.50000191 0.35604835 -0.5 -0.49999809 -0.60513711 -0.5 0.50000191 -0.60513711 -0.5
@@ -9252,15 +9200,9 @@ createNode mesh -n "pCubeShape24" -p "pCube24";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -9372,7 +9314,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube24";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -9492,15 +9434,9 @@ createNode mesh -n "pCubeShape25" -p "pCube25";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -9612,7 +9548,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube25";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -9732,15 +9668,9 @@ createNode mesh -n "pCubeShape26" -p "pCube26";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -9852,7 +9782,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube26";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -9972,15 +9902,9 @@ createNode mesh -n "pCubeShape27" -p "pCube27";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -10092,7 +10016,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube27";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -10212,15 +10136,9 @@ createNode mesh -n "pCubeShape28" -p "pCube28";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -10332,7 +10250,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube28";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -10571,15 +10489,9 @@ createNode mesh -n "pCubeShape30" -p "pCube30";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.01690105 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.01690105 0 0 -0.01690105 
+		0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 
+		0 -0.01690105;
 	setAttr -s 32 ".vt[0:31]"  -0.49999809 -0.60513711 0.5 0.50000191 -0.60513711 0.5
 		 -0.49999809 0.35604835 0.5 0.50000191 0.35604835 0.5 -0.49999809 0.35604835 -0.5
 		 0.50000191 0.35604835 -0.5 -0.49999809 -0.60513711 -0.5 0.50000191 -0.60513711 -0.5
@@ -10812,15 +10724,9 @@ createNode mesh -n "pCubeShape31" -p "pCube31";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -10932,7 +10838,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube31";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -11052,15 +10958,9 @@ createNode mesh -n "pCubeShape32" -p "pCube32";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -11172,7 +11072,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube32";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -11292,15 +11192,9 @@ createNode mesh -n "pCubeShape33" -p "pCube33";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -11412,7 +11306,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube33";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -11532,15 +11426,9 @@ createNode mesh -n "pCubeShape34" -p "pCube34";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -11652,7 +11540,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube34";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -11892,15 +11780,9 @@ createNode mesh -n "pCubeShape36" -p "pCube36";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -12012,7 +11894,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube36";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -12131,15 +12013,9 @@ createNode mesh -n "pCubeShape37" -p "pCube37";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.01690105 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.01690105 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.01690105 0 0 -0.01690105 
+		0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 0 -0.01690105 0 
+		0 -0.01690105;
 	setAttr -s 32 ".vt[0:31]"  -0.49999809 -0.60513711 0.5 0.50000191 -0.60513711 0.5
 		 -0.49999809 0.35604835 0.5 0.50000191 0.35604835 0.5 -0.49999809 0.35604835 -0.5
 		 0.50000191 0.35604835 -0.5 -0.49999809 -0.60513711 -0.5 0.50000191 -0.60513711 -0.5
@@ -12372,15 +12248,9 @@ createNode mesh -n "pCubeShape38" -p "pCube38";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -12492,7 +12362,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube38";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -12612,15 +12482,9 @@ createNode mesh -n "pCubeShape39" -p "pCube39";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -12732,7 +12596,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube39";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -12852,15 +12716,9 @@ createNode mesh -n "pCubeShape40" -p "pCube40";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -12972,7 +12830,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube40";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -13092,15 +12950,9 @@ createNode mesh -n "pCubeShape41" -p "pCube41";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -13212,7 +13064,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube41";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -13332,15 +13184,9 @@ createNode mesh -n "pCubeShape42" -p "pCube42";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 9 ".pt";
-	setAttr ".pt[24]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[25]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[26]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[27]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[28]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[29]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[30]" -type "float3" 0 0 -0.04226863 ;
-	setAttr ".pt[31]" -type "float3" 0 0 -0.04226863 ;
+	setAttr -s 8 ".pt[24:31]" -type "float3"  0 0 -0.04226863 0 0 -0.04226863 
+		0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 0 -0.04226863 0 
+		0 -0.04226863;
 	setAttr -s 32 ".vt[0:31]"  -0.5 -0.60513735 0.5 0.5 -0.60513735 0.5
 		 -0.5 0.35604811 0.5 0.5 0.35604811 0.5 -0.5 0.35604811 -0.5 0.5 0.35604811 -0.5 -0.5 -0.60513735 -0.5
 		 0.5 -0.60513735 -0.5 0.6151495 -0.60513735 -0.5 0.6151495 -0.60513735 0.5 0.6151495 0.35604811 -0.5
@@ -13452,7 +13298,7 @@ createNode mesh -n "polySurfaceShape3" -p "pCube42";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 19 ".pt";
+	setAttr -s 18 ".pt";
 	setAttr ".pt[0]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[1]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
 	setAttr ".pt[2]" -type "float3" 0 -7.4505806e-09 -1.8626451e-09 ;
@@ -13534,20 +13380,20 @@ createNode mesh -n "polySurfaceShape3" -p "pCube42";
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".dr" 1;
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "B8B9ED24-462C-885B-E099-D6B6E667F692";
+	rename -uid "D76A52BC-4ECE-E1EC-44F2-54B427089CC7";
 	setAttr -s 2 ".lnk";
 	setAttr -s 2 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "3089FC58-4D46-AFB9-7894-A1B1C3563D53";
+	rename -uid "25D72603-4A47-8839-72B4-6EABDCD74040";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "82C7D62E-42AE-2CC1-DD58-32A01ADFAD9F";
+	rename -uid "B8EE4033-4F81-C672-21BE-6DA5B2FE16B7";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "41ADFCB3-4165-63DD-3999-88BAD5E9DBBD";
+	rename -uid "986E884B-4B4E-445F-30F7-16A3E77C7973";
 createNode displayLayer -n "defaultLayer";
 	rename -uid "172F14F4-42CD-78DD-2BB8-9B92A9B69CD0";
 	setAttr ".ufem" -type "stringArray" 0  ;
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "D33F7BB2-43D3-97A8-2D25-64982A13770B";
+	rename -uid "F178EC04-4FC4-101C-AE5C-8196394A19A1";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "F85BFA43-4E19-8175-CA0B-968F90E1AD64";
 	setAttr ".g" yes;
