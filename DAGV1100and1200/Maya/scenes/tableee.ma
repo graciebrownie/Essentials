@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
 //Name: tableee.ma
-//Last modified: Sat, Oct 25, 2025 12:16:22 AM
+//Last modified: Mon, Oct 27, 2025 10:51:57 PM
 //Codeset: 1252
 file -rdi 1 -ns "Apple" -rfn "AppleRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Apple.ma";
 file -rdi 1 -ns "Vase1" -rfn "VaseRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Vase.ma";
@@ -11,16 +11,16 @@ file -rdi 1 -ns "Chair9" -rfn "Chair1RN1" -op "v=0;" -typ "mayaAscii" "D:/Users/
 file -rdi 1 -ns "Chair1" -rfn "Chair1RN2" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
 file -rdi 1 -ns "Chair10" -rfn "Chair1RN3" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
 file -rdi 1 -ns "Chair11" -rfn "Chair1RN4" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
-file -rdi 1 -ns "Chair12" -rfn "Chair1RN5" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
 file -rdi 1 -ns "Bookees" -rfn "BookeesRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
 file -rdi 1 -ns "Bookees1" -rfn "BookeesRN1" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
 file -rdi 1 -ns "Bookees2" -rfn "BookeesRN2" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
 file -rdi 1 -ns "Bookees3" -rfn "BookeesRN3" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
-file -rdi 1 -ns "TablewLeg" -rfn "TablewLegRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/TablewLeg.ma";
 file -rdi 1 -ns "Bookshelff" -rfn "BookshelffRN" -op "v=0;" -typ "mayaAscii"
 		 "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookshelff.ma";
 file -rdi 1 -ns "Walls" -rfn "WallsRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Walls.ma";
 file -rdi 1 -ns "Floor1" -rfn "FloorRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Floor.ma";
+file -rdi 1 -ns "Chair13" -rfn "Chair1RN6" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
+file -rdi 1 -ns "TablewLeg" -rfn "TablewLegRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/TablewLeg.ma";
 file -r -ns "Apple" -dr 1 -rfn "AppleRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Apple.ma";
 file -r -ns "Vase1" -dr 1 -rfn "VaseRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Vase.ma";
 file -r -ns "Chair7" -dr 1 -rfn "Chair1RN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
@@ -30,43 +30,42 @@ file -r -ns "Chair9" -dr 1 -rfn "Chair1RN1" -op "v=0;" -typ "mayaAscii" "D:/User
 file -r -ns "Chair1" -dr 1 -rfn "Chair1RN2" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
 file -r -ns "Chair10" -dr 1 -rfn "Chair1RN3" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
 file -r -ns "Chair11" -dr 1 -rfn "Chair1RN4" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
-file -r -ns "Chair12" -dr 1 -rfn "Chair1RN5" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
 file -r -ns "Bookees" -dr 1 -rfn "BookeesRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
 file -r -ns "Bookees1" -dr 1 -rfn "BookeesRN1" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
 file -r -ns "Bookees2" -dr 1 -rfn "BookeesRN2" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
 file -r -ns "Bookees3" -dr 1 -rfn "BookeesRN3" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookees.ma";
-file -r -ns "TablewLeg" -dr 1 -rfn "TablewLegRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/TablewLeg.ma";
 file -r -ns "Bookshelff" -dr 1 -rfn "BookshelffRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Bookshelff.ma";
 file -r -ns "Walls" -dr 1 -rfn "WallsRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Walls.ma";
 file -r -ns "Floor1" -dr 1 -rfn "FloorRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Floor.ma";
+file -r -ns "Chair13" -dr 1 -rfn "Chair1RN6" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Chair1.ma";
+file -r -ns "TablewLeg" -dr 1 -rfn "TablewLegRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/TablewLeg.ma";
 requires maya "2026";
 requires "stereoCamera" "10.0";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" -nodeType "aiImagerDenoiserOidn"
 		 "mtoa" "5.5.3";
-requires "stereoCamera" "10.0";
 currentUnit -l centimeter -a degree -t film;
 fileInfo "application" "maya";
 fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202507081222-4d6919b75c";
 fileInfo "osv" "Windows 11 Pro N v2009 (Build: 26100)";
-fileInfo "UUID" "F5DF4BA8-4292-744B-6326-6F8704270F27";
+fileInfo "UUID" "FACFF262-42F0-9590-C8E1-25993B92F417";
 fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "56E5A7F2-4F8F-ADDC-EE6D-E8BE202F9BEB";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 16.193283349312104 6.8412246898565368 13.957900536358302 ;
-	setAttr ".r" -type "double3" -14.40000000000045 48.400000000002187 -1.1976310849205768e-15 ;
+	setAttr ".t" -type "double3" 32.580416499320641 17.419390727798003 23.602080179303414 ;
+	setAttr ".r" -type "double3" -20.999999999981348 3294.3999999935236 0 ;
 	setAttr ".rpt" -type "double3" 5.2451904281659992e-16 -3.8419731931840017e-16 -7.2885381792783181e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "8FC75803-49EA-D578-337E-9BA901DB0EFD";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 23.253072192034757;
+	setAttr ".coi" 41.402837779644329;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
-	setAttr ".tp" -type "double3" -0.0094695091247558594 3.4118711948394775 -0.0094685554504394531 ;
+	setAttr ".tp" -type "double3" 3.504263162612915 4.7881989479064941 -2.8602883815765381 ;
 	setAttr ".hc" -type "string" "viewSet -p %camera";
 createNode transform -s -n "top";
 	rename -uid "65930178-4C86-D5E4-051B-27A7775587D0";
@@ -1314,20 +1313,20 @@ createNode mesh -n "polySurfaceShape1" -p "pCylinder6";
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".dr" 1;
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "B4C48616-45D7-B0A2-0D93-20819A453C70";
-	setAttr -s 2 ".lnk";
-	setAttr -s 2 ".slnk";
+	rename -uid "F737561F-4C34-46D2-316E-2BA500A12271";
+	setAttr -s 20 ".lnk";
+	setAttr -s 20 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "EEFFDF29-4B44-241B-1966-ADBAB23D838E";
+	rename -uid "DC3E2C39-4087-9259-5485-C1B4F5CD8A6D";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "67558A80-47CB-BD70-AB73-B39974A10AC0";
+	rename -uid "51148AE7-4A03-280D-503D-F9AF2F199BA8";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "508B045C-48A7-F7DC-2C8D-73994F9B410D";
+	rename -uid "58091ED9-446B-0426-6BA2-A19DB95FA6BC";
 createNode displayLayer -n "defaultLayer";
 	rename -uid "172F14F4-42CD-78DD-2BB8-9B92A9B69CD0";
 	setAttr ".ufem" -type "stringArray" 0  ;
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "4D318C09-466D-BBD4-98C7-899D6514A70A";
+	rename -uid "0471FC31-4100-C74A-B70A-689B876A06A3";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "F85BFA43-4E19-8175-CA0B-968F90E1AD64";
 	setAttr ".g" yes;
@@ -1345,9 +1344,9 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n"
 		+ "            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n"
 		+ "            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1\n            -height 1\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n"
-		+ "            -camera \"|persp\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 1\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n"
+		+ "            -camera \"|persp\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 1\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 32768\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n"
 		+ "            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n"
-		+ "            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n            -shadows 0\n            -captureSequenceNumber -1\n            -width 666\n            -height 794\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n"
+		+ "            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1117\n            -height 706\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n"
 		+ "\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"ToggledOutliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"ToggledOutliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -docTag \"isolOutln_fromSeln\" \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 1\n            -showReferenceMembers 1\n            -showAttributes 0\n            -showConnected 0\n            -showAnimCurvesOnly 0\n            -showMuteInfo 0\n            -organizeByLayer 1\n            -organizeByClip 1\n            -showAnimLayerWeight 1\n            -autoExpandLayers 1\n            -autoExpand 0\n            -showDagOnly 1\n            -showAssets 1\n            -showContainedOnly 1\n            -showPublishedAsConnected 0\n            -showParentContainers 0\n            -showContainerContents 1\n"
 		+ "            -ignoreDagHierarchy 0\n            -expandConnections 0\n            -showUpstreamCurves 1\n            -showUnitlessCurves 1\n            -showCompounds 1\n            -showLeafs 1\n            -showNumericAttrsOnly 0\n            -highlightActive 1\n            -autoSelectNewObjects 0\n            -doNotSelectNewObjects 0\n            -dropIsParent 1\n            -transmitFilters 0\n            -setFilter \"defaultSetFilter\" \n            -showSetMembers 1\n            -allowMultiSelection 1\n            -alwaysToggleSelect 0\n            -directSelect 0\n            -isSet 0\n            -isSetMember 0\n            -showUfeItems 1\n            -displayMode \"DAG\" \n            -expandObjects 0\n            -setsIgnoreFilters 1\n            -containersIgnoreFilters 0\n            -editAttrName 0\n            -showAttrValues 0\n            -highlightSecondary 0\n            -showUVAttrsOnly 0\n            -showTextureNodesOnly 0\n            -attrAlphaOrder \"default\" \n            -animLayerFilterOptions \"allAffecting\" \n            -sortOrder \"none\" \n"
 		+ "            -longNames 0\n            -niceNames 1\n            -selectCommand \"print(\\\"\\\")\" \n            -showNamespace 1\n            -showPinIcons 0\n            -mapMotionTrails 0\n            -ignoreHiddenAttribute 0\n            -ignoreOutlinerColor 0\n            -renderFilterVisible 0\n            -renderFilterIndex 0\n            -selectionOrder \"chronological\" \n            -expandAttribute 0\n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"Outliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"Outliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 0\n            -showReferenceMembers 0\n            -showAttributes 0\n            -showConnected 0\n"
@@ -1374,8 +1373,8 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "                -maxConstantTransparency 1\n                -objectFilterShowInHUD 1\n                -isFiltered 0\n                -colorResolution 4 4 \n                -bumpResolution 4 4 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n                -lowQualityLighting 0\n                -maximumNumHardwareLights 0\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -controllers 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n"
 		+ "                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -bluePencil 1\n                -greasePencils 0\n                -shadows 0\n                -captureSequenceNumber -1\n                -width 0\n                -height 0\n                -sceneRenderFilter 0\n                -displayMode \"centerEye\" \n"
 		+ "                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n            stereoCameraView -e \n                -pluginObjects \"gpuCacheDisplayFilter\" 1 \n                $editorName; };\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\tif ($useSceneConfig) {\n        string $configName = `getPanel -cwl (localizedPanelLabel(\"Current Layout\"))`;\n        if (\"\" != $configName) {\n\t\t\tpanelConfiguration -edit -label (localizedPanelLabel(\"Current Layout\")) \n\t\t\t\t-userCreated false\n\t\t\t\t-defaultImage \"vacantCell.xP:/\"\n\t\t\t\t-image \"\"\n\t\t\t\t-sc false\n\t\t\t\t-configString \"global string $gMainPane; paneLayout -e -cn \\\"single\\\" -ps 1 100 100 $gMainPane;\"\n\t\t\t\t-removeAllPanels\n\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Persp View\")) \n\t\t\t\t\t\"modelPanel\"\n"
-		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 1\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 666\\n    -height 794\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
-		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 1\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 0\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 666\\n    -height 794\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1117\\n    -height 706\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 32768\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1117\\n    -height 706\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
 		+ "\t\t\t\t$configName;\n\n            setNamedPanelLayout (localizedPanelLabel(\"Current Layout\"));\n        }\n\n        panelHistory -e -clear mainPanelHistory;\n        sceneUIReplacement -clear;\n\t}\n\n\ngrid -spacing 5 -size 12 -divisions 5 -displayAxes yes -displayGridLines yes -displayDivisionLines yes -displayPerspectiveLabels no -displayOrthographicLabels no -displayAxesBold yes -perspectiveLabelPosition axis -orthographicLabelPosition edge;\nviewManip -drawCompass 0 -compassAngle 0 -frontParameters \"\" -homeParameters \"\" -selectionLockParameters \"\";\n}\n");
 	setAttr ".st" 3;
 createNode script -n "sceneConfigurationScriptNode";
@@ -1402,14 +1401,39 @@ createNode reference -n "AppleRN";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"AppleRN"
 		"AppleRN" 0
-		"AppleRN" 27
+		"AppleRN" 660
 		2 "|Apple:back" "scale" " -type \"double3\" 1 1 1"
-		2 "|Apple:pSphere1" "translate" " -type \"double3\" 2 4.08538217814423277 -8"
+		2 "|Apple:pSphere1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Apple:pSphere1" "scale" " -type \"double3\" 1 1 1"
+		2 "|Apple:pSphere1" "rotatePivot" " -type \"double3\" 2 4.08538217814423277 -8"
 		
-		2 "|Apple:pSphere1" "scale" " -type \"double3\" 0.24221028933873143 0.24221028933873143 0.24221028933873143"
+		2 "|Apple:pSphere1" "scalePivot" " -type \"double3\" 2 4.08538217814423277 -8"
 		
-		2 "|Apple:pSphere1" "rotatePivot" " -type \"double3\" 0 0 0"
-		2 "|Apple:pSphere1" "scalePivot" " -type \"double3\" 0 0 0"
+		2 "|Apple:pSphere1|Apple:pSphereShape1" "pnts" " -s 382"
+		2 "|Apple:pSphere1|Apple:pSphereShape1" "pt[0:165]" (" -type \"float3\" 1.90321469999999993 5.07596250000000015 -7.96336789999999972 1.91756389999999999 5.07598020000000005 -7.93032119999999985 1.94001789999999996 5.07597919999999991 -7.90409559999999978 1.96843039999999991 5.0759559000000003 -7.88725759999999987 2 5.07594160000000016 -7.88145540000000011 2.03156969999999992 5.0759559000000003 -7.88725759999999987 2.05998210000000004 5.07597919999999991 -7.90409559999999978 2.08243609999999979 5.07598020000000005 -7.93032119999999985 2.09678530000000007 5.07596250000000015 -7.96336789999999972 2.10171410000000014 5.0759521000000003 -8 2.09678530000000007 5.07596250000000015 -8.03663249999999962 2.08243609999999979 5.07598020000000005 -8.06967829999999964 2.05998210000000004 5.07597919999999991 -8.09590440000000022 2.03156969999999992 5.0759559000000003 -8.11274240000000013 2 5.07594160000000016 -8.11854459999999989 1.96843039999999991 5.0759559000000003 -8.11274240000000013 1.94001810000000008 5.07597919999999991 -8.09590440000000022 1.917564 5.07598020000000005 -"
+		+ "8.06967829999999964 1.90321479999999998 5.07596250000000015 -8.03663249999999962 1.89828590000000008 5.0759521000000003 -8 1.77962920000000002 5.03618290000000002 -7.92763759999999973 1.812506 5.03634689999999985 -7.86235809999999979 1.86375629999999992 5.03654340000000023 -7.81055260000000029 1.92837119999999995 5.03670020000000029 -7.77729129999999991 2 5.03676030000000008 -7.76583 2.07162880000000005 5.03670020000000029 -7.77729129999999991 2.13624379999999991 5.03654340000000023 -7.81055260000000029 2.18749379999999993 5.03634689999999985 -7.86235860000000031 2.22037050000000002 5.03618290000000002 -7.92763759999999973 2.23168489999999986 5.03611710000000024 -8 2.22037050000000002 5.03618290000000002 -8.0723628999999999 2.18749379999999993 5.03634689999999985 -8.13764190000000021 2.1362435999999998 5.03654340000000023 -8.1894474000000006 2.07162880000000005 5.03670020000000029 -8.22270870000000009 2 5.03676030000000008 -8.23417 1.92837119999999995 5.03670020000000029 -8.22270870000000009 1.863756299999999"
+		+ "92 5.03654340000000023 -8.1894474000000006 1.81250610000000001 5.03634689999999985 -8.13764190000000021 1.77962930000000008 5.03618290000000002 -8.0723628999999999 1.76831519999999998 5.03611710000000024 -8 1.67931230000000009 4.98323059999999973 -7.89368919999999985 1.72692359999999989 4.9833078000000004 -7.7977843 1.80146479999999998 4.98342129999999983 -7.72167440000000038 1.89552459999999989 4.98353049999999964 -7.67280859999999976 2 4.98357440000000018 -7.65597059999999985 2.10447549999999994 4.98353049999999964 -7.67280859999999976 2.1985351999999998 4.98342129999999983 -7.72167440000000038 2.27307630000000005 4.9833078000000004 -7.7977843 2.32068779999999997 4.98323059999999973 -7.89368919999999985 2.33710579999999979 4.98320819999999998 -8 2.32068779999999997 4.98323059999999973 -8.10631079999999926 2.27307630000000005 4.9833078000000004 -8.20221519999999948 2.1985351999999998 4.98342129999999983 -8.278326 2.10447529999999983 4.98353049999999964 -8.32719140000000024 2 4.98357440000000018 -8.3440294000"
+		+ "0000015 1.89552459999999989 4.98353049999999964 -8.32719140000000024 1.801465 4.98342129999999983 -8.278326 1.72692380000000001 4.9833078000000004 -8.20221519999999948 1.67931260000000004 4.98323059999999973 -8.10631079999999926 1.66289419999999999 4.98320819999999998 -8 1.58535580000000009 4.92422339999999981 -7.86235809999999979 1.64700029999999997 4.92422339999999981 -7.73819020000000002 1.74324889999999999 4.92422339999999981 -7.6396493999999997 1.86488349999999992 4.92422339999999981 -7.57638259999999963 2 4.92422339999999981 -7.55458210000000019 2.13511659999999992 4.92422339999999981 -7.57638259999999963 2.25675109999999979 4.92422339999999981 -7.6396493999999997 2.35299939999999985 4.92422339999999981 -7.73819020000000002 2.414644 4.92422339999999981 -7.86235860000000031 2.43585850000000015 4.92422339999999981 -8 2.414644 4.92422339999999981 -8.13764190000000021 2.35299939999999985 4.92422339999999981 -8.2618103000000005 2.25675109999999979 4.92422339999999981 -8.3603506000000003 2.13511629999999997 4"
+		+ ".92422339999999981 -8.42361739999999948 2 4.92422339999999981 -8.44541740000000019 1.86488370000000003 4.92422339999999981 -8.42361739999999948 1.74324910000000011 4.92422339999999981 -8.3603506000000003 1.64700069999999998 4.92422339999999981 -8.2618103000000005 1.585356 4.92422339999999981 -8.13764190000000021 1.56414150000000007 4.92422339999999981 -8 1.49747849999999993 4.84960940000000029 -7.83441689999999991 1.57236859999999989 4.84960940000000029 -7.68504189999999987 1.6891404000000001 4.84960940000000029 -7.56649729999999998 1.8364891000000001 4.84960940000000029 -7.49038740000000036 2 4.84960940000000029 -7.46416140000000006 2.163511 4.84960940000000029 -7.49038740000000036 2.31085940000000001 4.84960940000000029 -7.56649779999999961 2.42763110000000015 4.84960940000000029 -7.68504189999999987 2.50252130000000017 4.84960940000000029 -7.83441689999999991 2.52831360000000016 4.84960940000000029 -8 2.50252130000000017 4.84960940000000029 -8.16558359999999972 2.42763110000000015 4.84960940000000029 -8.31"
+		+ "495759999999962 2.31085919999999989 4.84960940000000029 -8.4335021999999995 2.16351080000000007 4.84960940000000029 -8.50961210000000001 2 4.84960940000000029 -8.53583809999999943 1.83648919999999993 4.84960940000000029 -8.50961210000000001 1.68914070000000005 4.84960940000000029 -8.4335021999999995 1.572369 4.84960940000000029 -8.31495759999999962 1.49747880000000011 4.84960940000000029 -8.16558269999999986 1.47168640000000006 4.84960940000000029 -8 1.4197092 4.76090429999999998 -7.81055260000000029 1.506381 4.76090429999999998 -7.6396493999999997 1.6413605 4.76090429999999998 -7.50401969999999974 1.81143520000000002 4.76090429999999998 -7.41694069999999961 2 4.76090429999999998 -7.38693479999999969 2.188565 4.76090429999999998 -7.41694069999999961 2.35863919999999982 4.76090429999999998 -7.50402020000000025 2.49361869999999985 4.76090429999999998 -7.6396493999999997 2.5802906000000001 4.76090429999999998 -7.81055260000000029 2.61015370000000013 4.76090429999999998 -8 2.5802906000000001 4.76090429999999998 -"
+		+ "8.1894474000000006 2.49361869999999985 4.76090429999999998 -8.3603506000000003 2.35863919999999982 4.76090429999999998 -8.49598029999999937 2.18856479999999998 4.76090429999999998 -8.58305930000000039 2 4.76090429999999998 -8.61306480000000008 1.81143530000000008 4.76090429999999998 -8.58305930000000039 1.64136079999999995 4.76090429999999998 -8.49598029999999937 1.50638139999999998 4.76090429999999998 -8.3603506000000003 1.41970960000000002 4.76090429999999998 -8.1894474000000006 1.38984639999999993 4.76090429999999998 -8 1.35605479999999989 4.66010480000000005 -7.79135270000000002 1.45235540000000007 4.66010480000000005 -7.60312989999999989 1.60223439999999995 4.66010480000000005 -7.45375489999999985 1.79092279999999993 4.66010480000000005 -7.35785059999999991 2 4.66010480000000005 -7.32480430000000027 2.20907710000000002 4.66010480000000005 -7.35785059999999991 2.39776539999999994 4.66010480000000005 -7.45375489999999985 2.54764459999999993 4.66010480000000005 -7.60312989999999989 2.64394470000000004 4.660"
+		+ "10480000000005 -7.79135319999999965 2.67715019999999981 4.66010480000000005 -8 2.64394470000000004 4.66010480000000005 -8.20864680000000035 2.54764459999999993 4.66010480000000005 -8.39686969999999988 2.39776539999999994 4.66010480000000005 -8.54624459999999964 2.20907739999999997 4.66010480000000005 -8.642149 2 4.66010480000000005 -8.67519569999999973 1.79092279999999993 4.66010480000000005 -8.642149 1.60223460000000006 4.66010480000000005 -8.54624459999999964 1.45235570000000003 4.66010480000000005 -8.39686969999999988 1.35605529999999996 4.66010480000000005 -8.20864680000000035 1.32284990000000002 4.66010480000000005 -8 1.30923070000000008 4.55024530000000027 -7.77729129999999991 1.41275839999999997 4.55024530000000027 -7.57638220000000029 1.57366779999999995 4.55024530000000027 -7.41694019999999998 1.7760011 4.55024530000000027 -7.31457230000000003 2 4.55024530000000027 -7.27929880000000029 2.22399879999999994 4.55024530000000027 -7.31457230000000003 2.426332 4.55024530000000027 -7.41694069999999961 2.587"
+		+ "24139999999991 4.55024530000000027 -7.57638259999999963 2.69076920000000008 4.55024530000000027 -7.77729129999999991 2.726459 4.55024530000000027 -8 2.69076920000000008 4.55024530000000027 -8.22270870000000009 2.58724139999999991 4.55024530000000027 -8.42361739999999948 2.426332 4.55024530000000027 -8.58305930000000039 2.22399879999999994 4.55024530000000027 -8.68542769999999997 2 4.55024530000000027 -8.7207012000000006 1.77600120000000006 4.55024530000000027 -8.68542769999999997 1.573668 4.55024530000000027 -8.58305930000000039 1.41275869999999992 4.55024530000000027 -8.42361739999999948 1.30923089999999998 4.55024530000000027 -8.22270870000000009 1.27354110000000009 4.55024530000000027 -8 1.28167190000000009 4.43461990000000039 -7.768713 1.38953649999999995 4.43461990000000039 -7.5600657 1.55699870000000007 4.43461990000000039 -7.39448259999999991 1.7673255000000001 4.43461990000000039 -7.28817179999999976 2 4.43461990000000039 -7.25153970000000037 2.23267440000000006 4.43461990000000039 -7.2881717999999997"
+		+ "6")
+		2 "|Apple:pSphere1|Apple:pSphereShape1" "pt[166:331]" (" 2.44300130000000015 4.43461990000000039 -7.39448310000000042 2.61046310000000004 4.43461990000000039 -7.56006619999999963 2.71832779999999996 4.43461990000000039 -7.768713 2.75556849999999987 4.43461990000000039 -8 2.71832779999999996 4.43461990000000039 -8.231287 2.61046310000000004 4.43461990000000039 -8.43993380000000037 2.443001 4.43461990000000039 -8.60551740000000009 2.23267440000000006 4.43461990000000039 -8.71182819999999936 2 4.43461990000000039 -8.74845979999999912 1.76732559999999994 4.43461990000000039 -8.71182819999999936 1.556999 4.43461990000000039 -8.60551740000000009 1.38953689999999996 4.43461990000000039 -8.43993380000000037 1.28167220000000004 4.43461990000000039 -8.231287 1.24443159999999997 4.43461990000000039 -8 1.27512570000000003 4.31607529999999961 -7.76583 1.38388990000000001 4.31607529999999961 -7.55458210000000019 1.55283609999999994 4.31607529999999961 -7.38693479999999969 1.76510549999999999 4.31607529999999961 -7.27929880000000029 2 4.31607529999999961 -7.24220989999999976 2.2"
+		+ "3489449999999978 4.31607529999999961 -7.27929880000000029 2.44716410000000018 4.31607529999999961 -7.38693519999999992 2.61610979999999982 4.31607529999999961 -7.55458210000000019 2.724874 4.31607529999999961 -7.76583 2.76241560000000019 4.31607529999999961 -8 2.724874 4.31607529999999961 -8.23417 2.61610979999999982 4.31607529999999961 -8.44541740000000019 2.44716379999999978 4.31607529999999961 -8.61306480000000008 2.23489449999999978 4.31607529999999961 -8.7207012000000006 2 4.31607529999999961 -8.75778960000000062 1.76510560000000005 4.31607529999999961 -8.7207012000000006 1.55283630000000006 4.31607529999999961 -8.61306480000000008 1.38389030000000002 4.31607529999999961 -8.44541740000000019 1.27512610000000004 4.31607529999999961 -8.23417 1.23758459999999992 4.31607529999999961 -8 1.28888939999999996 4.19753069999999973 -7.768713 1.3952633000000001 4.19753069999999973 -7.5600657 1.56078479999999997 4.19753069999999973 -7.39448259999999991 1.769155 4.19753069999999973 -7.28817179999999976 2 4.19753069999"
+		+ "999973 -7.25153970000000037 2.230845 4.19753069999999973 -7.28817179999999976 2.43921490000000007 4.19753069999999973 -7.39448310000000042 2.60473659999999985 4.19753069999999973 -7.56006619999999963 2.71111039999999992 4.19753069999999973 -7.768713 2.74778630000000001 4.19753069999999973 -8 2.71111039999999992 4.19753069999999973 -8.231287 2.60473659999999985 4.19753069999999973 -8.43993380000000037 2.43921520000000003 4.19753069999999973 -8.60551740000000009 2.230845 4.19753069999999973 -8.71182819999999936 2 4.19753069999999973 -8.74845979999999912 1.76915510000000009 4.19753069999999973 -8.71182819999999936 1.56078519999999998 4.19753069999999973 -8.60551740000000009 1.39526370000000011 4.19753069999999973 -8.43993380000000037 1.28888990000000003 4.19753069999999973 -8.231287 1.2522141 4.19753069999999973 -8 1.32023850000000009 4.08190540000000013 -7.77729129999999991 1.42163810000000002 4.08190540000000013 -7.57638220000000029 1.57968350000000002 4.08190540000000013 -7.41694019999999998 1.778973200000000"
+		+ "03 4.08190540000000013 -7.31457230000000003 2 4.08190540000000013 -7.27929880000000029 2.22102669999999991 4.08190540000000013 -7.31457230000000003 2.42031619999999981 4.08190540000000013 -7.41694069999999961 2.57836169999999987 4.08190540000000013 -7.57638259999999963 2.67976139999999985 4.08190540000000013 -7.77729129999999991 2.71468929999999986 4.08190540000000013 -8 2.67976139999999985 4.08190540000000013 -8.22270870000000009 2.57836169999999987 4.08190540000000013 -8.42361739999999948 2.42031619999999981 4.08190540000000013 -8.58305930000000039 2.22102669999999991 4.08190540000000013 -8.68542769999999997 2 4.08190540000000013 -8.7207012000000006 1.77897330000000009 4.08190540000000013 -8.68542769999999997 1.57968379999999997 4.08190540000000013 -8.58305930000000039 1.42163839999999997 4.08190540000000013 -8.42361739999999948 1.3202389000000001 4.08190540000000013 -8.22270870000000009 1.28531090000000003 4.08190540000000013 -8 1.36456270000000002 3.97204589999999991 -7.79135270000000002 1.459306500000000"
+		+ "06 3.97204589999999991 -7.60312989999999989 1.60700569999999998 3.97204589999999991 -7.45375489999999985 1.79331649999999998 3.97204589999999991 -7.35785059999999991 2 3.97204589999999991 -7.32480430000000027 2.20668359999999986 3.97204589999999991 -7.35785059999999991 2.39299419999999996 3.97204589999999991 -7.45375489999999985 2.54069330000000004 3.97204589999999991 -7.60312989999999989 2.635437 3.97204589999999991 -7.79135319999999965 2.6680682 3.97204589999999991 -8 2.635437 3.97204589999999991 -8.20864680000000035 2.54069330000000004 3.97204589999999991 -8.39686969999999988 2.39299419999999996 3.97204589999999991 -8.54624459999999964 2.20668340000000018 3.97204589999999991 -8.642149 2 3.97204589999999991 -8.67519569999999973 1.79331660000000004 3.97204589999999991 -8.642149 1.607006 3.97204589999999991 -8.54624459999999964 1.45930680000000002 3.97204589999999991 -8.39686969999999988 1.36456310000000003 3.97204589999999991 -8.20864680000000035 1.33193220000000001 3.97204589999999991 -8 1.42100139999999997"
+		+ " 3.87021019999999982 -7.81055260000000029 1.50737490000000007 3.87021019999999982 -7.6396493999999997 1.641978 3.87021019999999982 -7.50401969999999974 1.81172409999999995 3.87021019999999982 -7.41694069999999961 2 3.87021019999999982 -7.38693479999999969 2.18827609999999995 3.87021019999999982 -7.41694069999999961 2.358022 3.87021019999999982 -7.50402020000000025 2.4926248000000002 3.87021019999999982 -7.6396493999999997 2.57899829999999985 3.87021019999999982 -7.81055260000000029 2.608753 3.87021019999999982 -8 2.57899829999999985 3.87021019999999982 -8.1894474000000006 2.4926248000000002 3.87021019999999982 -8.3603506000000003 2.358022 3.87021019999999982 -8.49598029999999937 2.18827579999999999 3.87021019999999982 -8.58305930000000039 2 3.87021019999999982 -8.61306480000000008 1.81172420000000001 3.87021019999999982 -8.58305930000000039 1.6419781 3.87021019999999982 -8.49598029999999937 1.50737520000000003 3.87021019999999982 -8.3603506000000003 1.42100179999999998 3.87021019999999982 -8.1894474000000006 "
+		+ "1.391247 3.87021019999999982 -8 1.49190990000000001 3.77280380000000015 -7.83441689999999991 1.5677928000000001 3.77280380000000015 -7.68504189999999987 1.68598310000000007 3.77280380000000015 -7.56649729999999998 1.83489860000000005 3.77280380000000015 -7.49038740000000036 2 3.77280380000000015 -7.46416140000000006 2.16510150000000001 3.77280380000000015 -7.49038740000000036 2.3140168000000001 3.77280380000000015 -7.56649779999999961 2.43220709999999984 3.77280380000000015 -7.68504189999999987 2.50809 3.77280380000000015 -7.83441689999999991 2.53423739999999986 3.77280380000000015 -8 2.50809 3.77280380000000015 -8.16558359999999972 2.43220709999999984 3.77280380000000015 -8.31495759999999962 2.3140168000000001 3.77280380000000015 -8.4335021999999995 2.1651012999999999 3.77280380000000015 -8.50961210000000001 2 3.77280380000000015 -8.53583809999999943 1.8348987000000001 3.77280380000000015 -8.50961210000000001 1.68598329999999996 3.77280380000000015 -8.4335021999999995 1.567793 3.77280380000000015 -8.31495759"
+		+ "999999962 1.49191019999999996 3.77280380000000015 -8.16558269999999986 1.46576290000000009 3.77280380000000015 -8 1.57670660000000007 3.68098429999999999 -7.86235809999999979 1.63992509999999991 3.68098429999999999 -7.73819020000000002 1.73839030000000005 3.68098429999999999 -7.6396493999999997 1.86246369999999994 3.68098429999999999 -7.57638259999999963 2 3.68098429999999999 -7.55458210000000019 2.13753629999999983 3.68098429999999999 -7.57638259999999963 2.26160959999999989 3.68098429999999999 -7.6396493999999997 2.36007480000000003 3.68098429999999999 -7.73819020000000002 2.42329309999999998 3.68098429999999999 -7.86235860000000031 2.44507690000000011 3.68098429999999999 -8 2.42329309999999998 3.68098429999999999 -8.13764190000000021 2.36007480000000003 3.68098429999999999 -8.2618103000000005 2.26160959999999989 3.68098429999999999 -8.3603506000000003 2.13753629999999983 3.68098429999999999 -8.42361739999999948 2 3.68098429999999999 -8.44541740000000019 1.8624638 3.68098429999999999 -8.42361739999999948 1."
+		+ "73839039999999989 3.68098429999999999 -8.3603506000000003 1.63992540000000009 3.68098429999999999 -8.2618103000000005 1.57670690000000002 3.68098429999999999 -8.13764190000000021 1.55492330000000001 3.68098429999999999 -8 1.67280840000000008 3.59961080000000022 -7.89368919999999985 1.72167420000000004 3.59961080000000022 -7.7977843 1.79778440000000006 3.59961080000000022 -7.72167440000000038 1.893689 3.59961080000000022 -7.67280859999999976 2 3.59961080000000022 -7.65597059999999985 2.1063111000000001 3.59961080000000022 -7.67280859999999976 2.20221540000000005 3.59961080000000022 -7.72167440000000038 2.27832560000000006 3.59961080000000022 -7.7977843 2.3271913999999998 3.59961080000000022 -7.89368919999999985 2.34402940000000015 3.59961080000000022 -8 2.3271913999999998 3.59961080000000022 -8.10631079999999926 2.27832560000000006 3.59961080000000022 -8.20221519999999948"
+		)
+		2 "|Apple:pSphere1|Apple:pSphereShape1" "pt[332:381]" (" 2.20221540000000005 3.59961080000000022 -8.278326 2.10631080000000015 3.59961080000000022 -8.32719140000000024 2 3.59961080000000022 -8.34402940000000015 1.893689 3.59961080000000022 -8.32719140000000024 1.79778470000000001 3.59961080000000022 -8.278326 1.72167439999999994 3.59961080000000022 -8.20221519999999948 1.67280859999999998 3.59961080000000022 -8.10631079999999926 1.65597069999999991 3.59961080000000022 -8 1.77729110000000001 3.53485180000000021 -7.92763759999999973 1.81055250000000001 3.53485180000000021 -7.86235809999999979 1.86235829999999991 3.53485180000000021 -7.81055260000000029 1.92763749999999989 3.53485180000000021 -7.77729129999999991 2 3.53485180000000021 -7.76583 2.07236239999999983 3.53485180000000021 -7.77729129999999991 2.13764170000000009 3.53485180000000021 -7.81055260000000029 2.18944740000000015 3.53485180000000021 -7.86235860000000031 2.22270890000000021 3.53485180000000021 -7.92763759999999973 2.23417 3.53485180000000021 -8 2.22270890000000021 3.53485180000000021 -8.07236289999"
+		+ "99999 2.18944740000000015 3.53485180000000021 -8.13764190000000021 2.13764170000000009 3.53485180000000021 -8.1894474000000006 2.07236239999999983 3.53485180000000021 -8.22270870000000009 2 3.53485180000000021 -8.23417 1.92763759999999995 3.53485180000000021 -8.22270870000000009 1.86235829999999991 3.53485180000000021 -8.1894474000000006 1.81055260000000007 3.53485180000000021 -8.13764190000000021 1.77729120000000007 3.53485180000000021 -8.0723628999999999 1.76583 3.53485180000000021 -8 1.88725750000000003 3.49289180000000021 -7.96336789999999972 1.90409549999999994 3.49289180000000021 -7.93032119999999985 1.93032129999999991 3.49289180000000021 -7.90409559999999978 1.96336770000000005 3.49289180000000021 -7.88725759999999987 2 3.49289180000000021 -7.88145540000000011 2.03663229999999995 3.49289180000000021 -7.88725759999999987 2.06967880000000015 3.49289180000000021 -7.90409559999999978 2.0959045999999999 3.49289180000000021 -7.93032119999999985 2.11274240000000013 3.49289180000000021 -7.96336789999999972 2."
+		+ "11854459999999989 3.49289180000000021 -8 2.11274240000000013 3.49289180000000021 -8.03663249999999962 2.0959045999999999 3.49289180000000021 -8.06967829999999964 2.06967880000000015 3.49289180000000021 -8.09590440000000022 2.03663229999999995 3.49289180000000021 -8.11274240000000013 2 3.49289180000000021 -8.11854459999999989 1.96336770000000005 3.49289180000000021 -8.11274240000000013 1.93032129999999991 3.49289180000000021 -8.09590440000000022 1.90409549999999994 3.49289180000000021 -8.06967829999999964 1.88725760000000009 3.49289180000000021 -8.03663249999999962 1.88145549999999995 3.49289180000000021 -8 2 5.10302640000000007 -8 2 3.478337 -8"
+		)
 		2 "|Apple:Leafbase" "visibility" " 0"
 		2 "|Apple:Leafbase" "translate" " -type \"double3\" 0 4.08538217814423277 -8"
 		
@@ -1430,38 +1454,1313 @@ createNode reference -n "AppleRN";
 		2 "|Apple:curve4" "translate" " -type \"double3\" 0 4.08538217814423277 -8"
 		
 		2 "|Apple:curve4" "scale" " -type \"double3\" 1 1 1"
-		2 "|Apple:loftedSurface1" "translate" " -type \"double3\" 2 4.14352027099220699 -8"
+		2 "|Apple:loftedSurface1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Apple:loftedSurface1" "scale" " -type \"double3\" 1 1 1"
+		2 "|Apple:loftedSurface1" "rotatePivot" " -type \"double3\" 2 4.08538217814423277 -8"
 		
-		2 "|Apple:loftedSurface1" "scale" " -type \"double3\" 0.24221028933873143 0.24221028933873143 0.24221028933873143"
+		2 "|Apple:loftedSurface1" "scalePivot" " -type \"double3\" 2 4.08538217814423277 -8"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts" " -s 270"
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[0]" " -type \"float3\" 1.9994069000000001 2.81938839999999979 -8"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[1]" " -type \"float3\" 1.81976439999999995 2.27618859999999978 -7.979073"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[2]" " -type \"float3\" 1.95183679999999993 2.53739930000000014 -7.97881359999999962"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[3]" " -type \"float3\" 1.7494301000000001 2.51981849999999996 -7.99616620000000022"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[4]" " -type \"float3\" 1.89820480000000003 2.66467859999999979 -7.94313760000000002"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[5]" " -type \"float3\" 1.971512 2.61019420000000002 -7.98662519999999976"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[6]" " -type \"float3\" 1.94204379999999999 2.7450625999999998 -7.96444180000000035"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[7]" " -type \"float3\" 1.95796689999999995 2.687171 -7.95807890000000029"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[8]" " -type \"float3\" 1.98873809999999995 2.70174119999999984 -7.99566649999999957"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[9]" " -type \"float3\" 1.98240879999999997 2.76432820000000001 -7.976366"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[10]" " -type \"float3\" 1.98308529999999994 2.72869010000000012 -7.97773549999999965"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[11]" " -type \"float3\" 1.99533319999999992 2.75701 -7.99879310000000032"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[12]" " -type \"float3\" 1.99206419999999995 2.77369790000000016 -7.98800229999999978"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[13]" " -type \"float3\" 1.99207249999999991 2.79502680000000003 -7.98764129999999994"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[14]" " -type \"float3\" 1.96202239999999994 2.64203669999999979 -7.96337410000000023"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[15]" " -type \"float3\" 1.980651 2.653131 -7.99136350000000029"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[16]" " -type \"float3\" 1.97302040000000001 2.68474650000000015 -7.96944430000000015"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[17]" " -type \"float3\" 1.97097659999999997 2.72813080000000019 -7.96642779999999995"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[18]" " -type \"float3\" 1.97770679999999999 2.79419329999999988 -7.98853870000000033"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[19]" " -type \"float3\" 1.98459640000000004 2.78754880000000016 -7.98366549999999986"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[20]" " -type \"float3\" 1.99269619999999992 2.80852790000000008 -7.99501469999999959"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[21]" " -type \"float3\" 1.9552636000000001 2.72524450000000007 -7.96137289999999975"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[22]" " -type \"float3\" 1.971199 2.76006030000000013 -7.97262480000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[23]" " -type \"float3\" 1.96122229999999997 2.77304169999999983 -7.9771055999999998"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[24]" " -type \"float3\" 1.92797710000000011 2.59391330000000009 -7.94716310000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[25]" " -type \"float3\" 1.96176050000000002 2.57194540000000016 -7.98219489999999965"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[26]" " -type \"float3\" 1.94357010000000008 2.64218619999999982 -7.95157290000000039"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[27]" " -type \"float3\" 1.95027379999999995 2.60054279999999993 -7.95964380000000027"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[28]" " -type \"float3\" 1.96668529999999997 2.59054539999999989 -7.98432540000000035"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[29]" " -type \"float3\" 1.95622490000000004 2.62117410000000017 -7.96123220000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[30]" " -type \"float3\" 1.95093 2.66513560000000016 -7.95457980000000031"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[31]" " -type \"float3\" 1.93807719999999994 2.55949520000000019 -7.95787379999999978"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[32]" " -type \"float3\" 1.95679270000000005 2.55427120000000007 -7.9803267"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[33]" " -type \"float3\" 1.9442105999999999 2.58002310000000001 -7.95854570000000017"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[34]" " -type \"float3\" 1.93591129999999989 2.61841459999999993 -7.94909"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[35]" " -type \"float3\" 1.92082130000000006 2.70927020000000018 -7.952476"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[36]" " -type \"float3\" 1.93757160000000006 2.683259 -7.95120480000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[37]" " -type \"float3\" 1.94661269999999997 2.70513840000000005 -7.95606949999999991"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[38]" " -type \"float3\" 1.9316473999999999 2.72820470000000004 -7.958251"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[39]" " -type \"float3\" 1.918386 2.63425829999999994 -7.94348049999999972"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[40]" " -type \"float3\" 1.92815709999999996 2.659626 -7.94695139999999967"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[41]" " -type \"float3\" 1.90964660000000008 2.6881358999999998 -7.94735809999999976"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[42]" " -type \"float3\" 1.7703222999999999 2.61384419999999995 -8"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[43]" " -type \"float3\" 1.8551759000000001 2.70340230000000004 -7.95912739999999985"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[44]" " -type \"float3\" 1.90859990000000002 2.75873109999999988 -7.97475149999999999"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[45]" " -type \"float3\" 1.94849559999999999 2.78576369999999995 -7.984499"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[46]" " -type \"float3\" 1.973312 2.80213020000000013 -7.992537"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[47]" " -type \"float3\" 1.90778969999999992 2.73885630000000013 -7.9615992999999996"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[48]" " -type \"float3\" 1.92985929999999994 2.76394459999999986 -7.97237490000000015"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[49]" " -type \"float3\" 1.88017959999999995 2.731359 -7.965919"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[50]" " -type \"float3\" 1.83490010000000003 2.71226620000000018 -8.00050829999999991"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[51]" " -type \"float3\" 1.86158489999999999 2.72399019999999981 -7.97587159999999962"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[52]" " -type \"float3\" 1.91713639999999996 2.76912139999999996 -7.98567339999999959"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[53]" " -type \"float3\" 1.90073289999999995 2.76454969999999989 -8.00019069999999921"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[54]" " -type \"float3\" 1.79662060000000001 2.64629359999999991 -7.96725080000000041"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[55]" " -type \"float3\" 1.82403709999999997 2.68311639999999985 -7.96994640000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[56]" " -type \"float3\" 1.79416620000000004 2.66229149999999981 -8.00057130000000072"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[57]" " -type \"float3\" 1.8052007000000001 2.639487 -7.950573"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[58]" " -type \"float3\" 1.82954860000000008 2.67328620000000017 -7.95405720000000027"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[59]" " -type \"float3\" 1.88347880000000001 2.7075121000000002 -7.95170829999999995"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[60]" " -type \"float3\" 1.89587180000000011 2.72403310000000021 -7.9564667"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[61]" " -type \"float3\" 1.84241410000000005 2.68871020000000005 -7.95638850000000009"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[62]" " -type \"float3\" 1.85828149999999992 2.66903420000000002 -7.94399169999999977"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[63]" " -type \"float3\" 1.870864 2.68920780000000015 -7.9474935999999996"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[64]" " -type \"float3\" 1.81700290000000009 2.65694140000000001 -7.95212219999999981"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[65]" " -type \"float3\" 1.75627979999999995 2.566319 -7.99850420000000017"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[66]" " -type \"float3\" 1.77330830000000006 2.6126052999999998 -7.96700379999999964"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[67]" " -type \"float3\" 1.784482 2.62924790000000019 -7.96689559999999997"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[68]" " -type \"float3\" 1.762309 2.58997110000000008 -7.99936820000000015"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[69]" " -type \"float3\" 1.75545470000000003 2.57829689999999978 -7.967886"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[70]" " -type \"float3\" 1.763499 2.5958076000000001 -7.96739439999999988"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[71]" " -type \"float3\" 1.75204889999999991 2.54292320000000016 -7.99742979999999992"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[72]" " -type \"float3\" 1.92976869999999989 2.47262430000000011 -7.97657729999999976"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[73]" " -type \"float3\" 1.85324869999999997 2.54954670000000005 -7.93742509999999957"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[74]" " -type \"float3\" 1.8939648 2.49045229999999984 -7.94564390000000031"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[75]" " -type \"float3\" 1.94174749999999996 2.50521469999999979 -7.977026"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[76]" " -type \"float3\" 1.91137840000000003 2.54308990000000001 -7.9451022"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[77]" " -type \"float3\" 1.92554589999999992 2.51799110000000015 -7.9576349000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[78]" " -type \"float3\" 1.94689359999999989 2.52116249999999997 -7.97772409999999965"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[79]" " -type \"float3\" 1.93188749999999998 2.53884650000000001 -7.95757479999999973"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[80]" " -type \"float3\" 1.91979159999999993 2.56877449999999996 -7.94582320000000042"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[81]" " -type \"float3\" 1.91191540000000004 2.47534110000000007 -7.95881270000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[82]" " -type \"float3\" 1.93612910000000005 2.4891652999999998 -7.97666219999999981"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[83]" " -type \"float3\" 1.91892960000000001 2.49684879999999998 -7.95804929999999988"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[84]" " -type \"float3\" 1.90276160000000005 2.51695180000000018 -7.94503209999999971"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[85]" " -type \"float3\" 1.87507669999999993 2.61085080000000014 -7.938026"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[86]" " -type \"float3\" 1.897983 2.57874420000000004 -7.93937209999999993"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[87]" " -type \"float3\" 1.90829270000000006 2.60721869999999978 -7.94093940000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[88]" " -type \"float3\" 1.886606 2.63884350000000012 -7.94001480000000015"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[89]" " -type \"float3\" 1.87720989999999999 2.51861239999999986 -7.93923519999999971"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[90]" " -type \"float3\" 1.88758089999999989 2.54911539999999981 -7.93879749999999973"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[91]" " -type \"float3\" 1.86387239999999998 2.58098889999999992 -7.93716430000000006"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[92]" " -type \"float3\" 1.89151439999999993 2.393734 -7.97788909999999962"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[93]" " -type \"float3\" 1.85745540000000009 2.38268449999999987 -7.95554689999999987"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[94]" " -type \"float3\" 1.87656770000000006 2.38352250000000021 -7.96552180000000032"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[95]" " -type \"float3\" 1.91374339999999998 2.43650529999999987 -7.977016"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[96]" " -type \"float3\" 1.89609479999999997 2.43084260000000008 -7.961401"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[97]" " -type \"float3\" 1.87592690000000006 2.436738 -7.94904089999999997"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[98]" " -type \"float3\" 1.86092520000000006 2.341188 -7.978745"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[99]" " -type \"float3\" 1.85171130000000006 2.33233949999999979 -7.97132780000000007"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[100]" " -type \"float3\" 1.83874110000000002 2.32902809999999993 -7.965414"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[101]" " -type \"float3\" 1.8216692000000001 2.41374470000000008 -7.94957690000000028"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[102]" " -type \"float3\" 1.83973169999999997 2.39337940000000016 -7.95118469999999977"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[103]" " -type \"float3\" 1.8572092 2.456095 -7.94318439999999981"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[104]" " -type \"float3\" 1.83476480000000008 2.48307490000000008 -7.94129039999999975"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[105]" " -type \"float3\" 1.82668040000000009 2.33264110000000002 -7.96316290000000038"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[106]" " -type \"float3\" 1.81600570000000006 2.34386470000000013 -7.96223969999999959"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[107]" " -type \"float3\" 1.75135470000000004 2.43100810000000012 -7.989656"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[108]" " -type \"float3\" 1.7738974999999999 2.55479289999999981 -7.94800950000000039"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[109]" " -type \"float3\" 1.78552069999999996 2.60049319999999984 -7.94858650000000022"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[110]" " -type \"float3\" 1.83448910000000009 2.62282420000000016 -7.93957189999999979"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[111]" " -type \"float3\" 1.84601740000000003 2.64691689999999991 -7.94134329999999977"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[112]" " -type \"float3\" 1.79456539999999998 2.62073370000000017 -7.949398"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[113]" " -type \"float3\" 1.81544180000000011 2.56863360000000007 -7.938643"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[114]" " -type \"float3\" 1.82414720000000008 2.59673670000000012 -7.93867350000000016"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[115]" " -type \"float3\" 1.77849020000000002 2.57857560000000019 -7.94812730000000034"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[116]" " -type \"float3\" 1.74828460000000008 2.47462179999999998 -7.99315879999999979"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[117]" " -type \"float3\" 1.7457358999999999 2.53978560000000009 -7.96863269999999968"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[118]" " -type \"float3\" 1.74950929999999993 2.55962539999999983 -7.96832039999999964"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[119]" " -type \"float3\" 1.74823729999999999 2.49703959999999991 -7.99473520000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[120]" " -type \"float3\" 1.74473269999999991 2.49701260000000014 -7.96872950000000024"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[121]" " -type \"float3\" 1.74414129999999989 2.51888040000000002 -7.96878289999999989"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[122]" " -type \"float3\" 1.74938569999999993 2.45259949999999982 -7.99145839999999996"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[123]" " -type \"float3\" 1.781338 2.43749929999999981 -7.9533706000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[124]" " -type \"float3\" 1.80109520000000001 2.43659829999999999 -7.94837669999999985"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[125]" " -type \"float3\" 1.80413 2.506417 -7.94132519999999964"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[126]" " -type \"float3\" 1.77283989999999991 2.50090890000000021 -7.94908380000000037"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[127]" " -type \"float3\" 1.80626730000000002 2.35971809999999982 -7.96071430000000024"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[128]" " -type \"float3\" 1.797502 2.36325619999999992 -7.96276239999999991"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[129]" " -type \"float3\" 1.76966050000000008 2.34936759999999989 -7.98245760000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[130]" " -type \"float3\" 1.76792280000000002 2.399061 -7.96853350000000038"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[131]" " -type \"float3\" 1.752355 2.45043610000000012 -7.96820829999999969"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[132]" " -type \"float3\" 1.75783610000000001 2.3892218999999999 -7.98590659999999986"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[133]" " -type \"float3\" 1.79060890000000006 2.341527 -7.97152949999999993"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[134]" " -type \"float3\" 1.789444 2.31151440000000008 -7.97993180000000013"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[135]" " -type \"float3\" 1.82436620000000005 2.28827120000000006 -7.99159859999999966"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[136]" " -type \"float3\" 1.79671 2.32202550000000008 -7.99245740000000016"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[137]" " -type \"float3\" 1.79777239999999994 2.35070349999999983 -7.98405460000000033"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[138]" " -type \"float3\" 1.76570709999999997 2.57694270000000003 -7.98041149999999977"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[139]" " -type \"float3\" 1.76021190000000005 2.521065 -8.00869179999999936"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[140]" " -type \"float3\" 1.76260069999999991 2.54314209999999985 -8.00995540000000084"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[141]" " -type \"float3\" 1.77304470000000003 2.59367439999999982 -7.97991989999999962"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[142]" " -type \"float3\" 1.91432230000000003 2.630415 -7.95600609999999975"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[143]" " -type \"float3\" 1.89591430000000005 2.659482 -7.95566320000000005"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[144]" " -type \"float3\" 1.90635090000000007 2.68189620000000017 -7.95988320000000016"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[145]" " -type \"float3\" 1.92323489999999997 2.6546542999999998 -7.95947650000000007"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[146]" " -type \"float3\" 1.94795969999999996 2.71735429999999978 -7.97389840000000039"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[147]" " -type \"float3\" 1.93590140000000011 2.73629090000000019 -7.97696689999999986"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[148]" " -type \"float3\" 1.9533948000000001 2.76302549999999991 -7.9896307000000002"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[149]" " -type \"float3\" 1.96249490000000004 2.75062160000000011 -7.98514989999999969"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[150]" " -type \"float3\" 1.9541246000000001 2.63784719999999995 -7.97589919999999974"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[151]" " -type \"float3\" 1.95042540000000009 2.68097420000000008 -7.97060440000000003"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[152]" " -type \"float3\" 1.962292 2.72011210000000014 -7.97895290000000035"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[153]" " -type \"float3\" 1.96415629999999997 2.67865749999999991 -7.98196979999999989"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[153].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[153].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[153].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[154]" " -type \"float3\" 1.97333669999999994 2.7206465999999998 -7.99026060000000005"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[154].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[154].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[154].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[155]" " -type \"float3\" 1.97271960000000002 2.7546997000000002 -7.98889159999999965"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[155].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[155].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[155].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[156]" " -type \"float3\" 1.98153420000000002 2.78403279999999986 -8.00016689999999997"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[156].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[156].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[156].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[157]" " -type \"float3\" 1.98152670000000009 2.7636525999999999 -8.00052739999999929"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[157].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[157].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[157].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[158]" " -type \"float3\" 1.98450850000000001 2.74770689999999984 -8.01131819999999983"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[158].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[158].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[158].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[159]" " -type \"float3\" 1.9784927000000001 2.69489650000000003 -8.00819210000000048"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[159].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[159].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[159].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[160]" " -type \"float3\" 1.98822429999999994 2.8073106000000001 -8.01252560000000003"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[160].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[160].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[160].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[161]" " -type \"float3\" 1.97111630000000004 2.64844819999999981 -8.00388910000000031"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[161].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[161].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[161].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[162]" " -type \"float3\" 1.96278020000000009 2.60742090000000015 -7.99915079999999978"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[162].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[162].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[162].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[163]" " -type \"float3\" 1.96843089999999998 2.7832363 -8.00106429999999946"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[163].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[163].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[163].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[164]" " -type \"float3\" 1.98210310000000001 2.7969333999999999 -8.00754069999999984"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[164].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[164].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[164].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[165]" " -type \"float3\" 1.97471510000000006 2.77688740000000012 -7.99619049999999998"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[165].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[165].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[165].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[166]" " -type \"float3\" 1.93228329999999993 2.55897709999999989 -7.97039890000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[166].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[166].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[166].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[167]" " -type \"float3\" 1.92307070000000002 2.59186430000000012 -7.95968820000000044"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[167].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[167].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[167].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[168]" " -type \"float3\" 1.93030769999999996 2.61527589999999988 -7.96161560000000001"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[168].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[168].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[168].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[169]" " -type \"float3\" 1.93787789999999993 2.57859179999999988 -7.97107079999999968"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[169].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[169].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[169].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[170]" " -type \"float3\" 1.94340829999999998 2.59819889999999987 -7.97216940000000029"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[170].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[170].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[170].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[171]" " -type \"float3\" 1.93729360000000006 2.63799 -7.96409850000000041"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[171].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[171].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[171].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[172]" " -type \"float3\" 1.94400679999999992 2.65991879999999981 -7.96710489999999982"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[172].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[172].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[172].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[173]" " -type \"float3\" 1.94883640000000002 2.61791250000000009 -7.97375770000000017"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[173].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[173].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[173].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[174]" " -type \"float3\" 1.9583777 2.5886461999999999 -7.99685049999999986"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[174].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[174].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[174].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[175]" " -type \"float3\" 1.95388579999999989 2.57087349999999981 -7.99472"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[175].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[175].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[175].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[176]" " -type \"float3\" 1.94935440000000004 2.55398540000000018 -7.99285219999999974"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[176].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[176].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[176].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[177]" " -type \"float3\" 1.94483389999999989 2.537864 -7.99133919999999964"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[177].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[177].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[177].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[178]" " -type \"float3\" 1.91654360000000001 2.70209050000000017 -7.9650015999999999"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[178].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[178].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[178].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[179]" " -type \"float3\" 1.92641850000000003 2.72018290000000018 -7.97077659999999977"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[179].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[179].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[179].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[180]" " -type \"float3\" 1.94006879999999993 2.69814230000000022 -7.968595"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[180].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[180].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[180].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[181]" " -type \"float3\" 1.93182220000000004 2.67723630000000012 -7.96373029999999993"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[181].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[181].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[181].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[182]" " -type \"float3\" 1.77926849999999992 2.61090869999999997 -8.01252560000000003"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[182].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[182].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[182].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[183]" " -type \"float3\" 1.80101730000000004 2.6572013000000001 -8.01309679999999958"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[183].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[183].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[183].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[184]" " -type \"float3\" 1.82826350000000004 2.67709989999999998 -7.98247190000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[184].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[184].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[184].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[185]" " -type \"float3\" 1.80325589999999991 2.6419147999999999 -7.97977640000000044"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[185].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[185].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[185].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[186]" " -type \"float3\" 1.904657 2.73036069999999986 -7.97412489999999963"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[186].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[186].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[186].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[187]" " -type \"float3\" 1.85666620000000004 2.69648339999999997 -7.971653"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[187].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[187].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[187].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[188]" " -type \"float3\" 1.879473 2.723197 -7.97844460000000044"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[188].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[188].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[188].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[189]" " -type \"float3\" 1.9247875000000001 2.754333 -7.98490050000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[189].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[189].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[189].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[190]" " -type \"float3\" 1.96442220000000001 2.79082039999999987 -8.00506209999999996"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[190].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[190].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[190].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[191]" " -type \"float3\" 1.94178640000000002 2.775182 -7.99702409999999997"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[191].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[191].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[191].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[192]" " -type \"float3\" 1.90539609999999993 2.74935149999999995 -7.98727660000000039"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[192].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[192].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[192].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[193]" " -type \"float3\" 1.83817209999999998 2.70495319999999984 -8.01303389999999993"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[193].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[193].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[193].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[194]" " -type \"float3\" 1.89822029999999997 2.7549112 -8.01271629999999924"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[194].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[194].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[194].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[195]" " -type \"float3\" 1.91318250000000001 2.7592797 -7.998199"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[195].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[195].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[195].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[196]" " -type \"float3\" 1.8625121 2.71615580000000012 -7.98839659999999974"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[196].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[196].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[196].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[197]" " -type \"float3\" 1.859499 2.66364409999999996 -7.9565172000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[197].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[197].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[197].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[198]" " -type \"float3\" 1.81108209999999992 2.635411 -7.963098"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[198].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[198].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[198].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[199]" " -type \"float3\" 1.82184740000000001 2.65208909999999998 -7.96464779999999983"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[199].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[199].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[199].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[200]" " -type \"float3\" 1.870976 2.68292019999999987 -7.96001910000000024"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[200].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[200].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[200].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[201]" " -type \"float3\" 1.83329080000000011 2.667707 -7.96658229999999978"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[201].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[201].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[201].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[202]" " -type \"float3\" 1.84502579999999994 2.68244479999999985 -7.968914"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[202].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[202].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[202].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[203]" " -type \"float3\" 1.89378629999999992 2.71619680000000008 -7.96899219999999975"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[203].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[203].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[203].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[204]" " -type \"float3\" 1.88248220000000011 2.70041060000000011 -7.96423389999999998"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[204].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[204].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[204].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[205]" " -type \"float3\" 1.76645980000000002 2.56549739999999993 -8.01103020000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[205].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[205].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[205].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[206]" " -type \"float3\" 1.77195919999999996 2.58809729999999982 -8.01189420000000041"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[206].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[206].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[206].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[207]" " -type \"float3\" 1.792184 2.62562749999999978 -7.97942070000000037"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[207].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[207].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[207].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[208]" " -type \"float3\" 1.781992 2.609725 -7.97952939999999966"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[208].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[208].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[208].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[209]" " -type \"float3\" 1.82093790000000011 2.352937 -7.97476529999999961"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[209].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[209].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[209].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[210]" " -type \"float3\" 1.83067460000000004 2.34221270000000015 -7.9756885000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[210].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[210].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[210].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[211]" " -type \"float3\" 1.87676430000000005 2.51991250000000022 -7.95176030000000011"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[211].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[211].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[211].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[212]" " -type \"float3\" 1.85490850000000007 2.54947090000000021 -7.94995019999999997"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[212].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[212].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[212].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[213]" " -type \"float3\" 1.86459860000000011 2.57951469999999983 -7.94968990000000009"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[213].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[213].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[213].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[214]" " -type \"float3\" 1.88622390000000006 2.54905889999999991 -7.951323"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[214].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[214].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[214].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[215]" " -type \"float3\" 1.9084201999999999 2.47856569999999987 -7.97133830000000021"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[215].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[215].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[215].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[216]" " -type \"float3\" 1.89204689999999998 2.493005 -7.95816950000000034"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[216].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[216].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[216].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[217]" " -type \"float3\" 1.90007079999999995 2.51832579999999995 -7.95755720000000011"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[217].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[217].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[217].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[218]" " -type \"float3\" 1.91481820000000003 2.4991169000000002 -7.97057440000000028"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[218].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[218].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[218].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[219]" " -type \"float3\" 1.92085309999999998 2.51931880000000019 -7.97016050000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[219].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[219].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[219].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[220]" " -type \"float3\" 1.90793049999999997 2.54330129999999999 -7.95762780000000003"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[220].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[220].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[220].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[221]" " -type \"float3\" 1.9156044000000001 2.56784340000000011 -7.95834879999999956"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[221].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[221].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[221].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[222]" " -type \"float3\" 1.9266375 2.53924679999999992 -7.97010039999999975"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[222].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[222].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[222].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[223]" " -type \"float3\" 1.940325 2.52234939999999996 -7.99024960000000029"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[223].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[223].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[223].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[224]" " -type \"float3\" 1.9356312 2.50711079999999997 -7.98955109999999991"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[224].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[224].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[224].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[225]" " -type \"float3\" 1.9305064999999999 2.49177530000000003 -7.98918769999999956"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[225].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[225].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[225].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[226]" " -type \"float3\" 1.92470490000000005 2.47597 -7.98910280000000039"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[226].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[226].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[226].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[227]" " -type \"float3\" 1.87481840000000011 2.60804839999999993 -7.950551"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[227].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[227].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[227].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[228]" " -type \"float3\" 1.88533470000000003 2.63479609999999997 -7.95254040000000018"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[228].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[228].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[228].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[229]" " -type \"float3\" 1.90511579999999991 2.604578 -7.95346449999999994"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[229].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[229].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[229].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[230]" " -type \"float3\" 1.895712 2.57736989999999988 -7.95189710000000005"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[230].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[230].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[230].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[231]" " -type \"float3\" 1.84167539999999996 2.33876039999999996 -7.97793960000000002"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[231].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[231].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[231].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[232]" " -type \"float3\" 1.85350609999999993 2.34192469999999986 -7.98385289999999959"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[232].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[232].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[232].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[233]" " -type \"float3\" 1.87617839999999991 2.390831 -7.97804740000000034"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[233].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[233].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[233].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[234]" " -type \"float3\" 1.85874549999999994 2.39003010000000016 -7.96807189999999999"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[234].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[234].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[234].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[235]" " -type \"float3\" 1.87559389999999993 2.4416796999999999 -7.96156639999999971"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[235].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[235].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[235].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[236]" " -type \"float3\" 1.89398970000000011 2.43604639999999995 -7.97392650000000014"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[236].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[236].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[236].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[237]" " -type \"float3\" 1.9100876 2.44145730000000016 -7.98954110000000028"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[237].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[237].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[237].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[238]" " -type \"float3\" 1.88981189999999999 2.40058850000000001 -7.99041460000000026"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[238].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[238].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[238].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[239]" " -type \"float3\" 1.86191029999999991 2.35037949999999984 -7.99127049999999972"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[239].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[239].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[239].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[240]" " -type \"float3\" 1.8261037 2.41970919999999978 -7.9621019000000004"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[240].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[240].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[240].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[241]" " -type \"float3\" 1.83804870000000009 2.48595569999999988 -7.95381550000000015"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[241].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[241].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[241].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[242]" " -type \"float3\" 1.858521 2.46017580000000002 -7.95570989999999956"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[242].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[242].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[242].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[243]" " -type \"float3\" 1.84257910000000003 2.40024950000000015 -7.9637102999999998"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[243].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[243].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[243].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[244]" " -type \"float3\" 1.76196740000000007 2.43620469999999978 -8.0021810999999996"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[244].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[244].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[244].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[245]" " -type \"float3\" 1.76017139999999994 2.45683570000000007 -8.00398350000000036"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[245].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[245].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[245].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[246]" " -type \"float3\" 1.75538789999999989 2.52016850000000003 -7.98130849999999992"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[246].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[246].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[246].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[247]" " -type \"float3\" 1.75592729999999997 2.49927350000000015 -7.98125510000000027"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[247].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[247].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[247].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[248]" " -type \"float3\" 1.82042349999999997 2.56770869999999984 -7.95116849999999964"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[248].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[248].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[248].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[249]" " -type \"float3\" 1.7825295000000001 2.55448390000000014 -7.960535"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[249].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[249].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[249].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[250]" " -type \"float3\" 1.78671859999999993 2.57720880000000019 -7.96065280000000008"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[250].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[250].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[250].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[251]" " -type \"float3\" 1.828364 2.59456210000000009 -7.95119910000000019"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[251].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[251].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[251].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[252]" " -type \"float3\" 1.84831239999999997 2.64251039999999993 -7.95386840000000017"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[252].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[252].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[252].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[253]" " -type \"float3\" 1.83779720000000002 2.61948939999999997 -7.95209740000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[253].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[253].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[253].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[254]" " -type \"float3\" 1.7931315000000001 2.59815139999999989 -7.961112"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[254].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[254].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[254].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[255]" " -type \"float3\" 1.80138130000000007 2.617492 -7.96192360000000043"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[255].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[255].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[255].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[256]" " -type \"float3\" 1.75916709999999998 2.47787859999999993 -8.0056838999999993"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[256].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[256].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[256].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[257]" " -type \"float3\" 1.75912390000000007 2.49929930000000011 -8.00726030000000044"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[257].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[257].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[257].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[258]" " -type \"float3\" 1.76028420000000008 2.55910130000000002 -7.98084590000000027"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[258].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[258].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[258].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[259]" " -type \"float3\" 1.75684229999999997 2.54014419999999985 -7.98115829999999971"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[259].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[259].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[259].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[260]" " -type \"float3\" 1.80406 2.37146640000000009 -7.97528789999999965"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[260].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[260].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[260].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[261]" " -type \"float3\" 1.812055 2.36808540000000001 -7.97323939999999975"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[261].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[261].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[261].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[262]" " -type \"float3\" 1.78931630000000008 2.44240710000000005 -7.96589610000000015"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[262].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[262].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[262].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[263]" " -type \"float3\" 1.78156479999999995 2.50299639999999979 -7.96160889999999988"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[263].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[263].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[263].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[264]" " -type \"float3\" 1.81010559999999998 2.50825949999999986 -7.95385070000000027"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[264].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[264].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[264].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[265]" " -type \"float3\" 1.80733739999999998 2.44154619999999989 -7.96090169999999997"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[265].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[265].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[265].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[266]" " -type \"float3\" 1.77866480000000005 2.35819530000000022 -7.99498320000000007"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[266].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[266].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[266].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[267]" " -type \"float3\" 1.76787939999999999 2.396277 -7.99843219999999988"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[267].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[267].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[267].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[268]" " -type \"float3\" 1.76287980000000011 2.4547686999999998 -7.98073340000000009"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[268].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[268].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[268].pntz" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[269]" " -type \"float3\" 1.77707970000000004 2.40567829999999994 -7.98105859999999989"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[269].pntx" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[269].pnty" " -av"
+		
+		2 "|Apple:loftedSurface1|Apple:loftedSurfaceShape1" "pnts[269].pntz" " -av"
 		
 		2 "|Apple:curve5" "visibility" " 0"
 		2 "|Apple:curve5" "translate" " -type \"double3\" 0 4.08538217814423277 -8"
 		
 		2 "|Apple:curve5" "scale" " -type \"double3\" 1 1 1"
-		2 "|Apple:revolvedSurface1" "translate" " -type \"double3\" 2 4.14352027099220699 -8"
+		2 "|Apple:revolvedSurface1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Apple:revolvedSurface1" "scale" " -type \"double3\" 1 1 1"
+		2 "|Apple:revolvedSurface1" "rotatePivot" " -type \"double3\" 2 4.08538217814423277 -8"
 		
-		2 "|Apple:revolvedSurface1" "scale" " -type \"double3\" 0.24221028933873143 0.24221028933873143 0.24221028933873143";
+		2 "|Apple:revolvedSurface1" "scalePivot" " -type \"double3\" 2 4.08538217814423277 -8"
+		
+		2 "|Apple:revolvedSurface1|Apple:revolvedSurfaceShape1" "pnts" " -s 193"
+		2 "|Apple:revolvedSurface1|Apple:revolvedSurfaceShape1" "pt[0:165]" (" -type \"float3\" 1.987833 2.81875540000000013 -8 2.012167 2.81875540000000013 -8 1.97967219999999999 2.61345479999999997 -8 2.02032780000000001 2.61345479999999997 -8 2 2.61345479999999997 -8.02032759999999989 2 2.81875540000000013 -8.012167 1.98548849999999999 2.67320629999999992 -8 2 2.67320629999999992 -8.0145111 1.98973880000000003 2.67320629999999992 -8.01026150000000037 1.99139669999999991 2.81875540000000013 -8.0086031000000002 1.988433 2.75816820000000007 -8 1.99182090000000001 2.75816820000000007 -8.00817870000000021 1.98932590000000009 2.75816820000000007 -8.00442119999999946 1.9887722000000001 2.81875540000000013 -8.00465110000000024 1.9866085 2.67320629999999992 -8.00554660000000062 1.987451 2.71016119999999994 -8 1.98841950000000001 2.71016119999999994 -8.004797 1.99112639999999996 2.71016119999999994 -8.00887389999999932 2 2.75816820000000007 -8.01156710000000061 1.99534929999999999 2.81875540000000013 -8.01122759999999978 1.99557859999999998 2.75816820000000007 -8.01067450000000036 1.99445310000"
+		+ "000009 2.67320629999999992 -8.01339149999999911 1.99520330000000001 2.71016119999999994 -8.01158050000000088 2 2.71016119999999994 -8.01254939999999927 1.985626 2.61345479999999997 -8.01437379999999955 1.98314769999999996 2.64577580000000001 -8 1.98808359999999995 2.64577580000000001 -8.01191619999999993 1.9844484 2.64577580000000001 -8.00644209999999923 1.98124110000000009 2.61345479999999997 -8.00777049999999946 1.98102219999999996 2.62635180000000013 -8 1.98248709999999995 2.62635180000000013 -8.0072536000000003 1.98658069999999998 2.62635180000000013 -8.01341919999999952 2 2.64577580000000001 -8.01685239999999943 1.99355829999999989 2.64577580000000001 -8.01555160000000022 1.99222980000000005 2.61345479999999997 -8.01875880000000052 1.99274590000000007 2.62635180000000013 -8.01751329999999918 2 2.62635180000000013 -8.0189781 2.01451160000000007 2.67320629999999992 -8 2.00860329999999987 2.81875540000000013 -8.0086031000000002 2.01026129999999981 2.67320629999999992 -8.01026150000000037 2.00817919999999983"
+		+ " 2.75816820000000007 -8.00817870000000021 2.00465079999999984 2.81875540000000013 -8.01122759999999978 2.00442149999999986 2.75816820000000007 -8.01067450000000036 2.00554679999999985 2.67320629999999992 -8.01339149999999911 2.00479669999999999 2.71016119999999994 -8.01158050000000088 2.00887349999999998 2.71016119999999994 -8.00887389999999932 2.01156690000000005 2.75816820000000007 -8 2.0112277999999999 2.81875540000000013 -8.00465110000000024 2.01067419999999997 2.75816820000000007 -8.00442119999999946 2.0133915 2.67320629999999992 -8.00554660000000062 2.01158049999999999 2.71016119999999994 -8.004797 2.01254920000000004 2.71016119999999994 -8 2.014374 2.61345479999999997 -8.01437379999999955 2.01191640000000005 2.64577580000000001 -8.01191619999999993 2.00644160000000005 2.64577580000000001 -8.01555160000000022 2.00777010000000011 2.61345479999999997 -8.01875880000000052 2.00725409999999993 2.62635180000000013 -8.01751329999999918 2.01341940000000008 2.62635180000000013 -8.01341919999999952 2.016852399999"
+		+ "99988 2.64577580000000001 -8 2.01555160000000022 2.64577580000000001 -8.00644209999999923 2.01875880000000008 2.61345479999999997 -8.00777049999999946 2.017513 2.62635180000000013 -8.0072536000000003 2.01897789999999988 2.62635180000000013 -8 1.98549939999999991 2.59939190000000009 -8 2 2.59939190000000009 -8.01450059999999986 1.98974659999999992 2.59939190000000009 -8.01025390000000037 1.97964929999999995 2.60561540000000003 -8 1.98560990000000004 2.60561540000000003 -8.01439 1.98122 2.60561540000000003 -8.00777910000000048 1.9866185999999999 2.59939190000000009 -8.00554280000000063 1.98150549999999992 2.60136410000000007 -8 1.9829329 2.60136410000000007 -8.00706959999999945 1.98692240000000009 2.60136410000000007 -8.01307770000000019 2 2.60561540000000003 -8.02035049999999927 1.99222110000000008 2.60561540000000003 -8.01877980000000079 1.99445720000000004 2.59939190000000009 -8.013381 1.99293070000000005 2.60136410000000007 -8.017067 2 2.60136410000000007 -8.01849460000000036 1.99071759999999998 2.599031699"
+		+ "99999983 -8 1.99343629999999994 2.59903169999999983 -8.00656320000000044 1.99143409999999998 2.59903169999999983 -8.00354770000000038 1.99595330000000004 2.599776 -8 1.99626560000000008 2.599776 -8.00154689999999924 1.99713859999999999 2.599776 -8.002861 2 2.59903169999999983 -8.00928210000000007 1.99645190000000006 2.59903169999999983 -8.00856590000000068 1.99845310000000009 2.599776 -8.00373459999999959 2 2.599776 -8.00404640000000001 2.01450059999999986 2.59939190000000009 -8 2.01025339999999986 2.59939190000000009 -8.01025390000000037 2.0143901999999998 2.60561540000000003 -8.01439 2.00777889999999992 2.60561540000000003 -8.01877980000000079 2.00554280000000018 2.59939190000000009 -8.013381 2.00706929999999995 2.60136410000000007 -8.017067 2.01307750000000008 2.60136410000000007 -8.01307770000000019 2.02035069999999983 2.60561540000000003 -8 2.01878 2.60561540000000003 -8.00777910000000048 2.01338119999999998 2.59939190000000009 -8.00554280000000063 2.017067 2.60136410000000007 -8.00706959999999945 2.0184"
+		+ "9459999999992 2.60136410000000007 -8 2.00656370000000006 2.59903169999999983 -8.00656320000000044 2.00354810000000017 2.59903169999999983 -8.00856590000000068 2.00154690000000013 2.599776 -8.00373459999999959 2.00286149999999985 2.599776 -8.002861 2.00928240000000002 2.59903169999999983 -8 2.00856589999999979 2.59903169999999983 -8.00354770000000038 2.00373439999999992 2.599776 -8.00154689999999924 2.00404669999999996 2.599776 -8 2 2.81875540000000013 -7.987833 2 2.61345479999999997 -7.979672 2 2.67320629999999992 -7.98548840000000038 2.00860329999999987 2.81875540000000013 -7.99139640000000018 2.01026129999999981 2.67320629999999992 -7.98973889999999987 2.00817919999999983 2.75816820000000007 -7.99182080000000017 2.0112277999999999 2.81875540000000013 -7.99534940000000027 2.01067419999999997 2.75816820000000007 -7.99557879999999965 2.0133915 2.67320629999999992 -7.994453 2.01158049999999999 2.71016119999999994 -7.995203 2.00887349999999998 2.71016119999999994 -7.99112650000000002 2 2.75816820000000007 -7.988"
+		+ "43290000000028 2.00465079999999984 2.81875540000000013 -7.9887718999999997 2.00442149999999986 2.75816820000000007 -7.989326 2.00554679999999985 2.67320629999999992 -7.9866085 2.00479669999999999 2.71016119999999994 -7.98841950000000001 2 2.71016119999999994 -7.98745110000000036 2.014374 2.61345479999999997 -7.98562619999999956 2.01191640000000005 2.64577580000000001 -7.98808380000000007 2.01555160000000022 2.64577580000000001 -7.9935584000000004 2.01875880000000008 2.61345479999999997 -7.99222989999999989 2.017513 2.62635180000000013 -7.99274590000000007 2.01341940000000008 2.62635180000000013 -7.98658079999999959 2 2.64577580000000001 -7.98314759999999968 2.00644160000000005 2.64577580000000001 -7.98444839999999978 2.00777010000000011 2.61345479999999997 -7.98124120000000037 2.00725409999999993 2.62635180000000013 -7.98248719999999956 2 2.62635180000000013 -7.98102239999999963 1.99139669999999991 2.81875540000000013 -7.99139640000000018 1.98973880000000003 2.67320629999999992 -7.98973889999999987 1.99182090"
+		+ "000000001 2.75816820000000007 -7.99182080000000017 1.99534929999999999 2.81875540000000013 -7.9887718999999997 1.99557859999999998 2.75816820000000007 -7.989326 1.99445310000000009 2.67320629999999992 -7.9866085 1.99520330000000001 2.71016119999999994 -7.98841950000000001 1.99112639999999996 2.71016119999999994 -7.99112650000000002 1.9887722000000001 2.81875540000000013 -7.99534940000000027 1.98932590000000009 2.75816820000000007 -7.99557879999999965 1.9866085 2.67320629999999992 -7.994453 1.98841950000000001 2.71016119999999994 -7.995203 1.985626 2.61345479999999997 -7.98562619999999956 1.98808359999999995 2.64577580000000001 -7.98808380000000007 1.99355829999999989 2.64577580000000001 -7.98444839999999978 1.99222980000000005 2.61345479999999997 -7.98124120000000037 1.99274590000000007 2.62635180000000013 -7.98248719999999956 1.98658069999999998 2.62635180000000013 -7.98658079999999959 1.9844484 2.64577580000000001 -7.9935584000000004 1.98124110000000009 2.61345479999999997 -7.99222989999999989 1.98248709999"
+		+ "999995 2.62635180000000013 -7.99274590000000007 2 2.59939190000000009 -7.98549940000000014 2.01025339999999986 2.59939190000000009 -7.98974660000000014 2.0143901999999998 2.60561540000000003 -7.98561 2.01878 2.60561540000000003 -7.99222090000000041 2.01338119999999998 2.59939190000000009 -7.99445720000000026 2.017067 2.60136410000000007 -7.99293039999999966 2.01307750000000008 2.60136410000000007 -7.98692229999999981 2 2.60561540000000003 -7.97964909999999961 2.00777889999999992 2.60561540000000003 -7.9812202000000001"
+		)
+		2 "|Apple:revolvedSurface1|Apple:revolvedSurfaceShape1" "pt[166:192]" (" 2.00554280000000018 2.59939190000000009 -7.98661849999999962 2.00706929999999995 2.60136410000000007 -7.982933 2 2.60136410000000007 -7.98150539999999964 2.00656370000000006 2.59903169999999983 -7.99343629999999994 2.00856589999999979 2.59903169999999983 -7.99645190000000028 2.00373439999999992 2.599776 -7.99845309999999987 2.00286149999999985 2.599776 -7.99713850000000015 2 2.59903169999999983 -7.9907174000000003 2.00354810000000017 2.59903169999999983 -7.99143410000000021 2.00154690000000013 2.599776 -7.99626590000000004 2 2.599776 -7.99595359999999999 1.98974659999999992 2.59939190000000009 -7.98974660000000014 1.98560990000000004 2.60561540000000003 -7.98561 1.99222110000000008 2.60561540000000003 -7.9812202000000001 1.99445720000000004 2.59939190000000009 -7.98661849999999962 1.99293070000000005 2.60136410000000007 -7.982933 1.98692240000000009 2.60136410000000007 -7.98692229999999981 1.98122 2.60561540000000003 -7.99222090000000041 1.9866185999999999 2.59939190000000009 -7.99445720000000026 1.9829329 2"
+		+ ".60136410000000007 -7.99293039999999966 1.99343629999999994 2.59903169999999983 -7.99343629999999994 1.99645190000000006 2.59903169999999983 -7.99143410000000021 1.99845310000000009 2.599776 -7.99626590000000004 1.99713859999999999 2.599776 -7.99713850000000015 1.99143409999999998 2.59903169999999983 -7.99645190000000028 2 2.60111809999999988 -8 1.99626560000000008 2.599776 -7.99845309999999987"
+		);
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "VaseRN";
 	rename -uid "29D54D0F-4CE8-BA59-A3D5-A59A2B2773D8";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"VaseRN"
-		"VaseRN" 0;
+		"VaseRN" 0
+		"VaseRN" 2
+		2 "|Vase1:Vase" "rotatePivot" " -type \"double3\" 0.22340209292844726 3.74126577377319336 0.59937685001398555"
+		
+		2 "|Vase1:Vase" "scalePivot" " -type \"double3\" 0.22340209292844726 3.74126577377319336 0.59937685001398555";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Chair1RN";
 	rename -uid "8F527AD5-4AD1-DC6E-035C-7C9AC1B22441";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Chair1RN"
-		"Chair1RN" 0;
+		"Chair1RN" 0
+		"Chair1RN" 3
+		2 "|Chair7:Chair1" "visibility" " 1"
+		2 "|Chair7:Chair1" "rotatePivot" " -type \"double3\" -2.83711566197991871 0 3.05793037634319465"
+		
+		2 "|Chair7:Chair1" "scalePivot" " -type \"double3\" -2.83711566197991871 0 3.05793037634319465";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Can_GarbageRN";
 	rename -uid "B96EB2B3-4C2D-C05B-A4DB-609E0E6C7C34";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Can_GarbageRN"
-		"Can_GarbageRN" 0;
+		"Can_GarbageRN" 0
+		"Can_GarbageRN" 2
+		2 "|Can_Garbage1:Can_Garbage" "rotatePivot" " -type \"double3\" 7.47810036590885296 0 -7.56491040778914936"
+		
+		2 "|Can_Garbage1:Can_Garbage" "scalePivot" " -type \"double3\" 7.47810036590885296 0 -7.56491040778914936";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Chair1RN1";
@@ -1469,8 +2768,17 @@ createNode reference -n "Chair1RN1";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Chair1RN1"
 		"Chair1RN1" 0
-		"Chair1RN1" 1
-		2 "|Chair9:Chair1" "translate" " -type \"double3\" 2.83107764792871874 0 0";
+		"Chair1RN1" 5
+		2 "|Chair9:Chair1" "visibility" " 1"
+		2 "|Chair9:Chair1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Chair9:Chair1" "rotatePivot" " -type \"double3\" -0.0060380140511999691 0 3.05793037634319465"
+		
+		2 "|Chair9:Chair1" "scalePivot" " -type \"double3\" -0.0060380140511999691 0 3.05793037634319465"
+		
+		2 "|Chair9:Chair1|Chair9:ChairShape1" "pt[0:115]" (" -s 116 -type \"float3\" 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.831077599999999"
+		+ "97 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.8310775"
+		+ "9999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0 2.83107759999999997 0 0"
+		);
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Chair1RN2";
@@ -1478,8 +2786,17 @@ createNode reference -n "Chair1RN2";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Chair1RN2"
 		"Chair1RN2" 0
-		"Chair1RN2" 1
-		2 "|Chair1:Chair1" "translate" " -type \"double3\" 5.68032043483433124 0 0";
+		"Chair1RN2" 5
+		2 "|Chair1:Chair1" "visibility" " 1"
+		2 "|Chair1:Chair1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Chair1:Chair1" "rotatePivot" " -type \"double3\" 2.84320477285441253 0 3.05793037634319465"
+		
+		2 "|Chair1:Chair1" "scalePivot" " -type \"double3\" 2.84320477285441253 0 3.05793037634319465"
+		
+		2 "|Chair1:Chair1|Chair1:ChairShape1" "pt[0:115]" (" -s 116 -type \"float3\" 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.680320299999999"
+		+ "99 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.6803202"
+		+ "9999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0 5.68032029999999999 0 0"
+		);
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Chair1RN3";
@@ -1487,44 +2804,82 @@ createNode reference -n "Chair1RN3";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Chair1RN3"
 		"Chair1RN3" 0
-		"Chair1RN3" 3
-		2 "|Chair10:Chair1" "translate" " -type \"double3\" 0 0 -4.97636711677070309"
+		"Chair1RN3" 7
+		2 "|Chair10:Chair1" "visibility" " 1"
+		2 "|Chair10:Chair1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Chair10:Chair1" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Chair10:Chair1" "rotatePivot" " -type \"double3\" -2.83711566197991827 0 -1.91843674042750845"
 		
-		2 "|Chair10:Chair1" "rotate" " -type \"double3\" 0 180 0"
-		2 "|Chair10:Chair1" "rotatePivotTranslate" " -type \"double3\" 0 0 0";
+		2 "|Chair10:Chair1" "rotatePivotTranslate" " -type \"double3\" 0 0 0"
+		2 "|Chair10:Chair1" "scalePivot" " -type \"double3\" -2.83711566197991827 0 -1.91843674042750845"
+		
+		2 "|Chair10:Chair1|Chair10:ChairShape1" "pt[0:115]" (" -s 116 -type \"float3\" 1.84132840000000009 0 -6.81769659999999966 -1.84132840000000009 0 -6.81769659999999966 1.84132840000000009 0 -6.81769659999999966 -1.84132840000000009 0 -6.81769659999999966 1.84132840000000009 0 -3.13503860000000012 -1.84132840000000009 0 -3.13503860000000012 1.84132840000000009 0 -3.13503860000000012 -1.84132840000000009 0 -3.13503860000000012 1.20128889999999999 0 -3.13503860000000012 1.20128889999999999 0 -3.13503860000000012 1.20128889999999999 0 -6.81769659999999966 1.20128889999999999 0 -6.81769659999999966 -1.18860750000000004 0 -3.13503860000000012 -1.18860750000000004 0 -3.13503860000000012 -1.18860750000000004 0 -6.81769659999999966 -1.18860750000000004 0 -6.81769659999999966 1.84132840000000009 0 -3.36487889999999989 1.84132840000000009 0 -3.36487889999999989 1.20128889999999999 0 -3.36487889999999989 -1.18860750000000004 0 -3.36487889999999989 -1.84132840000000009 0 -3.36487889999999989 -1.84132840000000009 0 -3.36487889999999989 -1.18860750000000004 0 -3.36487889999999989 "
+		+ "1.20128889999999999 0 -3.36487889999999989 1.84132840000000009 0 -6.57193230000000028 1.84132840000000009 0 -6.57193230000000028 1.20128889999999999 0 -6.57193230000000028 -1.18860750000000004 0 -6.57193230000000028 -1.84132840000000009 0 -6.57193230000000028 -1.84132840000000009 0 -6.57193230000000028 -1.18860750000000004 0 -6.57193230000000028 1.20128889999999999 0 -6.57193230000000028 1.669769 0 -3.13503860000000012 1.669769 0 -3.13503860000000012 1.669769 0 -3.3648798000000002 1.669769 0 -6.57193230000000028 1.669769 0 -6.81769659999999966 1.669769 0 -6.81769659999999966 1.669769 0 -6.57193230000000028 1.669769 0 -3.36487889999999989 -1.62997750000000008 0 -3.13503860000000012 -1.62997750000000008 0 -3.13503860000000012 -1.62997750000000008 0 -3.36487889999999989 -1.62997750000000008 0 -6.57193230000000028 -1.62997750000000008 0 -6.81769659999999966 -1.62997750000000008 0 -6.81769659999999966 -1.62997750000000008 0 -6.57193230000000028 -1.62997750000000008 0 -3.36487889999999989 1.84132840000000009 0 -3.8"
+		+ "535216000000001 1.84132840000000009 0 -3.8535216000000001 1.669769 0 -3.8535216000000001 1.20128889999999999 0 -3.8535216000000001 -1.18860750000000004 0 -3.8535216000000001 -1.62997750000000008 0 -3.8535216000000001 -1.84132840000000009 0 -3.8535216000000001 -1.84132840000000009 0 -3.8535216000000001 -1.62997750000000008 0 -3.8535216000000001 -1.18860750000000004 0 -3.8535216000000001 1.20128889999999999 0 -3.8535216000000001 1.669769 0 -3.8535216000000001 1.84132840000000009 0 -6.14142320000000019 1.84132840000000009 0 -6.14142320000000019 1.669769 0 -6.14142320000000019 1.20128889999999999 0 -6.14142320000000019 -1.18860750000000004 0 -6.14142320000000019 -1.62997750000000008 0 -6.14142320000000019 -1.84132840000000009 0 -6.14142320000000019 -1.84132840000000009 0 -6.14142320000000019 -1.62997750000000008 0 -6.14142320000000019 -1.18860750000000004 0 -6.14142320000000019 1.20128889999999999 0 -6.14142320000000019 1.669769 0 -6.14142320000000019 -1.18860750000000004 0 -6.57193230000000028 -1.629977500000000"
+		+ "08 0 -6.57193230000000028 -1.18860750000000004 0 -6.14142320000000019 -1.62997750000000008 0 -6.14142320000000019 1.669769 0 -6.14142320000000019 1.669769 0 -6.57193230000000028 1.20128889999999999 0 -6.14142320000000019 1.20128889999999999 0 -6.57193230000000028 1.669769 0 -3.8535216000000001 1.20128889999999999 0 -3.8535216000000001 1.669769 0 -3.3648798000000002 1.20128889999999999 0 -3.36487889999999989 -1.18860750000000004 0 -3.8535216000000001 -1.62997750000000008 0 -3.8535216000000001 -1.18860750000000004 0 -3.36487889999999989 -1.62997750000000008 0 -3.36487889999999989 1.669769 0 -6.9829087000000003 1.669769 0 -6.73714489999999966 1.22275420000000001 0 -6.9829087000000003 1.22275420000000001 0 -6.73714489999999966 -1.20468069999999994 0 -6.9829087000000003 -1.20468120000000001 0 -6.73714489999999966 -1.62997750000000008 0 -6.9829087000000003 -1.62997750000000008 0 -6.73714489999999966 -1.62997750000000008 0 -6.722466 -1.84132840000000009 0 -6.722466 -1.84132840000000009 0 -6.96823169999999958 -1.6299"
+		+ "7750000000008 0 -6.96823169999999958 -1.20468120000000001 0 -6.72227759999999996 -1.20468069999999994 0 -6.96804290000000037 1.22275420000000001 0 -6.96739629999999988 1.22275420000000001 0 -6.72163060000000012 1.669769 0 -6.72117279999999973 1.669769 0 -6.96693660000000037 1.84132840000000009 0 -6.96693660000000037 1.84132840000000009 0 -6.72117279999999973 1.84132840000000009 0 -6.97945740000000026 1.75555729999999999 0 -6.9829087000000003 1.84132840000000009 0 -6.73369359999999961 1.75555729999999999 0 -6.73714489999999966 -1.84132840000000009 0 -6.97962620000000022 -1.75555710000000009 0 -6.9829087000000003 -1.84132840000000009 0 -6.73386379999999996 -1.75555710000000009 0 -6.73714489999999966"
+		);
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Chair1RN4";
 	rename -uid "F69C5D2A-4641-EB2C-FA12-58A39EF202C8";
+	setAttr ".phl[1]" 0;
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Chair1RN4"
 		"Chair1RN4" 0
-		"Chair1RN4" 2
-		2 "|Chair11:Chair1" "translate" " -type \"double3\" 2.71041678364368188 0 -4.98434172076699511"
+		"Chair1RN4" 8
+		2 "|Chair11:Chair1" "visibility" " 1"
+		2 "|Chair11:Chair1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Chair11:Chair1" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Chair11:Chair1" "rotatePivot" " -type \"double3\" -0.12669887833623683 0 -1.92641134442380046"
 		
-		2 "|Chair11:Chair1" "rotate" " -type \"double3\" 0 180 0";
-	setAttr ".ptag" -type "string" "";
-lockNode -l 1 ;
-createNode reference -n "Chair1RN5";
-	rename -uid "34099D72-492A-3A92-6062-00B56357FF77";
-	setAttr ".ed" -type "dataReferenceEdits" 
-		"Chair1RN5"
-		"Chair1RN5" 0
-		"Chair1RN5" 5
-		2 "|Chair12:Chair1" "translate" " -type \"double3\" 5.42071485244629159 0 -4.98124479900776507"
+		2 "|Chair11:Chair1" "scalePivot" " -type \"double3\" -0.12669887833623683 0 -1.92641134442380046"
 		
-		2 "|Chair12:Chair1" "rotate" " -type \"double3\" 0 180 0"
-		2 "|Chair12:Chair1" "rotatePivot" " -type \"double3\" -2.83711566197991871 0 3.05793037634319465"
-		
-		2 "|Chair12:Chair1" "rotatePivotTranslate" " -type \"double3\" 0 0 0"
-		2 "|Chair12:Chair1" "scalePivot" " -type \"double3\" -2.83711566197991871 0 3.05793037634319465";
+		2 "|Chair11:Chair1|Chair11:ChairShape1" "pt[0:115]" (" -s 116 -type \"float3\" 4.55174490000000009 0 -6.82567120000000038 0.86908834999999995 0 -6.82567120000000038 4.55174490000000009 0 -6.82567120000000038 0.86908834999999995 0 -6.82567120000000038 4.55174490000000009 0 -3.14301319999999995 0.86908834999999995 0 -3.14301319999999995 4.55174490000000009 0 -3.14301319999999995 0.86908834999999995 0 -3.14301319999999995 3.91170570000000017 0 -3.14301319999999995 3.91170570000000017 0 -3.14301319999999995 3.91170570000000017 0 -6.82567120000000038 3.91170570000000017 0 -6.82567120000000038 1.52180929999999992 0 -3.14301319999999995 1.52180929999999992 0 -3.14301319999999995 1.52180929999999992 0 -6.82567120000000038 1.52180929999999992 0 -6.82567120000000038 4.55174490000000009 0 -3.37285350000000017 4.55174490000000009 0 -3.37285350000000017 3.91170570000000017 0 -3.37285350000000017 1.52180929999999992 0 -3.37285350000000017 0.86908834999999995 0 -3.37285350000000017 0.86908834999999995 0 -3.37285350000000017 1.52180929999999992 0 -3.37285350000000017 3.9117057000"
+		+ "0000017 0 -3.37285350000000017 4.55174490000000009 0 -6.57990690000000011 4.55174490000000009 0 -6.57990690000000011 3.91170570000000017 0 -6.57990690000000011 1.52180929999999992 0 -6.57990690000000011 0.86908834999999995 0 -6.57990690000000011 0.86908834999999995 0 -6.57990690000000011 1.52180929999999992 0 -6.57990690000000011 3.91170570000000017 0 -6.57990690000000011 4.3801855999999999 0 -3.14301319999999995 4.3801855999999999 0 -3.14301319999999995 4.3801855999999999 0 -3.37285449999999987 4.3801855999999999 0 -6.57990690000000011 4.3801855999999999 0 -6.82567120000000038 4.3801855999999999 0 -6.82567120000000038 4.3801855999999999 0 -6.57990690000000011 4.3801855999999999 0 -3.37285350000000017 1.0804393000000001 0 -3.14301319999999995 1.0804393000000001 0 -3.14301319999999995 1.0804393000000001 0 -3.37285350000000017 1.0804393000000001 0 -6.57990690000000011 1.0804393000000001 0 -6.82567120000000038 1.0804393000000001 0 -6.82567120000000038 1.0804393000000001 0 -6.57990690000000011 1.0804393000000001 "
+		+ "0 -3.37285350000000017 4.55174490000000009 0 -3.86149619999999993 4.55174490000000009 0 -3.86149619999999993 4.3801855999999999 0 -3.86149619999999993 3.91170570000000017 0 -3.86149619999999993 1.52180929999999992 0 -3.86149619999999993 1.0804393000000001 0 -3.86149619999999993 0.86908834999999995 0 -3.86149619999999993 0.86908834999999995 0 -3.86149619999999993 1.0804393000000001 0 -3.86149619999999993 1.52180929999999992 0 -3.86149619999999993 3.91170570000000017 0 -3.86149619999999993 4.3801855999999999 0 -3.86149619999999993 4.55174490000000009 0 -6.14939790000000031 4.55174490000000009 0 -6.14939790000000031 4.3801855999999999 0 -6.14939790000000031 3.91170570000000017 0 -6.14939790000000031 1.52180929999999992 0 -6.14939790000000031 1.0804393000000001 0 -6.14939790000000031 0.86908834999999995 0 -6.14939790000000031 0.86908834999999995 0 -6.14939790000000031 1.0804393000000001 0 -6.14939790000000031 1.52180929999999992 0 -6.14939790000000031 3.91170570000000017 0 -6.14939790000000031 4.3801855999999999 "
+		+ "0 -6.14939790000000031 1.52180929999999992 0 -6.57990690000000011 1.0804393000000001 0 -6.57990690000000011 1.52180929999999992 0 -6.14939790000000031 1.0804393000000001 0 -6.14939790000000031 4.3801855999999999 0 -6.14939790000000031 4.3801855999999999 0 -6.57990690000000011 3.91170570000000017 0 -6.14939790000000031 3.91170570000000017 0 -6.57990690000000011 4.3801855999999999 0 -3.86149619999999993 3.91170570000000017 0 -3.86149619999999993 4.3801855999999999 0 -3.37285449999999987 3.91170570000000017 0 -3.37285350000000017 1.52180929999999992 0 -3.86149619999999993 1.0804393000000001 0 -3.86149619999999993 1.52180929999999992 0 -3.37285350000000017 1.0804393000000001 0 -3.37285350000000017 4.3801855999999999 0 -6.99088340000000041 4.3801855999999999 0 -6.74511959999999977 3.933171 0 -6.99088340000000041 3.933171 0 -6.74511959999999977 1.50573610000000002 0 -6.99088340000000041 1.50573559999999995 0 -6.74511959999999977 1.0804393000000001 0 -6.99088340000000041 1.0804393000000001 0 -6.74511959999999977 1.0"
+		+ "804393000000001 0 -6.73044059999999966 0.86908834999999995 0 -6.73044059999999966 0.86908834999999995 0 -6.9762063000000003 1.0804393000000001 0 -6.9762063000000003 1.50573559999999995 0 -6.73025230000000008 1.50573610000000002 0 -6.9760175000000002 3.933171 0 -6.97537089999999971 3.933171 0 -6.72960519999999995 4.3801855999999999 0 -6.72914739999999956 4.3801855999999999 0 -6.9749112000000002 4.55174490000000009 0 -6.9749112000000002 4.55174490000000009 0 -6.72914739999999956 4.55174490000000009 0 -6.987432 4.46597389999999983 0 -6.99088340000000041 4.55174490000000009 0 -6.74166820000000033 4.46597389999999983 0 -6.74511959999999977 0.86908834999999995 0 -6.98760080000000006 0.95485967000000005 0 -6.99088340000000041 0.86908834999999995 0 -6.74183850000000007 0.95485967000000005 0 -6.74511959999999977"
+		)
+		3 "|Chair11:Chair1|Chair11:ChairShape1.instObjGroups" "Chair11:lambert2SG.dagSetMembers" 
+		"-na"
+		5 3 "Chair1RN4" "|Chair11:Chair1|Chair11:ChairShape1.instObjGroups" 
+		"Chair1RN4.placeHolderList[1]" "Chair11:lambert2SG.dsm";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BookeesRN";
 	rename -uid "25BE02C5-4F73-5AD1-675C-3991703A2FB8";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BookeesRN"
-		"BookeesRN" 0;
+		"BookeesRN" 0
+		"BookeesRN" 14
+		2 "|Bookees:Book1" "rotatePivot" " -type \"double3\" -2.36893010688888772 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees:Book1" "scalePivot" " -type \"double3\" -2.36893010688888772 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees:Book2" "rotatePivot" " -type \"double3\" -2.09279907687910516 2.90533685684204102 -7.2362395150844554"
+		
+		2 "|Bookees:Book2" "scalePivot" " -type \"double3\" -2.09279907687910516 2.90533685684204102 -7.2362395150844554"
+		
+		2 "|Bookees:Book3" "rotatePivot" " -type \"double3\" -1.9268636876037224 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees:Book3" "scalePivot" " -type \"double3\" -1.9268636876037224 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees:Book4" "rotatePivot" " -type \"double3\" -1.49527494111666059 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees:Book4" "scalePivot" " -type \"double3\" -1.49527494111666237 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees:Book5" "rotatePivot" " -type \"double3\" -1.35752757173904226 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees:Book5" "scalePivot" " -type \"double3\" -1.35752757173904404 2.9053368568420499 -6.73435449600219194"
+		
+		2 "|Bookees:Book6" "rotatePivot" " -type \"double3\" -1.19102869043552251 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees:Book6" "scalePivot" " -type \"double3\" -1.19102869043552406 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees:Book7" "rotatePivot" " -type \"double3\" -0.9849693436493604 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees:Book7" "scalePivot" " -type \"double3\" -0.98496934364936206 2.90533685684205034 -6.73435449600219194";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BookeesRN1";
@@ -1532,20 +2887,55 @@ createNode reference -n "BookeesRN1";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BookeesRN1"
 		"BookeesRN1" 0
-		"BookeesRN1" 7
-		2 "|Bookees1:Book1" "translate" " -type \"double3\" 1.51994058122891618 0 0"
+		"BookeesRN1" 28
+		2 "|Bookees1:Book1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book1" "rotatePivot" " -type \"double3\" -0.84898952565997154 2.90533685684204102 -7.2766234621496686"
 		
-		2 "|Bookees1:Book2" "translate" " -type \"double3\" 1.51994058122891618 0 0"
+		2 "|Bookees1:Book1" "scalePivot" " -type \"double3\" -0.84898952565997154 2.90533685684204102 -7.2766234621496686"
 		
-		2 "|Bookees1:Book3" "translate" " -type \"double3\" 1.51994058122891618 0 0"
+		2 "|Bookees1:Book1|Bookees1:BookShape1" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0"
 		
-		2 "|Bookees1:Book4" "translate" " -type \"double3\" 1.51994058122891618 0 0"
+		2 "|Bookees1:Book2" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book2" "rotatePivot" " -type \"double3\" -0.57285849565018898 2.90533685684204102 -7.2362395150844554"
 		
-		2 "|Bookees1:Book5" "translate" " -type \"double3\" 1.51994058122891618 0 0"
+		2 "|Bookees1:Book2" "scalePivot" " -type \"double3\" -0.57285849565018898 2.90533685684204102 -7.2362395150844554"
 		
-		2 "|Bookees1:Book6" "translate" " -type \"double3\" 1.51994058122891618 0 0"
+		2 "|Bookees1:Book2|Bookees1:BookShape2" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0"
 		
-		2 "|Bookees1:Book7" "translate" " -type \"double3\" 1.51994058122891618 0 0";
+		2 "|Bookees1:Book3" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book3" "rotatePivot" " -type \"double3\" -0.40692310637480622 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees1:Book3" "scalePivot" " -type \"double3\" -0.40692310637480622 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees1:Book3|Bookees1:BookShape3" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0"
+		
+		2 "|Bookees1:Book4" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book4" "rotatePivot" " -type \"double3\" 0.024665640112255582 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees1:Book4" "scalePivot" " -type \"double3\" 0.024665640112253806 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees1:Book4|Bookees1:BookShape4" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0"
+		
+		2 "|Bookees1:Book5" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book5" "rotatePivot" " -type \"double3\" 0.16241300948987392 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees1:Book5" "scalePivot" " -type \"double3\" 0.16241300948987214 2.9053368568420499 -6.73435449600219194"
+		
+		2 "|Bookees1:Book5|Bookees1:BookShape5" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0"
+		
+		2 "|Bookees1:Book6" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book6" "rotatePivot" " -type \"double3\" 0.32891189079339367 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees1:Book6" "scalePivot" " -type \"double3\" 0.32891189079339211 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees1:Book6|Bookees1:BookShape6" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0"
+		
+		2 "|Bookees1:Book7" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees1:Book7" "rotatePivot" " -type \"double3\" 0.53497123757955578 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees1:Book7" "scalePivot" " -type \"double3\" 0.53497123757955412 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees1:Book7|Bookees1:BookShape7" "pt[0:31]" " -s 32 -type \"float3\" 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0 1.51994059999999998 0 0";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BookeesRN2";
@@ -1553,20 +2943,55 @@ createNode reference -n "BookeesRN2";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BookeesRN2"
 		"BookeesRN2" 0
-		"BookeesRN2" 7
-		2 "|Bookees2:Book1" "translate" " -type \"double3\" 3.02987815414001194 0 0"
+		"BookeesRN2" 28
+		2 "|Bookees2:Book1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book1" "rotatePivot" " -type \"double3\" 0.66094804725112422 2.90533685684204102 -7.2766234621496686"
 		
-		2 "|Bookees2:Book2" "translate" " -type \"double3\" 3.02987815414001194 0 0"
+		2 "|Bookees2:Book1" "scalePivot" " -type \"double3\" 0.66094804725112422 2.90533685684204102 -7.2766234621496686"
 		
-		2 "|Bookees2:Book3" "translate" " -type \"double3\" 3.02987815414001194 0 0"
+		2 "|Bookees2:Book1|Bookees2:BookShape1" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0"
 		
-		2 "|Bookees2:Book4" "translate" " -type \"double3\" 3.02987815414001194 0 0"
+		2 "|Bookees2:Book2" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book2" "rotatePivot" " -type \"double3\" 0.93707907726090678 2.90533685684204102 -7.2362395150844554"
 		
-		2 "|Bookees2:Book5" "translate" " -type \"double3\" 3.02987815414001194 0 0"
+		2 "|Bookees2:Book2" "scalePivot" " -type \"double3\" 0.93707907726090678 2.90533685684204102 -7.2362395150844554"
 		
-		2 "|Bookees2:Book6" "translate" " -type \"double3\" 3.02987815414001194 0 0"
+		2 "|Bookees2:Book2|Bookees2:BookShape2" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0"
 		
-		2 "|Bookees2:Book7" "translate" " -type \"double3\" 3.02987815414001194 0 0";
+		2 "|Bookees2:Book3" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book3" "rotatePivot" " -type \"double3\" 1.10301446653628954 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees2:Book3" "scalePivot" " -type \"double3\" 1.10301446653628954 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees2:Book3|Bookees2:BookShape3" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0"
+		
+		2 "|Bookees2:Book4" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book4" "rotatePivot" " -type \"double3\" 1.53460321302335134 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees2:Book4" "scalePivot" " -type \"double3\" 1.53460321302334957 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees2:Book4|Bookees2:BookShape4" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0"
+		
+		2 "|Bookees2:Book5" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book5" "rotatePivot" " -type \"double3\" 1.67235058240096968 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees2:Book5" "scalePivot" " -type \"double3\" 1.6723505824009679 2.9053368568420499 -6.73435449600219194"
+		
+		2 "|Bookees2:Book5|Bookees2:BookShape5" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0"
+		
+		2 "|Bookees2:Book6" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book6" "rotatePivot" " -type \"double3\" 1.83884946370448943 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees2:Book6" "scalePivot" " -type \"double3\" 1.83884946370448787 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees2:Book6|Bookees2:BookShape6" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0"
+		
+		2 "|Bookees2:Book7" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees2:Book7" "rotatePivot" " -type \"double3\" 2.04490881049065143 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees2:Book7" "scalePivot" " -type \"double3\" 2.0449088104906501 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees2:Book7|Bookees2:BookShape7" "pt[0:31]" " -s 32 -type \"float3\" 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0 3.02987809999999991 0 0";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BookeesRN3";
@@ -1574,48 +2999,148 @@ createNode reference -n "BookeesRN3";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BookeesRN3"
 		"BookeesRN3" 0
-		"BookeesRN3" 7
-		2 "|Bookees3:Book1" "translate" " -type \"double3\" 4.58195340013693908 0 0"
+		"BookeesRN3" 28
+		2 "|Bookees3:Book1" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book1" "rotatePivot" " -type \"double3\" 2.21302329324805136 2.90533685684204102 -7.2766234621496686"
 		
-		2 "|Bookees3:Book2" "translate" " -type \"double3\" 4.58195340013693908 0 0"
+		2 "|Bookees3:Book1" "scalePivot" " -type \"double3\" 2.21302329324805136 2.90533685684204102 -7.2766234621496686"
 		
-		2 "|Bookees3:Book3" "translate" " -type \"double3\" 4.58195340013693908 0 0"
+		2 "|Bookees3:Book1|Bookees3:BookShape1" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0"
 		
-		2 "|Bookees3:Book4" "translate" " -type \"double3\" 4.58195340013693908 0 0"
+		2 "|Bookees3:Book2" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book2" "rotatePivot" " -type \"double3\" 2.48915432325783392 2.90533685684204102 -7.2362395150844554"
 		
-		2 "|Bookees3:Book5" "translate" " -type \"double3\" 4.58195340013693908 0 0"
+		2 "|Bookees3:Book2" "scalePivot" " -type \"double3\" 2.48915432325783392 2.90533685684204102 -7.2362395150844554"
 		
-		2 "|Bookees3:Book6" "translate" " -type \"double3\" 4.58195340013693908 0 0"
+		2 "|Bookees3:Book2|Bookees3:BookShape2" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0"
 		
-		2 "|Bookees3:Book7" "translate" " -type \"double3\" 4.58195340013693908 0 0";
-	setAttr ".ptag" -type "string" "";
-lockNode -l 1 ;
-createNode reference -n "TablewLegRN";
-	rename -uid "E3F178AD-4320-785A-973A-058EB1D05F94";
-	setAttr ".ed" -type "dataReferenceEdits" 
-		"TablewLegRN"
-		"TablewLegRN" 0;
+		2 "|Bookees3:Book3" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book3" "rotatePivot" " -type \"double3\" 2.65508971253321668 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees3:Book3" "scalePivot" " -type \"double3\" 2.65508971253321668 2.90533685684204102 -7.2766234621496686"
+		
+		2 "|Bookees3:Book3|Bookees3:BookShape3" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0"
+		
+		2 "|Bookees3:Book4" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book4" "rotatePivot" " -type \"double3\" 3.08667845902027871 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees3:Book4" "scalePivot" " -type \"double3\" 3.08667845902027693 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees3:Book4|Bookees3:BookShape4" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0"
+		
+		2 "|Bookees3:Book5" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book5" "rotatePivot" " -type \"double3\" 3.22442582839789704 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees3:Book5" "scalePivot" " -type \"double3\" 3.22442582839789527 2.9053368568420499 -6.73435449600219194"
+		
+		2 "|Bookees3:Book5|Bookees3:BookShape5" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0"
+		
+		2 "|Bookees3:Book6" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book6" "rotatePivot" " -type \"double3\" 3.39092470970141679 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees3:Book6" "scalePivot" " -type \"double3\" 3.39092470970141502 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees3:Book6|Bookees3:BookShape6" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0"
+		
+		2 "|Bookees3:Book7" "translate" " -type \"double3\" 0 0 0"
+		2 "|Bookees3:Book7" "rotatePivot" " -type \"double3\" 3.59698405648757857 2.90533685684204457 -6.73435449600219904"
+		
+		2 "|Bookees3:Book7" "scalePivot" " -type \"double3\" 3.59698405648757724 2.90533685684205034 -6.73435449600219194"
+		
+		2 "|Bookees3:Book7|Bookees3:BookShape7" "pt[0:31]" " -s 32 -type \"float3\" 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0 4.58195350000000001 0 0";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "BookshelffRN";
 	rename -uid "AA955F62-42E2-1C94-BDC7-74B7AB9AA4FC";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"BookshelffRN"
-		"BookshelffRN" 0;
+		"BookshelffRN" 0
+		"BookshelffRN" 3
+		2 "|Bookshelff:Bookshelf" "rotatePivot" " -type \"double3\" 0.64433979988098145 0 -7.5222630500793457"
+		
+		2 "|Bookshelff:Bookshelf" "scalePivot" " -type \"double3\" 0.64433979988098145 0 -7.5222630500793457"
+		
+		2 "|Bookshelff:Bookshelf|Bookshelff:BookshelfShape" "uvPivot" " -type \"double2\" 0.65352219343185425 0.714742511510849";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "WallsRN";
 	rename -uid "AD43D354-40D6-2755-A06C-4B85B91EFBB3";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"WallsRN"
-		"WallsRN" 0;
+		"WallsRN" 0
+		"WallsRN" 5
+		2 "|Walls:Wall2" "rotatePivot" " -type \"double3\" 0 0 -9.78670883178710938"
+		
+		2 "|Walls:Wall2" "scalePivot" " -type \"double3\" 0 0 -9.78670883178710938"
+		
+		2 "|Walls:Wall1" "rotatePivot" " -type \"double3\" -9.78670978546142578 0 0"
+		
+		2 "|Walls:Wall1" "scalePivot" " -type \"double3\" -9.78670978546142578 0 0"
+		
+		2 "|Walls:Wall1|Walls:WallShape1" "uvPivot" " -type \"double2\" 0.752329021692276 0.81004431843757629";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "FloorRN";
 	rename -uid "0304625B-4D5A-CA97-ABF6-23852C99884F";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"FloorRN"
-		"FloorRN" 0;
+		"FloorRN" 0
+		"FloorRN" 1
+		2 "|Floor1:Floor" "visibility" " 1";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
+createNode lambert -n "color_mat";
+	rename -uid "E23F0AA5-4802-1A41-0101-24940BCFDFB7";
+createNode shadingEngine -n "lambert2SG";
+	rename -uid "CAE583D8-49B8-519E-5F6A-9D8F90B17520";
+	setAttr ".ihi" 0;
+	setAttr ".ro" yes;
+createNode materialInfo -n "materialInfo1";
+	rename -uid "878DDB75-4176-6BF9-98F3-559717EE4AB0";
+createNode file -n "file1";
+	rename -uid "BD1C4249-44A7-98B7-646D-02BB114651C6";
+	setAttr ".ftn" -type "string" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/sourceimages/Colors.png";
+	setAttr ".cs" -type "string" "sRGB Encoded Rec.709 (sRGB)";
+createNode place2dTexture -n "place2dTexture1";
+	rename -uid "7BD4212E-485A-E118-5524-E9BB5B7AB6DD";
+createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
+	rename -uid "0BD8DD76-4D5F-AFB7-E34F-90BAFF607772";
+	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
+	setAttr ".tgi[0].vl" -type "double2" -263.21341570552823 -835.71425250598497 ;
+	setAttr ".tgi[0].vh" -type "double2" 659.64197138144414 102.38094831269898 ;
+	setAttr -s 4 ".tgi[0].ni";
+	setAttr ".tgi[0].ni[0].x" 258.57144165039062;
+	setAttr ".tgi[0].ni[0].y" -222.85714721679688;
+	setAttr ".tgi[0].ni[0].nvs" 1923;
+	setAttr ".tgi[0].ni[1].x" -355.71429443359375;
+	setAttr ".tgi[0].ni[1].y" -245.71427917480469;
+	setAttr ".tgi[0].ni[1].nvs" 1923;
+	setAttr ".tgi[0].ni[2].x" -48.571430206298828;
+	setAttr ".tgi[0].ni[2].y" -222.85714721679688;
+	setAttr ".tgi[0].ni[2].nvs" 1923;
+	setAttr ".tgi[0].ni[3].x" 565.71429443359375;
+	setAttr ".tgi[0].ni[3].y" -245.71427917480469;
+	setAttr ".tgi[0].ni[3].nvs" 1923;
+createNode reference -n "Chair1RN6";
+	rename -uid "F1CC0325-49F6-4B85-FDB1-CCAD69F076C7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Chair1RN6"
+		"Chair1RN6" 0
+		"Chair1RN6" 3
+		2 "|Chair13:Chair1" "translate" " -type \"double3\" 5.69640784096561603 0 -5.01470939969600416"
+		
+		2 "|Chair13:Chair1" "rotate" " -type \"double3\" 0 180 0"
+		2 "|Chair13:Chair1" "rotatePivotTranslate" " -type \"double3\" 0 0 0";
+lockNode -l 1 ;
+createNode reference -n "sharedReferenceNode";
+	rename -uid "4CF19C48-44B5-30BB-5BDB-D9A5BAA150AD";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"sharedReferenceNode";
+createNode reference -n "TablewLegRN";
+	rename -uid "75B562B9-45A9-9798-894C-39B4C7DB1A2E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"TablewLegRN"
+		"TablewLegRN" 0;
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 select -ne :time1;
@@ -1629,14 +3154,18 @@ select -ne :hardwareRenderingGlobals;
 	setAttr ".fprt" yes;
 	setAttr ".rtfm" 1;
 select -ne :renderPartition;
-	setAttr -s 2 ".st";
+	setAttr -s 20 ".st";
 select -ne :renderGlobalsList1;
 select -ne :defaultShaderList1;
-	setAttr -s 6 ".s";
+	setAttr -s 24 ".s";
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
+select -ne :defaultRenderUtilityList1;
+	setAttr -s 18 ".u";
 select -ne :defaultRenderingList1;
-	setAttr -s 17 ".r";
+	setAttr -s 18 ".r";
+select -ne :defaultTextureList1;
+	setAttr -s 18 ".tx";
 select -ne :standardSurface1;
 	setAttr ".bc" -type "float3" 0.40000001 0.40000001 0.40000001 ;
 	setAttr ".sr" 0.5;
@@ -1644,9 +3173,7 @@ select -ne :openPBR_shader1;
 	setAttr ".bc" -type "float3" 0.40000001 0.40000001 0.40000001 ;
 	setAttr ".sr" 0.5;
 select -ne :initialShadingGroup;
-	setAttr -s 44 ".dsm";
 	setAttr ".ro" yes;
-	setAttr -s 2 ".gn";
 select -ne :initialParticleSE;
 	setAttr ".ro" yes;
 select -ne :initialMaterialInfo;
@@ -1668,10 +3195,13 @@ select -ne :defaultColorMgtGlobals;
 select -ne :hardwareRenderGlobals;
 	setAttr ".ctrs" 256;
 	setAttr ".btrs" 512;
+connectAttr "Chair1RN4.phl[1]" "lambert2SG.dsm" -na;
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "lambert2SG.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "lambert2SG.message" ":defaultLightSet.message";
 connectAttr "layerManager.dli[0]" "defaultLayer.id";
 connectAttr "renderLayerManager.rlmi[0]" "defaultRenderLayer.rlid";
 connectAttr ":defaultArnoldDenoiser.msg" ":defaultArnoldRenderOptions.imagers" -na
@@ -1680,5 +3210,45 @@ connectAttr ":defaultArnoldDisplayDriver.msg" ":defaultArnoldRenderOptions.drive
 		 -na;
 connectAttr ":defaultArnoldFilter.msg" ":defaultArnoldRenderOptions.filt";
 connectAttr ":defaultArnoldDriver.msg" ":defaultArnoldRenderOptions.drvr";
+connectAttr "file1.oc" "color_mat.c";
+connectAttr "color_mat.oc" "lambert2SG.ss";
+connectAttr "lambert2SG.msg" "materialInfo1.sg";
+connectAttr "color_mat.msg" "materialInfo1.m";
+connectAttr "file1.msg" "materialInfo1.t" -na;
+connectAttr ":defaultColorMgtGlobals.cme" "file1.cme";
+connectAttr ":defaultColorMgtGlobals.cfe" "file1.cmcf";
+connectAttr ":defaultColorMgtGlobals.cfp" "file1.cmcp";
+connectAttr ":defaultColorMgtGlobals.wsn" "file1.ws";
+connectAttr "place2dTexture1.c" "file1.c";
+connectAttr "place2dTexture1.tf" "file1.tf";
+connectAttr "place2dTexture1.rf" "file1.rf";
+connectAttr "place2dTexture1.mu" "file1.mu";
+connectAttr "place2dTexture1.mv" "file1.mv";
+connectAttr "place2dTexture1.s" "file1.s";
+connectAttr "place2dTexture1.wu" "file1.wu";
+connectAttr "place2dTexture1.wv" "file1.wv";
+connectAttr "place2dTexture1.re" "file1.re";
+connectAttr "place2dTexture1.of" "file1.of";
+connectAttr "place2dTexture1.r" "file1.ro";
+connectAttr "place2dTexture1.n" "file1.n";
+connectAttr "place2dTexture1.vt1" "file1.vt1";
+connectAttr "place2dTexture1.vt2" "file1.vt2";
+connectAttr "place2dTexture1.vt3" "file1.vt3";
+connectAttr "place2dTexture1.vc1" "file1.vc1";
+connectAttr "place2dTexture1.o" "file1.uv";
+connectAttr "place2dTexture1.ofs" "file1.fs";
+connectAttr "color_mat.msg" "hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[0].dn"
+		;
+connectAttr "place2dTexture1.msg" "hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[1].dn"
+		;
+connectAttr "file1.msg" "hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[2].dn"
+		;
+connectAttr "lambert2SG.msg" "hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[3].dn"
+		;
+connectAttr "sharedReferenceNode.sr" "Chair1RN6.sr";
+connectAttr "lambert2SG.pa" ":renderPartition.st" -na;
+connectAttr "color_mat.msg" ":defaultShaderList1.s" -na;
+connectAttr "place2dTexture1.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
+connectAttr "file1.msg" ":defaultTextureList1.tx" -na;
 // End of tableee.ma
