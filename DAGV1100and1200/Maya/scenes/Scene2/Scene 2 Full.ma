@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
 //Name: Scene 2 Full.ma
-//Last modified: Wed, Nov 12, 2025 12:11:38 AM
+//Last modified: Tue, Nov 18, 2025 12:25:38 AM
 //Codeset: 1252
 file -rdi 1 -ns "Boot" -rfn "BootRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
 file -rdi 1 -ns "Boot1" -rfn "BootRN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
@@ -77,6 +77,173 @@ file -rdi 1 -ns "Boot71" -rfn "BootRN71" -typ "mayaAscii" "D:/Users/Gracie/Docum
 file -rdi 1 -ns "Boot72" -rfn "BootRN72" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
 file -rdi 1 -ns "Polish1" -rfn "PolishRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
 file -rdi 1 -ns "Polish2" -rfn "Polish1RN" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish3" -rfn "Polish1RN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish4" -rfn "Polish1RN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish5" -rfn "Polish1RN3" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish6" -rfn "Polish1RN4" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish7" -rfn "Polish1RN5" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish8" -rfn "Polish1RN6" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish64" -rfn "Polish2RN" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish65" -rfn "Polish2RN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish66" -rfn "Polish2RN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish67" -rfn "Polish2RN3" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish68" -rfn "Polish2RN4" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish69" -rfn "Polish2RN5" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish71" -rfn "Polish69RN" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish219" -rfn "Polish69RN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish220" -rfn "Polish69RN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish221" -rfn "Polish69RN3" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish222" -rfn "Polish69RN4" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish223" -rfn "Polish69RN5" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish224" -rfn "Polish69RN6" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish225" -rfn "Polish69RN7" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish226" -rfn "Polish69RN8" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish227" -rfn "Polish69RN9" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish228" -rfn "Polish69RN10" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish229" -rfn "Polish69RN11" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish230" -rfn "Polish69RN12" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish231" -rfn "Polish69RN13" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish232" -rfn "Polish69RN14" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish233" -rfn "Polish69RN15" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish234" -rfn "Polish69RN16" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish235" -rfn "Polish69RN17" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish236" -rfn "Polish69RN18" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish237" -rfn "Polish69RN19" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish238" -rfn "Polish69RN20" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish239" -rfn "Polish69RN21" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish240" -rfn "Polish69RN22" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish241" -rfn "Polish69RN23" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish242" -rfn "Polish69RN24" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish243" -rfn "Polish69RN25" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish244" -rfn "Polish69RN26" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish245" -rfn "Polish69RN27" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish246" -rfn "Polish69RN28" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish247" -rfn "Polish69RN29" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish248" -rfn "Polish69RN30" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish249" -rfn "Polish69RN31" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish250" -rfn "Polish69RN32" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish251" -rfn "Polish69RN33" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish252" -rfn "Polish69RN34" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish253" -rfn "Polish69RN35" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish254" -rfn "Polish69RN36" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish255" -rfn "Polish69RN37" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish256" -rfn "Polish69RN38" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish257" -rfn "Polish69RN39" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish258" -rfn "Polish69RN40" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish259" -rfn "Polish69RN41" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish260" -rfn "Polish69RN42" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish261" -rfn "Polish69RN43" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish262" -rfn "Polish69RN44" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish263" -rfn "Polish69RN45" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish264" -rfn "Polish69RN46" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish265" -rfn "Polish69RN47" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish266" -rfn "Polish69RN48" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish267" -rfn "Polish69RN49" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish268" -rfn "Polish69RN50" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish269" -rfn "Polish69RN51" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish270" -rfn "Polish69RN52" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish271" -rfn "Polish69RN53" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish272" -rfn "Polish69RN54" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish273" -rfn "Polish69RN55" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish274" -rfn "Polish69RN56" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish275" -rfn "Polish69RN57" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish276" -rfn "Polish69RN58" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish277" -rfn "Polish69RN59" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish278" -rfn "Polish69RN60" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish279" -rfn "Polish69RN61" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish280" -rfn "Polish69RN62" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish281" -rfn "Polish69RN63" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish282" -rfn "Polish69RN64" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish283" -rfn "Polish69RN65" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish284" -rfn "Polish69RN66" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish285" -rfn "Polish69RN67" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish286" -rfn "Polish69RN68" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish287" -rfn "Polish69RN69" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish288" -rfn "Polish69RN70" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish289" -rfn "Polish69RN71" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish290" -rfn "Polish69RN72" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish291" -rfn "Polish69RN73" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish292" -rfn "Polish69RN74" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish293" -rfn "Polish69RN75" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish294" -rfn "Polish69RN76" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish295" -rfn "Polish69RN77" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish296" -rfn "Polish69RN78" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish297" -rfn "Polish69RN79" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish298" -rfn "Polish69RN80" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish299" -rfn "Polish69RN81" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish300" -rfn "Polish69RN82" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish301" -rfn "Polish69RN83" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish302" -rfn "Polish69RN84" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish303" -rfn "Polish69RN85" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish304" -rfn "Polish69RN86" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish305" -rfn "Polish69RN87" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish306" -rfn "Polish69RN88" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish307" -rfn "Polish69RN89" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish308" -rfn "Polish69RN90" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish309" -rfn "Polish69RN91" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish310" -rfn "Polish69RN92" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish311" -rfn "Polish69RN93" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish312" -rfn "Polish69RN94" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish313" -rfn "Polish69RN95" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish314" -rfn "Polish69RN96" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish315" -rfn "Polish69RN97" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish316" -rfn "Polish69RN98" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish317" -rfn "Polish69RN99" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish318" -rfn "Polish69RN100" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish319" -rfn "Polish69RN101" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish320" -rfn "Polish69RN102" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish321" -rfn "Polish69RN103" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish322" -rfn "Polish69RN104" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish323" -rfn "Polish69RN105" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish324" -rfn "Polish69RN106" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish325" -rfn "Polish69RN107" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish326" -rfn "Polish69RN108" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish327" -rfn "Polish69RN109" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish328" -rfn "Polish69RN110" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish329" -rfn "Polish69RN111" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish330" -rfn "Polish69RN112" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish331" -rfn "Polish69RN113" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish332" -rfn "Polish69RN114" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish333" -rfn "Polish69RN115" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish334" -rfn "Polish69RN116" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish335" -rfn "Polish69RN117" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish336" -rfn "Polish69RN118" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish337" -rfn "Polish69RN119" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish338" -rfn "Polish69RN120" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish339" -rfn "Polish69RN121" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish340" -rfn "Polish69RN122" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish341" -rfn "Polish69RN123" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish342" -rfn "Polish69RN124" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish343" -rfn "Polish69RN125" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish344" -rfn "Polish69RN126" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish345" -rfn "Polish69RN127" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish346" -rfn "Polish69RN128" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish347" -rfn "Polish69RN129" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish348" -rfn "Polish69RN130" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish349" -rfn "Polish69RN131" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish350" -rfn "Polish69RN132" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish351" -rfn "Polish69RN133" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish352" -rfn "Polish69RN134" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish353" -rfn "Polish69RN135" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish354" -rfn "Polish69RN136" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish355" -rfn "Polish69RN137" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish356" -rfn "Polish69RN138" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish357" -rfn "Polish69RN139" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish358" -rfn "Polish69RN140" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish359" -rfn "Polish69RN141" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish360" -rfn "Polish69RN142" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish361" -rfn "Polish69RN143" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish362" -rfn "Polish69RN144" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish363" -rfn "Polish69RN145" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish364" -rfn "Polish69RN146" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish365" -rfn "Polish69RN147" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish366" -rfn "Polish69RN148" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish367" -rfn "Polish69RN149" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish368" -rfn "Polish69RN150" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish369" -rfn "Polish69RN151" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish370" -rfn "Polish69RN152" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish371" -rfn "Polish69RN153" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -rdi 1 -ns "Polish372" -rfn "Polish69RN154" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
 file -r -ns "Boot" -dr 1 -rfn "BootRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
 file -r -ns "Boot1" -dr 1 -rfn "BootRN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
 file -r -ns "Boot2" -dr 1 -rfn "BootRN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
@@ -152,32 +319,200 @@ file -r -ns "Boot71" -dr 1 -rfn "BootRN71" -typ "mayaAscii" "D:/Users/Gracie/Doc
 file -r -ns "Boot72" -dr 1 -rfn "BootRN72" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Boot.ma";
 file -r -ns "Polish1" -dr 1 -rfn "PolishRN" -op "v=0;" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
 file -r -ns "Polish2" -dr 1 -rfn "Polish1RN" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish3" -dr 1 -rfn "Polish1RN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish4" -dr 1 -rfn "Polish1RN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish5" -dr 1 -rfn "Polish1RN3" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish6" -dr 1 -rfn "Polish1RN4" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish7" -dr 1 -rfn "Polish1RN5" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish8" -dr 1 -rfn "Polish1RN6" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish64" -dr 1 -rfn "Polish2RN" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish65" -dr 1 -rfn "Polish2RN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish66" -dr 1 -rfn "Polish2RN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish67" -dr 1 -rfn "Polish2RN3" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish68" -dr 1 -rfn "Polish2RN4" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish69" -dr 1 -rfn "Polish2RN5" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish71" -dr 1 -rfn "Polish69RN" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish219" -dr 1 -rfn "Polish69RN1" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish220" -dr 1 -rfn "Polish69RN2" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish221" -dr 1 -rfn "Polish69RN3" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish222" -dr 1 -rfn "Polish69RN4" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish223" -dr 1 -rfn "Polish69RN5" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish224" -dr 1 -rfn "Polish69RN6" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish225" -dr 1 -rfn "Polish69RN7" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish226" -dr 1 -rfn "Polish69RN8" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish227" -dr 1 -rfn "Polish69RN9" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish228" -dr 1 -rfn "Polish69RN10" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish229" -dr 1 -rfn "Polish69RN11" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish230" -dr 1 -rfn "Polish69RN12" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish231" -dr 1 -rfn "Polish69RN13" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish232" -dr 1 -rfn "Polish69RN14" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish233" -dr 1 -rfn "Polish69RN15" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish234" -dr 1 -rfn "Polish69RN16" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish235" -dr 1 -rfn "Polish69RN17" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish236" -dr 1 -rfn "Polish69RN18" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish237" -dr 1 -rfn "Polish69RN19" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish238" -dr 1 -rfn "Polish69RN20" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish239" -dr 1 -rfn "Polish69RN21" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish240" -dr 1 -rfn "Polish69RN22" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish241" -dr 1 -rfn "Polish69RN23" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish242" -dr 1 -rfn "Polish69RN24" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish243" -dr 1 -rfn "Polish69RN25" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish244" -dr 1 -rfn "Polish69RN26" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish245" -dr 1 -rfn "Polish69RN27" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish246" -dr 1 -rfn "Polish69RN28" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish247" -dr 1 -rfn "Polish69RN29" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish248" -dr 1 -rfn "Polish69RN30" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish249" -dr 1 -rfn "Polish69RN31" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish250" -dr 1 -rfn "Polish69RN32" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish251" -dr 1 -rfn "Polish69RN33" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish252" -dr 1 -rfn "Polish69RN34" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish253" -dr 1 -rfn "Polish69RN35" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish254" -dr 1 -rfn "Polish69RN36" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish255" -dr 1 -rfn "Polish69RN37" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish256" -dr 1 -rfn "Polish69RN38" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish257" -dr 1 -rfn "Polish69RN39" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish258" -dr 1 -rfn "Polish69RN40" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish259" -dr 1 -rfn "Polish69RN41" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish260" -dr 1 -rfn "Polish69RN42" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish261" -dr 1 -rfn "Polish69RN43" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish262" -dr 1 -rfn "Polish69RN44" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish263" -dr 1 -rfn "Polish69RN45" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish264" -dr 1 -rfn "Polish69RN46" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish265" -dr 1 -rfn "Polish69RN47" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish266" -dr 1 -rfn "Polish69RN48" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish267" -dr 1 -rfn "Polish69RN49" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish268" -dr 1 -rfn "Polish69RN50" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish269" -dr 1 -rfn "Polish69RN51" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish270" -dr 1 -rfn "Polish69RN52" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish271" -dr 1 -rfn "Polish69RN53" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish272" -dr 1 -rfn "Polish69RN54" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish273" -dr 1 -rfn "Polish69RN55" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish274" -dr 1 -rfn "Polish69RN56" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish275" -dr 1 -rfn "Polish69RN57" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish276" -dr 1 -rfn "Polish69RN58" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish277" -dr 1 -rfn "Polish69RN59" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish278" -dr 1 -rfn "Polish69RN60" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish279" -dr 1 -rfn "Polish69RN61" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish280" -dr 1 -rfn "Polish69RN62" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish281" -dr 1 -rfn "Polish69RN63" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish282" -dr 1 -rfn "Polish69RN64" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish283" -dr 1 -rfn "Polish69RN65" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish284" -dr 1 -rfn "Polish69RN66" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish285" -dr 1 -rfn "Polish69RN67" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish286" -dr 1 -rfn "Polish69RN68" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish287" -dr 1 -rfn "Polish69RN69" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish288" -dr 1 -rfn "Polish69RN70" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish289" -dr 1 -rfn "Polish69RN71" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish290" -dr 1 -rfn "Polish69RN72" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish291" -dr 1 -rfn "Polish69RN73" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish292" -dr 1 -rfn "Polish69RN74" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish293" -dr 1 -rfn "Polish69RN75" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish294" -dr 1 -rfn "Polish69RN76" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish295" -dr 1 -rfn "Polish69RN77" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish296" -dr 1 -rfn "Polish69RN78" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish297" -dr 1 -rfn "Polish69RN79" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish298" -dr 1 -rfn "Polish69RN80" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish299" -dr 1 -rfn "Polish69RN81" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish300" -dr 1 -rfn "Polish69RN82" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish301" -dr 1 -rfn "Polish69RN83" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish302" -dr 1 -rfn "Polish69RN84" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish303" -dr 1 -rfn "Polish69RN85" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish304" -dr 1 -rfn "Polish69RN86" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish305" -dr 1 -rfn "Polish69RN87" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish306" -dr 1 -rfn "Polish69RN88" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish307" -dr 1 -rfn "Polish69RN89" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish308" -dr 1 -rfn "Polish69RN90" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish309" -dr 1 -rfn "Polish69RN91" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish310" -dr 1 -rfn "Polish69RN92" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish311" -dr 1 -rfn "Polish69RN93" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish312" -dr 1 -rfn "Polish69RN94" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish313" -dr 1 -rfn "Polish69RN95" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish314" -dr 1 -rfn "Polish69RN96" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish315" -dr 1 -rfn "Polish69RN97" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish316" -dr 1 -rfn "Polish69RN98" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish317" -dr 1 -rfn "Polish69RN99" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish318" -dr 1 -rfn "Polish69RN100" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish319" -dr 1 -rfn "Polish69RN101" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish320" -dr 1 -rfn "Polish69RN102" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish321" -dr 1 -rfn "Polish69RN103" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish322" -dr 1 -rfn "Polish69RN104" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish323" -dr 1 -rfn "Polish69RN105" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish324" -dr 1 -rfn "Polish69RN106" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish325" -dr 1 -rfn "Polish69RN107" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish326" -dr 1 -rfn "Polish69RN108" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish327" -dr 1 -rfn "Polish69RN109" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish328" -dr 1 -rfn "Polish69RN110" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish329" -dr 1 -rfn "Polish69RN111" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish330" -dr 1 -rfn "Polish69RN112" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish331" -dr 1 -rfn "Polish69RN113" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish332" -dr 1 -rfn "Polish69RN114" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish333" -dr 1 -rfn "Polish69RN115" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish334" -dr 1 -rfn "Polish69RN116" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish335" -dr 1 -rfn "Polish69RN117" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish336" -dr 1 -rfn "Polish69RN118" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish337" -dr 1 -rfn "Polish69RN119" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish338" -dr 1 -rfn "Polish69RN120" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish339" -dr 1 -rfn "Polish69RN121" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish340" -dr 1 -rfn "Polish69RN122" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish341" -dr 1 -rfn "Polish69RN123" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish342" -dr 1 -rfn "Polish69RN124" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish343" -dr 1 -rfn "Polish69RN125" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish344" -dr 1 -rfn "Polish69RN126" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish345" -dr 1 -rfn "Polish69RN127" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish346" -dr 1 -rfn "Polish69RN128" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish347" -dr 1 -rfn "Polish69RN129" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish348" -dr 1 -rfn "Polish69RN130" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish349" -dr 1 -rfn "Polish69RN131" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish350" -dr 1 -rfn "Polish69RN132" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish351" -dr 1 -rfn "Polish69RN133" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish352" -dr 1 -rfn "Polish69RN134" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish353" -dr 1 -rfn "Polish69RN135" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish354" -dr 1 -rfn "Polish69RN136" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish355" -dr 1 -rfn "Polish69RN137" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish356" -dr 1 -rfn "Polish69RN138" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish357" -dr 1 -rfn "Polish69RN139" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish358" -dr 1 -rfn "Polish69RN140" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish359" -dr 1 -rfn "Polish69RN141" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish360" -dr 1 -rfn "Polish69RN142" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish361" -dr 1 -rfn "Polish69RN143" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish362" -dr 1 -rfn "Polish69RN144" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish363" -dr 1 -rfn "Polish69RN145" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish364" -dr 1 -rfn "Polish69RN146" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish365" -dr 1 -rfn "Polish69RN147" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish366" -dr 1 -rfn "Polish69RN148" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish367" -dr 1 -rfn "Polish69RN149" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish368" -dr 1 -rfn "Polish69RN150" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish369" -dr 1 -rfn "Polish69RN151" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish370" -dr 1 -rfn "Polish69RN152" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish371" -dr 1 -rfn "Polish69RN153" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
+file -r -ns "Polish372" -dr 1 -rfn "Polish69RN154" -typ "mayaAscii" "D:/Users/Gracie/Documents/GitHub/Essentials/DAGV1100and1200/Maya/scenes/Scene2/Polish.ma";
 requires maya "2026";
 requires "stereoCamera" "10.0";
 requires "mtoa" "5.5.3";
 requires -nodeType "renderSetup" "renderSetup.py" "1.0";
+requires "stereoCamera" "10.0";
 currentUnit -l centimeter -a degree -t film;
 fileInfo "application" "maya";
 fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202507081222-4d6919b75c";
 fileInfo "osv" "Windows 11 Pro N v2009 (Build: 26100)";
-fileInfo "UUID" "F0CE4890-426F-9994-AE13-74B65F6EFFBC";
+fileInfo "UUID" "A81BF7B3-4442-B454-BD6F-B89DD7B0D27B";
 createNode transform -s -n "persp";
 	rename -uid "9F7A27DB-4F0D-5796-E744-DF8794A876FE";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 3.5837219004307603 -32.974148501614472 28.582342299391932 ;
-	setAttr ".r" -type "double3" 46.800000000014265 0 -723.99999999990098 ;
+	setAttr ".t" -type "double3" 621.60565965063233 307.99782381265669 147.94797176636445 ;
+	setAttr ".r" -type "double3" 58.200000000024254 0 -1131.9999999996521 ;
 	setAttr ".rpt" -type "double3" -1.5373183138481998e-15 9.8775363027951518e-16 -1.2927062767575122e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "DB55C1DF-4E52-B8D2-227A-75AE321DAA6A";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 19.574601345712733;
+	setAttr ".coi" 97.338486532399202;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
-	setAttr ".tp" -type "double3" 9.7976977947474779 3.4106051316484809e-13 191.79622358706655 ;
+	setAttr ".tp" -type "double3" 651.68375715944853 288.2811215712091 116.97427393722535 ;
 	setAttr ".hc" -type "string" "viewSet -p %camera";
 createNode transform -s -n "top";
 	rename -uid "DB095C52-4CB0-33B8-F97A-669B09FE920B";
@@ -240,12 +575,44 @@ createNode mesh -n "FloorShape" -p "Floor";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
+	setAttr -s 6 ".gtag";
+	setAttr ".gtag[0].gtagnm" -type "string" "back";
+	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[1]";
+	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
+	setAttr ".gtag[1].gtagcmp" -type "componentList" 0;
+	setAttr ".gtag[2].gtagnm" -type "string" "front";
+	setAttr ".gtag[2].gtagcmp" -type "componentList" 0;
+	setAttr ".gtag[3].gtagnm" -type "string" "left";
+	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[2]";
+	setAttr ".gtag[4].gtagnm" -type "string" "right";
+	setAttr ".gtag[4].gtagcmp" -type "componentList" 0;
+	setAttr ".gtag[5].gtagnm" -type "string" "top";
+	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[0]";
 	setAttr ".pv" -type "double2" 0.25 0.375 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
+	setAttr -s 9 ".uvst[0].uvsp[0:8]" -type "float2" 0.375 0 0.375 0.25
+		 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.125 0 0.125 0.25;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
+	setAttr -s 7 ".vt[0:6]"  -1130.18139648 -1130.18139648 167.63999939
+		 -1130.18139648 1130.18139648 167.63999939 1130.18139648 1130.18139648 167.63999939
+		 -1130.18139648 1130.18139648 -167.63999939 1130.18139648 1130.18139648 -167.63999939
+		 -1130.18139648 -1130.18139648 -167.63999939 1130.18139648 -1130.18139648 -167.63999939;
+	setAttr -s 9 ".ed[0:8]"  1 2 0 3 4 0 5 6 0 0 1 0 1 3 0 2 4 0 3 5 0
+		 4 6 0 5 0 0;
+	setAttr -s 3 -ch 12 ".fc[0:2]" -type "polyFaces" 
+		f 4 4 1 -6 -1
+		mu 0 4 1 3 4 2
+		f 4 6 2 -8 -2
+		mu 0 4 3 5 6 4
+		f 4 -7 -5 -4 -9
+		mu 0 4 7 8 1 0;
+	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
+	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
+	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
+	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 createNode transform -n "Stairs";
 	rename -uid "E95C8E04-4B33-5BAE-D31F-168608B7746D";
 	setAttr ".t" -type "double3" -495.65164418886036 -724.51611510093664 38.049999237060547 ;
@@ -257,72 +624,204 @@ createNode mesh -n "StairsShape" -p "Stairs";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
+	setAttr -s 6 ".gtag";
+	setAttr ".gtag[0].gtagnm" -type "string" "back";
+	setAttr ".gtag[0].gtagcmp" -type "componentList" 6 "f[2]" "f[18]" "f[26]" "f[34]" "f[44]" "f[50]";
+	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
+	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
+	setAttr ".gtag[2].gtagnm" -type "string" "front";
+	setAttr ".gtag[2].gtagcmp" -type "componentList" 8 "f[0]" "f[10:15]" "f[21:23]" "f[29:31]" "f[37]" "f[39:41]" "f[46:47]" "f[53:93]";
+	setAttr ".gtag[3].gtagnm" -type "string" "left";
+	setAttr ".gtag[3].gtagcmp" -type "componentList" 6 "f[5]" "f[17]" "f[25]" "f[33]" "f[43]" "f[49]";
+	setAttr ".gtag[4].gtagnm" -type "string" "right";
+	setAttr ".gtag[4].gtagcmp" -type "componentList" 6 "f[4]" "f[19]" "f[27]" "f[35]" "f[45]" "f[51]";
+	setAttr ".gtag[5].gtagnm" -type "string" "top";
+	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
 	setAttr ".pv" -type "double2" 0.5 0.5 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
+	setAttr -s 44 ".uvst[0].uvsp[0:43]" -type "float2" 0.375 0 0.625 0 0.375
+		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
+		 0.875 0.25 0.125 0 0.125 0.25 0.375 0.20847172 0.125 0.20847172 0.375 0.54152828
+		 0.625 0.54152828 0.875 0.20847172 0.625 0.20847172 0.375 0.17257424 0.125 0.17257424
+		 0.375 0.57742578 0.625 0.57742578 0.875 0.17257424 0.625 0.17257424 0.375 0.13308232
+		 0.125 0.13308232 0.375 0.61691767 0.625 0.61691767 0.875 0.13308232 0.625 0.13308232
+		 0.625 0.090152331 0.375 0.090152331 0.125 0.090152331 0.375 0.65984768 0.625 0.65984768
+		 0.875 0.090152331 0.375 0.051028099 0.125 0.051028099 0.375 0.69897187 0.625 0.69897187
+		 0.875 0.051028099 0.625 0.051028099;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
 	setAttr -s 4 ".pt[92:95]" -type "float3"  0 0 78.881073 0 0 78.881073 
 		0 0 78.881073 0 0 78.881073;
-createNode mesh -n "polySurfaceShape2" -p "Stairs";
-	rename -uid "8254DAEB-4B21-F7A2-E96F-E796DE175A22";
-	setAttr -k off ".v";
-	setAttr ".io" yes;
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".pv" -type "double2" 0.5 0.5 ;
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 6 ".pt";
-	setAttr ".pt[2]" -type "float3" 0 -9.5367432e-07 0 ;
-	setAttr ".pt[3]" -type "float3" 0 -9.5367432e-07 0 ;
-	setAttr ".pt[8]" -type "float3" 0 0 -1.5258789e-05 ;
-	setAttr ".pt[9]" -type "float3" 0 0 -1.5258789e-05 ;
-	setAttr ".pt[10]" -type "float3" 0 -9.5367432e-07 -1.5258789e-05 ;
-	setAttr ".pt[11]" -type "float3" 0 -9.5367432e-07 -1.5258789e-05 ;
-	setAttr -s 12 ".vt[0:11]"  -91.44998169 -36.79997253 38.049999237 91.44998169 -36.79997253 38.049999237
+	setAttr -s 96 ".vt[0:95]"  -91.44998169 -36.79997253 38.049999237 91.44998169 -36.79997253 38.049999237
 		 -91.44998169 36.80000305 38.049999237 91.44998169 36.80000305 38.049999237 -91.44998169 36.80000305 -38.049999237
 		 91.44998169 36.80000305 -38.049999237 -91.44998169 -36.79997253 -38.049999237 91.44998169 -36.79997253 -38.049999237
-		 -91.44998169 -36.79997253 38.049999237 91.44998169 -36.79997253 38.049999237 91.44998169 36.80000305 38.049999237
-		 -91.44998169 36.80000305 38.049999237;
-	setAttr -s 20 ".ed[0:19]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0 0 8 0 1 9 0 8 9 0 3 10 0 9 10 0 2 11 0 11 10 0 8 11 0;
-	setAttr -s 10 -ch 40 ".fc[0:9]" -type "polyFaces" 
-		f 4 14 16 -19 -20
+		 -91.44998169 -36.79997253 38.049983978 91.44998169 -36.79997253 38.049983978 91.44998169 36.80000305 38.049983978
+		 -91.44998169 36.80000305 38.049983978 -91.44998169 -36.79997253 39.040935516 91.44998169 -36.79997253 39.040935516
+		 91.44998169 36.80000305 39.040935516 -91.44998169 36.80000305 39.040935516 91.44998169 24.57409668 39.040935516
+		 -91.44998169 24.57409668 39.040935516 -91.44998169 24.57409668 38.049983978 -91.44998169 24.57409668 38.049999237
+		 -91.44998169 24.57409668 -38.049999237 91.44998169 24.57409668 -38.049999237 91.44998169 24.57409668 38.049999237
+		 91.44998169 24.57409668 38.049983978 91.44998169 14.0058746338 39.040935516 -91.44998169 14.0058746338 39.040935516
+		 -91.44998169 14.0058746338 38.049983978 -91.44998169 14.0058746338 38.049999237 -91.44998169 14.0058746338 -38.049999237
+		 91.44998169 14.0058746338 -38.049999237 91.44998169 14.0058746338 38.049999237 91.44998169 14.0058746338 38.049983978
+		 91.44998169 2.37947083 39.040935516 -91.44998169 2.37947083 39.040935516 -91.44998169 2.37947083 38.049983978
+		 -91.44998169 2.37947083 38.049999237 -91.44998169 2.37947083 -38.049999237 91.44998169 2.37947083 -38.049999237
+		 91.44998169 2.37947083 38.049999237 91.44998169 2.37947083 38.049983978 91.44998169 -10.2591095 38.049999237
+		 91.44998169 -10.2591095 38.049983978 91.44998169 -10.2591095 39.040935516 -91.44998169 -10.2591095 39.040935516
+		 -91.44998169 -10.2591095 38.049983978 -91.44998169 -10.2591095 38.049999237 -91.44998169 -10.2591095 -38.049999237
+		 91.44998169 -10.2591095 -38.049999237 91.44998169 -21.77729797 39.040935516 -91.44998169 -21.77729797 39.040935516
+		 -91.44998169 -21.77729797 38.049983978 -91.44998169 -21.77729797 38.049999237 -91.44998169 -21.77729797 -38.049999237
+		 91.44998169 -21.77729797 -38.049999237 91.44998169 -21.77729797 38.049999237 91.44998169 -21.77729797 38.049983978
+		 -91.44998169 -36.79997253 105.34747314 91.44998169 -36.79997253 105.34747314 91.44998169 -21.77729797 105.34747314
+		 -91.44998169 -21.77729797 105.34747314 91.44998169 14.0058746338 105.34747314 -91.44998169 14.0058746338 105.34747314
+		 91.44998169 24.57409668 105.34747314 -91.44998169 24.57409668 105.34747314 91.44998169 2.37947083 105.34747314
+		 -91.44998169 2.37947083 105.34747314 91.44998169 -10.2591095 105.34747314 -91.44998169 -10.2591095 105.34747314
+		 -91.44998169 -36.79997253 169.37167358 91.44998169 -36.79997253 169.37167358 91.44998169 -21.77729797 169.37167358
+		 -91.44998169 -21.77729797 169.37167358 91.44998169 2.37947083 169.37167358 -91.44998169 2.37947083 169.37167358
+		 91.44998169 14.0058746338 169.37167358 -91.44998169 14.0058746338 169.37167358 91.44998169 -10.2591095 169.37167358
+		 -91.44998169 -10.2591095 169.37167358 -91.44998169 -36.79997253 245.78547668 91.44998169 -36.79997253 245.78547668
+		 91.44998169 -21.77729797 245.78547668 -91.44998169 -21.77729797 245.78547668 91.44998169 -10.2591095 245.78547668
+		 -91.44998169 -10.2591095 245.78547668 91.44998169 2.37947083 245.78547668 -91.44998169 2.37947083 245.78547668
+		 -91.44998169 -36.79997253 325.55438232 91.44998169 -36.79997253 325.55438232 91.44998169 -21.77729797 325.55438232
+		 -91.44998169 -21.77729797 325.55438232 91.44998169 -10.2591095 325.55438232 -91.44998169 -10.2591095 325.55438232
+		 -91.44998169 -36.79997253 325.55438232 91.44998169 -36.79997253 325.55438232 91.44998169 -21.77729797 325.55438232
+		 -91.44998169 -21.77729797 325.55438232;
+	setAttr -s 188 ".ed";
+	setAttr ".ed[0:165]"  0 1 0 2 3 0 4 5 0 6 7 0 0 51 0 1 54 0 2 4 0 3 5 0 4 20 0
+		 5 21 0 6 0 0 7 1 0 0 8 0 1 9 0 8 9 0 3 10 0 9 55 0 2 11 0 11 10 0 8 50 0 8 12 0 9 13 0
+		 12 13 0 10 14 0 13 48 0 11 15 0 15 14 0 12 49 0 16 14 0 17 15 0 16 17 0 18 11 0 17 18 1
+		 19 2 0 18 19 1 20 28 0 19 20 1 21 29 0 20 21 1 22 3 0 21 22 1 23 10 0 22 23 1 23 16 1
+		 24 16 0 25 17 0 26 18 0 25 26 1 27 19 0 26 27 1 28 36 0 27 28 1 29 37 0 28 29 1 30 22 0
+		 29 30 1 31 23 0 30 31 1 31 24 1 32 24 0 33 25 0 34 26 0 33 34 1 35 27 0 34 35 1 36 46 0
+		 35 36 1 37 47 0 36 37 1 38 30 0 37 38 1 39 31 0 38 39 1 39 32 1 40 38 0 41 39 0 40 41 1
+		 42 32 0 41 42 1 43 33 0 44 34 0 43 44 1 45 35 0 44 45 1 46 52 0 45 46 1 47 53 0 46 47 1
+		 47 40 1 48 42 0 49 43 0 50 44 0 49 50 1 51 45 0 50 51 1 52 6 0 51 52 1 53 7 0 52 53 1
+		 54 40 0 53 54 1 55 41 0 54 55 1 55 48 1 12 56 0 13 57 0 56 57 0 48 58 0 57 58 0 49 59 0
+		 56 59 0 24 60 0 25 61 0 60 61 0 16 62 0 60 62 0 17 63 0 62 63 0 61 63 0 32 64 0 33 65 0
+		 64 60 0 65 61 0 42 66 0 43 67 0 66 64 0 67 65 0 58 66 0 59 67 0 56 68 0 57 69 0 68 69 0
+		 58 70 0 69 70 0 59 71 0 68 71 0 64 72 0 65 73 0 72 73 0 60 74 0 72 74 0 61 75 0 74 75 0
+		 73 75 0 66 76 0 67 77 0 76 72 0 77 73 0 70 76 0 71 77 0 68 78 0 69 79 0 78 79 0 70 80 0
+		 79 80 0 71 81 0 78 81 0 76 82 0 77 83 0 82 83 0 72 84 0 82 84 0 73 85 0 84 85 0 83 85 0
+		 80 82 0;
+	setAttr ".ed[166:187]" 81 83 0 78 86 0 79 87 0 86 87 0 80 88 0 87 88 0 81 89 0
+		 88 89 0 86 89 0 82 90 0 88 90 0 83 91 0 90 91 0 89 91 0 86 92 0 87 93 0 92 93 0 88 94 0
+		 93 94 0 89 95 0 94 95 0 92 95 0;
+	setAttr -s 94 -ch 376 ".fc[0:93]" -type "polyFaces" 
+		f 4 182 184 186 -188
 		f 4 1 7 -3 -7
 		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
+		f 4 98 97 -4 -96
+		mu 0 4 40 41 7 6
 		f 4 3 11 -1 -11
 		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13
+		f 4 -12 -98 100 -6
+		mu 0 4 1 10 42 43
+		f 4 10 4 96 95
+		mu 0 4 12 0 38 39
 		f 4 0 13 -15 -13
-		f 4 5 15 -17 -14
+		f 4 5 102 -17 -14
 		f 4 -2 17 18 -16
-		f 4 -5 12 19 -18;
+		f 4 -5 12 19 94
+		f 4 14 21 -23 -21
+		f 4 16 103 -25 -22
+		f 4 -19 25 26 -24
+		f 4 -20 20 27 92
+		f 4 -31 28 -27 -30
+		f 4 -32 -33 29 -26
+		f 4 -34 -35 31 -18
+		f 4 -37 33 6 8
+		mu 0 4 15 14 2 13
+		f 4 2 9 -39 -9
+		mu 0 4 4 5 17 16
+		f 4 -41 -10 -8 -40
+		mu 0 4 19 18 11 3
+		f 4 -43 39 15 -42
+		f 4 -44 41 23 -29
+		f 4 -114 115 117 -119
+		f 4 -47 -48 45 32
+		f 4 -49 -50 46 34
+		f 4 -52 48 36 35
+		mu 0 4 21 20 14 15
+		f 4 38 37 -54 -36
+		mu 0 4 16 17 23 22
+		f 4 -56 -38 40 -55
+		mu 0 4 25 24 18 19
+		f 4 -58 54 42 -57
+		f 4 -59 56 43 -45
+		f 4 -139 140 142 -144
+		f 4 -62 -63 60 47
+		f 4 -64 -65 61 49
+		f 4 -67 63 51 50
+		mu 0 4 27 26 20 21
+		f 4 53 52 -69 -51
+		mu 0 4 22 23 29 28
+		f 4 -71 -53 55 -70
+		mu 0 4 31 30 24 25
+		f 4 -73 69 57 -72
+		f 4 -74 71 58 -60
+		f 4 74 72 -76 -77
+		f 4 -79 75 73 -78
+		f 4 -160 161 163 -165
+		f 4 -81 -82 79 62
+		f 4 -83 -84 80 64
+		f 4 -86 82 66 65
+		mu 0 4 34 33 26 27
+		f 4 68 67 -88 -66
+		mu 0 4 28 29 36 35
+		f 4 -89 -68 70 -75
+		mu 0 4 32 37 30 31
+		f 4 -174 176 178 -180
+		f 4 -92 -93 90 81
+		f 4 -94 -95 91 83
+		f 4 -97 93 85 84
+		mu 0 4 39 38 33 34
+		f 4 87 86 -99 -85
+		mu 0 4 35 36 41 40
+		f 4 -101 -87 88 -100
+		mu 0 4 43 42 37 32
+		f 4 -103 99 76 -102
+		f 4 -104 101 78 -90
+		f 4 22 105 -107 -105
+		f 4 24 107 -109 -106
+		f 4 -28 104 110 -110
+		f 4 44 114 -116 -112
+		f 4 30 116 -118 -115
+		f 4 -46 112 118 -117
+		f 4 59 111 -122 -120
+		f 4 -61 120 122 -113
+		f 4 77 119 -126 -124
+		f 4 -80 124 126 -121
+		f 4 89 123 -128 -108
+		f 4 -91 109 128 -125
+		f 4 106 130 -132 -130
+		f 4 108 132 -134 -131
+		f 4 -111 129 135 -135
+		f 4 121 139 -141 -137
+		f 4 113 141 -143 -140
+		f 4 -123 137 143 -142
+		f 4 125 136 -147 -145
+		f 4 -127 145 147 -138
+		f 4 127 144 -149 -133
+		f 4 -129 134 149 -146
+		f 4 131 151 -153 -151
+		f 4 133 153 -155 -152
+		f 4 -136 150 156 -156
+		f 4 146 160 -162 -158
+		f 4 138 162 -164 -161
+		f 4 -148 158 164 -163
+		f 4 148 157 -166 -154
+		f 4 -150 155 166 -159
+		f 4 152 168 -170 -168
+		f 4 154 170 -172 -169
+		f 4 -157 167 174 -173
+		f 4 165 175 -177 -171
+		f 4 159 177 -179 -176
+		f 4 -167 172 179 -178
+		f 4 169 181 -183 -181
+		f 4 171 183 -185 -182
+		f 4 173 185 -187 -184
+		f 4 -175 180 187 -186;
 	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
 	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
 	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
@@ -9541,7 +10040,7 @@ createNode transform -n "Object40" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object40Shape" -p "|BoloTies|Object40";
+createNode mesh -n "Object40Shape" -p "Object40";
 	rename -uid "DE91E6B8-425E-1E65-60FB-658303076F62";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9599,7 +10098,7 @@ createNode transform -n "Object41" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object41Shape" -p "|BoloTies|Object41";
+createNode mesh -n "Object41Shape" -p "Object41";
 	rename -uid "CAD748D5-48B8-7B8B-B603-4A9705A88911";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9657,7 +10156,7 @@ createNode transform -n "Object42" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object42Shape" -p "|BoloTies|Object42";
+createNode mesh -n "Object42Shape" -p "Object42";
 	rename -uid "7A7ED960-421A-A91F-3501-A09613D8D90E";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9715,7 +10214,7 @@ createNode transform -n "Object43" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object43Shape" -p "|BoloTies|Object43";
+createNode mesh -n "Object43Shape" -p "Object43";
 	rename -uid "107D7466-47B4-28F9-A7F9-769D05A1840F";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9773,7 +10272,7 @@ createNode transform -n "Object44" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object44Shape" -p "|BoloTies|Object44";
+createNode mesh -n "Object44Shape" -p "Object44";
 	rename -uid "45AB669C-41A3-3BA0-BD0A-619842E73539";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9831,7 +10330,7 @@ createNode transform -n "Object45" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object45Shape" -p "|BoloTies|Object45";
+createNode mesh -n "Object45Shape" -p "Object45";
 	rename -uid "DCB6D039-4162-E72F-C086-90ABAE380152";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9889,7 +10388,7 @@ createNode transform -n "Object46" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object46Shape" -p "|BoloTies|Object46";
+createNode mesh -n "Object46Shape" -p "Object46";
 	rename -uid "B75DAA74-4A07-A24F-07F9-5A8E690F552F";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -9947,7 +10446,7 @@ createNode transform -n "Object47" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object47Shape" -p "|BoloTies|Object47";
+createNode mesh -n "Object47Shape" -p "Object47";
 	rename -uid "46C5A60C-4A1B-E860-4997-93AE57C27C10";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10062,7 +10561,7 @@ createNode transform -n "Object48" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object48Shape" -p "|BoloTies|Object48";
+createNode mesh -n "Object48Shape" -p "Object48";
 	rename -uid "9288875D-4FF9-E6D0-BBF7-E2B2406B296E";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10120,7 +10619,7 @@ createNode transform -n "Object49" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object49Shape" -p "|BoloTies|Object49";
+createNode mesh -n "Object49Shape" -p "Object49";
 	rename -uid "C877C4F2-4A46-64C0-8823-A1AEEFB46D80";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10178,7 +10677,7 @@ createNode transform -n "Object50" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object50Shape" -p "|BoloTies|Object50";
+createNode mesh -n "Object50Shape" -p "Object50";
 	rename -uid "4518B0E9-4310-AD74-DB0F-1DB469B97D8A";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10236,7 +10735,7 @@ createNode transform -n "Object51" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object51Shape" -p "|BoloTies|Object51";
+createNode mesh -n "Object51Shape" -p "Object51";
 	rename -uid "A6C75CC6-4523-EDE7-4AEE-BC8990FCD98E";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10294,7 +10793,7 @@ createNode transform -n "Object52" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object52Shape" -p "|BoloTies|Object52";
+createNode mesh -n "Object52Shape" -p "Object52";
 	rename -uid "11F953FC-4EE2-5406-C25F-5D8E78030998";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10352,7 +10851,7 @@ createNode transform -n "Object53" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object53Shape" -p "|BoloTies|Object53";
+createNode mesh -n "Object53Shape" -p "Object53";
 	rename -uid "819F6A72-4728-C9D6-BEAC-39A44365C67A";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10410,7 +10909,7 @@ createNode transform -n "Object54" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object54Shape" -p "|BoloTies|Object54";
+createNode mesh -n "Object54Shape" -p "Object54";
 	rename -uid "232E7381-48E8-5153-BFBB-12B05408C910";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -10468,7 +10967,7 @@ createNode transform -n "Object55" -p "BoloTies";
 	setAttr ".s" -type "double3" 0.66807573871383819 0.45026378114039406 0.45026378114039406 ;
 	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
 	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object55Shape" -p "|BoloTies|Object55";
+createNode mesh -n "Object55Shape" -p "Object55";
 	rename -uid "64C49AA1-462E-9FCC-51C0-F8B6812AD9F0";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -13907,3316 +14406,6 @@ createNode mesh -n "Object115Shape" -p "Object115";
 	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
 	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Polish";
-	rename -uid "1FEAF20D-4724-B047-EC3A-30A2C2C5BA22";
-	setAttr ".t" -type "double3" 1069.6711999451393 613.69788106337762 0 ;
-createNode transform -n "Object40" -p "Polish";
-	rename -uid "7A6C028D-46E0-BC28-C330-5FB0DB42F2F9";
-	setAttr ".t" -type "double3" 133.7719240115444 155.2032818534698 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object40Shape" -p "|Polish|Object40";
-	rename -uid "825055FF-47E2-22CB-18EA-0BBCD8EF1F0E";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object41" -p "Polish";
-	rename -uid "15C34670-4DDC-1A96-8D3E-D5AC92ECCA41";
-	setAttr ".t" -type "double3" 133.77192401154429 142.24882763593925 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object41Shape" -p "|Polish|Object41";
-	rename -uid "CDEE4913-4A1E-BF01-4E8F-D48D7ADE88F7";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object42" -p "Polish";
-	rename -uid "D3956FF9-4CAC-6F4B-AEE8-71B93EA9C31A";
-	setAttr ".t" -type "double3" 133.77192401154429 128.61667500193875 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object42Shape" -p "|Polish|Object42";
-	rename -uid "40321BEC-4AD1-3691-2861-73A4920F3DC7";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object43" -p "Polish";
-	rename -uid "95726FF9-4290-D6FB-3CE9-BEAE3932BE72";
-	setAttr ".t" -type "double3" 133.77192401154429 115.48842707760522 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object43Shape" -p "|Polish|Object43";
-	rename -uid "59B17378-4DE6-E135-68B4-16B7D07ECB95";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object44" -p "Polish";
-	rename -uid "57CD8DD4-4478-47C3-02CC-4B8B735365F1";
-	setAttr ".t" -type "double3" 133.77192401154429 102.73196413323407 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object44Shape" -p "|Polish|Object44";
-	rename -uid "56790653-4291-5941-E37B-0EAE97842569";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object45" -p "Polish";
-	rename -uid "465C47BB-44D0-EC96-5DD9-DB9C750D2523";
-	setAttr ".t" -type "double3" 133.77192401154429 90.197267393426074 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object45Shape" -p "|Polish|Object45";
-	rename -uid "4EF0978F-419E-F157-AD98-BEA85F1A2E16";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object46" -p "Polish";
-	rename -uid "F3950AB1-4E03-81E9-FF30-1C810F7485E5";
-	setAttr ".t" -type "double3" 133.77192401154429 76.380563267225796 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object46Shape" -p "|Polish|Object46";
-	rename -uid "24E4B3CD-413B-C48E-AC6A-D9835D25691F";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object47" -p "Polish";
-	rename -uid "4BE3F1BE-4E07-6EFE-AEF2-6DB94B489FA7";
-	setAttr ".t" -type "double3" 133.77192401154429 62.570570409294504 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object47Shape" -p "|Polish|Object47";
-	rename -uid "0C14FA5E-4865-BEE3-87F4-43815C0F40AA";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Table20" -p "Polish";
-	rename -uid "F32FCE1F-4EE3-36F5-147A-8AB39F4EAD37";
-	setAttr ".t" -type "double3" -370.00000000000011 -330.09289383436044 150.54999923706055 ;
-	setAttr ".r" -type "double3" 0 0 90 ;
-	setAttr ".s" -type "double3" 1 0.49981702540718709 0.27302992574887419 ;
-	setAttr ".rp" -type "double3" 0 0 -38.049999237060547 ;
-	setAttr ".sp" -type "double3" 0 0 -38.049999237060547 ;
-createNode mesh -n "TableShape20" -p "|Polish|Table20";
-	rename -uid "11ECBDC8-4670-334A-B110-87A3421C360E";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".pv" -type "double2" 0.5 0.5 ;
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 4 ".pt[0:3]" -type "float3"  2.2737368e-13 4.5474735e-13 
-		-44.765167 2.2737368e-13 4.5474735e-13 -44.765167 1.1368684e-13 2.2737368e-13 -49.774635 
-		1.1368684e-13 2.2737368e-13 -49.774635;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object48" -p "Polish";
-	rename -uid "72751853-4DCF-0D25-C9E0-87AD306417EC";
-	setAttr ".t" -type "double3" 168.24643923669777 155.20328185347003 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object48Shape" -p "|Polish|Object48";
-	rename -uid "4DE5746F-4B18-4067-F5FA-56901F62936F";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object49" -p "Polish";
-	rename -uid "AB374550-44AC-02CE-1EB4-E3A216403703";
-	setAttr ".t" -type "double3" 168.24643923669765 142.24882763593948 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object49Shape" -p "|Polish|Object49";
-	rename -uid "2DFC2057-4C58-4789-AD51-2697028FE731";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object50" -p "Polish";
-	rename -uid "A3E35C93-42FB-0DF4-F457-4FBDFB8AA4EE";
-	setAttr ".t" -type "double3" 168.24643923669765 128.61667500193897 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object50Shape" -p "|Polish|Object50";
-	rename -uid "8A06D395-46E6-A953-EFC5-808FCF03CA9D";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object51" -p "Polish";
-	rename -uid "14789F75-43F3-ACB8-9260-3286E178725D";
-	setAttr ".t" -type "double3" 168.24643923669765 115.48842707760545 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object51Shape" -p "|Polish|Object51";
-	rename -uid "D5EDD348-4DC3-A4A9-8E3F-BCAA48EFC9EB";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object52" -p "Polish";
-	rename -uid "542F9072-4F28-89F6-3D26-218ABED07D9D";
-	setAttr ".t" -type "double3" 168.24643923669765 102.7319641332343 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object52Shape" -p "|Polish|Object52";
-	rename -uid "255BA54E-44D2-C456-0D4A-B99E1461678B";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object53" -p "Polish";
-	rename -uid "5AAF4621-42D5-F427-39B1-82B91BDAE5E8";
-	setAttr ".t" -type "double3" 168.24643923669765 90.197267393426301 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object53Shape" -p "|Polish|Object53";
-	rename -uid "3578AC6A-414E-5982-F67C-C495B6A9380B";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object54" -p "Polish";
-	rename -uid "37EC7670-4618-D0BB-18C8-6D8BB38AAAFD";
-	setAttr ".t" -type "double3" 168.24643923669765 76.380563267226023 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object54Shape" -p "|Polish|Object54";
-	rename -uid "F774388A-420D-C154-7303-C9B886A64210";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object55" -p "Polish";
-	rename -uid "1B7E9224-4652-603D-A027-39BD40734D0E";
-	setAttr ".t" -type "double3" 168.24643923669765 62.570570409294731 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object55Shape" -p "|Polish|Object55";
-	rename -uid "675FBE31-44F9-CE7D-9C32-1A8CF7C3090F";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object126" -p "Polish";
-	rename -uid "034920AD-4CF6-28C2-1688-BF8B955F0A7E";
-	setAttr ".t" -type "double3" 168.24643923669765 51.257284982935829 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object126Shape" -p "Object126";
-	rename -uid "8636594B-4C7E-AF91-BF51-32B76248D196";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object127" -p "Polish";
-	rename -uid "F2EDB3AA-4DF1-4DED-60B2-208D53172DE5";
-	setAttr ".t" -type "double3" 168.24643923669754 38.302830765405275 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object127Shape" -p "Object127";
-	rename -uid "263B9D9E-469B-A072-D2CD-96B480F60611";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object128" -p "Polish";
-	rename -uid "A19AFE0B-4CC6-6182-11A1-949DD0BAC239";
-	setAttr ".t" -type "double3" 168.24643923669754 24.67067813140477 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object128Shape" -p "Object128";
-	rename -uid "E98D6BD5-4ABE-0093-2B28-DF85FCF1CDED";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object129" -p "Polish";
-	rename -uid "71692E11-4934-5C88-B100-DBBE31D59C46";
-	setAttr ".t" -type "double3" 168.24643923669754 11.542430207071249 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object129Shape" -p "Object129";
-	rename -uid "BE9F66E9-4DA9-D929-F192-DEAF427E64E8";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object130" -p "Polish";
-	rename -uid "8DA77001-4C4B-F3A2-C08B-96A1DD69FDA6";
-	setAttr ".t" -type "double3" 168.24643923669754 -1.2140327372999025 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object130Shape" -p "Object130";
-	rename -uid "5178C6C9-4F49-1D08-5F6C-E6A6A6D2F06B";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object131" -p "Polish";
-	rename -uid "7B54B7F9-4D3C-6846-3052-FCB007D23862";
-	setAttr ".t" -type "double3" 168.24643923669754 -13.748729477107901 6.7528985725451491 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object131Shape" -p "Object131";
-	rename -uid "D1C46552-427D-15BC-4D0C-FDA66EA104E8";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object133" -p "Polish";
-	rename -uid "74AC6FEC-4B18-B3CD-B35A-20A0025D6ACE";
-	setAttr ".t" -type "double3" 133.77192401154429 51.257284982935602 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object133Shape" -p "Object133";
-	rename -uid "41983492-4F9B-D489-2DF3-A9BE73D5FB65";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object134" -p "Polish";
-	rename -uid "1D56104A-4DC7-10DF-B4B8-47A638187D5D";
-	setAttr ".t" -type "double3" 133.77192401154417 38.302830765405048 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object134Shape" -p "Object134";
-	rename -uid "AEB58793-4AE5-511D-F983-719FAC3FB2AD";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object135" -p "Polish";
-	rename -uid "7ABEC64F-49DF-ADC6-98A9-FFB0E1FBAB23";
-	setAttr ".t" -type "double3" 133.77192401154417 24.670678131404543 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object135Shape" -p "Object135";
-	rename -uid "0FD8DAC7-4423-0131-72A3-79AECFE31031";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object136" -p "Polish";
-	rename -uid "7EDECA53-4E56-7822-943E-588595A0AEA0";
-	setAttr ".t" -type "double3" 133.77192401154417 11.542430207071021 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object136Shape" -p "Object136";
-	rename -uid "EC731587-420E-D3A0-5288-D2A05BBA9CA4";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object137" -p "Polish";
-	rename -uid "3C802544-47FA-D65A-CA62-CB84C66F9B63";
-	setAttr ".t" -type "double3" 133.77192401154417 -1.2140327373001298 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object137Shape" -p "Object137";
-	rename -uid "763C279E-49F1-A2F1-A6B4-1A98174326ED";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object138" -p "Polish";
-	rename -uid "4A287B84-4FBA-91F9-42D2-D3A2FC71306E";
-	setAttr ".t" -type "double3" 133.77192401154417 -13.748729477108128 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object138Shape" -p "Object138";
-	rename -uid "927B8D42-4B24-81BA-5D11-EC8F1DDBA3B1";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object139" -p "Polish";
-	rename -uid "96E426A9-4C42-C273-0CFF-9FA86CAFC8BD";
-	setAttr ".t" -type "double3" 149.726692686376 155.20328185346992 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object139Shape" -p "Object139";
-	rename -uid "3C8EF761-4782-AEC9-D3F3-3E839407E961";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object140" -p "Polish";
-	rename -uid "D84A2C85-4E40-C65C-2780-5D819AE6F2A1";
-	setAttr ".t" -type "double3" 149.72669268637588 128.61667500193886 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object140Shape" -p "Object140";
-	rename -uid "31D6CAA1-412D-BE0E-4BF6-1B9E7B3D0AF7";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object141" -p "Polish";
-	rename -uid "3E1631C8-4164-2330-B6B0-E9BDB6F0228D";
-	setAttr ".t" -type "double3" 149.72669268637588 142.24882763593936 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object141Shape" -p "Object141";
-	rename -uid "078DA227-49FE-B42E-844D-689ECB13D562";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object142" -p "Polish";
-	rename -uid "847CC405-4047-96FF-5089-728C77AA92E5";
-	setAttr ".t" -type "double3" 149.72669268637588 115.48842707760534 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object142Shape" -p "Object142";
-	rename -uid "FBF4C800-41BC-57C7-BCDF-12A9902AD698";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object143" -p "Polish";
-	rename -uid "3ABF4378-45BF-0A72-9862-9C964B97F7A1";
-	setAttr ".t" -type "double3" 149.72669268637588 102.73196413323419 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object143Shape" -p "Object143";
-	rename -uid "1E541BBC-4874-1556-F298-C38F3B6D2038";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object144" -p "Polish";
-	rename -uid "BEBA011B-4614-9325-4984-DD978C3A3A51";
-	setAttr ".t" -type "double3" 149.72669268637588 90.197267393426188 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object144Shape" -p "Object144";
-	rename -uid "6B610A99-49A7-8D07-0FCB-6581050ECD7F";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object145" -p "Polish";
-	rename -uid "ECC396EE-494E-9D63-7AF3-DB8475B36E44";
-	setAttr ".t" -type "double3" 149.72669268637588 76.380563267225909 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object145Shape" -p "Object145";
-	rename -uid "8473B9F3-4097-D498-1FF9-38ADA55959A0";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object146" -p "Polish";
-	rename -uid "4DD82BB7-4F73-2063-EA3F-AA88D9E19D0F";
-	setAttr ".t" -type "double3" 149.72669268637588 62.570570409294618 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object146Shape" -p "Object146";
-	rename -uid "45AFA6E5-44AF-09EE-90D8-C683742794C0";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object147" -p "Polish";
-	rename -uid "7BC5E436-4B4D-F9C6-98E3-9AA8AD09030F";
-	setAttr ".t" -type "double3" 149.72669268637588 51.257284982935715 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object147Shape" -p "Object147";
-	rename -uid "77C5107E-40D4-18D9-764E-FA9BA8D3046B";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object148" -p "Polish";
-	rename -uid "8858DE49-42C4-4D03-D228-3BBCE2A2B1E0";
-	setAttr ".t" -type "double3" 149.72669268637577 38.302830765405162 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object148Shape" -p "Object148";
-	rename -uid "CEF5FBB9-4EE1-D221-B794-A9A7AC26B818";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object149" -p "Polish";
-	rename -uid "BBA6BB56-41D3-7F01-908A-8293B01B104A";
-	setAttr ".t" -type "double3" 149.72669268637577 24.670678131404657 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object149Shape" -p "Object149";
-	rename -uid "5874347C-4F2D-610B-FCD7-ABA36328BC63";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object150" -p "Polish";
-	rename -uid "37F1AFFB-4028-C2FD-3534-FF90901B306E";
-	setAttr ".t" -type "double3" 149.72669268637577 11.542430207071135 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object150Shape" -p "Object150";
-	rename -uid "73D6B283-405E-9971-E62E-998394FC6945";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object151" -p "Polish";
-	rename -uid "B52C771E-4DC5-BC62-52BC-D69740663D13";
-	setAttr ".t" -type "double3" 149.72669268637577 -1.2140327373000162 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object151Shape" -p "Object151";
-	rename -uid "52E12D85-4612-6624-C0D2-1FA7839C450C";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object152" -p "Polish";
-	rename -uid "6F94B622-4542-127B-D8BB-0AB8FB06AAE6";
-	setAttr ".t" -type "double3" 149.72669268637577 -13.748729477108014 0 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object152Shape" -p "Object152";
-	rename -uid "98163CBE-4659-43CA-616C-48BAD6D873DE";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object153" -p "Polish";
-	rename -uid "BA92147E-463F-710A-A92A-99A3B0D31F9A";
-	setAttr ".t" -type "double3" 187.84183482619295 24.670678131404998 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object153Shape" -p "Object153";
-	rename -uid "C9C32275-4A5F-0B38-F3A0-87A4D866C38A";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object154" -p "Polish";
-	rename -uid "E90874AB-4D28-4611-F6A9-6F823FD96F6E";
-	setAttr ".t" -type "double3" 187.84183482619295 -13.748729477107673 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object154Shape" -p "Object154";
-	rename -uid "EACCB626-4331-0959-A676-C2841E2BF4BD";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object155" -p "Polish";
-	rename -uid "1AD0E3FA-4E8E-A90A-091F-CFA85D6B1408";
-	setAttr ".t" -type "double3" 187.84183482619295 38.302830765405503 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object155Shape" -p "Object155";
-	rename -uid "DC316FD7-4801-468A-3D36-2EB22D967F97";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object156" -p "Polish";
-	rename -uid "837838AC-4BD2-F9D0-6336-6DA7B1D4C750";
-	setAttr ".t" -type "double3" 187.84183482619295 -1.2140327372996751 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object156Shape" -p "Object156";
-	rename -uid "3C22D365-4DE1-A3F6-DBF3-C6917D0E1C0E";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object157" -p "Polish";
-	rename -uid "3406BF0D-4F76-68FB-4624-2EB8C750AE86";
-	setAttr ".t" -type "double3" 187.84183482619295 11.542430207071476 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object157Shape" -p "Object157";
-	rename -uid "69B3FBA7-4548-8BE3-7C3B-56B472E3DAA4";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object158" -p "Polish";
-	rename -uid "A03722E0-4791-26EE-1231-6CA4BF43D3B1";
-	setAttr ".t" -type "double3" 187.84183482619306 128.6166750019392 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object158Shape" -p "Object158";
-	rename -uid "D9EB7F15-4349-6A2F-6D9C-ECA6FD98148F";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object159" -p "Polish";
-	rename -uid "C5B844C1-44BF-047D-4ED7-A6B693CB6220";
-	setAttr ".t" -type "double3" 187.84183482619306 102.73196413323453 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object159Shape" -p "Object159";
-	rename -uid "82778012-4293-61BA-CE8A-3182EA9C4B77";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object160" -p "Polish";
-	rename -uid "B1D49EEA-4669-5A5C-B138-18A24032E2C8";
-	setAttr ".t" -type "double3" 187.84183482619306 62.570570409294959 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object160Shape" -p "Object160";
-	rename -uid "7FBE3399-40EB-3824-6480-4794C7A44CCF";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object161" -p "Polish";
-	rename -uid "4CF369F3-4990-D05C-0CFC-A48BF2D0CAF0";
-	setAttr ".t" -type "double3" 187.84183482619306 76.38056326722625 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object161Shape" -p "Object161";
-	rename -uid "758B0C3B-4B50-5634-A3FD-7C9D8663CFBC";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object162" -p "Polish";
-	rename -uid "3E048E2E-484A-B21F-C538-5CA2B47CA9E5";
-	setAttr ".t" -type "double3" 187.84183482619306 142.2488276359397 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object162Shape" -p "Object162";
-	rename -uid "B7C5D527-49FD-AEAA-BF1F-E1828ED4E7B2";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object163" -p "Polish";
-	rename -uid "8DF316E4-4DD3-443E-12F9-3593380AC1FB";
-	setAttr ".t" -type "double3" 187.84183482619306 115.48842707760568 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object163Shape" -p "Object163";
-	rename -uid "28775D4F-4552-2EB6-B1B1-93904523611B";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object164" -p "Polish";
-	rename -uid "75BC9F2D-4D10-FD0A-4EEC-BFA64889091C";
-	setAttr ".t" -type "double3" 187.84183482619318 155.20328185347026 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object164Shape" -p "Object164";
-	rename -uid "87F8B747-4A89-1BA3-31F2-D09C37CEEEDF";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object165" -p "Polish";
-	rename -uid "E568B0AE-49D1-9EEE-5091-0EAEAE4A200F";
-	setAttr ".t" -type "double3" 187.84183482619306 90.197267393426529 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object165Shape" -p "Object165";
-	rename -uid "AF10191D-4A96-3794-6356-608A60502FE4";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-createNode transform -n "Object166" -p "Polish";
-	rename -uid "27875E67-4CAC-77F7-3F5B-01B08DB31CC4";
-	setAttr ".t" -type "double3" 187.84183482619306 51.257284982936056 7.8634908558503298 ;
-	setAttr ".s" -type "double3" 0.32717866513191601 0.22850325318240006 0.45026378114039406 ;
-	setAttr ".rp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-	setAttr ".sp" -type "double3" -551.75936679723486 -397.18442001628193 112.79334303683301 ;
-createNode mesh -n "Object166Shape" -p "Object166";
-	rename -uid "11C31FF3-400A-3A7E-07C1-61A57A8E1910";
-	setAttr -k off ".v";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[0:7]" -type "float3"  -429.44434 -396.05301 106.93317 
-		-612.3443 -360.38443 106.93317 -460.30942 -469.65302 106.93317 -643.20941 -433.98441 
-		106.93317 -460.30942 -469.65302 150.84334 -643.20941 -433.98441 150.84334 -429.44434 
-		-396.05301 150.84334 -612.3443 -360.38443 150.84334;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
-		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
-	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 0 1 3 2
-		f 4 1 7 -3 -7
-		mu 0 4 2 3 5 4
-		f 4 2 9 -4 -9
-		mu 0 4 4 5 7 6
-		f 4 3 11 -1 -11
-		mu 0 4 6 7 9 8
-		f 4 -12 -10 -8 -6
-		mu 0 4 1 10 11 3
-		f 4 10 4 6 8
-		mu 0 4 12 0 2 13;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 createNode transform -n "Necklaces";
 	rename -uid "6A2822DD-4C31-ED45-01C4-DAAFA6B82196";
 createNode transform -n "Object116" -p "Necklaces";
@@ -19730,8 +16919,26 @@ createNode mesh -n "Wall_tableShape" -p "Wall_table";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
+	setAttr -s 6 ".gtag";
+	setAttr ".gtag[0].gtagnm" -type "string" "back";
+	setAttr ".gtag[0].gtagcmp" -type "componentList" 0;
+	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
+	setAttr ".gtag[1].gtagcmp" -type "componentList" 0;
+	setAttr ".gtag[2].gtagnm" -type "string" "front";
+	setAttr ".gtag[2].gtagcmp" -type "componentList" 0;
+	setAttr ".gtag[3].gtagnm" -type "string" "left";
+	setAttr ".gtag[3].gtagcmp" -type "componentList" 3 "f[2]" "f[5]" "f[11:13]";
+	setAttr ".gtag[4].gtagnm" -type "string" "right";
+	setAttr ".gtag[4].gtagcmp" -type "componentList" 3 "f[1]" "f[4]" "f[8:10]";
+	setAttr ".gtag[5].gtagnm" -type "string" "top";
+	setAttr ".gtag[5].gtagcmp" -type "componentList" 3 "f[0]" "f[3]" "f[6:7]";
 	setAttr ".pv" -type "double2" 0.5 0 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
+	setAttr -s 30 ".uvst[0].uvsp[0:29]" -type "float2" 0.375 0 0.625 0 0.375
+		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.875 0 0.875 0.25 0.125 0 0.125 0.25 0.375 0.25
+		 0.625 0.25 0.625 0.5 0.375 0.5 0.625 0 0.875 0 0.875 0.25 0.125 0 0.375 0 0.125 0.25
+		 0.375 0.25 0.625 0.25 0.625 0.5 0.375 0.5 0.625 0 0.875 0 0.875 0.25 0.125 0 0.375
+		 0 0.125 0.25;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
@@ -19742,48 +16949,44 @@ createNode mesh -n "Wall_tableShape" -p "Wall_table";
 		243.21848 36.903286 9.5367432e-07 243.21848 36.903286 9.5367432e-07 0 -124.25742 
 		9.5367432e-07 0 36.903286 -37.466778 0 36.903286 -37.466778 243.21848 -124.25742 
 		-37.466778 0 -124.25742 -37.466778 243.21848;
-createNode mesh -n "polySurfaceShape3" -p "Wall_table";
-	rename -uid "036B0DDA-4ABF-34E9-13E7-CCB00CAD54CA";
-	setAttr -k off ".v";
-	setAttr ".io" yes;
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 6 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 0;
-	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 0;
-	setAttr ".gtag[2].gtagnm" -type "string" "front";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 0;
-	setAttr ".gtag[3].gtagnm" -type "string" "left";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[2]";
-	setAttr ".gtag[4].gtagnm" -type "string" "right";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[1]";
-	setAttr ".gtag[5].gtagnm" -type "string" "top";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[0]";
-	setAttr ".pv" -type "double2" 0.5 0.25 ;
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 10 ".uvst[0].uvsp[0:9]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.875 0 0.875 0.25 0.125 0 0.125 0.25;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt[8:15]" -type "float3"  0 9.5367432e-07 0 -1.9073486e-06 
-		9.5367432e-07 0 -1.9073486e-06 9.5367432e-07 0 0 9.5367432e-07 0 -1.9073486e-06 -1.9073486e-06 
-		0 -1.9073486e-06 -1.9073486e-06 0 0 -1.9073486e-06 0 0 -1.9073486e-06 0;
-	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
-		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
-		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
-	setAttr -s 10 ".ed[0:9]"  2 3 0 4 5 0 0 2 0 1 3 0 2 4 0 3 5 0 4 6 0
-		 5 7 0 6 0 0 7 1 0;
-	setAttr -s 3 -ch 12 ".fc[0:2]" -type "polyFaces" 
-		f 4 0 5 -2 -5
-		mu 0 4 2 3 5 4
-		f 4 -10 -8 -6 -4
-		mu 0 4 1 6 7 3
-		f 4 8 2 4 6
-		mu 0 4 8 0 2 9;
+	setAttr -s 16 ".vt[0:15]"  -91.45001221 -36.79998779 38.049999237 91.44999695 -36.79998779 38.049999237
+		 -91.45001221 36.80001831 38.049999237 91.44999695 36.80001831 38.049999237 -91.45001221 36.80001831 -38.049999237
+		 91.44999695 36.80001831 -38.049999237 -91.45001221 -36.79998779 -38.049999237 91.44999695 -36.79998779 -38.049999237
+		 -99.95001221 42.15023804 38.049999237 99.94999695 42.15023804 38.049999237 99.94999695 42.15023804 -38.049999237
+		 -99.95001221 42.15023804 -38.049999237 99.94999695 -36.79998779 -38.049999237 99.94999695 -36.79998779 38.049999237
+		 -99.95001221 -36.79998779 -38.049999237 -99.95001221 -36.79998779 38.049999237;
+	setAttr -s 28 ".ed[0:27]"  2 3 0 4 5 0 0 2 0 1 3 0 2 4 0 3 5 0 4 6 0
+		 5 7 0 6 0 0 7 1 0 2 8 1 3 9 1 8 9 0 5 10 1 9 10 0 4 11 1 11 10 0 8 11 0 7 12 0 1 13 0
+		 12 13 0 10 12 0 13 9 0 6 14 0 0 15 0 14 15 0 15 8 0 11 14 0;
+	setAttr -s 14 -ch 56 ".fc[0:13]" -type "polyFaces" 
+		f 4 12 14 -17 -18
+		mu 0 4 20 21 22 23
+		f 4 -21 -22 -15 -23
+		mu 0 4 24 25 26 21
+		f 4 25 26 17 27
+		mu 0 4 27 28 20 29
+		f 4 4 1 -6 -1
+		mu 0 4 10 13 12 11
+		f 4 3 5 7 9
+		mu 0 4 14 11 16 15
+		f 4 -7 -5 -3 -9
+		mu 0 4 17 19 10 18
+		f 4 0 11 -13 -11
+		mu 0 4 2 3 21 20
+		f 4 -2 15 16 -14
+		mu 0 4 5 4 23 22
+		f 4 -10 18 20 -20
+		mu 0 4 1 6 25 24
+		f 4 -8 13 21 -19
+		mu 0 4 6 7 26 25
+		f 4 -4 19 22 -12
+		mu 0 4 3 1 24 21
+		f 4 8 24 -26 -24
+		mu 0 4 8 0 28 27
+		f 4 2 10 -27 -25
+		mu 0 4 0 2 20 28
+		f 4 6 23 -28 -16
+		mu 0 4 9 8 27 29;
 	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
 	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
 	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
@@ -21027,11 +18230,49 @@ createNode mesh -n "TableShape" -p "Table";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
+	setAttr -s 6 ".gtag";
+	setAttr ".gtag[0].gtagnm" -type "string" "back";
+	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
+	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
+	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
+	setAttr ".gtag[2].gtagnm" -type "string" "front";
+	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
+	setAttr ".gtag[3].gtagnm" -type "string" "left";
+	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
+	setAttr ".gtag[4].gtagnm" -type "string" "right";
+	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
+	setAttr ".gtag[5].gtagnm" -type "string" "top";
+	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
+	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
+		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
+		 0.875 0.25 0.125 0 0.125 0.25;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
+	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
+		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
+		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
+	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
+		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
+	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
+		f 4 0 5 -2 -5
+		mu 0 4 0 1 3 2
+		f 4 1 7 -3 -7
+		mu 0 4 2 3 5 4
+		f 4 2 9 -4 -9
+		mu 0 4 4 5 7 6
+		f 4 3 11 -1 -11
+		mu 0 4 6 7 9 8
+		f 4 -12 -10 -8 -6
+		mu 0 4 1 10 11 3
+		f 4 10 4 6 8
+		mu 0 4 12 0 2 13;
+	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
+	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
+	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
+	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 createNode transform -n "SquareCenterTable" -p "Tables";
 	rename -uid "1FE706B0-4A75-5A2F-283E-13AE1F49C07E";
 	setAttr ".t" -type "double3" 8.0470850531796856 9.5556604024160379 38.049999237060547 ;
@@ -22037,16 +19278,73 @@ createNode mesh -n "WallStand16Shape" -p "WallStand16";
 	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
 	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
+createNode transform -n "Table20";
+	rename -uid "F32FCE1F-4EE3-36F5-147A-8AB39F4EAD37";
+	setAttr ".rp" -type "double3" 699.67119994513916 283.60498722901718 112.5 ;
+	setAttr ".sp" -type "double3" 699.67119994513916 283.60498722901718 112.5 ;
+createNode mesh -n "TableShape20" -p "|Table20";
+	rename -uid "11ECBDC8-4670-334A-B110-87A3421C360E";
+	setAttr -k off ".v";
+	setAttr ".vir" yes;
+	setAttr ".vif" yes;
+	setAttr -s 6 ".gtag";
+	setAttr ".gtag[0].gtagnm" -type "string" "back";
+	setAttr ".gtag[0].gtagcmp" -type "componentList" 1 "f[2]";
+	setAttr ".gtag[1].gtagnm" -type "string" "bottom";
+	setAttr ".gtag[1].gtagcmp" -type "componentList" 1 "f[3]";
+	setAttr ".gtag[2].gtagnm" -type "string" "front";
+	setAttr ".gtag[2].gtagcmp" -type "componentList" 1 "f[0]";
+	setAttr ".gtag[3].gtagnm" -type "string" "left";
+	setAttr ".gtag[3].gtagcmp" -type "componentList" 1 "f[5]";
+	setAttr ".gtag[4].gtagnm" -type "string" "right";
+	setAttr ".gtag[4].gtagcmp" -type "componentList" 1 "f[4]";
+	setAttr ".gtag[5].gtagnm" -type "string" "top";
+	setAttr ".gtag[5].gtagcmp" -type "componentList" 1 "f[1]";
+	setAttr ".pv" -type "double2" 0.5 0.5 ;
+	setAttr ".uvst[0].uvsn" -type "string" "map1";
+	setAttr -s 14 ".uvst[0].uvsp[0:13]" -type "float2" 0.375 0 0.625 0 0.375
+		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
+		 0.875 0.25 0.125 0 0.125 0.25;
+	setAttr ".cuvs" -type "string" "map1";
+	setAttr ".dcc" -type "string" "Ambient+Diffuse";
+	setAttr ".covm[0]"  0 1 1;
+	setAttr ".cdvm[0]"  0 1 1;
+	setAttr -s 8 ".pt[0:7]" -type "float3"  809.51447 228.95499 83.005348 
+		626.61444 411.85498 83.005348 772.72791 155.355 81.637611 589.82794 338.25497 81.637611 
+		772.72791 155.355 150.55 589.82794 338.25497 150.55 809.51447 228.95499 150.55 626.61444 
+		411.85498 150.55;
+	setAttr -s 8 ".vt[0:7]"  -91.44999695 -36.79999924 38.049999237 91.44999695 -36.79999924 38.049999237
+		 -91.44999695 36.79999924 38.049999237 91.44999695 36.79999924 38.049999237 -91.44999695 36.79999924 -38.049999237
+		 91.44999695 36.79999924 -38.049999237 -91.44999695 -36.79999924 -38.049999237 91.44999695 -36.79999924 -38.049999237;
+	setAttr -s 12 ".ed[0:11]"  0 1 0 2 3 0 4 5 0 6 7 0 0 2 0 1 3 0 2 4 0
+		 3 5 0 4 6 0 5 7 0 6 0 0 7 1 0;
+	setAttr -s 6 -ch 24 ".fc[0:5]" -type "polyFaces" 
+		f 4 0 5 -2 -5
+		mu 0 4 0 1 3 2
+		f 4 1 7 -3 -7
+		mu 0 4 2 3 5 4
+		f 4 2 9 -4 -9
+		mu 0 4 4 5 7 6
+		f 4 3 11 -1 -11
+		mu 0 4 6 7 9 8
+		f 4 -12 -10 -8 -6
+		mu 0 4 1 10 11 3
+		f 4 10 4 6 8
+		mu 0 4 12 0 2 13;
+	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
+	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
+	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
+	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "47C6D2BF-4393-1523-0BF3-AE83C83839E4";
-	setAttr -s 77 ".lnk";
-	setAttr -s 77 ".slnk";
+	rename -uid "3C622D8B-4D4B-0FC6-9397-F5B318B529D3";
+	setAttr -s 244 ".lnk";
+	setAttr -s 244 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "98E7210F-46F5-0228-CC57-E2A9597A9760";
+	rename -uid "244439CA-47E4-A3D4-8C88-9393E2E1EDCC";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "91E9C181-4BEA-FB69-6B13-4295280C2EE3";
+	rename -uid "EBABD2EA-4C57-A418-7221-558ECB6D93FA";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "666926E5-47F1-8574-87C4-42B6A5143FDB";
+	rename -uid "FBDD2F58-4994-C242-F0ED-7BB2C3ADFA2C";
 	setAttr ".cdl" 2;
 	setAttr -s 3 ".dli[1:2]"  1 2;
 	setAttr -s 3 ".dli";
@@ -22054,28 +19352,10 @@ createNode displayLayer -n "defaultLayer";
 	rename -uid "E517CF59-44EC-2298-A915-2594DCCA0701";
 	setAttr ".ufem" -type "stringArray" 0  ;
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "DFA9B6E3-4BAA-E94A-38EA-5ABCA5305C2B";
+	rename -uid "B6727AE4-4EA2-8DC9-BC2F-D499A39C200F";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "5F5C9911-4511-C262-3C5E-C6A618975AF3";
 	setAttr ".g" yes;
-createNode polyCube -n "polyCube2";
-	rename -uid "883B3C9F-4155-EE5B-1D1E-C68044E5D37F";
-	setAttr ".w" 182.9;
-	setAttr ".h" 73.6;
-	setAttr ".d" 76.1;
-	setAttr ".cuv" 4;
-createNode polyExtrudeFace -n "polyExtrudeFace1";
-	rename -uid "15FFBA0F-4C6C-ADD4-4F5C-22932F2BD840";
-	setAttr ".ics" -type "componentList" 1 "f[0]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -405.29239 -501.3642 30.677444 ;
-	setAttr ".rs" 34469;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".cbn" -type "double3" -496.74238255149885 -589.81724187197256 30.677444493792677 ;
-	setAttr ".cbx" -type "double3" -313.8424191725926 -412.91116914579072 30.677444493792677 ;
-	setAttr ".raf" no;
 createNode script -n "uiConfigurationScriptNode";
 	rename -uid "5DB931B0-4D45-4413-64F7-B88C5C348C29";
 	setAttr ".b" -type "string" (
@@ -22127,165 +19407,6 @@ createNode script -n "sceneConfigurationScriptNode";
 	rename -uid "AF45A0A4-4085-336A-96BB-D9A7DF655540";
 	setAttr ".b" -type "string" "playbackOptions -min 1 -max 120 -ast 1 -aet 200 ";
 	setAttr ".st" 6;
-createNode polySplitRing -n "polySplitRing1";
-	rename -uid "68973CEC-48FF-FCF3-D4D2-4DAC6BDF3BC9";
-	setAttr ".uopa" yes;
-	setAttr ".ics" -type "componentList" 6 "e[4:5]" "e[8:9]" "e[16]" "e[19]" "e[24]" "e[27]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".wt" 0.83388686180114746;
-	setAttr ".dr" no;
-	setAttr ".re" 24;
-	setAttr ".sma" 29.999999999999996;
-	setAttr ".p[0]"  0 0 1;
-	setAttr ".fq" yes;
-createNode polyTweak -n "polyTweak2";
-	rename -uid "1F802A4E-49D1-1F16-7254-76A396E54997";
-	setAttr ".uopa" yes;
-	setAttr -s 4 ".tk[12:15]" -type "float3"  0 0 0.99094599 0 0 0.99094599
-		 0 0 0.99094599 0 0 0.99094599;
-createNode polySplitRing -n "polySplitRing2";
-	rename -uid "99686E0E-4561-5F4B-E987-029D39D8F7CD";
-	setAttr ".uopa" yes;
-	setAttr ".ics" -type "componentList" 7 "e[4:5]" "e[16]" "e[19]" "e[24]" "e[27]" "e[35]" "e[37]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".wt" 0.82780647277832031;
-	setAttr ".dr" no;
-	setAttr ".re" 24;
-	setAttr ".sma" 29.999999999999996;
-	setAttr ".p[0]"  0 0 1;
-	setAttr ".fq" yes;
-createNode polySplitRing -n "polySplitRing3";
-	rename -uid "6C4E520A-4F42-1CC9-A74D-B795796E7A16";
-	setAttr ".uopa" yes;
-	setAttr ".ics" -type "componentList" 7 "e[4:5]" "e[16]" "e[19]" "e[24]" "e[27]" "e[51]" "e[53]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".wt" 0.771159827709198;
-	setAttr ".dr" no;
-	setAttr ".re" 24;
-	setAttr ".sma" 29.999999999999996;
-	setAttr ".p[0]"  0 0 1;
-	setAttr ".fq" yes;
-createNode polySplitRing -n "polySplitRing4";
-	rename -uid "3BD66C74-4AAF-3DE7-2318-EB8D688A25FE";
-	setAttr ".uopa" yes;
-	setAttr ".ics" -type "componentList" 7 "e[4:5]" "e[16]" "e[19]" "e[24]" "e[27]" "e[67]" "e[69]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".wt" 0.6774178147315979;
-	setAttr ".dr" no;
-	setAttr ".re" 5;
-	setAttr ".sma" 29.999999999999996;
-	setAttr ".p[0]"  0 0 1;
-	setAttr ".fq" yes;
-createNode polySplitRing -n "polySplitRing5";
-	rename -uid "CA49FCEE-41DF-513D-DCF3-A5884512B294";
-	setAttr ".uopa" yes;
-	setAttr ".ics" -type "componentList" 7 "e[4:5]" "e[16]" "e[19]" "e[24]" "e[27]" "e[87]" "e[89]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".wt" 0.56602084636688232;
-	setAttr ".dr" no;
-	setAttr ".re" 24;
-	setAttr ".sma" 29.999999999999996;
-	setAttr ".p[0]"  0 0 1;
-	setAttr ".fq" yes;
-createNode polyExtrudeFace -n "polyExtrudeFace2";
-	rename -uid "FF89C2E5-48F9-048A-1040-03A04C4C5858";
-	setAttr ".ics" -type "componentList" 5 "f[0]" "f[22]" "f[30]" "f[40]" "f[46]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -405.29239 -516.05743 31.076916 ;
-	setAttr ".rs" 36239;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".cbn" -type "double3" -496.74238255149885 -589.81724187197256 31.076915590842557 ;
-	setAttr ".cbx" -type "double3" -313.8424191725926 -442.29759354846692 31.076915590842557 ;
-	setAttr ".raf" no;
-createNode polyExtrudeFace -n "polyExtrudeFace3";
-	rename -uid "F4C922F9-4DFD-1659-72D4-90A0D21AAE79";
-	setAttr ".ics" -type "componentList" 4 "f[0]" "f[30]" "f[40]" "f[46]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -405.29239 -528.75836 57.806427 ;
-	setAttr ".rs" 59244;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".cbn" -type "double3" -496.74238255149885 -589.81724187197256 57.806425358713625 ;
-	setAttr ".cbx" -type "double3" -313.8424191725926 -467.69949899966048 57.806425358713625 ;
-	setAttr ".raf" no;
-createNode polyTweak -n "polyTweak3";
-	rename -uid "A13BA3E0-4BAF-CB68-43EF-4688143C9D76";
-	setAttr ".uopa" yes;
-	setAttr -s 12 ".tk[56:67]" -type "float3"  0 0 66.30653381 0 0 66.30653381
-		 0 0 66.30653381 0 0 66.30653381 0 0 66.30653381 0 0 66.30653381 0 0 66.30653381 0
-		 0 66.30653381 0 0 66.30653381 0 0 66.30653381 0 0 66.30653381 0 0 66.30653381;
-createNode polyExtrudeFace -n "polyExtrudeFace4";
-	rename -uid "284F7AF7-48F2-5B33-5511-569A886831D0";
-	setAttr ".ics" -type "componentList" 3 "f[0]" "f[40]" "f[46]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -405.29239 -542.73108 83.615875 ;
-	setAttr ".rs" 55952;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".cbn" -type "double3" -496.74238255149885 -589.81724187197256 83.615877243652648 ;
-	setAttr ".cbx" -type "double3" -313.8424191725926 -495.64490823835632 83.615877243652648 ;
-	setAttr ".raf" no;
-createNode polyTweak -n "polyTweak4";
-	rename -uid "45000791-4334-2873-7ADB-9E96EC0ABA5D";
-	setAttr ".uopa" yes;
-	setAttr -s 10 ".tk[68:77]" -type "float3"  0 0 64.02419281 0 0 64.02419281
-		 0 0 64.02419281 0 0 64.02419281 0 0 64.02419281 0 0 64.02419281 0 0 64.02419281 0
-		 0 64.02419281 0 0 64.02419281 0 0 64.02419281;
-createNode polyExtrudeFace -n "polyExtrudeFace5";
-	rename -uid "EC99D609-4408-DC02-3EFA-75B953934A3B";
-	setAttr ".ics" -type "componentList" 2 "f[0]" "f[46]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -405.29239 -557.92023 114.41984 ;
-	setAttr ".rs" 61858;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".cbn" -type "double3" -496.74238255149885 -589.81724187197256 114.41983504013999 ;
-	setAttr ".cbx" -type "double3" -313.8424191725926 -526.02320105498609 114.41983504013999 ;
-	setAttr ".raf" no;
-createNode polyTweak -n "polyTweak5";
-	rename -uid "54765386-46C5-A7B8-4223-738A21251BA5";
-	setAttr ".uopa" yes;
-	setAttr -s 8 ".tk[78:85]" -type "float3"  0 0 76.41381073 0 0 76.41381073
-		 0 0 76.41381073 0 0 76.41381073 0 0 76.41381073 0 0 76.41381073 0 0 76.41381073 0
-		 0 76.41381073;
-createNode polyExtrudeFace -n "polyExtrudeFace6";
-	rename -uid "D9AEAE1F-4B91-585D-6CEC-F9A31645BA09";
-	setAttr ".ics" -type "componentList" 1 "f[0]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 2.4036159158724315 0 0 0 0 0.40312025308846616 0
-		 -405.29240086204572 -501.36424218514986 15.338725322459792 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -405.29239 -571.76288 146.57628 ;
-	setAttr ".rs" 58414;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".cbn" -type "double3" -496.74238255149885 -589.81724187197256 146.57627801680431 ;
-	setAttr ".cbx" -type "double3" -313.8424191725926 -553.70850219927013 146.57627801680431 ;
-	setAttr ".raf" no;
-createNode polyTweak -n "polyTweak6";
-	rename -uid "776E1388-453F-6183-0ADC-AB85D67E16DF";
-	setAttr ".uopa" yes;
-	setAttr -s 6 ".tk[86:91]" -type "float3"  0 0 79.76887512 0 0 79.76887512
-		 0 0 79.76887512 0 0 79.76887512 0 0 79.76887512 0 0 79.76887512;
-createNode polyExtrudeFace -n "polyExtrudeFace7";
-	rename -uid "B8697235-4FA2-78F5-206A-CFB6A858EBC4";
-	setAttr ".ics" -type "componentList" 1 "f[0:2]";
-	setAttr ".ix" -type "matrix" 1 0 0 0 0 1.5887228018108475 0 0 0 0 1 0 -267.86858395465612 522.92926181997768 38.049999237060547 1;
-	setAttr ".ws" yes;
-	setAttr ".pvt" -type "float3" -267.86859 522.92926 38.049999 ;
-	setAttr ".rs" 49654;
-	setAttr ".c[0]"  0 1 1;
-	setAttr ".tk" 8.5;
-	setAttr ".cbn" -type "double3" -359.3185809028983 464.46426392543782 0 ;
-	setAttr ".cbx" -type "double3" -176.41858700641393 581.3942597145176 76.099998474121094 ;
 createNode displayLayer -n "Items";
 	rename -uid "D1567861-4AEE-8E69-22F8-0E8D446EE203";
 	setAttr ".ufem" -type "stringArray" 0  ;
@@ -22349,26 +19470,6 @@ createNode animCurveTU -n "WallStand14_scaleZ";
 	setAttr ".tan" 18;
 	setAttr ".wgt" no;
 	setAttr ".ktv[0]"  1 3.5509630503439769;
-createNode polyNormal -n "polyNormal1";
-	rename -uid "0D6CA6A4-493A-F3A3-D038-7889B2BC5B78";
-	setAttr ".ics" -type "componentList" 1 "f[0:2]";
-	setAttr ".unm" no;
-createNode polyTweak -n "polyTweak1";
-	rename -uid "0A63BC21-4448-71F0-F1E1-A38EE240CCCA";
-	setAttr ".uopa" yes;
-	setAttr -s 7 ".tk[0:6]" -type "float3"  -962.54144287 -962.54144287
-		 0 -962.54144287 962.54144287 0 962.54144287 962.54144287 0 -962.54144287 962.54144287
-		 0 962.54144287 962.54144287 0 -962.54144287 -962.54144287 0 962.54144287 -962.54144287
-		 0;
-createNode deleteComponent -n "deleteComponent1";
-	rename -uid "DC27277F-417D-53A0-71F0-87AB229E36B9";
-	setAttr ".dc" -type "componentList" 2 "f[0]" "f[3:4]";
-createNode polyCube -n "polyCube1";
-	rename -uid "DD52EF0A-4F78-BA3C-D762-A2B3A4AE2CFE";
-	setAttr ".w" 335.28;
-	setAttr ".h" 335.28;
-	setAttr ".d" 335.28;
-	setAttr ".cuv" 4;
 createNode renderSetup -n "renderSetup";
 	rename -uid "C6913D89-4942-49C7-EC23-F2BBF07EB3C8";
 createNode reference -n "BootRN";
@@ -23297,13 +20398,5472 @@ createNode reference -n "PolishRN";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "Polish1RN";
-	rename -uid "4130590F-4083-3A66-8D13-2284E0F9AD95";
+	rename -uid "961A1957-42E1-D6F3-EEEB-11B8CCB132A9";
+	setAttr -s 10 ".phl";
+	setAttr ".phl[1]" 0;
+	setAttr ".phl[2]" 0;
+	setAttr ".phl[3]" 0;
+	setAttr ".phl[4]" 0;
+	setAttr ".phl[5]" 0;
+	setAttr ".phl[6]" 0;
+	setAttr ".phl[7]" 0;
+	setAttr ".phl[8]" 0;
+	setAttr ".phl[9]" 0;
+	setAttr ".phl[10]" 0;
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Polish1RN"
 		"Polish1RN" 0
-		"Polish1RN" 1
-		2 "|Polish2:null1" "translate" " -type \"double3\" 0 0 0";
+		"Polish1RN" 14
+		2 "|Polish2:Polish|Polish2:PolishShape" "uvPivot" " -type \"double2\" 0.12492284178733826 0.75737178325653076"
+		
+		2 "|Polish2:Polish|Polish2:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish2:Polish|Polish2:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.021040499000000001 0.71114736999999995 0.050107181000000001 0.70654607000000003 0.053064406000000001 0.68788463 0.016437232 0.70654333000000002 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.014890373 0.70350689 0.013481915000000001 0.70074219000000004 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.012996852 0.69767760999999995 0.033271492 0.71512257999999995 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.17415541000000001 0.799"
+		+ "93957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.012463986999999999 0.69431173999999996 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.0030019879000000001 0.72457945000000001 0.063539325999999993 0.72458445999999999 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.17415184 0.82"
+		+ "044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.063544332999999995 0.66404724000000004 0.013482988 0.68788141000000003 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.0030069947000000001 0.66404229000000004 0.054082334000000003 0.69431507999999997 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.033274889000000002 0.67350423000000004 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.912107470000"
+		+ "00003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.016439199000000002 0.68208075000000001 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.050109208000000002 0.68208349000000001 0.021043241000000001 0.67747747999999997 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.045503138999999998 0.71114933000000002 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.039705217000000001 0.67452323000000003 0."
+		+ "039701998000000002 0.71410465000000001 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.026844442 0.67452221999999995 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.882043"
+		+ "89999999999 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.013926684999999999 0.52051281999999999 0.074959993000000003 0.52047336 0.074842036000000001 0.52405727000000002 0.072763801000000003 0.52623176999999999 0.016146719 0."
+		+ "52628361999999995 0.01406163 0.52410853000000002 0.12593979 0.71372855000000002 0.065402448000000002 0.71373450999999999 0.065396249000000004 0.65319740999999998 0.12593359000000001 0.65319126999999999 0.077534436999999998 0.523929 0.074934243999999997 0.52839493999999998 0.013976336000000001 0.52846002999999997 0.011373222000000001 0.52400303000000004 0.15968578999999999 0.52053307999999998 0.1595878 0.524122 0.098866760999999997 0.52419305000000005 0.098753989 0.52059376000000002 0.17210059999999999 0.52003765000000002 0.23263793999999999 0.52004408999999996 0.23263758000000001 0.52363968000000005 0.17210012999999999 0.52363324 0.23306602000000001 0.64182757999999995 0.23666172999999999 0.64182824000000005 0.236651 0.70236540000000003 0.23305540999999999 0.70236480000000001 0.078570783000000005 0.52137040999999995 0.077779710000000002 0.52810168000000002 0.014222205 0.53314947999999995 0.011128485 0.52814483999999995 0.010312378000000001 0.52144372000000005 0.15971261 0.52818047999999995 0.09874409400000000"
+		+ "4 0.52824068000000002 0.096179068000000006 0.52399348999999995 0.16227537 0.52390968999999998 0.095129907 0.52143908000000005 0.23263711000000001 0.52769613000000004 0.17209977000000001 0.52768970000000004 0.24071807000000001 0.64182888999999999 0.24070733999999999 0.70236611000000004 0.16330164999999999 0.52135514999999999 0.082316696999999994 0.52305889000000005 0.081182241000000002 0.52563751000000003 0.077895820000000005 0.52924097000000003 0.074697018000000004 0.53311253000000003 0.011014520999999999 0.52926481000000003 0.0077183842999999997 0.52570760000000005 0.0065968633000000002 0.52314353000000002 0.15947871999999999 0.53286838999999997 0.098994552999999999 0.53295957999999999 0.095903455999999998 0.52802824999999998 0.16256028 0.52797377000000001 0.092515409000000007 0.52565348000000001 0.091402708999999999 0.52310168999999995 0.23263663000000001 0.53240942999999996 0.17209917 0.53240310999999996 0.2454316 0.64182972999999999 0.24542074999999999 0.70236706999999998 0.16705518999999999 0.52299583000"
+		+ "000005 0.16593784 0.52556776999999999 0.084852158999999996 0.52815710999999999 0.085921228000000002 0.53292441000000002 0.082235514999999995 0.52915155999999997 0.078278243999999997 0.53311408000000005 0.082327186999999996 0.53305614000000001 0.074721754000000001 0.63896596000000005 0.014225422999999999 0.63895643000000002 0.010641038 0.53316081000000004 0.0065965056000000001 0.53309083000000002 0.0066803098 0.52923191000000003 0.0040687919000000003 0.52822685000000003 0.0030097365 0.53296328000000004 0.15962762 0.63869547999999998 0.099143444999999997 0.63878667 0.095781982000000002 0.52906728000000003 0.16267293999999999 0.52900493000000004 0.088831246000000003 0.52804923000000004 0.091445505999999996 0.52904819999999997 0.087782443000000002 0.53278762000000002 0.23262531 0.63824630000000004 0.17208797000000001 0.63823998000000004 0.23214894999999999 0.74585771999999995 0.17161172999999999 0.74584711000000004 0.17163007999999999 0.64001023999999995 0.23216754000000001 0.64002073000000004 0.16962546000000001"
+		+ " 0.52790331999999995 0.1707024 0.53266811000000003 0.1670112 0.52890276999999997"
+		)
+		2 "|Polish2:Polish|Polish2:PolishShape" "uvst[0].uvsp[250:328]" (" 0.078302680999999999 0.63895667 0.082346976000000002 0.63902663999999998 0.074963032999999998 0.64368594000000001 0.013982474999999999 0.64364337999999999 0.010644137999999999 0.63895201999999995 0.0065950751000000002 0.63900888 0.16305976999999999 0.53286767000000002 0.16320866000000001 0.63868128999999996 0.15987831 0.64341426000000002 0.098909676000000002 0.64347445999999997 0.095562517999999999 0.63878738999999995 0.095413743999999995 0.53297377000000001 0.091369091999999999 0.53290926999999999 0.1671086 0.53280497000000004 0.091513574 0.63884996999999999 0.087919891 0.63898695000000005 0.0030007958 0.73694490999999995 0.0030013918999999998 0.73223150000000004 0.063538610999999995 0.73223638999999996 0.063538253000000003 0.73694992000000004 0.085933745000000006 0.63915323999999996 0.17083997000000001 0.63886737999999998 0.16725308 0.63874573000000001 0.0030010343000000002 0.63914048999999995 0.063545048000000007 0.65168183999999996 0.063544809999999993 0.65639526000000004 0.0030075907999999999 0.65639031"
+		+ "000000003 0.0030079484 0.65167688999999995 0.077927649000000002 0.64286326999999999 0.082264841000000005 0.64288807000000003 0.074831188000000007 0.64773404999999995 0.014098345999999999 0.64770192000000004 0.011024058 0.64281487000000004 0.0066863894000000002 0.64291083999999998 0.16284030999999999 0.64258766 0.15975553000000001 0.64746207 0.099034368999999997 0.64753305999999999 0.095949232999999995 0.64265000999999999 0.091611086999999994 0.64275205000000002 0.088996828 0.64375161999999997 0.0030016303 0.72817516000000004 0.063538848999999994 0.72818004999999997 0.084877908000000002 0.64389050000000003 0.16717678 0.64260673999999995 0.063544570999999994 0.66045164999999995 0.0030072330999999998 0.66044663999999997 0.16979104 0.64360571 0.0040704608 0.64390647000000001 0.077803134999999995 0.64390491999999999 0.081186116000000003 0.64628744000000005 0.077518523000000006 0.64793937999999995 0.074936091999999996 0.65133375000000004 0.013992488000000001 0.65129066000000002 0.011410296 0.64790839 0.011134326 0."
+		+ "64384364999999999 0.0077512859999999996 0.64624225999999996 0.16271883000000001 0.64362680999999999 0.16244322 0.64766151000000005 0.15986842000000001 0.65106123999999999 0.098936497999999998 0.65112203000000002 0.096347033999999998 0.64774531000000002 0.096062123999999999 0.64368117000000002 0.091567098999999999 0.64865910999999998 0.092684328999999996 0.64608728999999998 0.095320879999999997 0.65029979000000004 0.0030019879000000001 0.72457945000000001 0.063539325999999993 0.72458445999999999 0.082293092999999998 0.64884173999999994 0.078562199999999999 0.65049612999999995 0.063544332999999995 0.66404724000000004 0.0030069947000000001 0.66404229000000004 0.16721958000000001 0.64855324999999997 0.16349250000000001 0.65021585999999998 0.166107 0.64600146000000003 0.0066284537000000001 0.64881158000000005 0.010378419999999999 0.65046071999999999 0.026841164000000001 0.71410357999999996 0.045505941000000001 0.67747944999999998 0.053063393 0.70074539999999996"
+		)
+		5 4 "Polish1RN" "|Polish2:Polish.translateX" "Polish1RN.placeHolderList[1]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.translateY" "Polish1RN.placeHolderList[2]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.translateZ" "Polish1RN.placeHolderList[3]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.rotateX" "Polish1RN.placeHolderList[4]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.rotateY" "Polish1RN.placeHolderList[5]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.rotateZ" "Polish1RN.placeHolderList[6]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.scaleX" "Polish1RN.placeHolderList[7]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.scaleY" "Polish1RN.placeHolderList[8]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.scaleZ" "Polish1RN.placeHolderList[9]" 
+		""
+		5 4 "Polish1RN" "|Polish2:Polish.visibility" "Polish1RN.placeHolderList[10]" 
+		"";
 lockNode -l 1 ;
+createNode reference -n "Polish1RN1";
+	rename -uid "52A5BE02-4BCA-01C9-AB90-4E90D6E75B59";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish1RN1"
+		"Polish1RN1" 0
+		"Polish1RN1" 7
+		2 "|Polish3:Polish" "translate" " -type \"double3\" 651.68375715944853255 356.98973032283964812 112.79334303683299368"
+		
+		2 "|Polish3:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish3:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish3:Polish|Polish3:PolishShape" "uvPivot" " -type \"double2\" 0.6277093210344401 0.63074906956818366"
+		
+		2 "|Polish3:Polish|Polish3:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish3:Polish|Polish3:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.52453362999999997 0.70894873000000003 0.55360036999999995 0.70434748999999996 0.55655759999999999 0.68568598999999997 0.51993036000000004 0.70434474999999996 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.5183835 0.70130824999999997 0.51697510000000002 0.69854355000000001 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.51648998000000002 0.69547904000000005 0.53676467999999999 0.712924 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 "
+		+ "0.17415541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.51595718000000002 0.69211316000000001 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.50649518000000004 0.72238088 0.56703245999999996 0.72238588000000004 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.1"
+		+ "7415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.56703745999999999 0.66184865999999998 0.51697618000000001 0.68568277 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.50650012 0.66184365999999994 0.55757551999999999 0.69211650000000002 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.53676802000000001 0.67130566000000003 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.912107470000000"
+		+ "03 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.51993233000000005 0.67988216999999995 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.55360233999999997 0.67988490999999995 0.52453643000000005 0.67527890000000002 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.54899626999999995 0.70895076000000001 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.54319841000000002 0.67232466000000002 0.54319512"
+		+ "999999997 0.71190608 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.53033757000000004 0.67232358000000003 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.8820438999999999"
+		+ "9 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.51741987 0.51831424000000004 0.57845312000000004 0.51827478000000005 0.57833522999999998 0.52185868999999996 0.57625693 0.52403319000000004 0.51963990999999998 0.52408504 0.5175"
+		+ "5481999999997 0.52190994999999996 0.62943291999999995 0.71152996999999996 0.56889557999999996 0.71153593000000004 0.56888938 0.65099883000000003 0.62942672 0.65099262999999996 0.58102757000000005 0.52173042000000003 0.57842737 0.52619636000000003 0.51746946999999999 0.52626145000000002 0.51486635000000003 0.52180444999999998 0.66317897999999997 0.51833450999999997 0.66308098999999998 0.52192342000000003 0.60235994999999998 0.52199446999999999 0.60224712000000002 0.51839519000000001 0.67559378999999997 0.51783906999999996 0.73613107 0.51784551000000001 0.73613070999999997 0.52144109999999999 0.67559332000000005 0.52143466000000005 0.73655915000000005 0.63962901000000005 0.74015485999999997 0.63962960000000002 0.74014413000000001 0.70016681999999997 0.73654854000000003 0.70016623 0.58206396999999999 0.51917183 0.58127289999999998 0.52590311000000001 0.51771533000000003 0.5309509 0.51462167999999997 0.52594626 0.51380550999999997 0.51924515000000004 0.66320579999999996 0.5259819 0.60223722000000002 0.52604209999"
+		+ "999996 0.59967225999999996 0.52179492000000005 0.66576855999999995 0.52171111000000003 0.59862304 0.51924049999999999 0.73613024000000005 0.52549756000000003 0.67559296000000002 0.52549111999999998 0.74421119999999996 0.63963031999999997 0.74420047 0.70016754000000003 0.66679484 0.51915657999999998 0.58580989000000006 0.52086030999999999 0.58467537000000003 0.52343892999999997 0.58138900999999998 0.52704238999999997 0.57819014999999996 0.53091394999999997 0.51450770999999995 0.52706622999999997 0.51121150999999998 0.52350903000000004 0.51008998999999999 0.52094494999999996 0.66297191 0.53066981000000002 0.60248774000000005 0.530761 0.59939664999999998 0.52582967000000003 0.66605347000000004 0.52577518999999995 0.59600854000000003 0.52345489999999995 0.59489590000000003 0.52090311 0.73612975999999997 0.53021085000000001 0.67559236 0.53020453000000001 0.74892473000000004 0.63963115000000004 0.74891394 0.70016849000000003 0.67054838000000005 0.52079724999999999 0.66943103000000004 0.52336919000000004 0.588345349"
+		+ "99999999 0.52595853999999997 0.58941441999999999 0.53072584 0.58572864999999996 0.52695298000000002 0.58177142999999998 0.53091549999999998 0.58582038000000003 0.53085755999999995 0.57821493999999996 0.63676739000000004 0.51771855 0.63675784999999996 0.51413423000000003 0.53096222999999998 0.51008969999999998 0.53089224999999995 0.51017343999999998 0.52703332999999997 0.50756192 0.52602828000000001 0.50650293000000002 0.53076469999999998 0.66312081 0.63649690000000003 0.60263657999999998 0.63658809999999999 0.59927516999999997 0.52686869999999997 0.66616613000000002 0.52680634999999998 0.59232437999999998 0.52585064999999998 0.59493863999999996 0.52684962999999996 0.59127556999999997 0.53058897999999999 0.73611844000000004 0.63604771999999998 0.67558116000000001 0.63604139999999998 0.73564207999999998 0.74365914 0.67510492 0.74364852999999997 0.67512327000000005 0.63781166 0.73566067000000002 0.63782214999999998 0.67311865000000004 0.52570474 0.67419558999999996 0.53046954000000002 0.67050438999999995 0.52670"
+		+ "419000000002")
+		2 "|Polish3:Polish|Polish3:PolishShape" "uvst[0].uvsp[250:328]" (" 0.58179586999999999 0.63675809000000005 0.58584016999999999 0.63682806000000003 0.57845621999999997 0.64148735999999995 0.51747566 0.64144480000000004 0.51413732999999995 0.63675344 0.51008825999999996 0.63681030000000005 0.66655295999999997 0.53066908999999995 0.66670185000000004 0.63648271999999995 0.6633715 0.64121567999999995 0.60240287000000003 0.64127588000000002 0.59905571000000002 0.63658881 0.59890686999999998 0.53077518999999995 0.59486227999999997 0.53071069999999998 0.67060178999999998 0.53060638999999998 0.59500675999999997 0.63665139999999998 0.59141308000000004 0.63678836999999999 0.50649392999999998 0.73474634000000005 0.50649451999999995 0.73003291999999997 0.56703174000000001 0.73003781000000001 0.56703137999999997 0.73475133999999998 0.58942693000000002 0.63695466999999995 0.67433315999999999 0.63666880000000003 0.67074626999999998 0.63654708999999998 0.50649416000000003 0.63694191 0.56703817999999995 0.64948320000000004 0.56703793999999996 0.65419662000000001 0.50650072000000002 0.6541917"
+		+ "2999999997 0.50650108000000005 0.64947832000000005 0.58142084000000005 0.64066469999999998 0.58575803000000004 0.64068948999999997 0.57832437999999997 0.64553547 0.51759153999999996 0.64550328000000001 0.51451718999999996 0.64061630000000003 0.51017952 0.64071226000000003 0.66633350000000002 0.64038908000000005 0.66324872000000001 0.64526342999999997 0.60252755999999996 0.64533448000000004 0.59944242000000003 0.64045143000000004 0.59510428000000004 0.64055346999999996 0.59249001999999995 0.64155304000000002 0.50649482000000001 0.72597659000000003 0.56703197999999999 0.72598147000000002 0.58837110000000004 0.64169191999999997 0.67066996999999995 0.64040816 0.56703769999999998 0.65825307 0.50650041999999995 0.65824806999999996 0.67328423000000004 0.64140713000000005 0.50756358999999995 0.6417079 0.58129626999999995 0.64170634999999998 0.58467924999999998 0.64408885999999999 0.58101164999999999 0.64574074999999997 0.57842928000000005 0.64913511000000002 0.51748567999999995 0.64909207999999996 0.51490349000000002"
+		+ " 0.64570974999999997 0.51462752 0.64164507000000004 0.51124448 0.64404368000000001 0.66621202000000002 0.64142823000000004 0.66593641000000003 0.64546287000000002 0.66336161000000005 0.64886259999999996 0.60242963000000005 0.64892340000000004 0.59984015999999996 0.64554666999999999 0.59955524999999998 0.64148258999999996 0.59506022999999997 0.64646053000000003 0.59617752000000002 0.64388871000000003 0.59881401000000001 0.64810120999999998 0.50649518000000004 0.72238088 0.56703245999999996 0.72238588000000004 0.58578627999999999 0.64664315999999999 0.58205532999999998 0.64829755 0.56703745999999999 0.66184865999999998 0.50650012 0.66184365999999994 0.67071276999999996 0.64635467999999996 0.66698568999999996 0.64801728999999997 0.66960019000000004 0.64380287999999997 0.51012157999999996 0.646613 0.51387161000000003 0.64826214000000004 0.53033428999999999 0.711905 0.54899907000000003 0.67528080999999995 0.55655652 0.69854676999999998"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish1RN2";
+	rename -uid "116C71D2-4969-0F80-40BE-11AA964D4868";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish1RN2"
+		"Polish1RN2" 0
+		"Polish1RN2" 7
+		2 "|Polish4:Polish" "translate" " -type \"double3\" 651.68375715944853255 351.27198405859479635 112.79334303683299368"
+		
+		2 "|Polish4:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish4:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish4:Polish|Polish4:PolishShape" "uvPivot" " -type \"double2\" 0.37786206057860094 0.63099413759324685"
+		
+		2 "|Polish4:Polish|Polish4:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish4:Polish|Polish4:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.27468637000000001 0.70919383000000003 0.30375310999999999 0.70459258999999996 0.30671032999999998 0.68593108999999997 0.27008310000000002 0.70458984000000002 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.26853623999999998 0.70155334000000003 0.26712784000000001 0.69878863999999996 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.26664272 0.69572407000000003 0.28691741999999998 0.71316904000000003 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.789688"
+		+ "77000000004 0.17415541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.26610991000000001 0.69235820000000003 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.25664790999999998 0.72262596999999995 0.31718519000000001 0.72263098000000003 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0."
+		+ "83069210999999998 0.17415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.31719019999999998 0.66209375999999998 0.26712891 0.68592787 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.25665285999999998 0.66208875 0.30772825999999998 0.69236158999999997 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.28692076 0.67155074999999997 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.912107470000"
+		+ "00003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.27008506999999998 0.68012720000000004 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.30375507000000002 0.68012994999999998 0.27468916999999998 0.67552394000000004 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.29914900999999999 0.70919584999999996 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.29335114000000001 0.67256974999999997 0.29334"
+		+ "787000000001 0.71215110999999998 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.28049031000000002 0.67256868000000003 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.8820"
+		+ "4389999999999 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.26757260999999999 0.51855927999999996 0.32860586000000003 0.51851981999999996 0.32848796000000002 0.52210378999999996 0.32640966999999999 0.52427827999999999 0.26979"
+		+ "265000000002 0.52433014 0.26770756000000001 0.52215498999999999 0.37958565 0.711775 0.31904832 0.71178101999999999 0.31904211999999998 0.65124393000000003 0.37957944999999998 0.65123772999999996 0.33118029999999998 0.52197552000000003 0.32858010999999998 0.52644144999999998 0.26762219999999998 0.52650653999999997 0.26501909000000001 0.52204949 0.41333172000000001 0.51857953999999995 0.41323373000000002 0.52216845999999995 0.35251269000000002 0.52223951000000002 0.35239986000000001 0.51864027999999995 0.42574653000000001 0.51808410999999999 0.48628380999999998 0.51809061000000001 0.48628345000000001 0.52168619999999999 0.42574604999999999 0.52167969999999997 0.48671188999999998 0.6398741 0.49030760000000001 0.63987470000000002 0.49029687 0.70041191999999997 0.48670128000000001 0.70041131999999995 0.33221671000000003 0.51941687000000003 0.33142564000000002 0.52614813999999999 0.26786807000000001 0.53119594000000003 0.26477441000000002 0.52619128999999998 0.26395825000000001 0.51949018000000002 0.41335854 0.5262"
+		+ "2694000000003 0.35238996 0.52628719999999996 0.34982499 0.52204001 0.41592129999999999 0.52195621000000003 0.34877576999999998 0.51948559000000005 0.48628296999999998 0.52574259000000001 0.4257457 0.52573614999999996 0.49436393000000001 0.63987541000000003 0.49435319999999999 0.70041262999999998 0.41694756999999999 0.51940160999999996 0.33596261999999999 0.52110540999999999 0.33482811000000001 0.52368397 0.33154175000000002 0.52728741999999995 0.32834288 0.53115904000000003 0.26466044999999999 0.52731132999999997 0.26136425000000002 0.52375406000000002 0.26024272999999998 0.52118998999999999 0.41312464999999998 0.53091484 0.35264047999999998 0.53100610000000004 0.34954938000000002 0.52607470999999995 0.41620621000000002 0.52602028999999995 0.34616128000000002 0.5237 0.34504864000000002 0.52114815000000003 0.48628250000000001 0.53045595000000001 0.42574509999999999 0.53044957000000004 0.49907747000000002 0.63987625000000004 0.49906667999999998 0.70041352999999995 0.42070111999999998 0.52104234999999999 0.41958"
+		+ "377000000002 0.52361422999999996 0.33849808999999997 0.52620363000000003 0.33956714999999998 0.53097092999999995 0.33588138000000001 0.52719802000000004 0.33192417000000002 0.53116052999999996 0.33597311000000002 0.53110265999999995 0.32836768 0.63701247999999999 0.26787128999999998 0.63700294000000002 0.26428697000000001 0.53120732000000004 0.26024243000000002 0.53113728999999998 0.26032618000000002 0.52727835999999995 0.25771465999999998 0.52627336999999996 0.25665566000000001 0.53100979000000004 0.41327353999999999 0.636742 0.35278931000000002 0.63683312999999997 0.34942791000000001 0.52711379999999997 0.41631886000000001 0.52705144999999998 0.34247710999999997 0.52609574999999997 0.34509137000000001 0.52709466000000005 0.34142831000000001 0.53083407999999999 0.48627116999999997 0.63629281999999998 0.42573389 0.63628644000000001 0.48579481000000002 0.74390416999999998 0.42525764999999999 0.74389355999999995 0.42527600999999998 0.63805676 0.48581341 0.63806724999999997 0.42327139000000003 0.5259497800000000"
+		+ "3 0.42434832 0.53071462999999997 0.42065712999999999 0.52694929000000001")
+		2 "|Polish4:Polish|Polish4:PolishShape" "uvst[0].uvsp[250:328]" (" 0.33194860999999998 0.63700318 0.33599289999999998 0.63707316000000003 0.32860896000000001 0.64173245000000001 0.26762839999999999 0.64168990000000004 0.26429005999999999 0.63699852999999995 0.260241 0.63705533999999997 0.41670570000000001 0.53091412999999998 0.41685459000000002 0.63672781000000001 0.41352423999999999 0.64146077999999995 0.35255560000000002 0.64152098000000002 0.34920844000000001 0.63683385000000003 0.34905961000000002 0.53102028000000001 0.34501502000000001 0.53095579000000004 0.42075452000000002 0.53085148000000004 0.34515950000000001 0.63689649000000004 0.34156582000000002 0.63703339999999997 0.25664666000000003 0.73499143 0.25664725999999999 0.73027801999999997 0.31718447999999999 0.73028289999999996 0.31718412000000001 0.73499643999999997 0.33957967 0.63719970000000004 0.42448588999999998 0.63691383999999995 0.420899 0.63679218000000004 0.25664690000000001 0.63718693999999998 0.31719091999999999 0.64972830000000004 0.31719068 0.65444170999999995 0.25665346 0.65443682999999997 0.25665381"
+		+ "999999998 0.64972341 0.33157357999999998 0.64090979000000003 0.33591077000000003 0.64093458999999997 0.32847711000000002 0.64578055999999995 0.26774427000000001 0.64574838000000001 0.26466992 0.64086138999999998 0.26033225999999998 0.64095736000000003 0.41648623000000001 0.64063418000000005 0.41340145 0.64550852999999997 0.3526803 0.64557958000000004 0.34959516000000002 0.64069653000000004 0.34525700999999998 0.64079856999999996 0.34264275 0.64179814000000002 0.25664756 0.72622167999999998 0.31718471999999998 0.72622657000000002 0.33852383000000003 0.64193701999999997 0.42082270999999999 0.64065324999999995 0.31719044000000002 0.65849811000000003 0.25665315999999999 0.65849310000000005 0.42343697000000002 0.64165223000000005 0.25771632999999999 0.64195298999999995 0.331449 0.64195144000000004 0.33483197999999997 0.64433395999999998 0.33116438999999998 0.64598584000000003 0.32858201999999997 0.64938021000000001 0.26763841999999999 0.64933717000000002 0.26505622000000001 0.64595484999999997 0.26478024999999999 "
+		+ "0.64189017000000004 0.26139720999999999 0.64428878000000001 0.41636476 0.64167333000000004 0.41608915000000002 0.64570795999999997 0.41351434999999997 0.64910769000000001 0.35258236999999998 0.64916848999999999 0.3499929 0.64579176999999999 0.34970799000000002 0.64172768999999996 0.34521297000000001 0.64670563000000003 0.34633026 0.64413381000000003 0.34896674999999999 0.64834630000000004 0.25664790999999998 0.72262596999999995 0.31718519000000001 0.72263098000000003 0.33593901999999998 0.64688825999999999 0.33220807000000002 0.64854263999999995 0.31719019999999998 0.66209375999999998 0.25665285999999998 0.66208875 0.42086551 0.64659977000000002 0.41713843 0.64826238000000003 0.41975293000000002 0.64404797999999996 0.26027432 0.64685809999999999 0.26402435000000002 0.64850724000000004 0.28048703000000003 0.71215010000000001 0.29915181000000002 0.67552590000000001 0.30670925999999998 0.69879186000000004"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish1RN3";
+	rename -uid "910CFDC8-4FD2-9DA8-CC76-9B84819742DA";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish1RN3"
+		"Polish1RN3" 0
+		"Polish1RN3" 7
+		2 "|Polish5:Polish" "translate" " -type \"double3\" 651.68375715944853255 345.39215296953994994 112.79334303683299368"
+		
+		2 "|Polish5:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish5:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish5:Polish|Polish5:PolishShape" "uvPivot" " -type \"double2\" 0.62524123071334048 0.88153010255906716"
+		
+		2 "|Polish5:Polish|Polish5:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish5:Polish|Polish5:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.52206551999999995 0.95972985 0.55113232000000001 0.95512854999999997 0.55408955000000004 0.93646711000000005 0.51746225000000001 0.95512580999999996 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.51591538999999997 0.95208937000000005 0.51450706000000002 0.94932466999999998 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.51402186999999999 0.94626003999999997 0.53429663000000005 0.963705 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004"
+		+ " 0.17415541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.51348912999999996 0.94289416000000004 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.50402712999999999 0.97316194 0.56456435000000005 0.97316694000000004 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0."
+		+ "17415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.56456934999999997 0.91262971999999998 0.51450812999999995 0.93646388999999997 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.50403202000000003 0.91262478000000002 0.55510747000000005 0.94289756000000002 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.53429996999999996 0.92208672000000003 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.1936481600000000"
+		+ "1 0.91210747000000003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.51746428 0.93066316999999998 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.55113422999999995 0.93066590999999999 0.52206838 0.92605990000000005 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.54652822000000001 0.95973182000000001 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.54073035999999997 0.92310572000000002 0.5407270"
+		+ "1999999995 0.96268708000000003 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.52786946000000001 0.9231047 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.8820438999999999"
+		+ "9 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.51495183 0.76909523999999996 0.57598506999999999 0.76905577999999997 0.57586718000000003 0.77263974999999996 0.57378887999999995 0.77481425000000004 0.51717186000000004 0.774866"
+		+ "1 0.51508677000000003 0.77269094999999999 0.62696481000000004 0.96231096999999999 0.56642747000000004 0.96231699000000004 0.56642126999999998 0.90177989000000003 0.62695860999999997 0.90177375000000004 0.57855951999999999 0.77251148000000003 0.57595932000000005 0.77697742000000003 0.51500142000000004 0.77704251000000002 0.51239824 0.77258545000000001 0.66071093000000003 0.76911551 0.66061294000000004 0.77270441999999995 0.59989190000000003 0.77277547000000002 0.59977901 0.76917623999999996 0.67312574000000003 0.76862006999999999 0.73366295999999998 0.76862657000000001 0.73366260999999999 0.77222215999999999 0.67312527 0.77221565999999997 0.73409104000000003 0.89041007000000005 0.73768674999999995 0.89041071999999999 0.73767601999999999 0.95094787999999997 0.73408043000000001 0.95094727999999995 0.57959592000000004 0.76995283000000003 0.57880485000000004 0.77668411000000004 0.51524722999999994 0.78173190000000004 0.51215363000000003 0.77672726000000003 0.51133740000000005 0.77002614999999996 0.6607377500000000"
+		+ "1 0.77676290000000003 0.59976912000000004 0.77682315999999996 0.59720421000000001 0.77257597 0.66330051000000001 0.77249217000000003 0.59615492999999997 0.77002155999999999 0.73366213000000002 0.77627855999999995 0.67312490999999997 0.77627212000000001 0.74174309000000005 0.89041137999999997 0.74173235999999998 0.95094860000000003 0.66432678999999994 0.76993756999999996 0.58334184 0.77164136999999999 0.58220731999999997 0.77421993 0.57892096000000004 0.77782339 0.57572210000000001 0.78169500999999997 0.51203966000000001 0.77784728999999997 0.50874341000000001 0.77429002999999996 0.50762187999999997 0.77172594999999999 0.66050386000000005 0.78145081000000005 0.60001968999999999 0.78154206000000004 0.59692860000000003 0.77661066999999995 0.66358541999999998 0.77655624999999995 0.59354043000000001 0.77423595999999995 0.59242784999999998 0.77168411000000003 0.73366165000000005 0.78099191000000001 0.67312430999999995 0.78098553000000004 0.74645662000000002 0.89041221000000004 0.74644588999999995 0.9509494899999999"
+		+ "5 0.66808033 0.77157830999999999 0.66696297999999998 0.77415018999999996 0.58587730000000005 0.77673959999999997 0.58694637000000005 0.7815069 0.58326054000000005 0.77773398000000005 0.57930338000000003 0.78169650000000002 0.58335232999999997 0.78163861999999995 0.57574689000000001 0.88754845000000004 0.51525043999999998 0.88753890999999996 0.51166617999999997 0.78174328999999998 0.50762165000000004 0.78167324999999999 0.50770532999999995 0.77781433 0.50509380999999998 0.77680932999999996 0.50403487999999996 0.78154575999999998 0.66065275999999995 0.88727796000000003 0.60016846999999995 0.88736910000000002 0.59680712000000002 0.77764975999999997 0.66369807999999997 0.77758740999999998 0.58985626999999996 0.77663170999999998 0.59247053000000005 0.77763062999999999 0.58880745999999995 0.78137009999999996 0.73365033000000002 0.88682877999999998 0.67311310999999996 0.88682240000000001 0.73317396999999995 0.99444014000000003 0.67263687000000005 0.99442953000000001 0.67265522 0.88859272 0.73319255999999999 0.888603"
+		+ "20999999998 0.67065059999999999 0.77648574000000004 0.67172754000000001 0.78125060000000002 0.66803634000000001 0.77748525000000002"
+		)
+		2 "|Polish5:Polish|Polish5:PolishShape" "uvst[0].uvsp[250:328]" (" 0.57932782000000005 0.88753915000000005 0.58337212000000005 0.88760912000000003 0.57598817000000002 0.89226841999999995 0.51500762 0.89222586000000004 0.51166928 0.8875345 0.50762021999999996 0.88759129999999997 0.66408491000000003 0.78145008999999999 0.66423379999999999 0.88726377000000001 0.66090344999999995 0.89199673999999995 0.59993481999999998 0.89205694000000002 0.59658765999999996 0.88736981000000004 0.59643877000000001 0.78155624999999995 0.59239423000000002 0.78149175999999998 0.66813374000000003 0.78138744999999998 0.59253871000000002 0.88743245999999998 0.58894502999999998 0.88756937000000002 0.50402581999999996 0.98552740000000005 0.50402641000000004 0.98081397999999997 0.56456362999999998 0.98081887000000001 0.56456326999999995 0.98553239999999998 0.58695889000000001 0.88773566000000004 0.67186511000000004 0.88744979999999996 0.66827822000000003 0.88732820999999995 0.50402606000000005 0.88772291000000003 0.56457007000000003 0.90026432000000001 0.56456983000000005 0.90497773999999997 0.504032609"
+		+ "99999999 0.90497278999999997 0.50403297000000002 0.90025938000000005 0.57895278999999999 0.89144575999999998 0.58328997999999999 0.89147054999999997 0.57585633000000003 0.89631653 0.51512349000000002 0.89628439999999998 0.51204908000000005 0.89139736000000003 0.50771140999999997 0.89149332000000003 0.66386544999999997 0.89117014000000006 0.66078066999999996 0.89604455000000005 0.60005951000000002 0.89611554000000004 0.59697436999999998 0.89123249000000004 0.59263622999999999 0.89133452999999996 0.59002197000000001 0.89233410000000002 0.50402676999999996 0.97675765000000003 0.56456386999999997 0.97676253000000002 0.58590304999999998 0.89247297999999997 0.66820192 0.89118922 0.56456958999999995 0.90903407000000003 0.50403237000000001 0.90902906999999999 0.67081617999999998 0.89218819000000005 0.50509548000000004 0.89248896 0.57882822 0.89248740999999998 0.58221113999999996 0.89486991999999999 0.57854353999999997 0.89652187000000005 0.57596122999999999 0.89991622999999998 0.51501763 0.89987313999999996 0.5124354"
+		+ "3999999996 0.89649087000000005 0.51215946999999995 0.89242613000000004 0.50877642999999995 0.89482474000000001 0.66374396999999996 0.89220929000000004 0.66346835999999998 0.89624398999999999 0.66089355999999999 0.89964372000000004 0.59996152000000003 0.89970452000000001 0.59737205999999998 0.89632778999999996 0.59708713999999996 0.89226364999999996 0.59259212000000006 0.89724159000000003 0.59370946999999996 0.89466977000000003 0.59634589999999998 0.89888226999999998 0.50402712999999999 0.97316194 0.56456435000000005 0.97316694000000004 0.58331823000000005 0.89742421999999999 0.57958721999999996 0.89907861 0.56456934999999997 0.91262971999999998 0.50403202000000003 0.91262478000000002 0.66824472000000001 0.89713573000000002 0.66451764000000002 0.89879834999999997 0.66713213999999998 0.89458393999999997 0.50765347000000005 0.89739405999999999 0.51140355999999998 0.89904320000000004 0.52786624000000004 0.96268606000000001 0.54653096000000001 0.92606193000000003 0.55408847000000006 0.94932788999999995"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish1RN4";
+	rename -uid "78960B76-4EC8-009F-A244-079E8659A0AC";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish1RN4"
+		"Polish1RN4" 0
+		"Polish1RN4" 7
+		2 "|Polish6:Polish" "translate" " -type \"double3\" 651.68375715944853255 339.67499995198136276 112.79334303683299368"
+		
+		2 "|Polish6:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish6:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish6:Polish|Polish6:PolishShape" "uvPivot" " -type \"double2\" 0.37551182265042432 0.87444692494627696"
+		
+		2 "|Polish6:Polish|Polish6:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish6:Polish|Polish6:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.27233613000000001 0.95264660999999995 0.30140284000000001 0.94804537 0.30436009000000003 0.92938387 0.26773286000000002 0.94804263 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.266186 0.94500613 0.2647776 0.94224143000000005 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.26429248 0.93917686 0.28456714999999999 0.95662183000000001 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.17415541000000001 0.79993957000000004 0.177616660000"
+		+ "00001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.26375967 0.93581097999999996 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.25429766999999998 0.96607876000000004 0.31483495 0.96608377000000001 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.17415184 0.82044141999999998 0.17761666000000001 0.8101903799999"
+		+ "9999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.31483995999999997 0.90554648999999998 0.26477866999999999 0.92938065999999997 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.25430261999999998 0.90554153999999998 0.30537801999999997 0.93581437999999995 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.28457053999999998 0.91500353999999995 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.91210747000000003 0.17086261999999999 0.85119396000000003 0."
+		+ "030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.26773486000000002 0.92357999000000002 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.30140483000000001 0.92358273000000002 0.27233889999999999 0.91897671999999997 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.29679879999999997 0.95264864000000005 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.29100087000000002 0.91602254000000005 0.29099762000000001 0.95560389999999995 0.0308884380000"
+		+ "00001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.27814007000000002 0.91602147 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.88418191999999995 0.20012482000"
+		+ "000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.26522234 0.76201205999999999 0.32625565000000001 0.76197261000000005 0.32613772000000002 0.76555656999999999 0.32405946000000002 0.76773106999999996 0.26744237999999998 0.76778292999999997 0.26535732000000001 0.76560777000"
+		+ "000002 0.37723540999999999 0.95522779000000002 0.31669807 0.95523380999999996 0.31669187999999998 0.89469664999999998 0.37722920999999998 0.89469050999999999 0.32883009000000002 0.76542829999999995 0.32622990000000002 0.76989417999999998 0.26527199000000001 0.76995926999999997 0.26266885000000001 0.76550227000000004 0.41098148000000001 0.76203233000000004 0.41088349000000002 0.76562123999999998 0.35016245000000001 0.76569229000000005 0.35004961000000001 0.76209307000000004 0.42339629000000001 0.76153689999999996 0.48393356999999998 0.76154339000000004 0.48393321 0.76513898000000002 0.42339580999999998 0.76513249000000005 0.48436164999999998 0.88332683000000001 0.48795736000000001 0.88332748000000005 0.48794662999999999 0.9438647 0.48435104000000001 0.94386411000000003 0.32986643999999998 0.76286966 0.32907540000000002 0.76960092999999996 0.26551783000000001 0.77464873000000001 0.26242413999999997 0.76964407999999995 0.261608 0.76294297 0.41100829999999999 0.76967973000000001 0.35003972 0.76973999000000004 0.3"
+		+ "4747475 0.76549279999999997 0.41357105999999999 0.76540898999999996 0.34642552999999998 0.76293838000000003 0.48393272999999998 0.76919537999999998 0.42339545000000001 0.76918894000000004 0.49201369 0.88332814000000004 0.49200295999999999 0.94386541999999996 0.41459732999999999 0.76285440000000004 0.33361237999999999 0.76455819999999997 0.33247789999999999 0.76713675000000003 0.32919151000000002 0.77074021000000004 0.32599266999999998 0.77461183 0.26231020999999999 0.77076411 0.25901401000000002 0.76720685 0.25789248999999997 0.76464277999999997 0.41077440999999998 0.77436762999999997 0.35029023999999997 0.77445889000000001 0.34719914000000002 0.76952748999999998 0.41385597000000002 0.76947308000000003 0.34381104000000001 0.76715279000000003 0.34269840000000001 0.76460092999999996 0.48393226 0.77390873000000004 0.42339485999999998 0.77390236000000001 0.49672723000000002 0.88332896999999999 0.49671643999999998 0.94386630999999999 0.41835087999999998 0.76449513000000002 0.41723353000000002 0.76706702000000004 0"
+		+ ".33614780999999999 0.76965642000000001 0.33721690999999998 0.77442372000000004 0.33353114 0.77065079999999997 0.32957393000000001 0.77461332000000005 0.33362287000000002 0.77455543999999998 0.32601741000000001 0.88046526999999997 0.26552104999999998 0.88045572999999999 0.26193672000000001 0.77466011000000001 0.25789215999999998 0.77459007999999996 0.25797594000000001 0.77073115000000003 0.25536441999999998 0.76972616000000005 0.25430539000000002 0.77446258000000001 0.41092329999999999 0.88019471999999999 0.35043907000000002 0.88028592000000006 0.34707767 0.77056658 0.41396862000000001 0.77050423999999995 0.34012687000000003 0.76954853999999995 0.34274113 0.77054745000000002 0.33907807000000001 0.77428686999999996 0.48392093000000003 0.87974560000000002 0.42338365 0.87973922000000004 0.48344457000000002 0.98735695999999995 0.42290740999999998 0.98734635000000004 0.42292576999999998 0.88150954000000004 0.48346317 0.88152003000000001 0.42092115000000002 0.76940255999999996 0.42199808 0.77416742000000005 0.418306"
+		+ "88999999999 0.77040207000000005")
+		2 "|Polish6:Polish|Polish6:PolishShape" "uvst[0].uvsp[250:328]" (" 0.32959833999999999 0.88045596999999998 0.33364265999999998 0.88052595 0.32625869000000002 0.88518523999999998 0.26527813 0.88514267999999996 0.26193979000000001 0.88045132000000004 0.25789076 0.88050812000000001 0.41435546000000001 0.77436691999999996 0.41450435000000002 0.88018054000000001 0.411174 0.88491355999999999 0.35020536000000002 0.88497376000000005 0.34685820000000001 0.88028662999999996 0.34670937000000002 0.77447306999999999 0.34266478 0.77440858000000001 0.41840428000000002 0.77430427000000002 0.34280926 0.88034928000000001 0.33921558000000002 0.88048618999999995 0.25429642000000002 0.97844421999999998 0.25429701999999998 0.97373080000000001 0.31483423999999999 0.97373569000000004 0.31483388000000001 0.97844922999999995 0.33722940000000001 0.88065249000000001 0.42213564999999997 0.88036661999999999 0.41854876000000002 0.88024497000000002 0.25429666000000001 0.88063972999999995 0.31484066999999999 0.89318109000000001 0.31484044 0.89789450000000004 0.25430322 0.89788955000000004 0.254303569999999"
+		+ "98 0.89317614000000001 0.32922332999999998 0.88436258000000001 0.33356053000000002 0.88438737000000001 0.32612683999999997 0.88923328999999995 0.265394 0.88920116000000005 0.26231968 0.88431417999999995 0.25798201999999998 0.88441013999999996 0.41413599000000001 0.88408697000000003 0.41105121 0.88896132000000005 0.35033005 0.8890323 0.34724492000000001 0.88414930999999997 0.34290677000000003 0.88425136000000004 0.34029250999999999 0.88525092999999999 0.25429731999999999 0.96967446999999996 0.31483448000000003 0.96967935999999999 0.33617359000000002 0.8853898 0.41847246999999999 0.88410604000000004 0.31484020000000001 0.9019509 0.25430291999999999 0.90194589000000003 0.42108673000000002 0.88510500999999997 0.25536608999999999 0.88540578000000003 0.32909878999999997 0.88540423000000001 0.33248174000000003 0.88778668999999999 0.32881415000000003 0.88943863000000001 0.32623178000000003 0.89283299000000005 0.26528816999999999 0.89278995999999999 0.26270598000000001 0.88940763 0.26243000999999999 0.8853429600000000"
+		+ "1 0.25904696999999999 0.88774151000000001 0.41401452 0.88512610999999997 0.41373891000000002 0.88916075000000006 0.41116409999999998 0.89256047999999999 0.35023211999999998 0.89262127999999996 0.34764265999999999 0.88924455999999996 0.34735775000000002 0.88518047 0.34286273 0.89015840999999996 0.34398001 0.88758652999999998 0.34661650999999999 0.89179909000000002 0.25429766999999998 0.96607876000000004 0.31483495 0.96608377000000001 0.33358874999999999 0.89034104000000003 0.32985783000000002 0.89199543000000003 0.31483995999999997 0.90554648999999998 0.25430261999999998 0.90554153999999998 0.41851526 0.89005255999999999 0.41478819 0.89171517 0.41740268000000003 0.88750070000000003 0.25792408 0.89031088000000003 0.26167411000000002 0.89196001999999996 0.27813682000000001 0.95560281999999996 0.29680157000000001 0.91897868999999999 0.30435905000000002 0.94224465000000002"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish1RN5";
+	rename -uid "CC884889-4A44-B4C2-316A-FB9C93AEC72D";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish1RN5"
+		"Polish1RN5" 0
+		"Polish1RN5" 7
+		2 "|Polish7:Polish" "translate" " -type \"double3\" 651.68375715944853255 334.193774609278762 112.79334303683299368"
+		
+		2 "|Polish7:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish7:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish7:Polish|Polish7:PolishShape" "uvPivot" " -type \"double2\" 0.87930098176002502 0.87842041254043579"
+		
+		2 "|Polish7:Polish|Polish7:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish7:Polish|Polish7:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.77612524999999999 0.95662009999999997 0.80519198999999997 0.95201886000000002 0.80814922 0.93335736000000002 0.77152198999999999 0.95201612000000002 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.76997512999999995 0.94897962000000002 0.76856672999999998 0.94621491000000002 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.76808160999999997 0.94315033999999998 0.78835630000000001 0.96059530999999998 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.789688"
+		+ "77000000004 0.17415541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.76754880000000003 0.93978446999999998 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.75808679999999995 0.97005224000000001 0.81862407999999998 0.97005724999999998 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0."
+		+ "83069210999999998 0.17415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.81862908999999995 0.90952003000000003 0.76856780000000002 0.93335414000000005 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.75809174999999995 0.90951501999999995 0.80916714999999995 0.93978786000000003 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.78835964000000003 0.91897702000000003 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.9169501100000000"
+		+ "4 0.19364816000000001 0.91210747000000003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.77152394999999996 0.92755346999999999 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.80519395999999999 0.92755622000000004 0.77612804999999996 0.92295020999999999 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.80058788999999997 0.95662212000000002 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.794790030"
+		+ "00000004 0.91999602000000003 0.79478674999999999 0.95957738000000004 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.78192919000000005 0.91999494999999998 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0"
+		+ ".86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.76901149999999996 0.76598555000000002 0.83004475 0.76594609000000002 0.82992684999999999 0.76953006000000002 0.82784855000000002 "
+		+ "0.77170455000000004 0.77123153 0.77175640999999995 0.76914643999999999 0.76958126000000004 0.88102453999999997 0.95920128000000004 0.82048719999999997 0.95920729999999998 0.820481 0.89867019999999997 0.88101834000000001 0.898664 0.83261918999999995 0.76940178999999997 0.830019 0.77386772999999998 0.76906109 0.77393281000000003 0.76645797000000004 0.76947575999999995 0.91477059999999999 0.76600581000000001 0.91467261 0.76959473 0.85395156999999999 0.76966577999999997 0.85383874000000004 0.76606655000000001 0.92718542000000004 0.76551038000000005 0.98772269000000001 0.76551687999999996 0.98772234000000003 0.76911247000000005 0.92718493999999996 0.76910597000000003 0.98815078000000001 0.88730036999999995 0.99174649000000004 0.88730096999999997 0.99173575999999997 0.94783819000000002 0.98814016999999998 0.94783759000000001 0.83365560000000005 0.76684313999999998 0.83286452 0.77357441000000005 0.76930695999999998 0.77862220999999998 0.76621329999999999 0.77361756999999998 0.76539712999999998 0.76691644999999997 0."
+		+ "91479743000000002 0.77365320999999998 0.85382884999999997 0.77371347000000001 0.85126387999999997 0.76946627999999995 0.91736019000000002 0.76938247999999998 0.85021466000000001 0.76691186 0.98772185999999995 0.77316885999999996 0.92718458000000004 0.77316242000000002 0.99580281999999998 0.88730167999999998 0.99579209000000002 0.94783890000000004 0.91838646000000002 0.76682788000000002 0.83740150999999996 0.76853168000000005 0.83626699000000004 0.77111023999999995 0.83298063 0.77471369999999995 0.82978176999999997 0.77858530999999997 0.76609932999999997 0.77473760000000003 0.76280314000000005 0.77118032999999997 0.76168161999999995 0.76861626000000005 0.91456353999999995 0.77834110999999995 0.85407937 0.77843236999999998 0.85098826999999999 0.77350098 0.91764509999999999 0.77344656000000001 0.84760016000000005 0.77112627 0.84648752000000005 0.76857441999999998 0.98772137999999998 0.77788221999999996 0.92718398999999996 0.77787583999999999 1.00051641464000007 0.88730251999999998 1.00050556660000001 0.947839800"
+		+ "00000001 0.92214 0.76846862000000005 0.92102265000000005 0.77104050000000002 0.83993697 0.77362989999999998 0.84100604000000001 0.77839720000000001 0.83732026999999998 0.77462428999999999 0.83336306000000004 0.77858680000000002 0.837412 0.77852893000000001 0.82980657000000002 0.88443875000000005 0.76931017999999995 0.88442922000000002 0.76572585000000004 0.77863358999999999 0.76168132 0.77856356000000004 0.76176505999999999 0.77470464000000006 0.75915354000000002 0.77369964000000002 0.75809455000000003 0.77843605999999999 0.91471243000000002 0.88416826999999998 0.85422819999999999 0.88425940000000003 0.85086678999999998 0.77454007000000002 0.91775775000000004 0.77447772000000004 0.843916 0.77352202000000003 0.84653025999999998 0.77452093 0.84286720000000004 0.77826035000000005 0.98771005999999995 0.88371909000000004 0.92717278000000003 0.88371270999999996 0.98723369999999999 0.99133044000000003 0.92669654000000001 0.99131983999999995 0.92671490000000001 0.88548302999999995 0.98725229999999997 0.88549352000000"
+		+ "003 0.92471026999999995 0.77337604999999998 0.92578720999999997 0.77814090000000002 0.92209600999999997 0.77437555999999996"
+		)
+		2 "|Polish7:Polish|Polish7:PolishShape" "uvst[0].uvsp[250:328]" (" 0.83338749000000001 0.88442944999999995 0.83743179000000001 0.88449942999999998 0.83004785000000003 0.88915873000000001 0.76906728999999996 0.88911616999999998 0.76572894999999996 0.88442480999999995 0.76167989000000003 0.88448161000000003 0.91814457999999999 0.77834040000000004 0.91829348 0.88415407999999995 0.91496312999999996 0.88888705000000001 0.85399449000000005 0.88894724999999997 0.85064733000000003 0.88426011999999998 0.85049850000000005 0.77844656000000001 0.84645391000000003 0.77838205999999999 0.92219340999999999 0.77827774999999999 0.84659839000000003 0.88432275999999999 0.84300470000000005 0.88445967000000003 0.75808555 0.98241769999999995 0.75808613999999996 0.97770429000000003 0.81862336000000002 0.97770917000000002 0.81862301000000004 0.98242271000000003 0.84101855999999997 0.88462596999999998 0.92592478 0.88434011000000001 0.92233788999999999 0.88421844999999999 0.75808578999999998 0.88461321999999998 0.81862979999999996 0.89715456999999998 0.81862955999999998 0.90186798999999995 0.75809234"
+		+ "000000003 0.90186310000000003 0.75809269999999995 0.89714967999999995 0.83301245999999995 0.88833605999999998 0.83734964999999995 0.88836086000000003 0.829916 0.89320683000000001 0.76918315999999998 0.89317464999999996 0.76610880999999997 0.88828766000000003 0.76177114000000001 0.88838362999999998 0.91792512000000004 0.88806045 0.91484034000000003 0.89293480000000003 0.85411917999999998 0.89300584999999999 0.85103404999999999 0.88812279999999999 0.84669589999999995 0.88822484000000002 0.84408163999999997 0.88922440999999997 0.75808644000000003 0.97364795000000004 0.81862360000000001 0.97365283999999996 0.83996272000000005 0.88936329000000003 0.92226160000000001 0.88807952000000001 0.81862931999999999 0.90592437999999997 0.75809205000000002 0.90591937 0.92487585999999999 0.88907849999999999 0.75915520999999997 0.88937926 0.83288788999999996 0.88937770999999999 0.83627087 0.89176023000000004 0.83260327999999995 0.89341210999999998 0.83002089999999995 0.89680647999999996 0.76907729999999996 0.89676343999999997 0"
+		+ ".76649511000000004 0.89338112000000003 0.76621914000000002 0.88931643999999999 0.76283610000000002 0.89171504999999995 0.91780364999999997 0.88909959999999999 0.91752803000000005 0.89313423999999997 0.91495322999999995 0.89653397000000001 0.85402124999999995 0.89659476000000005 0.85143179000000002 0.89321804000000005 0.85114688000000005 0.88915396000000002 0.84665184999999998 0.89413189999999998 0.84776914000000003 0.89156007999999998 0.85040563000000002 0.89577258000000004 0.75808679999999995 0.97005224000000001 0.81862407999999998 0.97005724999999998 0.83737790999999995 0.89431453000000005 0.83364695 0.89596891000000001 0.81862908999999995 0.90952003000000003 0.75809174999999995 0.90951501999999995 0.92230438999999997 0.89402603999999997 0.91857730999999998 0.89568864999999998 0.92119181000000006 0.89147425000000002 0.76171321000000003 0.89428437000000005 0.76546323000000005 0.89593350999999999 0.78192592000000005 0.95957636999999996 0.80059069000000005 0.92295218000000001 0.80814814999999995 0.946218129999"
+		+ "99999");
+lockNode -l 1 ;
+createNode reference -n "Polish1RN6";
+	rename -uid "CD93DA99-45FB-6828-62AA-469EBBD31BEE";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish1RN6"
+		"Polish1RN6" 0
+		"Polish1RN6" 7
+		2 "|Polish8:Polish" "translate" " -type \"double3\" 651.68375715944853255 328.2789153457052862 112.79334303683299368"
+		
+		2 "|Polish8:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish8:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish8:Polish|Polish8:PolishShape" "uvPivot" " -type \"double2\" 0.87493389844894409 0.63294768333435059"
+		
+		2 "|Polish8:Polish|Polish8:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		2 "|Polish8:Polish|Polish8:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.77175819999999995 0.71114736999999995 0.80082487999999996 0.70654607000000003 0.80378210999999999 0.68788463 0.76715493000000001 0.70654333000000002 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.76560806999999997 0.70350689 0.76419961000000003 0.70074219000000004 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.76371454999999999 0.69767760999999995 0.78398919 0.71512257999999995 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.1741"
+		+ "5541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.76318169000000002 0.69431173999999996 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.75371969000000005 0.72457945000000001 0.81425703000000005 0.72458445999999999 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 "
+		+ "0.17415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.81426202999999997 0.66404724000000004 0.76420069000000002 0.68788141000000003 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.75372468999999997 0.66404229000000004 0.80480003 0.69431507999999997 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.78399258999999999 0.67350423000000004 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.912"
+		+ "10747000000003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.76715690000000003 0.68208075000000001 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.80082690999999995 0.68208349000000001 0.77176093999999995 0.67747747999999997 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.79622084000000004 0.71114933000000002 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.79042292000000003 0.6745232300000000"
+		+ "3 0.79041969999999995 0.71410465000000001 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.77756214000000001 0.67452221999999995 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.180929"
+		+ "85 0.88204389999999999 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.76464438000000001 0.52051281999999999 0.82567769000000002 0.52047336 0.82555973999999999 0.52405727000000002 0.82348149999999998 0.52623176999999999 0.76686"
+		+ "441999999999 0.52628361999999995 0.76477932999999998 0.52410853000000002 0.87665749000000004 0.71372855000000002 0.81612015000000004 0.71373450999999999 0.81611394999999998 0.65319740999999998 0.87665128999999997 0.65319126999999999 0.82825214000000003 0.523929 0.82565193999999997 0.52839493999999998 0.76469403999999996 0.52846002999999997 0.76209092 0.52400303000000004 0.91040348999999998 0.52053307999999998 0.91030549999999999 0.524122 0.84958445999999999 0.52419305000000005 0.84947169 0.52059376000000002 0.92281829999999998 0.52003765000000002 0.98335563999999998 0.52004408999999996 0.98335528000000005 0.52363968000000005 0.92281782999999995 0.52363324 0.98378372000000003 0.64182757999999995 0.98737942999999995 0.64182824000000005 0.98736869999999999 0.70236540000000003 0.98377311000000001 0.70236480000000001 0.82928847999999999 0.52137040999999995 0.82849740999999999 0.52810168000000002 0.76493990000000001 0.53314947999999995 0.76184618000000004 0.52814483999999995 0.76103008000000005 0.52144372000000005 "
+		+ "0.91043030999999996 0.52818047999999995 0.84946178999999999 0.52824068000000002 0.84689676999999997 0.52399348999999995 0.91299306999999996 0.52390968999999998 0.84584760999999997 0.52143908000000005 0.98335481000000002 0.52769613000000004 0.92281747000000003 0.52768970000000004 0.99143577000000005 0.64182888999999999 0.99142503999999998 0.70236611000000004 0.91401935000000001 0.52135514999999999 0.83303439999999995 0.52305889000000005 0.83189994 0.52563751000000003 0.82861351999999999 0.52924097000000003 0.82541472000000005 0.53311253000000003 0.76173221999999996 0.52926481000000003 0.75843607999999996 0.52570760000000005 0.75731455999999997 0.52314353000000002 0.91019642000000001 0.53286838999999997 0.84971224999999995 0.53295957999999999 0.84662115999999998 0.52802824999999998 0.91327798000000004 0.52797377000000001 0.84323311000000001 0.52565348000000001 0.84212041000000004 0.52310168999999995 0.98335433000000005 0.53240942999999996 0.92281687000000001 0.53240310999999996 0.99614930000000002 0.64182972999"
+		+ "999999 0.99613845000000001 0.70236706999999998 0.91777288999999995 0.52299583000000005 0.91665554000000005 0.52556776999999999 0.83556986 0.52815710999999999 0.83663893 0.53292441000000002 0.83295321 0.52915155999999997 0.82899593999999999 0.53311408000000005 0.83304489000000004 0.53305614000000001 0.82543944999999996 0.63896596000000005 0.76494311999999998 0.63895643000000002 0.76135874000000003 0.53316081000000004 0.75731420999999999 0.53309083000000002 0.75739800999999995 0.52923191000000003 0.75478648999999998 0.52822685000000003 0.75372744000000003 0.53296328000000004 0.91034532000000001 0.63869547999999998 0.84986114999999995 0.63878667 0.84649967999999998 0.52906728000000003 0.91339064000000003 0.52900493000000004 0.83954894999999996 0.52804923000000004 0.84216321000000005 0.52904819999999997 0.83850013999999995 0.53278762000000002 0.98334301000000002 0.63824630000000004 0.92280567000000002 0.63823998000000004 0.98286664000000001 0.74585771999999995 0.92232943000000001 0.74584711000000004 0.92234777999"
+		+ "999995 0.64001023999999995 0.98288523999999999 0.64002073000000004 0.92034316000000005 0.52790331999999995 0.92142009999999996 0.53266811000000003 0.91772889999999996 0.52890276999999997"
+		)
+		2 "|Polish8:Polish|Polish8:PolishShape" "uvst[0].uvsp[250:328]" (" 0.82902038 0.63895667 0.83306468 0.63902663999999998 0.82568072999999997 0.64368594000000001 0.76470017000000001 0.64364337999999999 0.76136183999999996 0.63895201999999995 0.75731276999999997 0.63900888 0.91377746999999998 0.53286767000000002 0.91392636000000005 0.63868128999999996 0.91059601000000001 0.64341426000000002 0.84962738000000004 0.64347445999999997 0.84628022000000003 0.63878738999999995 0.84613143999999996 0.53297377000000001 0.84208678999999997 0.53290926999999999 0.91782629000000004 0.53280497000000004 0.84223126999999998 0.63884996999999999 0.83863759000000004 0.63898695000000005 0.75371849999999996 0.73694490999999995 0.75371909000000004 0.73223150000000004 0.81425630999999998 0.73223638999999996 0.81425594999999995 0.73694992000000004 0.83665144000000002 0.63915323999999996 0.92155765999999995 0.63886737999999998 0.91797077999999999 0.63874573000000001 0.75371873 0.63914048999999995 0.81426275000000004 0.65168183999999996 0.81426251000000005 0.65639526000000004 0.75372528999999999 0.656390"
+		+ "31000000003 0.75372565000000002 0.65167688999999995 0.82864534999999995 0.64286326999999999 0.83298254000000005 0.64288807000000003 0.82554888999999998 0.64773404999999995 0.76481604999999997 0.64770192000000004 0.76174176000000005 0.64281487000000004 0.75740408999999997 0.64291083999999998 0.91355801000000003 0.64258766 0.91047323000000002 0.64746207 0.84975206999999997 0.64753305999999999 0.84666693000000004 0.64265000999999999 0.84232879000000005 0.64275205000000002 0.83971452999999996 0.64375161999999997 0.75371933000000002 0.72817516000000004 0.81425654999999997 0.72818004999999997 0.83559561000000004 0.64389050000000003 0.91789447999999996 0.64260673999999995 0.81426226999999995 0.66045164999999995 0.75372492999999996 0.66044663999999997 0.92050874000000005 0.64360571 0.75478816000000004 0.64390647000000001 0.82852082999999999 0.64390491999999999 0.83190381999999996 0.64628744000000005 0.82823621999999997 0.64793937999999995 0.82565379000000005 0.65133375000000004 0.76471018999999996 0.65129066000000002"
+		+ " 0.762128 0.64790839 0.76185203000000001 0.64384364999999999 0.75846899000000001 0.64624225999999996 0.91343653000000002 0.64362680999999999 0.91316092000000004 0.64766151000000005 0.91058612000000005 0.65106123999999999 0.84965420000000003 0.65112203000000002 0.84706473000000004 0.64774531000000002 0.84677981999999996 0.64368117000000002 0.84228479999999994 0.64865910999999998 0.84340203000000002 0.64608728999999998 0.84603857999999998 0.65029979000000004 0.75371969000000005 0.72457945000000001 0.81425703000000005 0.72458445999999999 0.83301079 0.64884173999999994 0.82927989999999996 0.65049612999999995 0.81426202999999997 0.66404724000000004 0.75372468999999997 0.66404229000000004 0.91793727999999997 0.64855324999999997 0.91421019999999997 0.65021585999999998 0.91682470000000005 0.64600146000000003 0.75734615000000005 0.64881158000000005 0.76109612000000004 0.65046071999999999 0.77755885999999996 0.71410357999999996 0.79622364000000001 0.67747944999999998 0.80378108999999998 0.70074539999999996"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish2RN";
+	rename -uid "8B6A1F0C-409A-BD40-4C5D-D586C92E8D5B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish2RN"
+		"Polish2RN" 0
+		"Polish2RN" 3
+		2 "|Polish64:Polish" "translate" " -type \"double3\" 651.68375715944853255 323.04524153199906777 112.793"
+		
+		2 "|Polish64:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish64:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish2RN1";
+	rename -uid "C68497C8-4F8F-BF64-17C5-7D9252884B50";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish2RN1"
+		"Polish2RN1" 0
+		"Polish2RN1" 7
+		2 "|Polish65:Polish" "translate" " -type \"double3\" 651.68375715944853255 317.45396457303718307 112.793"
+		
+		2 "|Polish65:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish65:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish65:Polish|Polish65:PolishShape" "uvPivot" " -type \"double2\" 0.12601474216549735 0.38270840048789978"
+		
+		2 "|Polish65:Polish|Polish65:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish65:Polish|Polish65:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.022839040000000001 0.46090810999999998 0.051905751 0.45630683999999999 0.054863005999999999 0.43764537999999997 0.018235773 0.45630409999999999 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.016688913 0.45326762999999998 0.015280515 0.45050293000000002 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.014795393 0.44743833 0.035070061999999999 0.4648833 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.17415541000000001 0.7999395700000"
+		+ "0004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.014262587 0.44407246 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.0048005879000000001 0.47434022999999997 0.065337866999999994 0.47434524 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.17415184 0.82044141999999998 0.17761666000000001 0"
+		+ ".81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.065342872999999996 0.41380799000000001 0.015281588 0.43764216 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.0048055351000000001 0.41380304000000001 0.055880934 0.44407584999999999 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.035073459000000001 0.42326501 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.91210747000000003 0.17086261999999999 0.85119396000000003 0.0308884380000000"
+		+ "01 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.01823777 0.43184146000000001 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.051907747999999997 0.43184420000000001 0.022841811 0.42723820000000001 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.047301709999999997 0.46091010999999998 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.041503787 0.42428400999999999 0.041500539000000003 0.46386537 0.030888438000000001 0.90781367000000002 0.17086261999999999 0"
+		+ ".90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.028642982000000001 0.42428296999999998 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.88418191999999995 0.20012482000000001 0.89069222999999997 0.17415184"
+		+ " 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.015725255 0.27027353999999998 0.076758564000000001 0.27023407999999999 0.076640635999999998 0.27381804999999998 0.074562371000000002 0.27599254000000001 0.017945289999999999 0.27604440000000002 0.015860229999999999 0.27386925000000001 0.12773833000000001 0.46"
+		+ "348926000000001 0.067200989000000003 0.46349528000000001 0.067194790000000004 0.40295815000000001 0.12773213 0.40295202000000002 0.079333006999999997 0.27368977999999999 0.076732813999999996 0.27815568000000002 0.015774906000000002 0.27822077000000001 0.013171762 0.27376374999999997 0.16148439000000001 0.27029379999999997 0.16138640000000001 0.27388272000000002 0.10066536 0.27395376999999999 0.10055253 0.27035453999999998 0.1738992 0.26979837000000001 0.23443648 0.26980486999999997 0.23443612 0.27340046000000001 0.17389873 0.27339395999999999 0.23486456 0.39158832999999998 0.23846027 0.39158899000000003 0.23844953999999999 0.45212617999999999 0.23485395000000001 0.45212558000000003 0.080369353000000004 0.27113113 0.079578309999999999 0.27786240000000001 0.016020744999999999 0.2829102 0.012927055 0.27790555 0.012110919 0.27120443999999999 0.16151120999999999 0.2779412 0.10054262999999999 0.27800145999999998 0.097977668000000004 0.27375427000000002 0.16407397000000001 0.27367046 0.096928447000000001 0.271199850"
+		+ "00000002 0.23443565 0.27745684999999998 0.17389837 0.27745040999999998 0.24251660999999999 0.39158964000000002 0.24250588000000001 0.45212689 0.16510025 0.27111586999999998 0.084115297000000006 0.27281967000000001 0.082980812000000001 0.27539822000000003 0.079694420000000002 0.27900167999999997 0.076495588000000003 0.28287329999999999 0.012813121 0.27902558 0.0095169246000000006 0.27546831999999999 0.0083954036000000003 0.27290425000000001 0.16127732 0.28262910000000002 0.10079315 0.28272036 0.097702055999999995 0.27778897000000002 0.16435888000000001 0.27773455000000002 0.094313948999999994 0.27541426000000002 0.093201308999999996 0.2728624 0.23443517 0.28217020999999998 0.17389777000000001 0.28216383 0.24723013999999999 0.39159048000000002 0.24721935 0.45212777999999998 0.16885379 0.27275661000000001 0.16773643999999999 0.27532848999999998 0.086650728999999996 0.27791789 0.087719828 0.28268518999999998 0.084034054999999996 0.27891228000000001 0.080076843999999994 0.28287478999999999 0.084125786999999994 0.2"
+		+ "8281692000000003 0.076520324000000001 0.38872674000000002 0.016023964000000002 0.38871719999999998 0.012439637999999999 0.28292158000000001 0.0083950758000000004 0.28285155000000001 0.0084788500999999992 0.27899262000000002 0.0058673322000000003 0.27798762999999999 0.0048083066999999998 0.28272405 0.16142622000000001 0.38845623000000001 0.10094199 0.38854738999999999 0.097580581999999999 0.27882804999999999 0.16447154 0.27876571 0.090629786000000004 0.27781001 0.093244045999999997 0.27880892000000002 0.089580983000000003 0.28254836999999999 0.23442384999999999 0.38800707000000001 0.17388656999999999 0.38800069999999998 0.23394749000000001 0.49561843 0.17341033 0.49560781999999998 0.17342868 0.38977100999999997 0.23396607999999999 0.3897815 0.17142405999999999 0.27766404 0.172501 0.28242888999999999 0.16880980000000001 0.27866354999999998"
+		)
+		2 "|Polish65:Polish|Polish65:PolishShape" "uvst[0].uvsp[250:328]" (" 0.080101251999999998 0.38871744000000003 0.084145576 0.38878741999999999 0.076761602999999998 0.39344670999999998 0.015781045 0.39340416 0.012442708 0.38871278999999997 0.0083936750999999993 0.38876959999999999 0.16485837 0.28262839000000001 0.16500725999999999 0.38844203999999999 0.16167691000000001 0.39317503999999998 0.10070828 0.39323523999999999 0.097361117999999996 0.38854811 0.097212284999999996 0.28273453999999998 0.093167691999999996 0.28267005000000001 0.16890720000000001 0.28256574000000001 0.093312173999999998 0.38861075 0.089718490999999997 0.38874765999999999 0.0047993361999999996 0.48670569000000002 0.0047999321999999999 0.48199227 0.065337150999999996 0.48199715999999998 0.065336794000000004 0.4867107 0.087732315000000005 0.38891396 0.17263856999999999 0.38862809999999998 0.16905168000000001 0.38850646999999999 0.0047995746000000002 0.3889012 0.065343588999999994 0.40144258999999999 0.065343349999999994 0.406156 0.0048061311000000004 0.40615106000000001 0.0048064887999999997 0.401437639999999"
+		+ "98 0.079726248999999999 0.39262405 0.084063441000000003 0.39264884999999999 0.076629758000000006 0.39749478999999999 0.015896916000000001 0.39746267000000002 0.012822597999999999 0.39257565 0.0084849298000000007 0.39267161 0.16463891 0.39234844000000002 0.16155412999999999 0.39722281999999998 0.10083296999999999 0.39729381000000002 0.097747833000000006 0.39241078000000001 0.093409687000000005 0.39251282999999998 0.090795427999999997 0.39351239999999998 0.0048002302999999996 0.47793594 0.065337389999999995 0.47794082999999998 0.086676507999999999 0.39365127999999999 0.16897538000000001 0.39236750999999997 0.065343111999999995 0.41021236999999999 0.0048058331000000003 0.41020736000000002 0.17158963999999999 0.39336649000000001 0.0058690011999999996 0.39366725000000002 0.079601704999999995 0.39366570000000001 0.082984656000000004 0.39604819000000002 0.079317062999999993 0.39770012999999999 0.076734691999999993 0.40109450000000002 0.015791088000000002 0.40105142999999999 0.013208895999999999 0.39766913999999998 0"
+		+ ".012932926000000001 0.39360443000000001 0.0095498860000000005 0.39600300999999999 0.16451742999999999 0.39338759000000001 0.16424182000000001 0.39742224999999998 0.16166701999999999 0.40082198000000002 0.10073504 0.40088277999999999 0.098145573999999999 0.39750605999999999 0.097860664 0.39344194999999998 0.093365639 0.39841989 0.094482928999999993 0.39584804000000001 0.097119420999999997 0.40006056000000001 0.0048005879000000001 0.47434022999999997 0.065337866999999994 0.47434524 0.084091662999999997 0.39860252000000002 0.08036074 0.40025690000000003 0.065342872999999996 0.41380799000000001 0.0048055351000000001 0.41380304000000001 0.16901817999999999 0.39831402999999999 0.1652911 0.39997663999999999 0.16790559999999999 0.39576221 0.0084269940999999998 0.39857236000000001 0.01217702 0.40022150000000001 0.028639734 0.46386432999999999 0.047304481000000002 0.42724019000000002 0.054861963 0.45050614999999999"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish2RN2";
+	rename -uid "3DC3D9A4-42AB-2F01-54D9-2A8522448838";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish2RN2"
+		"Polish2RN2" 0
+		"Polish2RN2" 7
+		2 "|Polish66:Polish" "translate" " -type \"double3\" 651.68375715944853255 311.90884257419344294 112.793"
+		
+		2 "|Polish66:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish66:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish66:Polish|Polish66:PolishShape" "uvPivot" " -type \"double2\" 0.62318350889084884 0.38270840048789978"
+		
+		2 "|Polish66:Polish|Polish66:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish66:Polish|Polish66:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.52000778999999997 0.46090810999999998 0.54907452999999995 0.45630683999999999 0.55203175999999998 0.43764537999999997 0.51540452000000003 0.45630409999999999 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.51385765999999999 0.45326762999999998 0.51244926000000002 0.45050293000000002 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.51196414000000001 0.44743833 0.53223883999999999 0.4648833 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.7896887700000000"
+		+ "4 0.17415541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.51143134000000001 0.44407246 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.50196934000000004 0.47434022999999997 0.56250661999999996 0.47434524 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.17415184"
+		+ " 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.56251161999999999 0.41380799000000001 0.51245034 0.43764216 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.50197427999999999 0.41380304000000001 0.55304967999999999 0.44407584999999999 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.53224223999999998 0.42326501 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.91210747000000003 0.17086261999"
+		+ "999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.51540655000000002 0.43184146000000001 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.54907649999999997 0.43184420000000001 0.52001059000000005 0.42723820000000001 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.54447049000000003 0.46091010999999998 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.53867257000000002 0.42428400999999999 0.53866928999999997 0.4638"
+		+ "6537 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.52581173000000003 0.42428296999999998 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.88"
+		+ "418191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.51289403 0.27027353999999998 0.57392734000000001 0.27023407999999999 0.57380938999999997 0.27381804999999998 0.57173114999999997 0.27599254000000001 0.51511406999999998 0.27604440000000002 0.51"
+		+ "302897999999997 0.27386925000000001 0.62490707999999995 0.46348926000000001 0.56436973999999995 0.46349528000000001 0.56436354 0.40295815000000001 0.62490087999999999 0.40295202000000002 0.57650179000000001 0.27368977999999999 0.57390158999999996 0.27815568000000002 0.51294368999999995 0.27822077000000001 0.51034051000000002 0.27376374999999997 0.65865313999999997 0.27029379999999997 0.65855514999999998 0.27388272000000002 0.59783410999999997 0.27395376999999999 0.59772128000000002 0.27035453999999998 0.67106794999999997 0.26979837000000001 0.73160523 0.26980486999999997 0.73160486999999996 0.27340046000000001 0.67106748000000005 0.27339395999999999 0.73203331000000005 0.39158832999999998 0.73562901999999997 0.39158899000000003 0.73561829000000001 0.45212617999999999 0.73202270000000003 0.45212558000000003 0.57753812999999998 0.27113113 0.57674705999999998 0.27786240000000001 0.51318949000000003 0.2829102 0.51009583000000003 0.27790555 0.50927966999999996 0.27120443999999999 0.65867995999999995 0.2779412 0.59"
+		+ "771138000000001 0.27800145999999998 0.59514641999999995 0.27375427000000002 0.66124271999999995 0.27367046 0.59409719999999999 0.27119985000000002 0.73160440000000004 0.27745684999999998 0.67106712000000002 0.27745040999999998 0.73968535999999996 0.39158964000000002 0.73967463 0.45212689 0.662269 0.27111586999999998 0.58128405000000005 0.27281967000000001 0.58014958999999999 0.27539822000000003 0.57686316999999998 0.27900167999999997 0.57366437000000003 0.28287329999999999 0.50998186999999995 0.27902558 0.50668566999999998 0.27546831999999999 0.50556414999999999 0.27290425000000001 0.65844606999999999 0.28262910000000002 0.59796190000000005 0.28272036 0.59487080999999997 0.27778897000000002 0.66152763000000003 0.27773455000000002 0.59148270000000003 0.27541426000000002 0.59037006000000003 0.2728624 0.73160391999999996 0.28217020999999998 0.67106652 0.28216383 0.74439889000000004 0.39159048000000002 0.7443881 0.45212777999999998 0.66602254000000005 0.27275661000000001 0.66490519000000003 0.27532848999999998 0."
+		+ "58381950999999999 0.27791789 0.58488857999999999 0.28268518999999998 0.58120280999999996 0.27891228000000001 0.57724558999999998 0.28287478999999999 0.58129454000000003 0.28281692000000003 0.57368909999999995 0.38872674000000002 0.51319271 0.38871719999999998 0.50960839000000002 0.28292158000000001 0.50556385999999998 0.28285155000000001 0.50564759999999997 0.27899262000000002 0.50303608 0.27798762999999999 0.50197709000000001 0.28272405 0.65859497 0.38845623000000001 0.59811073999999997 0.38854738999999999 0.59474932999999996 0.27882804999999999 0.66164029000000002 0.27876571 0.58779853999999998 0.27781001 0.59041279999999996 0.27880892000000002 0.58674972999999997 0.28254836999999999 0.73159260000000004 0.38800707000000001 0.67105532000000001 0.38800069999999998 0.73111623999999997 0.49561843 0.67057907999999999 0.49560781999999998 0.67059743000000005 0.38977100999999997 0.73113483000000001 0.3897815 0.66859281000000004 0.27766404 0.66966974999999995 0.28242888999999999 0.66597854999999995 0.278663549999999"
+		+ "98")
+		2 "|Polish66:Polish|Polish66:PolishShape" "uvst[0].uvsp[250:328]" (" 0.57727002999999999 0.38871744000000003 0.58131432999999999 0.38878741999999999 0.57393037999999996 0.39344670999999998 0.51294982 0.39340416 0.50961148999999994 0.38871278999999997 0.50556241999999996 0.38876959999999999 0.66202711999999997 0.28262839000000001 0.66217601000000004 0.38844203999999999 0.65884566 0.39317503999999998 0.59787703000000003 0.39323523999999999 0.59452987000000002 0.38854811 0.59438102999999998 0.28273453999999998 0.59033643999999996 0.28267005000000001 0.66607594000000003 0.28256574000000001 0.59048091999999996 0.38861075 0.58688724000000003 0.38874765999999999 0.50196808999999998 0.48670569000000002 0.50196867999999994 0.48199227 0.5625059 0.48199715999999998 0.56250553999999997 0.4867107 0.58490109000000001 0.38891396 0.66980731000000004 0.38862809999999998 0.66622042999999997 0.38850646999999999 0.50196832000000002 0.3889012 0.56251234000000006 0.40144258999999999 0.56251209999999996 0.406156 0.50197488000000001 0.40615106000000001 0.50197524000000004 0.40143763999999998 0.57689"
+		+ "5 0.39262405 0.58123219000000004 0.39264884999999999 0.57379853999999997 0.39749478999999999 0.51306569999999996 0.39746267000000002 0.50999134999999995 0.39257565 0.50565367999999999 0.39267161 0.66180766000000002 0.39234844000000002 0.65872288000000001 0.39722281999999998 0.59800171999999996 0.39729381000000002 0.59491658000000003 0.39241078000000001 0.59057844000000004 0.39251282999999998 0.58796417999999995 0.39351239999999998 0.50196898000000001 0.47793594 0.56250613999999999 0.47794082999999998 0.58384526000000003 0.39365127999999999 0.66614412999999995 0.39236750999999997 0.56251185999999997 0.41021236999999999 0.50197457999999995 0.41020736000000002 0.66875839000000004 0.39336649000000001 0.50303774999999995 0.39366725000000002 0.57677047999999997 0.39366570000000001 0.58015340999999998 0.39604819000000002 0.57648580999999999 0.39770012999999999 0.57390344000000004 0.40109450000000002 0.51295983999999994 0.40105142999999999 0.51037765000000002 0.39766913999999998 0.51010168 0.39360443000000001 0.50671"
+		+ "864 0.39600300999999999 0.66168618000000001 0.39338759000000001 0.66141057000000003 0.39742224999999998 0.65883577000000004 0.40082198000000002 0.59790379000000005 0.40088277999999999 0.59531431999999995 0.39750605999999999 0.59502940999999998 0.39344194999999998 0.59053438999999996 0.39841989 0.59165168000000001 0.39584804000000001 0.59428817 0.40006056000000001 0.50196934000000004 0.47434022999999997 0.56250661999999996 0.47434524 0.58126043999999999 0.39860252000000002 0.57752948999999998 0.40025690000000003 0.56251161999999999 0.41380799000000001 0.50197427999999999 0.41380304000000001 0.66618692999999995 0.39831402999999999 0.66245984999999996 0.39997663999999999 0.66507435000000004 0.39576221 0.50559573999999996 0.39857236000000001 0.50934577000000003 0.40022150000000001 0.52580850999999995 0.46386432999999999 0.54447323000000003 0.42724019000000002 0.55203073999999996 0.45050614999999999"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish2RN3";
+	rename -uid "F02C1A0C-45D0-6930-9931-11998CF1A381";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish2RN3"
+		"Polish2RN3" 0
+		"Polish2RN3" 7
+		2 "|Polish67:Polish" "translate" " -type \"double3\" 651.68375715944853255 305.95917711977381259 112.793"
+		
+		2 "|Polish67:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish67:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish67:Polish|Polish67:PolishShape" "uvPivot" " -type \"double2\" 0.12750774146497296 0.12740552027758412"
+		
+		2 "|Polish67:Polish|Polish67:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish67:Polish|Polish67:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.024332046999999999 0.20560523999999999 0.053398757999999998 0.20100397 0.056356013000000003 0.18234249999999999 0.019728780000000001 0.20100123 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.018181920000000001 0.19796475999999999 0.016773521999999999 0.19520006000000001 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.016288400000000001 0.19213545000000001 0.036563068999999997 0.20958041999999999 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.7896887"
+		+ "7000000004 0.17415541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.015755594000000001 0.18876957999999999 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.0062935947999999999 0.21903734999999999 0.066830872999999999 0.21904235999999999 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001"
+		+ " 0.83069210999999998 0.17415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.06683588 0.15850511 0.016774595 0.18233927999999999 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.0062985419999999999 0.15850016 0.057373940999999998 0.18877298000000001 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.036566465999999999 0.16796212999999999 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.9121"
+		+ "0747000000003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.019730777000000001 0.17653859 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.053400755000000001 0.17654133 0.024334818000000001 0.17193532 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.048794717000000001 0.20560724 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.042996793999999998 0.16898113000000001 0.042993546000000001 0.2085624"
+		+ "8999999999 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.030135988999999998 0.16898009 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.8841"
+		+ "8191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.017218262000000002 0.01497066 0.078251570000000006 0.014931201999999999 0.078133643000000003 0.018515170000000001 0.076055378000000007 0.020689665999999999 0.019438297 0.020741521999999998 0.0173"
+		+ "53237000000001 0.018566369999999999 0.12923133000000001 0.20818639 0.068693994999999994 0.20819240999999999 0.068687796999999995 0.14765528 0.12922512999999999 0.14764914000000001 0.080826014000000002 0.018386900000000001 0.078225821000000001 0.022852807999999999 0.017267912999999999 0.022917897 0.014664768999999999 0.018460870000000001 0.16297739999999999 0.014990926 0.16287941 0.018579841 0.10215837 0.018650889 0.10204554 0.015051663 0.17539220999999999 0.014495492 0.23592948999999999 0.014501989 0.23592912999999999 0.018097578999999999 0.17539173 0.018091083000000001 0.23635756999999999 0.13628545 0.23995327999999999 0.13628610999999999 0.23994255 0.19682330000000001 0.23634695999999999 0.19682269999999999 0.081862359999999995 0.015828252000000001 0.081071317000000004 0.022559524000000001 0.017513752 0.027607322 0.014420062000000001 0.022602677000000002 0.013603926000000001 0.015901565999999999 0.16300422000000001 0.022638320999999999 0.10203564 0.022698580999999999 0.099470674999999995 0.018451393 0.16556"
+		+ "698 0.018367589 0.098421454000000005 0.015896976 0.23592864999999999 0.022153974 0.17539138000000001 0.022147535999999999 0.24400960999999999 0.13628677 0.24399889 0.19682400999999999 0.16659325 0.015812993000000001 0.085608303999999996 0.017516792 0.084473819000000006 0.020095347999999999 0.081187427000000006 0.023698806999999999 0.077988594999999994 0.027570425999999999 0.014306128 0.023722707999999999 0.011009932 0.020165443000000002 0.0098884105999999996 0.017601371000000001 0.16277032999999999 0.027326225999999999 0.10228616 0.027417481 0.099195063 0.022486091 0.16585189 0.022431672 0.095806955999999999 0.020111382000000001 0.094694316000000001 0.017559528000000001 0.23592817999999999 0.026867329999999998 0.17539078 0.026860952 0.24872315 0.13628760000000001 0.24871235999999999 0.19682490999999999 0.17034679999999999 0.017453730000000001 0.16922945 0.020025610999999999 0.088143736 0.022615016000000002 0.089212835000000004 0.027382314000000001 0.085527062000000001 0.023609399999999999 0.081569849999999999"
+		+ " 0.027571917000000001 0.085618793999999998 0.02751404 0.078013331000000005 0.13342386000000001 0.017516970999999999 0.13341433 0.013932645 0.027618706 0.0098880827000000001 0.027548671 0.0099718571000000002 0.023689747000000001 0.0073603391999999997 0.022684752999999998 0.0063013136000000004 0.027421175999999998 0.16291922 0.13315335 0.10243499 0.13324451000000001 0.099073589000000004 0.023525178000000001 0.16596453999999999 0.023462831999999999 0.092122792999999994 0.022507131 0.094737053000000002 0.023506045 0.091073989999999994 0.027245492 0.23591685000000001 0.13270419999999999 0.17537957000000001 0.13269781999999999 0.23544049 0.24031556000000001 0.17490333 0.24030494999999999 0.17492168999999999 0.13446814000000001 0.23545909000000001 0.13447862999999999 0.17291707000000001 0.022361158999999999 0.173994 0.027126014 0.17030281 0.02336067"
+		)
+		2 "|Polish67:Polish|Polish67:PolishShape" "uvst[0].uvsp[250:328]" (" 0.081594259000000002 0.13341457000000001 0.085638583000000004 0.13348454000000001 0.078254610000000002 0.13814383999999999 0.017274052000000002 0.13810127999999999 0.013935715 0.13340991999999999 0.0098866820000000008 0.13346672000000001 0.16635137999999999 0.027325511 0.16650027000000001 0.13313916000000001 0.16316992 0.13787215999999999 0.10220128000000001 0.13793236 0.098854125000000001 0.13324522999999999 0.098705292 0.027431667 0.094660699000000001 0.027367175000000001 0.1704002 0.027262866 0.094805181000000002 0.13330786999999999 0.091211498000000002 0.13344479000000001 0.0062923431000000002 0.23140280999999999 0.0062929392000000001 0.22668940000000001 0.066830158000000001 0.22669428999999999 0.066829800999999994 0.23140781999999999 0.089225321999999996 0.13361107999999999 0.17413157000000001 0.13332521999999999 0.17054468 0.13320360000000001 0.0062925816000000004 0.13359832999999999 0.066836595999999998 0.14613971000000001 0.066836356999999999 0.15085313 0.0062991380999999997 0.15084818 0.006299495700"
+		+ "0000002 0.14613476 0.081219256000000004 0.13732116999999999 0.085556447999999993 0.13734597000000001 0.078122764999999997 0.14219192 0.017389923000000002 0.14215979000000001 0.014315605 0.13727278000000001 0.0099779367000000004 0.13736873999999999 0.16613190999999999 0.13704556000000001 0.16304713000000001 0.14191993999999999 0.10232598 0.14199092999999999 0.099240838999999997 0.13710791 0.094902693999999996 0.13720995 0.092288435000000002 0.13820952 0.0062932372000000002 0.22263305999999999 0.066830397 0.22263795 0.088169515000000004 0.13834840000000001 0.17046839 0.13706463999999999 0.066836118999999999 0.15490949000000001 0.00629884 0.15490448000000001 0.17308265 0.13806361 0.0073620081000000002 0.13836436999999999 0.081094711999999999 0.13836282 0.084477662999999995 0.14074531000000001 0.080810069999999998 0.14239725 0.078227698999999998 0.14579162000000001 0.017284094999999999 0.14574856 0.014701903000000001 0.14236625999999999 0.014425933 0.13830155 0.011042893 0.14070013000000001 0.16601044000000001 0."
+		+ "13808471 0.16573483 0.14211937999999999 0.16316003000000001 0.14551911000000001 0.10222805 0.14557990000000001 0.099638581000000004 0.14220318000000001 0.099353671000000005 0.13813907 0.094858646000000005 0.14311700999999999 0.095975934999999998 0.14054516 0.098612428000000002 0.14475768999999999 0.0062935947999999999 0.21903734999999999 0.066830872999999999 0.21904235999999999 0.085584670000000002 0.14329964000000001 0.081853747000000004 0.14495403000000001 0.06683588 0.15850511 0.0062985419999999999 0.15850016 0.17051119000000001 0.14301115 0.16678411000000001 0.14467376000000001 0.16939861000000001 0.14045932999999999 0.0099200009999999995 0.14326948 0.013670027 0.14491862 0.030132741000000001 0.20856145000000001 0.048797488 0.17193732 0.056354969999999997 0.19520327000000001"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish2RN4";
+	rename -uid "22E830E9-4834-0E68-B01F-ECB58DCE904D";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish2RN4"
+		"Polish2RN4" 0
+		"Polish2RN4" 7
+		2 "|Polish68:Polish" "translate" " -type \"double3\" 651.68375715944853255 300.43959346202791494 112.793"
+		
+		2 "|Polish68:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish68:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish68:Polish|Polish68:PolishShape" "uvPivot" " -type \"double2\" 0.37683862447738647 0.13337751747548621"
+		
+		2 "|Polish68:Polish|Polish68:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish68:Polish|Polish68:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.27366291999999998 0.21157724 0.30272964000000002 0.20697597000000001 0.30568688999999999 0.1883145 0.26905965999999998 0.20697322000000001 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.2675128 0.20393675999999999 0.26610440000000002 0.20117204999999999 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.26561928000000001 0.19810744999999999 0.28589395000000001 0.21555241999999999 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.174155"
+		+ "41000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.26508647000000002 0.19474158 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.25562446999999999 0.22500935 0.31616175000000002 0.22501436 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.17415184 0.8204414199999999"
+		+ "8 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.31616675999999999 0.16447711000000001 0.26610547000000001 0.18831128 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.25562942 0.16447216000000001 0.30670481999999999 0.19474496999999999 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.28589734 0.17393412999999999 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.91210747000000003 0.17086261999999999 0.8511939600"
+		+ "0000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.26906164999999999 0.18251058000000001 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.30273162999999997 0.18251333 0.27366570000000001 0.17790732000000001 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.29812559 0.21157923000000001 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.29232766999999998 0.17495313000000001 0.29232441999999997 0.21453448999999999 0.030888438000000001 0."
+		+ "90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.27946686999999998 0.17495209 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.88418191999999995 0.20012482000000001 0"
+		+ ".89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.26654914000000002 0.020942657999999999 0.32758245000000003 0.0209032 0.32746451999999998 0.024487168 0.32538625999999998 0.026661664000000002 0.26876917 0.026713520000000001 0.26668410999999997 0.024538368000000001 0.3785622100000"
+		+ "0001 0.21415839 0.31802487000000002 0.21416441 0.31801867 0.15362728 0.37855601 0.15362113999999999 0.33015688999999998 0.024358898 0.32755669999999998 0.028824806000000001 0.26659878999999997 0.028889893999999999 0.26399565000000003 0.024432868 0.41230828000000003 0.020962924000000001 0.41221028999999998 0.024551838999999999 0.35148924999999998 0.024622887 0.35137640999999997 0.021023660999999999 0.42472309000000003 0.020467490000000001 0.48526037 0.020473986999999999 0.48526001000000002 0.024069577000000002 0.42472261 0.024063081 0.48568844999999999 0.14225745000000001 0.48928416000000002 0.14225810999999999 0.48927343000000001 0.20279530000000001 0.48567784000000003 0.20279469999999999 0.33119324 0.02180025 0.33040219999999998 0.028531522 0.26684463000000003 0.033579320000000003 0.26375093999999999 0.028574675000000001 0.26293480000000002 0.021873564000000002 0.41233510000000001 0.028610318999999999 0.35136652000000002 0.028670579000000002 0.34880155000000002 0.024423390999999999 0.41489786000000001 0.0243"
+		+ "39586 0.34775233 0.021868973999999999 0.48525952999999999 0.028125971999999999 0.42472225000000002 0.028119534000000002 0.49334049000000002 0.14225876000000001 0.49332976000000001 0.20279601 0.41592413 0.021784991 0.33493918 0.023488789999999999 0.33380470000000001 0.026067346000000002 0.33051830999999998 0.029670805000000001 0.32731947 0.033542424000000001 0.26363701 0.029694706000000001 0.26034080999999998 0.026137441000000001 0.25921928999999999 0.023573369 0.41210121 0.033298224000000001 0.35161703999999999 0.033389479 0.34852593999999998 0.028458088999999999 0.41518276999999998 0.028403669999999999 0.34513782999999998 0.02608338 0.34402518999999998 0.023531526000000001 0.48525906000000002 0.032839328000000001 0.42472166 0.03283295 0.49805402999999998 0.14225960000000001 0.49804324 0.20279691 0.41967767 0.023425728 0.41856032999999998 0.025997609000000001 0.33747461000000001 0.028587013000000001 0.33854371 0.033354311999999997 0.33485794000000002 0.029581397999999998 0.33090072999999998 0.0335439150000000"
+		+ "01 0.33494966999999998 0.033486038000000003 0.32734421000000002 0.13939586000000001 0.26684785 0.13938633 0.26326351999999997 0.033590703999999999 0.25921896 0.033520669000000003 0.25930273999999998 0.029661745 0.25669122 0.028656751000000001 0.25563218999999998 0.033393173999999998 0.41225010000000001 0.13912535000000001 0.35176586999999998 0.13921650999999999 0.34840447000000002 0.029497176 0.41529542000000003 0.029434829999999999 0.34145366999999999 0.028479128999999999 0.34406793000000002 0.029478042999999999 0.34040487000000003 0.033217490000000002 0.48524772999999999 0.1386762 0.42471045000000002 0.13866982 0.48477136999999998 0.24628754999999999 0.42423421 0.24627694 0.42425257 0.14044013999999999 0.48478997000000001 0.14045062999999999 0.42224794999999998 0.028333157000000001 0.42332488000000001 0.033098012000000003 0.41963369 0.029332667999999999"
+		)
+		2 "|Polish68:Polish|Polish68:PolishShape" "uvst[0].uvsp[250:328]" (" 0.33092514000000001 0.13938655999999999 0.33496946 0.13945653999999999 0.32758548999999998 0.14411584 0.26660493000000002 0.14407328 0.26326659000000002 0.13938191999999999 0.25921756000000001 0.13943871999999999 0.41568226000000003 0.033297509000000003 0.41583114999999998 0.13911116000000001 0.4125008 0.14384416 0.35153215999999998 0.14390436000000001 0.348185 0.13921723 0.34803616999999998 0.033403664999999999 0.34399158000000002 0.033339173 0.41973107999999998 0.033234864000000003 0.34413606000000002 0.13927987 0.34054237999999998 0.13941677999999999 0.25562321999999998 0.23737480999999999 0.25562382 0.23266139999999999 0.31616104 0.23266628 0.31616068000000003 0.23737981999999999 0.33855619999999997 0.13958308 0.42346244999999999 0.13929722 0.41987555999999998 0.13917558999999999 0.25562346000000002 0.13957032999999999 0.31616747000000001 0.15211171000000001 0.31616724000000002 0.15682513000000001 0.25563002000000001 0.15682018 0.25563037 0.15210676000000001 0.33055013 0.14329317 0.33488732999999998 0.14"
+		+ "331796999999999 0.32745363999999999 0.14816391000000001 0.26672079999999998 0.14813179000000001 0.26364648000000002 0.14324476999999999 0.25930882 0.14334073999999999 0.41546279000000003 0.14301755999999999 0.41237801000000002 0.14789194 0.35165685000000002 0.14796292999999999 0.34857171999999997 0.14307991 0.34423356999999999 0.14318195 0.34161931000000001 0.14418152000000001 0.25562412000000001 0.22860506 0.31616126999999999 0.22860995000000001 0.33750038999999998 0.14432039999999999 0.41979927 0.14303663 0.316167 0.16088148999999999 0.25562972 0.16087647999999999 0.42241352999999998 0.14403561000000001 0.25669289000000001 0.14433636999999999 0.33042558999999999 0.14433482 0.33380853999999999 0.14671730999999999 0.33014094999999999 0.14836925000000001 0.32755857999999999 0.15176361999999999 0.26661497000000001 0.15172055000000001 0.26403278000000002 0.14833826 0.26375681000000001 0.14427355 0.26037377 0.14667213000000001 0.41534132000000001 0.14405671 0.41506570999999998 0.14809137999999999 0.41249089999999"
+		+ "999 0.15149111000000001 0.35155892 0.15155189999999999 0.34896946000000001 0.14817517999999999 0.34868454999999998 0.14411107000000001 0.34418952000000003 0.14908900999999999 0.34530681000000002 0.14651716000000001 0.34794331000000001 0.15072969 0.25562446999999999 0.22500935 0.31616175000000002 0.22501436 0.33491555000000001 0.14927164000000001 0.33118462999999998 0.15092601999999999 0.31616675999999999 0.16447711000000001 0.25562942 0.16447216000000001 0.41984206000000002 0.14898315000000001 0.41611499000000002 0.15064575999999999 0.41872947999999999 0.14643133 0.25925088000000002 0.14924148000000001 0.26300090999999998 0.15089062 0.27946362000000002 0.21453344999999999 0.29812836999999998 0.17790930999999999 0.30568584999999998 0.20117526999999999"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish2RN5";
+	rename -uid "796EFD45-4E6C-D1D8-F522-B9BA0A8CD401";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish2RN5"
+		"Polish2RN5" 0
+		"Polish2RN5" 7
+		2 "|Polish69:Polish" "translate" " -type \"double3\" 651.68375715944853255 294.61118310461699821 112.793"
+		
+		2 "|Polish69:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish69:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish69:Polish|Polish69:PolishShape" "uvPivot" " -type \"double2\" 0.62766247987747192 0.13039150834083557"
+		
+		2 "|Polish69:Polish|Polish69:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish69:Polish|Polish69:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.52448678000000004 0.20859121999999999 0.55355352000000002 0.20398995 0.55651081000000002 0.18532847999999999 0.51988350999999999 0.20398721 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.51833664999999995 0.20095073999999999 0.51692832 0.19818604000000001 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.51644312999999997 0.19512144000000001 0.53671782999999995 0.21256641000000001 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.1741"
+		+ "5541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.51591039000000005 0.19175555999999999 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.50644838999999997 0.22202334000000001 0.56698561000000003 0.22202833999999999 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 "
+		+ "0.17415184 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.56699060999999995 0.1614911 0.51692939000000004 0.18532525999999999 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.50645328000000001 0.16148614999999999 0.55752873000000003 0.19175896000000001 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.53672123000000005 0.17094812000000001 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.9121"
+		+ "0747000000003 0.17086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.51988553999999998 0.17952456999999999 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.55355549000000004 0.17952731 0.52448958000000001 0.1749213 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.54894947999999999 0.20859322 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.54315155999999998 0.17196712 0.54314828000000004 0.21154848000000"
+		+ "001 0.030888438000000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.53029071999999999 0.17196607999999999 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.884"
+		+ "18191999999995 0.20012482000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.51737303000000001 0.017956644000000001 0.57840632999999997 0.017917186000000002 0.57828844000000001 0.021501154000000001 0.57621014000000004 0.023675649999999999 0.51959306000000005 0.0237275059"
+		+ "99999999 0.51750803000000001 0.021552353999999999 0.62938607000000002 0.21117237 0.56884873000000002 0.21117838999999999 0.56884252999999996 0.15064126 0.62937986999999995 0.15063512000000001 0.58098077999999997 0.021372885000000001 0.57838058000000003 0.025838791999999999 0.51742268000000002 0.025903881 0.51481949999999999 0.021446854000000001 0.66313219000000001 0.017976909999999999 0.66303420000000002 0.021565825 0.60231316000000001 0.021636873000000001 0.60220026999999998 0.018037647 0.675547 0.017481475999999999 0.73608421999999996 0.017487973 0.73608386999999997 0.021083563999999999 0.67554652999999998 0.021077067000000001 0.73651230000000001 0.13927144 0.74010801000000004 0.13927208999999999 0.74009727999999997 0.19980928000000001 0.73650168999999999 0.19980869000000001 0.58201712000000005 0.018814236000000002 0.58122611000000002 0.025545508000000001 0.51766849000000004 0.030593306000000001 0.51457483000000004 0.025588660999999999 0.51375866000000003 0.018887549999999999 0.66315900999999999 0.025624305"
+		+ " 0.60219038000000003 0.025684564999999999 0.59962546999999999 0.021437377000000001 0.66572176999999999 0.021353573000000001 0.59857618999999995 0.018882960000000001 0.73608339 0.025139958 0.67554616999999995 0.025133519999999999 0.74416435000000003 0.13927275 0.74415361999999996 0.19981 0.66674805000000004 0.018798977000000001 0.58576309999999998 0.020502776 0.58462857999999995 0.023081332 0.58134222000000002 0.026684790999999999 0.57814336 0.030556410999999999 0.51446091999999999 0.026708691999999999 0.51116466999999999 0.023151428000000002 0.51004313999999995 0.020587355000000002 0.66292512000000003 0.030312209999999999 0.60244094999999998 0.030403465000000001 0.59934986000000001 0.025472075 0.66600667999999996 0.025417656 0.59596168999999999 0.023097366000000001 0.59484910999999996 0.020545511999999998 0.73608291000000003 0.029853313999999999 0.67554557000000004 0.029846936000000001 0.74887788 0.13927358000000001 0.74886715000000004 0.19981088999999999 0.67050158999999998 0.020439714000000001 0.66938423999"
+		+ "999996 0.023011594999999999 0.58829849999999995 0.025601 0.58936763000000003 0.030368297999999998 0.58568180000000003 0.026595384 0.58172464000000002 0.030557900999999998 0.58577358999999996 0.030500025 0.57816809000000002 0.13640985 0.51767169999999996 0.13640031 0.51408743999999995 0.03060469 0.51004285000000005 0.030534655000000001 0.51012659000000005 0.026675731000000001 0.50751506999999996 0.025670736999999999 0.50645607999999998 0.030407160999999999 0.66307402000000004 0.13613933 0.60258973000000005 0.1362305 0.59922838 0.026511163000000001 0.66611933999999995 0.026448816 0.59227753000000005 0.025493115 0.59489179000000003 0.026492029 0.59122872000000004 0.030231476 0.73607159 0.13569017999999999 0.67553437000000005 0.13568379999999999 0.73559523000000004 0.24330154000000001 0.67505813000000003 0.24329092999999999 0.67507647999999998 0.13745412000000001 0.73561381999999997 0.13746460999999999 0.67307185999999997 0.025347142999999999 0.67414879999999999 0.030111998000000001 0.67045759999999999 0.02634665"
+		+ "4000000001")
+		2 "|Polish69:Polish|Polish69:PolishShape" "uvst[0].uvsp[250:328]" (" 0.58174901999999995 0.13640055000000001 0.58579338000000003 0.13647053000000001 0.57840937000000003 0.14112981999999999 0.51742882000000001 0.14108725999999999 0.51409048000000002 0.13639589999999999 0.51004148000000005 0.13645270000000001 0.66650617000000001 0.030311495000000001 0.66665505999999997 0.13612515 0.66332471000000004 0.14085813999999999 0.60235607999999996 0.14091834 0.59900891999999994 0.13623120999999999 0.59886002999999999 0.030417651 0.59481549 0.030353159000000001 0.670555 0.030248851 0.59495997 0.13629385999999999 0.59136628999999996 0.13643077000000001 0.50644708000000005 0.23438880000000001 0.50644767000000002 0.22967538000000001 0.56698488999999996 0.22968026999999999 0.56698453000000004 0.23439381000000001 0.58938009000000002 0.13659706999999999 0.67428637000000002 0.13631119999999999 0.67069948000000001 0.13618958 0.50644732000000003 0.13658430999999999 0.56699133000000002 0.1491257 0.56699109000000003 0.15383911 0.50645386999999997 0.15383416 0.50645423000000001 0.14912075 0.58137404"
+		+ "999999998 0.14030715999999999 0.58571123999999997 0.14033195000000001 0.57827753000000004 0.1451779 0.51754469000000003 0.14514577000000001 0.51447034000000003 0.14025876000000001 0.51013266999999995 0.14035471999999999 0.66628670999999995 0.14003155 0.66320193000000005 0.14490591999999999 0.60248077 0.14497690999999999 0.59939562999999996 0.14009389 0.59505748999999997 0.14019593999999999 0.59244322999999999 0.14119551 0.50644803000000005 0.22561904999999999 0.56698512999999995 0.22562394 0.58832430999999996 0.14133438000000001 0.67062317999999999 0.14005061999999999 0.56699085000000005 0.15789548 0.50645362999999999 0.15789047 0.67323743999999996 0.14104959 0.50751674000000002 0.14135036000000001 0.58124947999999999 0.14134880999999999 0.58463240000000005 0.14373130000000001 0.58096479999999995 0.14538324 0.57838248999999997 0.14877760000000001 0.51743888999999998 0.14873454 0.51485669999999994 0.14535223999999999 0.51458073000000004 0.14128753999999999 0.51119769000000004 0.14368612 0.66616523000000005 0.1"
+		+ "4107069 0.66588961999999996 0.14510535999999999 0.66331481999999997 0.14850509000000001 0.60238278000000001 0.14856589000000001 0.59979331000000002 0.14518917000000001 0.59950840000000005 0.14112505 0.59501338000000004 0.14610298999999999 0.59613073000000005 0.14353114 0.59876715999999996 0.14774366999999999 0.50644838999999997 0.22202334000000001 0.56698561000000003 0.22202833999999999 0.58573942999999995 0.14628562000000001 0.58200848000000005 0.14794001000000001 0.56699060999999995 0.1614911 0.50645328000000001 0.16148614999999999 0.67066597999999999 0.14599714 0.6669389 0.14765975000000001 0.66955339999999997 0.14344530999999999 0.51007473000000003 0.14625546 0.51382481999999996 0.1479046 0.53028750000000002 0.21154743000000001 0.54895221999999999 0.1749233 0.55650973000000004 0.19818926000000001"
+		);
+lockNode -l 1 ;
+createNode reference -n "Polish69RN";
+	rename -uid "D6CD88C9-4139-BBFA-88FA-948D03248F10";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN"
+		"Polish69RN" 0
+		"Polish69RN" 7
+		2 "|Polish71:Polish" "translate" " -type \"double3\" 651.68375715944853255 288.28112157120909842 112.793"
+		
+		2 "|Polish71:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish71:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish71:Polish|Polish71:PolishShape" "uvPivot" " -type \"double2\" 0.87699338980168906 0.12740552027758417"
+		
+		2 "|Polish71:Polish|Polish71:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish71:Polish|Polish71:PolishShape" "uvst[0].uvsp[0:249]" (" -type \"float2\" 0.77381772000000004 0.20560523999999999 0.80288446000000002 0.20100397 0.80584168 0.18234249999999999 0.76921444999999999 0.20100123 0.030888438000000001 0.98445510999999997 0.17086261999999999 0.98445510999999997 0.17086261999999999 0.99470592000000002 0.030888438000000001 0.99470592000000002 0.76766758999999996 0.19796475999999999 0.76625918999999998 0.19520006000000001 0.030888438000000001 0.97420430000000002 0.17086261999999999 0.97420430000000002 0.030888438000000001 0.78968864999999999 0.17086261999999999 0.78968877000000004 0.17086261999999999 0.79993957000000004 0.030888438000000001 0.79993957000000004 0.17415541000000001 0.98445510999999997 0.17423052 0.99470592000000002 0.76577406999999997 0.19213545000000001 0.78604876999999995 0.20958041999999999 0.030888438000000001 0.96395337999999997 0.17086261999999999 0.96395337999999997 0.17415195999999999 0.97420430000000002 0.17086261999999999 0.81019037999999999 0.030888438000000001 0.81019037999999999 0.17423052 0.78968877000000004 0.1741"
+		+ "5541000000001 0.79993957000000004 0.17761666000000001 0.98445510999999997 0.17761666000000001 0.99470592000000002 0.76524126999999997 0.18876957999999999 0.030888438000000001 0.95370244999999998 0.17086261999999999 0.95370244999999998 0.17415184 0.96395337999999997 0.17761666000000001 0.97420430000000002 0.17086261999999999 0.82044141999999998 0.030888438000000001 0.82044141999999998 0.17415195999999999 0.81019037999999999 0.17761666000000001 0.78968864999999999 0.17761666000000001 0.79993957000000004 0.21837807000000001 0.92655885000000004 0.21730679 0.91979467999999998 0.22545898 0.91714585000000004 0.22856808000000001 0.92324781 0.75577927 0.21903734999999999 0.81631655000000003 0.21904235999999999 0.030888438000000001 0.94345164000000004 0.17086261999999999 0.94345164000000004 0.17415184 0.95370244999999998 0.17761666000000001 0.96395337999999997 0.20766366 0.92655885000000004 0.20873499000000001 0.91979467999999998 0.17086261999999999 0.83069210999999998 0.030888438000000001 0.83069210999999998 0.1741518"
+		+ "4 0.82044141999999998 0.17761666000000001 0.81019037999999999 0.23239362 0.91210758999999997 0.23723620000000001 0.91695011000000004 0.21302086000000001 0.89273477000000001 0.81632154999999995 0.15850511 0.76626026999999997 0.18233927999999999 0.030888438000000001 0.93320084000000003 0.17086261999999999 0.93320084000000003 0.17415184 0.94345164000000004 0.17761666000000001 0.95370244999999998 0.1974737 0.92324793000000005 0.20058280000000001 0.91714585000000004 0.17086261999999999 0.84094303999999998 0.030888438000000001 0.84094303999999998 0.17415184 0.83069210999999998 0.17761666000000001 0.82044141999999998 0.237432 0.90517281999999999 0.24353403000000001 0.90828204000000001 0.75578420999999996 0.15850016 0.80685960999999995 0.18877298000000001 0.030888438000000001 0.92294991000000004 0.17086261999999999 0.92294991000000004 0.78605210999999997 0.16796212999999999 0.17415184 0.93320084000000003 0.17761666000000001 0.94345164000000004 0.18880558 0.91695011000000004 0.19364816000000001 0.91210747000000003 0.1"
+		+ "7086261999999999 0.85119396000000003 0.030888438000000001 0.85119396000000003 0.17415184 0.84094303999999998 0.17761666000000001 0.83069210999999998 0.24008077 0.8970207 0.24684489000000001 0.89809203000000004 0.76921642000000001 0.17653859 0.030888438000000001 0.91758430000000002 0.17086261999999999 0.91758430000000002 0.17415184 0.92294991000000004 0.80288643000000004 0.17654133 0.77382052000000001 0.17193532 0.030888438000000001 0.91269898000000005 0.17086261999999999 0.91269898000000005 0.17761666000000001 0.93320084000000003 0.18250780999999999 0.90828204000000001 0.18860978 0.90517281999999999 0.17086261999999999 0.86144489000000002 0.030888438000000001 0.86144489000000002 0.17415184 0.85119396000000003 0.17761666000000001 0.84094303999999998 0.24008077 0.88844889000000005 0.24684489000000001 0.88737756000000001 0.79828036000000002 0.20560724 0.17415184 0.91758430000000002 0.17761666000000001 0.92294991000000004 0.79248249999999998 0.16898113000000001 0.79247922000000004 0.20856248999999999 0.0308884380"
+		+ "00000001 0.90781367000000002 0.17086261999999999 0.90781367000000002 0.17415184 0.91269898000000005 0.17919683 0.89809203000000004 0.18596095000000001 0.8970207 0.17086261999999999 0.87169569999999996 0.030888438000000001 0.87169569999999996 0.17415184 0.86144489000000002 0.17761666000000001 0.85119396000000003 0.23743206 0.88029670999999998 0.24353396999999999 0.87718766999999997 0.77962165999999999 0.16898009 0.17761666000000001 0.91758430000000002 0.17919683 0.88737761999999998 0.18596101000000001 0.88844895000000002 0.030888438000000001 0.90244818000000004 0.030888438000000001 0.89219736999999999 0.17086261999999999 0.89219736999999999 0.17086261999999999 0.90244818000000004 0.17415184 0.90781367000000002 0.17761666000000001 0.91269898000000005 0.17086261999999999 0.88194644 0.030888438000000001 0.88194644 0.17415184 0.87169569999999996 0.17761666000000001 0.86144489000000002 0.23239362 0.873362 0.23723620000000001 0.86851937000000001 0.18092985 0.88204389999999999 0.1873475 0.88418191999999995 0.20012482"
+		+ "000000001 0.89069222999999997 0.17415184 0.89219736999999999 0.17415184 0.90244818000000004 0.17761666000000001 0.90781367000000002 0.18250775 0.87718755000000004 0.1886099 0.88029676999999995 0.17415184 0.88194644 0.17761666000000001 0.87169569999999996 0.22545898 0.86832368000000004 0.22856808000000001 0.86222171999999997 0.17761666000000001 0.89219736999999999 0.17761666000000001 0.90244818000000004 0.18550915000000001 0.87305659000000002 0.19101095000000001 0.87699187000000001 0.17761666000000001 0.88194644 0.21730673 0.86567490999999996 0.21837813 0.85891086000000005 0.20378826999999999 0.88350218999999997 0.19747365 0.86222160000000003 0.20058286 0.86832368000000004 0.19364803999999999 0.873362 0.18880558 0.86851948000000001 0.20873499000000001 0.86567485 0.20766366 0.85891086000000005 0.76670395999999996 0.01497066 0.82773721 0.014931201999999999 0.82761931 0.018515170000000001 0.82554101999999996 0.020689665999999999 0.768924 0.020741521999999998 0.76683891000000004 0.018566369999999999 0.878717010000"
+		+ "00002 0.20818639 0.81817967000000003 0.20819240999999999 0.81817346999999996 0.14765528 0.87871080999999995 0.14764914000000001 0.83031166000000001 0.018386900000000001 0.82771145999999995 0.022852807999999999 0.76675355000000001 0.022917897 0.76415043999999999 0.018460870000000001 0.91246307000000004 0.014990926 0.91236508000000005 0.018579841 0.85164404000000005 0.018650889 0.85153120999999998 0.015051663 0.92487788000000004 0.014495492 0.98541515999999996 0.014501989 0.98541480000000004 0.018097578999999999 0.92487741000000001 0.018091083000000001 0.98584324000000001 0.13628545 0.98943895000000004 0.13628610999999999 0.98942821999999997 0.19682330000000001 0.98583262999999999 0.19682269999999999 0.83134806000000006 0.015828252000000001 0.83055699000000005 0.022559524000000001 0.76699941999999999 0.027607322 0.76390575999999999 0.022602677000000002 0.76308960000000003 0.015901565999999999 0.91248989000000003 0.022638320999999999 0.85152130999999998 0.022698580999999999 0.84895635000000003 0.018451393 0.9150"
+		+ "5265000000002 0.018367589 0.84790712999999995 0.015896976 0.98541433 0.022153974 0.92487704999999998 0.022147535999999999 0.99349529000000003 0.13628677 0.99348455999999996 0.19682400999999999 0.91607892999999996 0.015812993000000001 0.83509398000000001 0.017516792 0.83395945999999999 0.020095347999999999 0.83067310000000005 0.023698806999999999 0.82747424000000003 0.027570425999999999 0.76379180000000002 0.023722707999999999 0.76049560000000005 0.020165443000000002 0.75937407999999995 0.017601371000000001 0.912256 0.027326225999999999 0.85177183000000001 0.027417481 0.84868072999999999 0.022486091 0.91533755999999999 0.022431672 0.84529262999999999 0.020111382000000001 0.84417998999999999 0.017559528000000001 0.98541385000000004 0.026867329999999998 0.92487644999999996 0.026860952 0.99820882 0.13628760000000001 0.99819802999999996 0.19682490999999999 0.91983247000000001 0.017453730000000001 0.91871512 0.020025610999999999 0.83762943999999995 0.022615016000000002 0.83869850999999995 0.027382314000000001 0.835"
+		+ "01272999999998 0.023609399999999999 0.83105552000000005 0.027571917000000001 0.83510446999999999 0.02751404 0.82749903000000002 0.13342386000000001 0.76700263999999996 0.13341433 0.76341831999999998 0.027618706 0.75937378 0.027548671 0.75945753000000005 0.023689747000000001 0.75684600999999996 0.022684752999999998 0.75578701000000004 0.027421175999999998 0.91240489000000002 0.13315335 0.85192066 0.13324451000000001 0.84855926000000004 0.023525178000000001 0.91545021999999998 0.023462831999999999 0.84160846 0.022507131 0.84422271999999998 0.023506045 0.84055966000000004 0.027245492 0.98540251999999995 0.13270419999999999 0.92486524999999997 0.13269781999999999 0.98492615999999999 0.24031556000000001 0.924389 0.24030494999999999 0.92440736000000001 0.13446814000000001 0.98494475999999997 0.13447862999999999 0.92240274 0.022361158999999999 0.92347968000000002 0.027126014 0.91978848000000002 0.02336067"
+		)
+		2 "|Polish71:Polish|Polish71:PolishShape" "uvst[0].uvsp[250:328]" (" 0.83107995999999995 0.13341457000000001 0.83512425000000001 0.13348454000000001 0.82774031000000003 0.13814383999999999 0.76675974999999996 0.13810127999999999 0.76342142000000002 0.13340991999999999 0.75937235000000003 0.13346672000000001 0.91583705000000004 0.027325511 0.91598594 0.13313916000000001 0.91265558999999996 0.13787215999999999 0.85168695000000005 0.13793236 0.84833979999999998 0.13324522999999999 0.84819096000000005 0.027431667 0.84414637000000003 0.027367175000000001 0.91988586999999999 0.027262866 0.84429085000000004 0.13330786999999999 0.84069716999999999 0.13344479000000001 0.75577801 0.23140280999999999 0.75577861000000002 0.22668940000000001 0.81631582999999996 0.22669428999999999 0.81631547000000004 0.23140781999999999 0.83871101999999997 0.13361107999999999 0.92361724000000001 0.13332521999999999 0.92003036000000005 0.13320360000000001 0.75577824999999998 0.13359832999999999 0.81632227000000002 0.14613971000000001 0.81632203000000003 0.15085313 0.75578480999999997 0.15084818 0.755785170"
+		+ "00000001 0.14613476 0.83070493000000001 0.13732116999999999 0.83504212 0.13734597000000001 0.82760847000000004 0.14219192 0.76687561999999998 0.14215979000000001 0.76380128000000003 0.13727278000000001 0.75946360999999996 0.13736873999999999 0.91561758999999998 0.13704556000000001 0.91253280999999997 0.14191993999999999 0.85181165000000003 0.14199092999999999 0.84872650999999999 0.13710791 0.84438837 0.13720995 0.84177411000000002 0.13820952 0.75577890999999997 0.22263305999999999 0.81631606999999995 0.22263795 0.83765518999999999 0.13834840000000001 0.91995406000000002 0.13706463999999999 0.81632179000000005 0.15490949000000001 0.75578451000000002 0.15490448000000001 0.92256832 0.13806361 0.75684768000000002 0.13836436999999999 0.83058034999999997 0.13836282 0.83396333 0.14074531000000001 0.83029573999999995 0.14239725 0.82771337 0.14579162000000001 0.76676977000000002 0.14574856 0.76418757000000004 0.14236625999999999 0.76391160000000002 0.13830155 0.76052856000000002 0.14070013000000001 0.91549610999999997"
+		+ " 0.13808471 0.91522049999999999 0.14211937999999999 0.9126457 0.14551911000000001 0.85171372000000001 0.14557990000000001 0.84912425000000002 0.14220318000000001 0.84883934000000005 0.13813907 0.84434432000000004 0.14311700999999999 0.84546160999999997 0.14054516 0.84809809999999997 0.14475768999999999 0.75577927 0.21903734999999999 0.81631655000000003 0.21904235999999999 0.83507036999999995 0.14329964000000001 0.83133942000000005 0.14495403000000001 0.81632154999999995 0.15850511 0.75578420999999996 0.15850016 0.91999686000000003 0.14301115 0.91626978000000003 0.14467376000000001 0.91888428 0.14045932999999999 0.75940567000000003 0.14326948 0.76315569999999999 0.14491862 0.77961838000000006 0.20856145000000001 0.79828315999999999 0.17193732 0.80584060999999996 0.19520327000000001"
+		);
+lockNode -l 1 ;
+createNode animCurveTU -n "Polish_visibility";
+	rename -uid "B7719CE5-4C9F-2DAE-21D6-CF8F07BB9BC5";
+	setAttr ".tan" 9;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 1;
+	setAttr ".kot[0]"  5;
+createNode animCurveTL -n "Polish_translateX";
+	rename -uid "6B6AD376-48CC-4F78-B01B-049D1CD1F6C4";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 651.68375715944876;
+createNode animCurveTL -n "Polish_translateY";
+	rename -uid "62C6CA91-4408-953C-8B58-72A920FC235D";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 363.32987492729575;
+createNode animCurveTL -n "Polish_translateZ";
+	rename -uid "E5640C05-46E0-1DDE-C748-64B0EE5F420C";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 112.79334303683299;
+createNode animCurveTA -n "Polish_rotateX";
+	rename -uid "010C38EA-4A05-5C24-762A-D88470317B27";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 0;
+createNode animCurveTA -n "Polish_rotateY";
+	rename -uid "7921A63C-410D-5FE9-A3AA-4F94552639F6";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 0;
+createNode animCurveTA -n "Polish_rotateZ";
+	rename -uid "E5CF38F5-4A42-4740-754E-9CA2D1A7A5CA";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 0;
+createNode animCurveTU -n "Polish_scaleX";
+	rename -uid "C04B6C75-456E-1C7E-06AF-C8B351337893";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 1;
+createNode animCurveTU -n "Polish_scaleY";
+	rename -uid "640BF17B-46CF-37D6-67D9-C3AC28AF3428";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 1;
+createNode animCurveTU -n "Polish_scaleZ";
+	rename -uid "6060F674-4A33-3C6F-722F-ABA0226BDF0E";
+	setAttr ".tan" 18;
+	setAttr ".wgt" no;
+	setAttr ".ktv[0]"  1 1;
+createNode reference -n "Polish69RN1";
+	rename -uid "A31B7789-471C-EF02-8F33-D29FDBCDD648";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN1"
+		"Polish69RN1" 0
+		"Polish69RN1" 334
+		2 "|Polish219:Polish" "translate" " -type \"double3\" 660.27683034964252329 363.32987492729574797 112.79334303683299368"
+		
+		2 "|Polish219:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish219:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvPivot" " -type \"double2\" 0.12184462835126841 0.62954259031738324"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[0]" " -type \"float2\" 0.018668919999999999 0.70774232999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[1]" " -type \"float2\" 0.047735631000000001 0.70314102999999994"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[2]" " -type \"float2\" 0.050692886 0.68447959000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[3]" " -type \"float2\" 0.014065652999999999 0.70313829000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[4]" " -type \"float2\" 0.030888438000000001 0.98445510999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[5]" " -type \"float2\" 0.17086261999999999 0.98445510999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[6]" " -type \"float2\" 0.17086261999999999 0.99470592000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[7]" " -type \"float2\" 0.030888438000000001 0.99470592000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[8]" " -type \"float2\" 0.012518793 0.70010185000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[9]" " -type \"float2\" 0.011110395 0.69733714999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[10]" " -type \"float2\" 0.030888438000000001 0.97420430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[11]" " -type \"float2\" 0.17086261999999999 0.97420430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[12]" " -type \"float2\" 0.030888438000000001 0.78968864999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[13]" " -type \"float2\" 0.17086261999999999 0.78968877000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[14]" " -type \"float2\" 0.17086261999999999 0.79993957000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[15]" " -type \"float2\" 0.030888438000000001 0.79993957000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[16]" " -type \"float2\" 0.17415541000000001 0.98445510999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[17]" " -type \"float2\" 0.17423052 0.99470592000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[18]" " -type \"float2\" 0.010625272999999999 0.69427251999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[19]" " -type \"float2\" 0.030899942 0.71171748999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[20]" " -type \"float2\" 0.030888438000000001 0.96395337999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[21]" " -type \"float2\" 0.17086261999999999 0.96395337999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[22]" " -type \"float2\" 0.17415195999999999 0.97420430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[23]" " -type \"float2\" 0.17086261999999999 0.81019037999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[24]" " -type \"float2\" 0.030888438000000001 0.81019037999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[25]" " -type \"float2\" 0.17423052 0.78968877000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[26]" " -type \"float2\" 0.17415541000000001 0.79993957000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[27]" " -type \"float2\" 0.17761666000000001 0.98445510999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[28]" " -type \"float2\" 0.17761666000000001 0.99470592000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[29]" " -type \"float2\" 0.010092467000000001 0.69090664000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[30]" " -type \"float2\" 0.030888438000000001 0.95370244999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[31]" " -type \"float2\" 0.17086261999999999 0.95370244999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[32]" " -type \"float2\" 0.17415184 0.96395337999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[33]" " -type \"float2\" 0.17761666000000001 0.97420430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[34]" " -type \"float2\" 0.17086261999999999 0.82044141999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[35]" " -type \"float2\" 0.030888438000000001 0.82044141999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[36]" " -type \"float2\" 0.17415195999999999 0.81019037999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[37]" " -type \"float2\" 0.17761666000000001 0.78968864999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[38]" " -type \"float2\" 0.17761666000000001 0.79993957000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[39]" " -type \"float2\" 0.21837807000000001 0.92655885000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[40]" " -type \"float2\" 0.21730679 0.91979467999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[41]" " -type \"float2\" 0.22545898 0.91714585000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[42]" " -type \"float2\" 0.22856808000000001 0.92324781"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[43]" " -type \"float2\" 0.00063046813000000004 0.72117441999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[44]" " -type \"float2\" 0.061167747000000001 0.72117942999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[45]" " -type \"float2\" 0.030888438000000001 0.94345164000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[46]" " -type \"float2\" 0.17086261999999999 0.94345164000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[47]" " -type \"float2\" 0.17415184 0.95370244999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[48]" " -type \"float2\" 0.17761666000000001 0.96395337999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[49]" " -type \"float2\" 0.20766366 0.92655885000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[50]" " -type \"float2\" 0.20873499000000001 0.91979467999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[51]" " -type \"float2\" 0.17086261999999999 0.83069210999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[52]" " -type \"float2\" 0.030888438000000001 0.83069210999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[53]" " -type \"float2\" 0.17415184 0.82044141999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[54]" " -type \"float2\" 0.17761666000000001 0.81019037999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[55]" " -type \"float2\" 0.23239362 0.91210758999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[56]" " -type \"float2\" 0.23723620000000001 0.91695011000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[57]" " -type \"float2\" 0.21302086000000001 0.89273477000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[58]" " -type \"float2\" 0.061172754000000003 0.66064215000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[59]" " -type \"float2\" 0.011111467999999999 0.68447638"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[60]" " -type \"float2\" 0.030888438000000001 0.93320084000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[61]" " -type \"float2\" 0.17086261999999999 0.93320084000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[62]" " -type \"float2\" 0.17415184 0.94345164000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[63]" " -type \"float2\" 0.17761666000000001 0.95370244999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[64]" " -type \"float2\" 0.1974737 0.92324793000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[65]" " -type \"float2\" 0.20058280000000001 0.91714585000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[66]" " -type \"float2\" 0.17086261999999999 0.84094303999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[67]" " -type \"float2\" 0.030888438000000001 0.84094303999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[68]" " -type \"float2\" 0.17415184 0.83069210999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[69]" " -type \"float2\" 0.17761666000000001 0.82044141999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[70]" " -type \"float2\" 0.237432 0.90517281999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[71]" " -type \"float2\" 0.24353403000000001 0.90828204000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[72]" " -type \"float2\" 0.00063541531999999998 0.66063726"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[73]" " -type \"float2\" 0.051710814000000001 0.69091004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[74]" " -type \"float2\" 0.030888438000000001 0.92294991000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[75]" " -type \"float2\" 0.17086261999999999 0.92294991000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[76]" " -type \"float2\" 0.030903338999999998 0.67009920000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[77]" " -type \"float2\" 0.17415184 0.93320084000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[78]" " -type \"float2\" 0.17761666000000001 0.94345164000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[79]" " -type \"float2\" 0.18880558 0.91695011000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[80]" " -type \"float2\" 0.19364816000000001 0.91210747000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[81]" " -type \"float2\" 0.17086261999999999 0.85119396000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[82]" " -type \"float2\" 0.030888438000000001 0.85119396000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[83]" " -type \"float2\" 0.17415184 0.84094303999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[84]" " -type \"float2\" 0.17761666000000001 0.83069210999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[85]" " -type \"float2\" 0.24008077 0.8970207"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[86]" " -type \"float2\" 0.24684489000000001 0.89809203000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[87]" " -type \"float2\" 0.014067649999999999 0.67867564999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[88]" " -type \"float2\" 0.030888438000000001 0.91758430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[89]" " -type \"float2\" 0.17086261999999999 0.91758430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[90]" " -type \"float2\" 0.17415184 0.92294991000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[91]" " -type \"float2\" 0.047737627999999997 0.67867838999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[92]" " -type \"float2\" 0.018671691000000001 0.67407238000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[93]" " -type \"float2\" 0.030888438000000001 0.91269898000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[94]" " -type \"float2\" 0.17086261999999999 0.91269898000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[95]" " -type \"float2\" 0.17761666000000001 0.93320084000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[96]" " -type \"float2\" 0.18250780999999999 0.90828204000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[97]" " -type \"float2\" 0.18860978 0.90517281999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[98]" " -type \"float2\" 0.17086261999999999 0.86144489000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[99]" " -type \"float2\" 0.030888438000000001 0.86144489000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[100]" " -type \"float2\" 0.17415184 0.85119396000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[101]" " -type \"float2\" 0.17761666000000001 0.84094303999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[102]" " -type \"float2\" 0.24008077 0.88844889000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[103]" " -type \"float2\" 0.24684489000000001 0.88737756000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[104]" " -type \"float2\" 0.043131589999999997 0.70774429999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[105]" " -type \"float2\" 0.17415184 0.91758430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[106]" " -type \"float2\" 0.17761666000000001 0.92294991000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[107]" " -type \"float2\" 0.037333667000000001 0.6711182"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[108]" " -type \"float2\" 0.037330418999999997 0.71069956000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[109]" " -type \"float2\" 0.030888438000000001 0.90781367000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[110]" " -type \"float2\" 0.17086261999999999 0.90781367000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[111]" " -type \"float2\" 0.17415184 0.91269898000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[112]" " -type \"float2\" 0.17919683 0.89809203000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[113]" " -type \"float2\" 0.18596095000000001 0.8970207"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[114]" " -type \"float2\" 0.17086261999999999 0.87169569999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[115]" " -type \"float2\" 0.030888438000000001 0.87169569999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[116]" " -type \"float2\" 0.17415184 0.86144489000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[117]" " -type \"float2\" 0.17761666000000001 0.85119396000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[118]" " -type \"float2\" 0.23743206 0.88029670999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[119]" " -type \"float2\" 0.24353396999999999 0.87718766999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[120]" " -type \"float2\" 0.024472862000000001 0.67111719000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[121]" " -type \"float2\" 0.17761666000000001 0.91758430000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[122]" " -type \"float2\" 0.17919683 0.88737761999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[123]" " -type \"float2\" 0.18596101000000001 0.88844895000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[124]" " -type \"float2\" 0.030888438000000001 0.90244818000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[125]" " -type \"float2\" 0.030888438000000001 0.89219736999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[126]" " -type \"float2\" 0.17086261999999999 0.89219736999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[127]" " -type \"float2\" 0.17086261999999999 0.90244818000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[128]" " -type \"float2\" 0.17415184 0.90781367000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[129]" " -type \"float2\" 0.17761666000000001 0.91269898000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[130]" " -type \"float2\" 0.17086261999999999 0.88194644"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[131]" " -type \"float2\" 0.030888438000000001 0.88194644"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[132]" " -type \"float2\" 0.17415184 0.87169569999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[133]" " -type \"float2\" 0.17761666000000001 0.86144489000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[134]" " -type \"float2\" 0.23239362 0.873362"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[135]" " -type \"float2\" 0.23723620000000001 0.86851937000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[136]" " -type \"float2\" 0.18092985 0.88204389999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[137]" " -type \"float2\" 0.1873475 0.88418191999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[138]" " -type \"float2\" 0.20012482000000001 0.89069222999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[139]" " -type \"float2\" 0.17415184 0.89219736999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[140]" " -type \"float2\" 0.17415184 0.90244818000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[141]" " -type \"float2\" 0.17761666000000001 0.90781367000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[142]" " -type \"float2\" 0.18250775 0.87718755000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[143]" " -type \"float2\" 0.1886099 0.88029676999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[144]" " -type \"float2\" 0.17415184 0.88194644"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[145]" " -type \"float2\" 0.17761666000000001 0.87169569999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[146]" " -type \"float2\" 0.22545898 0.86832368000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[147]" " -type \"float2\" 0.22856808000000001 0.86222171999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[148]" " -type \"float2\" 0.17761666000000001 0.89219736999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[149]" " -type \"float2\" 0.17761666000000001 0.90244818000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[150]" " -type \"float2\" 0.18550915000000001 0.87305659000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[151]" " -type \"float2\" 0.19101095000000001 0.87699187000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[152]" " -type \"float2\" 0.17761666000000001 0.88194644"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[153]" " -type \"float2\" 0.21730673 0.86567490999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[154]" " -type \"float2\" 0.21837813 0.85891086000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[155]" " -type \"float2\" 0.20378826999999999 0.88350218999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[156]" " -type \"float2\" 0.19747365 0.86222160000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[157]" " -type \"float2\" 0.20058286 0.86832368000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[158]" " -type \"float2\" 0.19364803999999999 0.873362"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[159]" " -type \"float2\" 0.18880558 0.86851948000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[160]" " -type \"float2\" 0.20873499000000001 0.86567485"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[161]" " -type \"float2\" 0.20766366 0.85891086000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[162]" " -type \"float2\" 0.011555134999999999 0.51710772999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[163]" " -type \"float2\" 0.072588444000000002 0.51706827"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[164]" " -type \"float2\" 0.072470515999999999 0.52065223000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[165]" " -type \"float2\" 0.070392251000000003 0.52282673000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[166]" " -type \"float2\" 0.01377517 0.52287859000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[167]" " -type \"float2\" 0.01169011 0.52070342999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[168]" " -type \"float2\" 0.12356821 0.71032344999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[169]" " -type \"float2\" 0.063030869000000003 0.71032947000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[170]" " -type \"float2\" 0.063024670000000005 0.64979231000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[171]" " -type \"float2\" 0.12356201 0.64978623000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[172]" " -type \"float2\" 0.075162887999999997 0.52052396999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[173]" " -type \"float2\" 0.072562694999999997 0.52498984000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[174]" " -type \"float2\" 0.011604786000000001 0.52505493000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[175]" " -type \"float2\" 0.0090016425000000004 0.52059792999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[176]" " -type \"float2\" 0.15731427000000001 0.51712798999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[177]" " -type \"float2\" 0.15721628000000001 0.52071690999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[178]" " -type \"float2\" 0.096495240999999995 0.52078795"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[179]" " -type \"float2\" 0.096382409000000002 0.51718872999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[180]" " -type \"float2\" 0.16972908 0.51663256000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[181]" " -type \"float2\" 0.23026636 0.51663904999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[182]" " -type \"float2\" 0.230266 0.52023463999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[183]" " -type \"float2\" 0.16972861 0.52022815"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[184]" " -type \"float2\" 0.23069444 0.63842248999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[185]" " -type \"float2\" 0.23429015 0.63842319999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[186]" " -type \"float2\" 0.23427941999999999 0.69896035999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[187]" " -type \"float2\" 0.23068383000000001 0.69895976999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[188]" " -type \"float2\" 0.076199234000000005 0.51796531999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[189]" " -type \"float2\" 0.07540819 0.52469659000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[190]" " -type \"float2\" 0.011850625 0.52974438999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[191]" " -type \"float2\" 0.0087569355999999998 0.52473974000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[192]" " -type \"float2\" 0.0079407990000000001 0.51803863000000006"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[193]" " -type \"float2\" 0.15734108999999999 0.52477538999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[194]" " -type \"float2\" 0.096372515000000006 0.52483564999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[195]" " -type \"float2\" 0.093807548000000004 0.52058846000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[196]" " -type \"float2\" 0.15990384999999999 0.52050465000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[197]" " -type \"float2\" 0.092758328000000001 0.51803403999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[198]" " -type \"float2\" 0.23026553 0.52429104000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[199]" " -type \"float2\" 0.16972825 0.52428459999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[200]" " -type \"float2\" 0.23834648999999999 0.63842379999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[201]" " -type \"float2\" 0.23833576000000001 0.69896108000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[202]" " -type \"float2\" 0.16093013 0.51795005999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[203]" " -type \"float2\" 0.079945177000000006 0.51965386000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[204]" " -type \"float2\" 0.078810692000000002 0.52223240999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[205]" " -type \"float2\" 0.075524300000000003 0.52583586999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[206]" " -type \"float2\" 0.072325468000000004 0.52970748999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[207]" " -type \"float2\" 0.0086430012999999997 0.52585976999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[208]" " -type \"float2\" 0.0053468049 0.52230251000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[209]" " -type \"float2\" 0.0042252838999999997 0.51973844000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[210]" " -type \"float2\" 0.1571072 0.52946329000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[211]" " -type \"float2\" 0.096623032999999997 0.52955454999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[212]" " -type \"float2\" 0.093531935999999996 0.52462315999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[213]" " -type \"float2\" 0.16018876000000001 0.52456873999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[214]" " -type \"float2\" 0.090143829999999994 0.52224844999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[215]" " -type \"float2\" 0.089031189999999996 0.51969659000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[216]" " -type \"float2\" 0.23026505 0.52900440000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[217]" " -type \"float2\" 0.16972765000000001 0.52899801999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[218]" " -type \"float2\" 0.24306001999999999 0.63842463000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[219]" " -type \"float2\" 0.24304923 0.69896197000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[220]" " -type \"float2\" 0.16468367 0.51959080000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[221]" " -type \"float2\" 0.16356631999999999 0.52216267999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[222]" " -type \"float2\" 0.082480608999999996 0.52475207999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[223]" " -type \"float2\" 0.083549708 0.52951937999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[224]" " -type \"float2\" 0.079863935999999996 0.52574646000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[225]" " -type \"float2\" 0.075906723999999995 0.52970898"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[226]" " -type \"float2\" 0.079955666999999994 0.52965110999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[227]" " -type \"float2\" 0.072350204000000001 0.63556093000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[228]" " -type \"float2\" 0.011853844000000001 0.63555139000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[229]" " -type \"float2\" 0.0082695185999999993 0.52975576999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[230]" " -type \"float2\" 0.0042249560000000002 0.52968574000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[231]" " -type \"float2\" 0.0043087304000000003 0.52582680999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[232]" " -type \"float2\" 0.0016972125 0.52482181999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[233]" " -type \"float2\" 0.00063818692999999998 0.52955823999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[234]" " -type \"float2\" 0.15725610000000001 0.63529038000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[235]" " -type \"float2\" 0.096771865999999998 0.63538158"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[236]" " -type \"float2\" 0.093410462 0.52566223999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[237]" " -type \"float2\" 0.16030142 0.52559990000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[238]" " -type \"float2\" 0.086459666000000004 0.5246442"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[239]" " -type \"float2\" 0.089073925999999998 0.52564310999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[240]" " -type \"float2\" 0.085410863000000004 0.52938258999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[241]" " -type \"float2\" 0.23025372999999999 0.63484125999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[242]" " -type \"float2\" 0.16971644999999999 0.63483489000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[243]" " -type \"float2\" 0.22977737000000001 0.74245262000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[244]" " -type \"float2\" 0.16924021 0.74244200999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[245]" " -type \"float2\" 0.16925856 0.63660519999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[246]" " -type \"float2\" 0.22979595999999999 0.63661568999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[247]" " -type \"float2\" 0.16725393999999999 0.52449822000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[248]" " -type \"float2\" 0.16833087999999999 0.52926308"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[249]" " -type \"float2\" 0.16463968000000001 0.52549773"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[250]" " -type \"float2\" 0.075931131999999998 0.63555163000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[251]" " -type \"float2\" 0.079975456 0.63562160999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[252]" " -type \"float2\" 0.072591483999999998 0.64028090000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[253]" " -type \"float2\" 0.011610924999999999 0.64023834000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[254]" " -type \"float2\" 0.0082725882999999997 0.63554697999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[255]" " -type \"float2\" 0.0042235553 0.63560379"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[256]" " -type \"float2\" 0.16068825 0.52946258000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[257]" " -type \"float2\" 0.16083713999999999 0.63527619999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[258]" " -type \"float2\" 0.15750679000000001 0.64000922000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[259]" " -type \"float2\" 0.096538156 0.64006943000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[260]" " -type \"float2\" 0.093190997999999997 0.63538229000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[261]" " -type \"float2\" 0.093042164999999996 0.52956873000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[262]" " -type \"float2\" 0.088997572999999996 0.52950423999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[263]" " -type \"float2\" 0.16473708000000001 0.52939992999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[264]" " -type \"float2\" 0.089142053999999998 0.63544493999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[265]" " -type \"float2\" 0.085548370999999998 0.63558185"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[266]" " -type \"float2\" 0.00062921642999999995 0.73353988000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[267]" " -type \"float2\" 0.00062981248000000003 0.72882645999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[268]" " -type \"float2\" 0.061167032000000003 0.72883134999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[269]" " -type \"float2\" 0.061166673999999997 0.73354489"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[270]" " -type \"float2\" 0.083562195000000006 0.63574814999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[271]" " -type \"float2\" 0.16846844999999999 0.63546228000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[272]" " -type \"float2\" 0.16488156000000001 0.63534069000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[273]" " -type \"float2\" 0.00062945484999999996 0.63573539000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[274]" " -type \"float2\" 0.061173469000000001 0.64827681000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[275]" " -type \"float2\" 0.061173230000000002 0.65299021999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[276]" " -type \"float2\" 0.00063601135999999999 0.65298522000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[277]" " -type \"float2\" 0.00063636898999999995 0.64827179999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[278]" " -type \"float2\" 0.075556129 0.63945823999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[279]" " -type \"float2\" 0.079893321000000003 0.63948302999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[280]" " -type \"float2\" 0.072459638000000007 0.64432895000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[281]" " -type \"float2\" 0.011726797000000001 0.64429687999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[282]" " -type \"float2\" 0.0086524784999999996 0.63940984000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[283]" " -type \"float2\" 0.0043148099999999997 0.63950580000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[284]" " -type \"float2\" 0.16046879 0.63918262999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[285]" " -type \"float2\" 0.15738400999999999 0.64405703999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[286]" " -type \"float2\" 0.096662848999999995 0.64412796000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[287]" " -type \"float2\" 0.093577713000000007 0.63924497000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[288]" " -type \"float2\" 0.089239568000000005 0.63934701999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[289]" " -type \"float2\" 0.086625307999999998 0.64034659000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[290]" " -type \"float2\" 0.00063011049999999998 0.72477013000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[291]" " -type \"float2\" 0.061167270000000003 0.72477502000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[292]" " -type \"float2\" 0.082506388 0.64048547"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[293]" " -type \"float2\" 0.16480526000000001 0.63920169999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[294]" " -type \"float2\" 0.061172992000000002 0.65704655999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[295]" " -type \"float2\" 0.00063571334000000004 0.65704154999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[296]" " -type \"float2\" 0.16741951999999999 0.64020067000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[297]" " -type \"float2\" 0.0016988814000000001 0.64050143999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[298]" " -type \"float2\" 0.075431584999999995 0.64049988999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[299]" " -type \"float2\" 0.078814536000000004 0.64288235000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[300]" " -type \"float2\" 0.075146942999999994 0.64453435000000003"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[301]" " -type \"float2\" 0.072564571999999994 0.64792870999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[302]" " -type \"float2\" 0.011620969 0.64788562000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[303]" " -type \"float2\" 0.0090387761999999993 0.64450335999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[304]" " -type \"float2\" 0.0087628067000000004 0.64043861999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[305]" " -type \"float2\" 0.0053797662000000003 0.64283716999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[306]" " -type \"float2\" 0.16034730999999999 0.64022177000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[307]" " -type \"float2\" 0.16007170000000001 0.64425646999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[308]" " -type \"float2\" 0.1574969 0.64765620000000002"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[309]" " -type \"float2\" 0.096564918999999999 0.647717"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[310]" " -type \"float2\" 0.093975454999999999 0.64434027999999999"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[311]" " -type \"float2\" 0.093690544000000001 0.64027613000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[312]" " -type \"float2\" 0.08919552 0.64525407999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[313]" " -type \"float2\" 0.090312808999999994 0.64268219000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[314]" " -type \"float2\" 0.092949300999999998 0.64689474999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[315]" " -type \"float2\" 0.00063046813000000004 0.72117441999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[316]" " -type \"float2\" 0.061167747000000001 0.72117942999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[317]" " -type \"float2\" 0.079921543999999997 0.64543669999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[318]" " -type \"float2\" 0.076190621 0.64709108999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[319]" " -type \"float2\" 0.061172754000000003 0.66064215000000004"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[320]" " -type \"float2\" 0.00063541531999999998 0.66063726"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[321]" " -type \"float2\" 0.16484805999999999 0.64514822000000005"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[322]" " -type \"float2\" 0.16112098 0.64681082999999995"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[323]" " -type \"float2\" 0.16373547999999999 0.64259635999999998"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[324]" " -type \"float2\" 0.0042568742999999996 0.64540653999999997"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[325]" " -type \"float2\" 0.0080069005000000006 0.64705568999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[326]" " -type \"float2\" 0.024469614000000001 0.71069848999999996"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[327]" " -type \"float2\" 0.043134362000000002 0.67407441000000001"
+		
+		2 "|Polish219:Polish|Polish219:PolishShape" "uvSet[0].uvSetPoints[328]" " -type \"float2\" 0.050691843 0.69734037000000004";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN2";
+	rename -uid "3F1A363D-4559-F379-16C4-D59AC1613EC8";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN2"
+		"Polish69RN2" 0
+		"Polish69RN2" 3
+		2 "|Polish220:Polish" "translate" " -type \"double3\" 660.27683034964229591 356.98973032283964812 112.79334303683299368"
+		
+		2 "|Polish220:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish220:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN3";
+	rename -uid "894B9885-4ED3-C9D6-9781-DC879EF77E2B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN3"
+		"Polish69RN3" 0
+		"Polish69RN3" 3
+		2 "|Polish221:Polish" "translate" " -type \"double3\" 660.27683034964229591 351.27198405859479635 112.79334303683299368"
+		
+		2 "|Polish221:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish221:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN4";
+	rename -uid "B6C0D35D-4F00-877B-FD45-DC9686D070EC";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN4"
+		"Polish69RN4" 0
+		"Polish69RN4" 3
+		2 "|Polish222:Polish" "translate" " -type \"double3\" 660.27683034964229591 345.39215296953994994 112.79334303683299368"
+		
+		2 "|Polish222:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish222:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN5";
+	rename -uid "017E7F91-414A-9C12-28F8-16A051862684";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN5"
+		"Polish69RN5" 0
+		"Polish69RN5" 3
+		2 "|Polish223:Polish" "translate" " -type \"double3\" 660.27683034964229591 339.67499995198136276 112.79334303683299368"
+		
+		2 "|Polish223:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish223:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN6";
+	rename -uid "D9A8D749-4AAE-16D0-4B56-B798837F1663";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN6"
+		"Polish69RN6" 0
+		"Polish69RN6" 3
+		2 "|Polish224:Polish" "translate" " -type \"double3\" 660.27683034964229591 334.193774609278762 112.79334303683299368"
+		
+		2 "|Polish224:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish224:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN7";
+	rename -uid "49D36D48-4293-E062-2420-138C15EDC2E7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN7"
+		"Polish69RN7" 0
+		"Polish69RN7" 3
+		2 "|Polish225:Polish" "translate" " -type \"double3\" 660.27683034964229591 328.2789153457052862 112.79334303683299368"
+		
+		2 "|Polish225:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish225:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN8";
+	rename -uid "CF036DC7-4D42-0D6C-B0A6-FC92337CFB39";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN8"
+		"Polish69RN8" 0
+		"Polish69RN8" 3
+		2 "|Polish226:Polish" "translate" " -type \"double3\" 660.27683034964229591 323.04524153199906777 112.793"
+		
+		2 "|Polish226:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish226:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN9";
+	rename -uid "7818676F-4645-E2DD-080C-E3B3A695B274";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN9"
+		"Polish69RN9" 0
+		"Polish69RN9" 3
+		2 "|Polish227:Polish" "translate" " -type \"double3\" 660.27683034964229591 317.45396457303718307 112.793"
+		
+		2 "|Polish227:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish227:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN10";
+	rename -uid "2D04DF72-4E6C-6133-0DAC-41BE276027D6";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN10"
+		"Polish69RN10" 0
+		"Polish69RN10" 3
+		2 "|Polish228:Polish" "translate" " -type \"double3\" 660.27683034964229591 311.90884257419344294 112.793"
+		
+		2 "|Polish228:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish228:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN11";
+	rename -uid "4EA11022-44E6-4E8C-961E-B3B67B774ED1";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN11"
+		"Polish69RN11" 0
+		"Polish69RN11" 3
+		2 "|Polish229:Polish" "translate" " -type \"double3\" 660.27683034964229591 305.95917711977381259 112.793"
+		
+		2 "|Polish229:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish229:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN12";
+	rename -uid "59305284-482B-AF17-36FD-899EAF00721A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN12"
+		"Polish69RN12" 0
+		"Polish69RN12" 3
+		2 "|Polish230:Polish" "translate" " -type \"double3\" 660.27683034964229591 300.43959346202791494 112.793"
+		
+		2 "|Polish230:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish230:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN13";
+	rename -uid "3B237FE3-46BC-9BDF-6369-B5B27192BD7B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN13"
+		"Polish69RN13" 0
+		"Polish69RN13" 3
+		2 "|Polish231:Polish" "translate" " -type \"double3\" 660.27683034964229591 294.61118310461699821 112.793"
+		
+		2 "|Polish231:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish231:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN14";
+	rename -uid "36C284C6-40DC-EB4D-6A84-4EBABA3B8CF4";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN14"
+		"Polish69RN14" 0
+		"Polish69RN14" 3
+		2 "|Polish232:Polish" "translate" " -type \"double3\" 660.27683034964229591 288.28112157120909842 112.793"
+		
+		2 "|Polish232:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish232:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN15";
+	rename -uid "8925CAEA-440D-5907-11A0-50BFDBBA62B3";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN15"
+		"Polish69RN15" 0
+		"Polish69RN15" 334
+		2 "|Polish233:Polish" "translate" " -type \"double3\" 669.37861625331413507 363.32987492729574797 112.79334303683299368"
+		
+		2 "|Polish233:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish233:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvPivot" " -type \"double2\" 0.13000443622730418 0.62546268635325952"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[0]" " -type \"float2\" 0.026828735999999999 0.70366240000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[1]" " -type \"float2\" 0.055895448 0.69906115999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[2]" " -type \"float2\" 0.058852702 0.68039965999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[3]" " -type \"float2\" 0.022225469000000001 0.69905841000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[4]" " -type \"float2\" 0.030888438000000001 0.98445510999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[5]" " -type \"float2\" 0.17086261999999999 0.98445510999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[6]" " -type \"float2\" 0.17086261999999999 0.99470592000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[7]" " -type \"float2\" 0.030888438000000001 0.99470592000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[8]" " -type \"float2\" 0.02067861 0.69602191000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[9]" " -type \"float2\" 0.019270210999999999 0.69325720999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[10]" " -type \"float2\" 0.030888438000000001 0.97420430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[11]" " -type \"float2\" 0.17086261999999999 0.97420430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[12]" " -type \"float2\" 0.030888438000000001 0.78968864999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[13]" " -type \"float2\" 0.17086261999999999 0.78968877000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[14]" " -type \"float2\" 0.17086261999999999 0.79993957000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[15]" " -type \"float2\" 0.030888438000000001 0.79993957000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[16]" " -type \"float2\" 0.17415541000000001 0.98445510999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[17]" " -type \"float2\" 0.17423052 0.99470592000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[18]" " -type \"float2\" 0.018785089000000001 0.69019258000000006"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[19]" " -type \"float2\" 0.039059758 0.70763754999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[20]" " -type \"float2\" 0.030888438000000001 0.96395337999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[21]" " -type \"float2\" 0.17086261999999999 0.96395337999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[22]" " -type \"float2\" 0.17415195999999999 0.97420430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[23]" " -type \"float2\" 0.17086261999999999 0.81019037999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[24]" " -type \"float2\" 0.030888438000000001 0.81019037999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[25]" " -type \"float2\" 0.17423052 0.78968877000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[26]" " -type \"float2\" 0.17415541000000001 0.79993957000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[27]" " -type \"float2\" 0.17761666000000001 0.98445510999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[28]" " -type \"float2\" 0.17761666000000001 0.99470592000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[29]" " -type \"float2\" 0.018252283000000001 0.68682670999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[30]" " -type \"float2\" 0.030888438000000001 0.95370244999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[31]" " -type \"float2\" 0.17086261999999999 0.95370244999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[32]" " -type \"float2\" 0.17415184 0.96395337999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[33]" " -type \"float2\" 0.17761666000000001 0.97420430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[34]" " -type \"float2\" 0.17086261999999999 0.82044141999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[35]" " -type \"float2\" 0.030888438000000001 0.82044141999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[36]" " -type \"float2\" 0.17415195999999999 0.81019037999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[37]" " -type \"float2\" 0.17761666000000001 0.78968864999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[38]" " -type \"float2\" 0.17761666000000001 0.79993957000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[39]" " -type \"float2\" 0.21837807000000001 0.92655885000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[40]" " -type \"float2\" 0.21730679 0.91979467999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[41]" " -type \"float2\" 0.22545898 0.91714585000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[42]" " -type \"float2\" 0.22856808000000001 0.92324781"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[43]" " -type \"float2\" 0.0087902844000000008 0.71709453999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[44]" " -type \"float2\" 0.069327562999999995 0.71709955000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[45]" " -type \"float2\" 0.030888438000000001 0.94345164000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[46]" " -type \"float2\" 0.17086261999999999 0.94345164000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[47]" " -type \"float2\" 0.17415184 0.95370244999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[48]" " -type \"float2\" 0.17761666000000001 0.96395337999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[49]" " -type \"float2\" 0.20766366 0.92655885000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[50]" " -type \"float2\" 0.20873499000000001 0.91979467999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[51]" " -type \"float2\" 0.17086261999999999 0.83069210999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[52]" " -type \"float2\" 0.030888438000000001 0.83069210999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[53]" " -type \"float2\" 0.17415184 0.82044141999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[54]" " -type \"float2\" 0.17761666000000001 0.81019037999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[55]" " -type \"float2\" 0.23239362 0.91210758999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[56]" " -type \"float2\" 0.23723620000000001 0.91695011000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[57]" " -type \"float2\" 0.21302086000000001 0.89273477000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[58]" " -type \"float2\" 0.069332569999999996 0.65656227"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[59]" " -type \"float2\" 0.019271284 0.68039643999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[60]" " -type \"float2\" 0.030888438000000001 0.93320084000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[61]" " -type \"float2\" 0.17086261999999999 0.93320084000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[62]" " -type \"float2\" 0.17415184 0.94345164000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[63]" " -type \"float2\" 0.17761666000000001 0.95370244999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[64]" " -type \"float2\" 0.1974737 0.92324793000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[65]" " -type \"float2\" 0.20058280000000001 0.91714585000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[66]" " -type \"float2\" 0.17086261999999999 0.84094303999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[67]" " -type \"float2\" 0.030888438000000001 0.84094303999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[68]" " -type \"float2\" 0.17415184 0.83069210999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[69]" " -type \"float2\" 0.17761666000000001 0.82044141999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[70]" " -type \"float2\" 0.237432 0.90517281999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[71]" " -type \"float2\" 0.24353403000000001 0.90828204000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[72]" " -type \"float2\" 0.0087952315999999999 0.65655732"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[73]" " -type \"float2\" 0.059870631000000001 0.68683015999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[74]" " -type \"float2\" 0.030888438000000001 0.92294991000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[75]" " -type \"float2\" 0.17086261999999999 0.92294991000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[76]" " -type \"float2\" 0.039063156000000002 0.66601931999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[77]" " -type \"float2\" 0.17415184 0.93320084000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[78]" " -type \"float2\" 0.17761666000000001 0.94345164000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[79]" " -type \"float2\" 0.18880558 0.91695011000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[80]" " -type \"float2\" 0.19364816000000001 0.91210747000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[81]" " -type \"float2\" 0.17086261999999999 0.85119396000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[82]" " -type \"float2\" 0.030888438000000001 0.85119396000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[83]" " -type \"float2\" 0.17415184 0.84094303999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[84]" " -type \"float2\" 0.17761666000000001 0.83069210999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[85]" " -type \"float2\" 0.24008077 0.8970207"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[86]" " -type \"float2\" 0.24684489000000001 0.89809203000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[87]" " -type \"float2\" 0.022227466000000001 0.67459570999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[88]" " -type \"float2\" 0.030888438000000001 0.91758430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[89]" " -type \"float2\" 0.17086261999999999 0.91758430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[90]" " -type \"float2\" 0.17415184 0.92294991000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[91]" " -type \"float2\" 0.055897443999999998 0.67459846000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[92]" " -type \"float2\" 0.026831508 0.66999244999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[93]" " -type \"float2\" 0.030888438000000001 0.91269898000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[94]" " -type \"float2\" 0.17086261999999999 0.91269898000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[95]" " -type \"float2\" 0.17761666000000001 0.93320084000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[96]" " -type \"float2\" 0.18250780999999999 0.90828204000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[97]" " -type \"float2\" 0.18860978 0.90517281999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[98]" " -type \"float2\" 0.17086261999999999 0.86144489000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[99]" " -type \"float2\" 0.030888438000000001 0.86144489000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[100]" " -type \"float2\" 0.17415184 0.85119396000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[101]" " -type \"float2\" 0.17761666000000001 0.84094303999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[102]" " -type \"float2\" 0.24008077 0.88844889000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[103]" " -type \"float2\" 0.24684489000000001 0.88737756000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[104]" " -type \"float2\" 0.051291405999999998 0.70366441999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[105]" " -type \"float2\" 0.17415184 0.91758430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[106]" " -type \"float2\" 0.17761666000000001 0.92294991000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[107]" " -type \"float2\" 0.045493484000000001 0.66703831999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[108]" " -type \"float2\" 0.045490234999999997 0.70661962"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[109]" " -type \"float2\" 0.030888438000000001 0.90781367000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[110]" " -type \"float2\" 0.17086261999999999 0.90781367000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[111]" " -type \"float2\" 0.17415184 0.91269898000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[112]" " -type \"float2\" 0.17919683 0.89809203000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[113]" " -type \"float2\" 0.18596095000000001 0.8970207"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[114]" " -type \"float2\" 0.17086261999999999 0.87169569999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[115]" " -type \"float2\" 0.030888438000000001 0.87169569999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[116]" " -type \"float2\" 0.17415184 0.86144489000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[117]" " -type \"float2\" 0.17761666000000001 0.85119396000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[118]" " -type \"float2\" 0.23743206 0.88029670999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[119]" " -type \"float2\" 0.24353396999999999 0.87718766999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[120]" " -type \"float2\" 0.032632678999999998 0.66703725000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[121]" " -type \"float2\" 0.17761666000000001 0.91758430000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[122]" " -type \"float2\" 0.17919683 0.88737761999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[123]" " -type \"float2\" 0.18596101000000001 0.88844895000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[124]" " -type \"float2\" 0.030888438000000001 0.90244818000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[125]" " -type \"float2\" 0.030888438000000001 0.89219736999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[126]" " -type \"float2\" 0.17086261999999999 0.89219736999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[127]" " -type \"float2\" 0.17086261999999999 0.90244818000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[128]" " -type \"float2\" 0.17415184 0.90781367000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[129]" " -type \"float2\" 0.17761666000000001 0.91269898000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[130]" " -type \"float2\" 0.17086261999999999 0.88194644"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[131]" " -type \"float2\" 0.030888438000000001 0.88194644"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[132]" " -type \"float2\" 0.17415184 0.87169569999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[133]" " -type \"float2\" 0.17761666000000001 0.86144489000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[134]" " -type \"float2\" 0.23239362 0.873362"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[135]" " -type \"float2\" 0.23723620000000001 0.86851937000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[136]" " -type \"float2\" 0.18092985 0.88204389999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[137]" " -type \"float2\" 0.1873475 0.88418191999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[138]" " -type \"float2\" 0.20012482000000001 0.89069222999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[139]" " -type \"float2\" 0.17415184 0.89219736999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[140]" " -type \"float2\" 0.17415184 0.90244818000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[141]" " -type \"float2\" 0.17761666000000001 0.90781367000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[142]" " -type \"float2\" 0.18250775 0.87718755000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[143]" " -type \"float2\" 0.1886099 0.88029676999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[144]" " -type \"float2\" 0.17415184 0.88194644"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[145]" " -type \"float2\" 0.17761666000000001 0.87169569999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[146]" " -type \"float2\" 0.22545898 0.86832368000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[147]" " -type \"float2\" 0.22856808000000001 0.86222171999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[148]" " -type \"float2\" 0.17761666000000001 0.89219736999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[149]" " -type \"float2\" 0.17761666000000001 0.90244818000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[150]" " -type \"float2\" 0.18550915000000001 0.87305659000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[151]" " -type \"float2\" 0.19101095000000001 0.87699187000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[152]" " -type \"float2\" 0.17761666000000001 0.88194644"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[153]" " -type \"float2\" 0.21730673 0.86567490999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[154]" " -type \"float2\" 0.21837813 0.85891086000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[155]" " -type \"float2\" 0.20378826999999999 0.88350218999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[156]" " -type \"float2\" 0.19747365 0.86222160000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[157]" " -type \"float2\" 0.20058286 0.86832368000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[158]" " -type \"float2\" 0.19364803999999999 0.873362"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[159]" " -type \"float2\" 0.18880558 0.86851948000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[160]" " -type \"float2\" 0.20873499000000001 0.86567485"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[161]" " -type \"float2\" 0.20766366 0.85891086000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[162]" " -type \"float2\" 0.019714952000000001 0.51302778999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[163]" " -type \"float2\" 0.080748260000000002 0.51298832999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[164]" " -type \"float2\" 0.080630331999999999 0.51657235999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[165]" " -type \"float2\" 0.078552067000000003 0.51874684999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[166]" " -type \"float2\" 0.021934986 0.51879871"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[167]" " -type \"float2\" 0.019849926 0.51662350000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[168]" " -type \"float2\" 0.13172802 0.70624352000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[169]" " -type \"float2\" 0.071190685000000004 0.70624958999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[170]" " -type \"float2\" 0.071184486000000005 0.64571244000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[171]" " -type \"float2\" 0.13172181999999999 0.64570629999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[172]" " -type \"float2\" 0.083322703999999997 0.51644409000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[173]" " -type \"float2\" 0.080722510999999997 0.52090997000000006"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[174]" " -type \"float2\" 0.019764601999999999 0.52097505"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[175]" " -type \"float2\" 0.017161459 0.516518"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[176]" " -type \"float2\" 0.16547408999999999 0.51304804999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[177]" " -type \"float2\" 0.1653761 0.51663696999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[178]" " -type \"float2\" 0.10465505999999999 0.51670802000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[179]" " -type \"float2\" 0.10454223 0.51310884999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[180]" " -type \"float2\" 0.17788889999999999 0.51255262000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[181]" " -type \"float2\" 0.23842617999999999 0.51255918"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[182]" " -type \"float2\" 0.23842582000000001 0.51615476999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[183]" " -type \"float2\" 0.17788841999999999 0.51614821"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[184]" " -type \"float2\" 0.23885426000000001 0.63434261000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[185]" " -type \"float2\" 0.24244996999999999 0.63434327000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[186]" " -type \"float2\" 0.24243924 0.69488048999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[187]" " -type \"float2\" 0.23884364999999999 0.69487988999999994"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[188]" " -type \"float2\" 0.084359050000000005 0.51388537999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[189]" " -type \"float2\" 0.083568007 0.52061665000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[190]" " -type \"float2\" 0.020010442 0.52566444999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[191]" " -type \"float2\" 0.016916752 0.52065980000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[192]" " -type \"float2\" 0.016100614999999999 0.51395869000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[193]" " -type \"float2\" 0.16550091 0.52069544999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[194]" " -type \"float2\" 0.10453233000000001 0.52075576999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[195]" " -type \"float2\" 0.10196736000000001 0.51650857999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[196]" " -type \"float2\" 0.16806367 0.51642478000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[197]" " -type \"float2\" 0.10091814 0.51395416000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[198]" " -type \"float2\" 0.23842534000000001 0.52021110000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[199]" " -type \"float2\" 0.17788807000000001 0.52020465999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[200]" " -type \"float2\" 0.24650630000000001 0.63434391999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[201]" " -type \"float2\" 0.24649557 0.69488119999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[202]" " -type \"float2\" 0.16908993999999999 0.51387011999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[203]" " -type \"float2\" 0.088104993000000006 0.51557397999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[204]" " -type \"float2\" 0.086970508000000002 0.51815248000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[205]" " -type \"float2\" 0.083684117000000002 0.52175592999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[206]" " -type \"float2\" 0.080485284000000004 0.52562761000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[207]" " -type \"float2\" 0.016802818000000001 0.52177989000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[208]" " -type \"float2\" 0.013506621 0.51822257000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[209]" " -type \"float2\" 0.0123851 0.51565850000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[210]" " -type \"float2\" 0.16526701999999999 0.52538335000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[211]" " -type \"float2\" 0.10478285 0.52547467000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[212]" " -type \"float2\" 0.10169175 0.52054321999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[213]" " -type \"float2\" 0.16834858 0.52048886000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[214]" " -type \"float2\" 0.098303645999999995 0.51816857000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[215]" " -type \"float2\" 0.097191005999999996 0.51561665999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[216]" " -type \"float2\" 0.23842487000000001 0.52492452000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[217]" " -type \"float2\" 0.17788746999999999 0.52491807999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[218]" " -type \"float2\" 0.25121984000000003 0.63434475999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[219]" " -type \"float2\" 0.25120904999999999 0.69488203999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[220]" " -type \"float2\" 0.17284348999999999 0.51551091999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[221]" " -type \"float2\" 0.17172614 0.51808273999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[222]" " -type \"float2\" 0.090640425999999996 0.52067220000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[223]" " -type \"float2\" 0.091709524000000001 0.52543949999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[224]" " -type \"float2\" 0.088023751999999997 0.52166652999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[225]" " -type \"float2\" 0.084066539999999995 0.52562903999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[226]" " -type \"float2\" 0.088115483999999994 0.52557122999999994"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[227]" " -type \"float2\" 0.080510020000000002 0.63148104999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[228]" " -type \"float2\" 0.020013659999999999 0.63147151000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[229]" " -type \"float2\" 0.016429335 0.52567589000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[230]" " -type \"float2\" 0.012384772 0.52560580000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[231]" " -type \"float2\" 0.012468547 0.52174686999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[232]" " -type \"float2\" 0.0098570286999999993 0.52074193999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[233]" " -type \"float2\" 0.0087980031999999996 0.52547836000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[234]" " -type \"float2\" 0.16541591 0.63121050999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[235]" " -type \"float2\" 0.10493168 0.63130164"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[236]" " -type \"float2\" 0.10157028 0.52158236999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[237]" " -type \"float2\" 0.16846122999999999 0.52152001999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[238]" " -type \"float2\" 0.094619483000000004 0.52056431999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[239]" " -type \"float2\" 0.097233741999999998 0.52156316999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[240]" " -type \"float2\" 0.093570679000000004 0.52530264999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[241]" " -type \"float2\" 0.23841354000000001 0.63076138000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[242]" " -type \"float2\" 0.17787626000000001 0.63075495000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[243]" " -type \"float2\" 0.23793718 0.73837268"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[244]" " -type \"float2\" 0.17740001999999999 0.73836206999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[245]" " -type \"float2\" 0.17741837999999999 0.63252531999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[246]" " -type \"float2\" 0.23795578000000001 0.63253581999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[247]" " -type \"float2\" 0.17541376 0.52041828999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[248]" " -type \"float2\" 0.17649069000000001 0.52518319999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[249]" " -type \"float2\" 0.17279949999999999 0.52141786000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[250]" " -type \"float2\" 0.084090947999999999 0.63147175"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[251]" " -type \"float2\" 0.088135272000000001 0.63154173000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[252]" " -type \"float2\" 0.080751299999999998 0.63620102000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[253]" " -type \"float2\" 0.019770741000000001 0.63615847000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[254]" " -type \"float2\" 0.016432405000000001 0.63146709999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[255]" " -type \"float2\" 0.012383372 0.63152385"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[256]" " -type \"float2\" 0.16884806999999999 0.52538264000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[257]" " -type \"float2\" 0.16899696 0.63119632000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[258]" " -type \"float2\" 0.16566660999999999 0.63592934999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[259]" " -type \"float2\" 0.10469797 0.63598955000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[260]" " -type \"float2\" 0.10135081 0.63130235999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[261]" " -type \"float2\" 0.10120198 0.52548885000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[262]" " -type \"float2\" 0.097157388999999997 0.52542436000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[263]" " -type \"float2\" 0.17289689 0.52532005000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[264]" " -type \"float2\" 0.097301870999999998 0.63136506000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[265]" " -type \"float2\" 0.093708186999999998 0.63150191"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[266]" " -type \"float2\" 0.0087890326999999994 0.72946"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[267]" " -type \"float2\" 0.0087896286999999997 0.72474658000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[268]" " -type \"float2\" 0.069326847999999996 0.72475146999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[269]" " -type \"float2\" 0.069326490000000004 0.72946500999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[270]" " -type \"float2\" 0.091722012000000006 0.63166820999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[271]" " -type \"float2\" 0.17662826000000001 0.63138234999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[272]" " -type \"float2\" 0.17304137 0.63126075000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[273]" " -type \"float2\" 0.0087892710999999991 0.63165545000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[274]" " -type \"float2\" 0.069333284999999995 0.64419687000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[275]" " -type \"float2\" 0.069333046999999995 0.64891027999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[276]" " -type \"float2\" 0.0087958276000000002 0.64890534"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[277]" " -type \"float2\" 0.0087961853000000003 0.64419192000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[278]" " -type \"float2\" 0.083715945 0.63537836000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[279]" " -type \"float2\" 0.088053137000000004 0.63540315999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[280]" " -type \"float2\" 0.080619453999999993 0.64024906999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[281]" " -type \"float2\" 0.019886613000000001 0.64021695000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[282]" " -type \"float2\" 0.016812295000000001 0.63532995999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[283]" " -type \"float2\" 0.012474626000000001 0.63542593000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[284]" " -type \"float2\" 0.16862859999999999 0.63510275000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[285]" " -type \"float2\" 0.16554382000000001 0.63997709999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[286]" " -type \"float2\" 0.10482267000000001 0.64004808999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[287]" " -type \"float2\" 0.10173753000000001 0.63516510000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[288]" " -type \"float2\" 0.097399384000000006 0.63526713999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[289]" " -type \"float2\" 0.094785123999999998 0.63626671000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[290]" " -type \"float2\" 0.0087899268000000003 0.72069024999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[291]" " -type \"float2\" 0.069327085999999996 0.72069514000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[292]" " -type \"float2\" 0.090666205 0.63640558999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[293]" " -type \"float2\" 0.17296507999999999 0.63512181999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[294]" " -type \"float2\" 0.069332807999999996 0.65296662000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[295]" " -type \"float2\" 0.0087955295999999992 0.65296160999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[296]" " -type \"float2\" 0.17557934 0.63612080000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[297]" " -type \"float2\" 0.0098586977000000003 0.63642156000000005"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[298]" " -type \"float2\" 0.083591401999999995 0.63642001000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[299]" " -type \"float2\" 0.086974353000000004 0.63880247000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[300]" " -type \"float2\" 0.083306759999999994 0.64045441000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[301]" " -type \"float2\" 0.080724387999999994 0.64384878000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[302]" " -type \"float2\" 0.019780784999999999 0.64380574000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[303]" " -type \"float2\" 0.017198591999999999 0.64042341999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[304]" " -type \"float2\" 0.016922623000000001 0.63635874000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[305]" " -type \"float2\" 0.013539582 0.63875729000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[306]" " -type \"float2\" 0.16850713 0.63614190000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[307]" " -type \"float2\" 0.16823152 0.64017652999999997"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[308]" " -type \"float2\" 0.16565672000000001 0.64357626000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[309]" " -type \"float2\" 0.10472474 0.64363705999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[310]" " -type \"float2\" 0.10213527 0.64026033999999998"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[311]" " -type \"float2\" 0.10185036 0.63619625999999996"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[312]" " -type \"float2\" 0.097355336000000001 0.64117420000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[313]" " -type \"float2\" 0.098472624999999994 0.63860231999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[314]" " -type \"float2\" 0.10110912 0.64281487000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[315]" " -type \"float2\" 0.0087902844000000008 0.71709453999999995"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[316]" " -type \"float2\" 0.069327562999999995 0.71709955000000003"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[317]" " -type \"float2\" 0.088081359999999997 0.64135682999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[318]" " -type \"float2\" 0.084350437 0.64301121000000006"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[319]" " -type \"float2\" 0.069332569999999996 0.65656227"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[320]" " -type \"float2\" 0.0087952315999999999 0.65655732"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[321]" " -type \"float2\" 0.17300788 0.64106834000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[322]" " -type \"float2\" 0.16928080000000001 0.64273095000000002"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[323]" " -type \"float2\" 0.1718953 0.63851648999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[324]" " -type \"float2\" 0.012416691000000001 0.64132666999999999"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[325]" " -type \"float2\" 0.016166717000000001 0.64297581000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[326]" " -type \"float2\" 0.032629430000000001 0.70661861000000004"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[327]" " -type \"float2\" 0.051294178000000003 0.66999447000000001"
+		
+		2 "|Polish233:Polish|Polish233:PolishShape" "uvSet[0].uvSetPoints[328]" " -type \"float2\" 0.058851659000000001 0.69326043000000004";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN16";
+	rename -uid "044B77A0-4D64-533E-8572-7F89253514AB";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN16"
+		"Polish69RN16" 0
+		"Polish69RN16" 3
+		2 "|Polish234:Polish" "translate" " -type \"double3\" 669.37861625331390769 356.98973032283964812 112.79334303683299368"
+		
+		2 "|Polish234:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish234:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN17";
+	rename -uid "52B42395-4C71-1E78-8B50-26A2D24A115E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN17"
+		"Polish69RN17" 0
+		"Polish69RN17" 3
+		2 "|Polish235:Polish" "translate" " -type \"double3\" 669.37861625331390769 351.27198405859479635 112.79334303683299368"
+		
+		2 "|Polish235:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish235:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN18";
+	rename -uid "233E2A13-4F3F-3CE0-E241-4EA9C908A9E5";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN18"
+		"Polish69RN18" 0
+		"Polish69RN18" 3
+		2 "|Polish236:Polish" "translate" " -type \"double3\" 669.37861625331390769 345.39215296953994994 112.79334303683299368"
+		
+		2 "|Polish236:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish236:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN19";
+	rename -uid "609453EC-4DB9-7651-0D55-5CA982F40D80";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN19"
+		"Polish69RN19" 0
+		"Polish69RN19" 3
+		2 "|Polish237:Polish" "translate" " -type \"double3\" 669.37861625331390769 339.67499995198136276 112.79334303683299368"
+		
+		2 "|Polish237:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish237:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN20";
+	rename -uid "9CB28006-4043-1887-B9A7-F184411686AD";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN20"
+		"Polish69RN20" 0
+		"Polish69RN20" 3
+		2 "|Polish238:Polish" "translate" " -type \"double3\" 669.37861625331390769 334.193774609278762 112.79334303683299368"
+		
+		2 "|Polish238:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish238:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN21";
+	rename -uid "DE1762B4-4825-B6E1-8AEA-9C8512015A15";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN21"
+		"Polish69RN21" 0
+		"Polish69RN21" 3
+		2 "|Polish239:Polish" "translate" " -type \"double3\" 669.37861625331390769 328.2789153457052862 112.79334303683299368"
+		
+		2 "|Polish239:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish239:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN22";
+	rename -uid "20A2E3C2-4466-3705-88D3-4683B53C24AB";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN22"
+		"Polish69RN22" 0
+		"Polish69RN22" 3
+		2 "|Polish240:Polish" "translate" " -type \"double3\" 669.37861625331390769 323.04524153199906777 112.793"
+		
+		2 "|Polish240:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish240:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN23";
+	rename -uid "EBFEB9A7-470A-D70B-DEE7-28B3B4C8FD0F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN23"
+		"Polish69RN23" 0
+		"Polish69RN23" 3
+		2 "|Polish241:Polish" "translate" " -type \"double3\" 669.37861625331390769 317.45396457303718307 112.793"
+		
+		2 "|Polish241:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish241:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN24";
+	rename -uid "38E322B1-4C7F-87D9-E231-BC8301E0C019";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN24"
+		"Polish69RN24" 0
+		"Polish69RN24" 3
+		2 "|Polish242:Polish" "translate" " -type \"double3\" 669.37861625331390769 311.90884257419344294 112.793"
+		
+		2 "|Polish242:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish242:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN25";
+	rename -uid "026CF502-4425-56AA-8517-FCB49EFAAA49";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN25"
+		"Polish69RN25" 0
+		"Polish69RN25" 3
+		2 "|Polish243:Polish" "translate" " -type \"double3\" 669.37861625331390769 305.95917711977381259 112.793"
+		
+		2 "|Polish243:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish243:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN26";
+	rename -uid "E45996FE-49FC-D241-241C-1C845931AA0A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN26"
+		"Polish69RN26" 0
+		"Polish69RN26" 3
+		2 "|Polish244:Polish" "translate" " -type \"double3\" 669.37861625331390769 300.43959346202791494 112.793"
+		
+		2 "|Polish244:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish244:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN27";
+	rename -uid "6694D71B-48F1-E053-932F-80B2F8CD789A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN27"
+		"Polish69RN27" 0
+		"Polish69RN27" 3
+		2 "|Polish245:Polish" "translate" " -type \"double3\" 669.37861625331390769 294.61118310461699821 112.793"
+		
+		2 "|Polish245:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish245:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN28";
+	rename -uid "38EDDED7-4A67-9360-7194-0BAB347A63C9";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN28"
+		"Polish69RN28" 0
+		"Polish69RN28" 3
+		2 "|Polish246:Polish" "translate" " -type \"double3\" 669.37861625331390769 288.28112157120909842 112.793"
+		
+		2 "|Polish246:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish246:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN29";
+	rename -uid "4BBA0B88-42AD-FD8D-C349-2E831D5E46BD";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN29"
+		"Polish69RN29" 0
+		"Polish69RN29" 3
+		2 "|Polish247:Polish" "translate" " -type \"double3\" 651.68375715944875992 281.97188318756730041 112.79334303683299368"
+		
+		2 "|Polish247:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish247:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN30";
+	rename -uid "BBE020CD-4E27-959B-1B9A-4EA6B9D8B2F8";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN30"
+		"Polish69RN30" 0
+		"Polish69RN30" 3
+		2 "|Polish248:Polish" "translate" " -type \"double3\" 651.68375715944853255 275.63173858311120057 112.79334303683299368"
+		
+		2 "|Polish248:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish248:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN31";
+	rename -uid "3438CE63-4583-652D-AA50-DC851A87E952";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN31"
+		"Polish69RN31" 0
+		"Polish69RN31" 3
+		2 "|Polish249:Polish" "translate" " -type \"double3\" 651.68375715944853255 269.9139923188663488 112.79334303683299368"
+		
+		2 "|Polish249:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish249:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN32";
+	rename -uid "9BC7D6CF-48B8-A1B9-1EB9-98A4BA52BDA0";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN32"
+		"Polish69RN32" 0
+		"Polish69RN32" 3
+		2 "|Polish250:Polish" "translate" " -type \"double3\" 651.68375715944853255 264.03416122981150238 112.79334303683299368"
+		
+		2 "|Polish250:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish250:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN33";
+	rename -uid "FEE8A45C-4034-9119-58FE-4F86BBFEED11";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN33"
+		"Polish69RN33" 0
+		"Polish69RN33" 3
+		2 "|Polish251:Polish" "translate" " -type \"double3\" 651.68375715944853255 258.31700821225285836 112.79334303683299368"
+		
+		2 "|Polish251:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish251:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN34";
+	rename -uid "A197FB6C-490C-57B2-028B-A696343892B6";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN34"
+		"Polish69RN34" 0
+		"Polish69RN34" 3
+		2 "|Polish252:Polish" "translate" " -type \"double3\" 651.68375715944853255 252.83578286955028602 112.79334303683299368"
+		
+		2 "|Polish252:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish252:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN35";
+	rename -uid "049903D6-4E05-B854-4DA7-5E8EDCECCC1A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN35"
+		"Polish69RN35" 0
+		"Polish69RN35" 3
+		2 "|Polish253:Polish" "translate" " -type \"double3\" 651.68375715944853255 246.92092360597695233 112.79334303683299368"
+		
+		2 "|Polish253:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish253:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN36";
+	rename -uid "46D86D12-48B2-7111-8688-34BC3875ADE7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN36"
+		"Polish69RN36" 0
+		"Polish69RN36" 3
+		2 "|Polish254:Polish" "translate" " -type \"double3\" 651.68375715944853255 241.68724979227081917 112.793"
+		
+		2 "|Polish254:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish254:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN37";
+	rename -uid "9D5D12DB-4DC5-44CF-F5AB-D3A989533638";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN37"
+		"Polish69RN37" 0
+		"Polish69RN37" 3
+		2 "|Polish255:Polish" "translate" " -type \"double3\" 651.68375715944853255 236.09597283330893447 112.793"
+		
+		2 "|Polish255:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish255:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN38";
+	rename -uid "8CDB5386-44C5-F8FF-B48F-3784D85B9043";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN38"
+		"Polish69RN38" 0
+		"Polish69RN38" 3
+		2 "|Polish256:Polish" "translate" " -type \"double3\" 651.68375715944853255 230.55085083446519434 112.793"
+		
+		2 "|Polish256:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish256:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN39";
+	rename -uid "D2B3BE77-419D-6B8F-B5CF-4D991EEB4D4B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN39"
+		"Polish69RN39" 0
+		"Polish69RN39" 3
+		2 "|Polish257:Polish" "translate" " -type \"double3\" 651.68375715944853255 224.60118538004556399 112.793"
+		
+		2 "|Polish257:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish257:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN40";
+	rename -uid "F7857BD2-4467-2022-C73A-8B9DCB8E4C5C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN40"
+		"Polish69RN40" 0
+		"Polish69RN40" 3
+		2 "|Polish258:Polish" "translate" " -type \"double3\" 651.68375715944853255 219.08160172229966633 112.793"
+		
+		2 "|Polish258:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish258:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN41";
+	rename -uid "A1828BC8-4201-F79F-C301-FD9FEBEFD938";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN41"
+		"Polish69RN41" 0
+		"Polish69RN41" 3
+		2 "|Polish259:Polish" "translate" " -type \"double3\" 651.68375715944853255 213.2531913648887496 112.793"
+		
+		2 "|Polish259:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish259:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN42";
+	rename -uid "1DAFFB2C-456F-E435-3F7C-589E67F553FC";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN42"
+		"Polish69RN42" 0
+		"Polish69RN42" 3
+		2 "|Polish260:Polish" "translate" " -type \"double3\" 651.68375715944853255 206.92312983148084982 112.793"
+		
+		2 "|Polish260:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish260:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN43";
+	rename -uid "167A0D48-4634-29EA-F5A4-868E49D6352A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN43"
+		"Polish69RN43" 0
+		"Polish69RN43" 3
+		2 "|Polish261:Polish" "translate" " -type \"double3\" 660.27683034964252329 281.97188318756730041 112.79334303683299368"
+		
+		2 "|Polish261:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish261:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN44";
+	rename -uid "BD2EF059-4029-B905-BC1D-3A9EEBB34A46";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN44"
+		"Polish69RN44" 0
+		"Polish69RN44" 3
+		2 "|Polish262:Polish" "translate" " -type \"double3\" 660.27683034964229591 275.63173858311120057 112.79334303683299368"
+		
+		2 "|Polish262:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish262:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN45";
+	rename -uid "EF8D4CDF-4C72-C556-8554-2A998B60B8B1";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN45"
+		"Polish69RN45" 0
+		"Polish69RN45" 3
+		2 "|Polish263:Polish" "translate" " -type \"double3\" 660.27683034964229591 269.9139923188663488 112.79334303683299368"
+		
+		2 "|Polish263:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish263:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN46";
+	rename -uid "6A879C29-4DE5-9CE9-4616-ED926E877DC2";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN46"
+		"Polish69RN46" 0
+		"Polish69RN46" 3
+		2 "|Polish264:Polish" "translate" " -type \"double3\" 660.27683034964229591 264.03416122981150238 112.79334303683299368"
+		
+		2 "|Polish264:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish264:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN47";
+	rename -uid "98648DD4-46AE-312D-6475-22982AFE2554";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN47"
+		"Polish69RN47" 0
+		"Polish69RN47" 3
+		2 "|Polish265:Polish" "translate" " -type \"double3\" 660.27683034964229591 258.31700821225285836 112.79334303683299368"
+		
+		2 "|Polish265:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish265:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN48";
+	rename -uid "0E49CA17-41F1-3AB1-BA2E-06A0527268AD";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN48"
+		"Polish69RN48" 0
+		"Polish69RN48" 3
+		2 "|Polish266:Polish" "translate" " -type \"double3\" 660.27683034964229591 252.83578286955028602 112.79334303683299368"
+		
+		2 "|Polish266:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish266:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN49";
+	rename -uid "A71E40D2-485B-98A3-8D36-319AF8C83F28";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN49"
+		"Polish69RN49" 0
+		"Polish69RN49" 3
+		2 "|Polish267:Polish" "translate" " -type \"double3\" 660.27683034964229591 246.92092360597695233 112.79334303683299368"
+		
+		2 "|Polish267:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish267:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN50";
+	rename -uid "26C842AF-438C-7CA6-76E0-6090C389420F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN50"
+		"Polish69RN50" 0
+		"Polish69RN50" 3
+		2 "|Polish268:Polish" "translate" " -type \"double3\" 660.27683034964229591 241.68724979227081917 112.793"
+		
+		2 "|Polish268:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish268:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN51";
+	rename -uid "E3CC0787-4C63-DF9C-31E1-0AAF4D89832E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN51"
+		"Polish69RN51" 0
+		"Polish69RN51" 3
+		2 "|Polish269:Polish" "translate" " -type \"double3\" 660.27683034964229591 236.09597283330893447 112.793"
+		
+		2 "|Polish269:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish269:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN52";
+	rename -uid "CBBE2C8D-44DA-E3B5-B0CB-C7A0B4968E52";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN52"
+		"Polish69RN52" 0
+		"Polish69RN52" 3
+		2 "|Polish270:Polish" "translate" " -type \"double3\" 660.27683034964229591 230.55085083446519434 112.793"
+		
+		2 "|Polish270:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish270:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN53";
+	rename -uid "4D9D2F1B-47B6-3B39-0D27-3083A38E1941";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN53"
+		"Polish69RN53" 0
+		"Polish69RN53" 3
+		2 "|Polish271:Polish" "translate" " -type \"double3\" 660.27683034964229591 224.60118538004556399 112.793"
+		
+		2 "|Polish271:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish271:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN54";
+	rename -uid "07C06EAF-4F57-6500-7FB0-4A9C822A2EEA";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN54"
+		"Polish69RN54" 0
+		"Polish69RN54" 3
+		2 "|Polish272:Polish" "translate" " -type \"double3\" 660.27683034964229591 219.08160172229966633 112.793"
+		
+		2 "|Polish272:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish272:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN55";
+	rename -uid "DB15D147-4E0F-D932-BA97-72A536B61456";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN55"
+		"Polish69RN55" 0
+		"Polish69RN55" 3
+		2 "|Polish273:Polish" "translate" " -type \"double3\" 660.27683034964229591 213.2531913648887496 112.793"
+		
+		2 "|Polish273:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish273:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN56";
+	rename -uid "79017112-4790-27FC-24B5-0CAF385414EE";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN56"
+		"Polish69RN56" 0
+		"Polish69RN56" 3
+		2 "|Polish274:Polish" "translate" " -type \"double3\" 660.27683034964229591 206.92312983148084982 112.793"
+		
+		2 "|Polish274:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish274:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN57";
+	rename -uid "F6FEFAC5-4B15-A82A-BCD1-258C91B6A503";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN57"
+		"Polish69RN57" 0
+		"Polish69RN57" 3
+		2 "|Polish275:Polish" "translate" " -type \"double3\" 669.37861625331413507 281.97188318756730041 112.79334303683299368"
+		
+		2 "|Polish275:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish275:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN58";
+	rename -uid "43601E2C-438B-B5A3-A991-B6A703F5B04C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN58"
+		"Polish69RN58" 0
+		"Polish69RN58" 3
+		2 "|Polish276:Polish" "translate" " -type \"double3\" 669.37861625331390769 275.63173858311120057 112.79334303683299368"
+		
+		2 "|Polish276:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish276:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN59";
+	rename -uid "E6DB2262-4854-03F6-1858-9A92FE7F43FF";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN59"
+		"Polish69RN59" 0
+		"Polish69RN59" 3
+		2 "|Polish277:Polish" "translate" " -type \"double3\" 669.37861625331390769 269.9139923188663488 112.79334303683299368"
+		
+		2 "|Polish277:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish277:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN60";
+	rename -uid "B83B442E-4D41-5CE4-5A85-07959BDAF49F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN60"
+		"Polish69RN60" 0
+		"Polish69RN60" 3
+		2 "|Polish278:Polish" "translate" " -type \"double3\" 669.37861625331390769 264.03416122981150238 112.79334303683299368"
+		
+		2 "|Polish278:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish278:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN61";
+	rename -uid "60B69C17-40FD-81D4-59D9-1CAC289B84AD";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN61"
+		"Polish69RN61" 0
+		"Polish69RN61" 3
+		2 "|Polish279:Polish" "translate" " -type \"double3\" 669.37861625331390769 258.31700821225285836 112.79334303683299368"
+		
+		2 "|Polish279:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish279:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN62";
+	rename -uid "C4851942-4A5A-0649-B57A-B58110300266";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN62"
+		"Polish69RN62" 0
+		"Polish69RN62" 3
+		2 "|Polish280:Polish" "translate" " -type \"double3\" 669.37861625331390769 252.83578286955028602 112.79334303683299368"
+		
+		2 "|Polish280:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish280:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN63";
+	rename -uid "0201C010-4C6B-07CA-F9D9-CDB8A9C6C54A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN63"
+		"Polish69RN63" 0
+		"Polish69RN63" 3
+		2 "|Polish281:Polish" "translate" " -type \"double3\" 669.37861625331390769 246.92092360597695233 112.79334303683299368"
+		
+		2 "|Polish281:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish281:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN64";
+	rename -uid "F7A0AD22-4152-D1A7-F7FA-DC8026328932";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN64"
+		"Polish69RN64" 0
+		"Polish69RN64" 3
+		2 "|Polish282:Polish" "translate" " -type \"double3\" 669.37861625331390769 241.68724979227081917 112.793"
+		
+		2 "|Polish282:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish282:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN65";
+	rename -uid "D823E976-423D-3116-37E2-E5B76F2C39C2";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN65"
+		"Polish69RN65" 0
+		"Polish69RN65" 3
+		2 "|Polish283:Polish" "translate" " -type \"double3\" 669.37861625331390769 236.09597283330893447 112.793"
+		
+		2 "|Polish283:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish283:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN66";
+	rename -uid "47F0E4C5-44CD-7E4D-BA97-48AB00B53D04";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN66"
+		"Polish69RN66" 0
+		"Polish69RN66" 3
+		2 "|Polish284:Polish" "translate" " -type \"double3\" 669.37861625331390769 230.55085083446519434 112.793"
+		
+		2 "|Polish284:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish284:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN67";
+	rename -uid "ECB45717-4EBF-FCA9-4D36-219E51274E22";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN67"
+		"Polish69RN67" 0
+		"Polish69RN67" 3
+		2 "|Polish285:Polish" "translate" " -type \"double3\" 669.37861625331390769 224.60118538004556399 112.793"
+		
+		2 "|Polish285:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish285:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN68";
+	rename -uid "A3F7FC92-4800-FCC1-A79F-909CB9361345";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN68"
+		"Polish69RN68" 0
+		"Polish69RN68" 3
+		2 "|Polish286:Polish" "translate" " -type \"double3\" 669.37861625331390769 219.08160172229966633 112.793"
+		
+		2 "|Polish286:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish286:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN69";
+	rename -uid "5F0C30AD-496A-8D1D-518C-A6AFB25162E1";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN69"
+		"Polish69RN69" 0
+		"Polish69RN69" 3
+		2 "|Polish287:Polish" "translate" " -type \"double3\" 669.37861625331390769 213.2531913648887496 112.793"
+		
+		2 "|Polish287:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish287:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN70";
+	rename -uid "1C63D5A6-4DEF-B491-5509-77A6D747FD99";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN70"
+		"Polish69RN70" 0
+		"Polish69RN70" 3
+		2 "|Polish288:Polish" "translate" " -type \"double3\" 669.37861625331390769 206.92312983148084982 112.793"
+		
+		2 "|Polish288:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish288:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN71";
+	rename -uid "5D03C6E2-443D-0280-8065-17A02CC4ECB7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN71"
+		"Polish69RN71" 0
+		"Polish69RN71" 334
+		2 "|Polish289:Polish" "translate" " -type \"double3\" 691.51966724325950509 363.32987492729574797 121.0553436279296875"
+		
+		2 "|Polish289:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish289:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvPivot" " -type \"double2\" 0.12388458032027738 0.62954259031738324"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[0]" " -type \"float2\" 0.020708889000000001 0.70774232999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[1]" " -type \"float2\" 0.049775600000000003 0.70314102999999994"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[2]" " -type \"float2\" 0.052732855000000002 0.68447959000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[3]" " -type \"float2\" 0.016105622 0.70313829000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[4]" " -type \"float2\" 0.030888438000000001 0.98445510999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[5]" " -type \"float2\" 0.17086261999999999 0.98445510999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[6]" " -type \"float2\" 0.17086261999999999 0.99470592000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[7]" " -type \"float2\" 0.030888438000000001 0.99470592000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[8]" " -type \"float2\" 0.014558761999999999 0.70010185000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[9]" " -type \"float2\" 0.013150363999999999 0.69733714999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[10]" " -type \"float2\" 0.030888438000000001 0.97420430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[11]" " -type \"float2\" 0.17086261999999999 0.97420430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[12]" " -type \"float2\" 0.030888438000000001 0.78968864999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[13]" " -type \"float2\" 0.17086261999999999 0.78968877000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[14]" " -type \"float2\" 0.17086261999999999 0.79993957000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[15]" " -type \"float2\" 0.030888438000000001 0.79993957000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[16]" " -type \"float2\" 0.17415541000000001 0.98445510999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[17]" " -type \"float2\" 0.17423052 0.99470592000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[18]" " -type \"float2\" 0.012665242 0.69427251999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[19]" " -type \"float2\" 0.032939911000000002 0.71171748999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[20]" " -type \"float2\" 0.030888438000000001 0.96395337999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[21]" " -type \"float2\" 0.17086261999999999 0.96395337999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[22]" " -type \"float2\" 0.17415195999999999 0.97420430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[23]" " -type \"float2\" 0.17086261999999999 0.81019037999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[24]" " -type \"float2\" 0.030888438000000001 0.81019037999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[25]" " -type \"float2\" 0.17423052 0.78968877000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[26]" " -type \"float2\" 0.17415541000000001 0.79993957000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[27]" " -type \"float2\" 0.17761666000000001 0.98445510999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[28]" " -type \"float2\" 0.17761666000000001 0.99470592000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[29]" " -type \"float2\" 0.012132436 0.69090664000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[30]" " -type \"float2\" 0.030888438000000001 0.95370244999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[31]" " -type \"float2\" 0.17086261999999999 0.95370244999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[32]" " -type \"float2\" 0.17415184 0.96395337999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[33]" " -type \"float2\" 0.17761666000000001 0.97420430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[34]" " -type \"float2\" 0.17086261999999999 0.82044141999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[35]" " -type \"float2\" 0.030888438000000001 0.82044141999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[36]" " -type \"float2\" 0.17415195999999999 0.81019037999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[37]" " -type \"float2\" 0.17761666000000001 0.78968864999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[38]" " -type \"float2\" 0.17761666000000001 0.79993957000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[39]" " -type \"float2\" 0.21837807000000001 0.92655885000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[40]" " -type \"float2\" 0.21730679 0.91979467999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[41]" " -type \"float2\" 0.22545898 0.91714585000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[42]" " -type \"float2\" 0.22856808000000001 0.92324781"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[43]" " -type \"float2\" 0.0026704370999999999 0.72117441999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[44]" " -type \"float2\" 0.063207715999999997 0.72117942999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[45]" " -type \"float2\" 0.030888438000000001 0.94345164000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[46]" " -type \"float2\" 0.17086261999999999 0.94345164000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[47]" " -type \"float2\" 0.17415184 0.95370244999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[48]" " -type \"float2\" 0.17761666000000001 0.96395337999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[49]" " -type \"float2\" 0.20766366 0.92655885000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[50]" " -type \"float2\" 0.20873499000000001 0.91979467999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[51]" " -type \"float2\" 0.17086261999999999 0.83069210999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[52]" " -type \"float2\" 0.030888438000000001 0.83069210999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[53]" " -type \"float2\" 0.17415184 0.82044141999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[54]" " -type \"float2\" 0.17761666000000001 0.81019037999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[55]" " -type \"float2\" 0.23239362 0.91210758999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[56]" " -type \"float2\" 0.23723620000000001 0.91695011000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[57]" " -type \"float2\" 0.21302086000000001 0.89273477000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[58]" " -type \"float2\" 0.063212722999999998 0.66064215000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[59]" " -type \"float2\" 0.013151437 0.68447638"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[60]" " -type \"float2\" 0.030888438000000001 0.93320084000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[61]" " -type \"float2\" 0.17086261999999999 0.93320084000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[62]" " -type \"float2\" 0.17415184 0.94345164000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[63]" " -type \"float2\" 0.17761666000000001 0.95370244999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[64]" " -type \"float2\" 0.1974737 0.92324793000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[65]" " -type \"float2\" 0.20058280000000001 0.91714585000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[66]" " -type \"float2\" 0.17086261999999999 0.84094303999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[67]" " -type \"float2\" 0.030888438000000001 0.84094303999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[68]" " -type \"float2\" 0.17415184 0.83069210999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[69]" " -type \"float2\" 0.17761666000000001 0.82044141999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[70]" " -type \"float2\" 0.237432 0.90517281999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[71]" " -type \"float2\" 0.24353403000000001 0.90828204000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[72]" " -type \"float2\" 0.0026753842999999999 0.66063726"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[73]" " -type \"float2\" 0.053750783000000003 0.69091004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[74]" " -type \"float2\" 0.030888438000000001 0.92294991000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[75]" " -type \"float2\" 0.17086261999999999 0.92294991000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[76]" " -type \"float2\" 0.032943307999999998 0.67009920000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[77]" " -type \"float2\" 0.17415184 0.93320084000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[78]" " -type \"float2\" 0.17761666000000001 0.94345164000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[79]" " -type \"float2\" 0.18880558 0.91695011000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[80]" " -type \"float2\" 0.19364816000000001 0.91210747000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[81]" " -type \"float2\" 0.17086261999999999 0.85119396000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[82]" " -type \"float2\" 0.030888438000000001 0.85119396000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[83]" " -type \"float2\" 0.17415184 0.84094303999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[84]" " -type \"float2\" 0.17761666000000001 0.83069210999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[85]" " -type \"float2\" 0.24008077 0.8970207"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[86]" " -type \"float2\" 0.24684489000000001 0.89809203000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[87]" " -type \"float2\" 0.016107619 0.67867564999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[88]" " -type \"float2\" 0.030888438000000001 0.91758430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[89]" " -type \"float2\" 0.17086261999999999 0.91758430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[90]" " -type \"float2\" 0.17415184 0.92294991000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[91]" " -type \"float2\" 0.049777597 0.67867838999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[92]" " -type \"float2\" 0.02071166 0.67407238000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[93]" " -type \"float2\" 0.030888438000000001 0.91269898000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[94]" " -type \"float2\" 0.17086261999999999 0.91269898000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[95]" " -type \"float2\" 0.17761666000000001 0.93320084000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[96]" " -type \"float2\" 0.18250780999999999 0.90828204000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[97]" " -type \"float2\" 0.18860978 0.90517281999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[98]" " -type \"float2\" 0.17086261999999999 0.86144489000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[99]" " -type \"float2\" 0.030888438000000001 0.86144489000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[100]" " -type \"float2\" 0.17415184 0.85119396000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[101]" " -type \"float2\" 0.17761666000000001 0.84094303999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[102]" " -type \"float2\" 0.24008077 0.88844889000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[103]" " -type \"float2\" 0.24684489000000001 0.88737756000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[104]" " -type \"float2\" 0.045171559 0.70774429999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[105]" " -type \"float2\" 0.17415184 0.91758430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[106]" " -type \"float2\" 0.17761666000000001 0.92294991000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[107]" " -type \"float2\" 0.039373635999999997 0.6711182"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[108]" " -type \"float2\" 0.039370387999999999 0.71069956000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[109]" " -type \"float2\" 0.030888438000000001 0.90781367000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[110]" " -type \"float2\" 0.17086261999999999 0.90781367000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[111]" " -type \"float2\" 0.17415184 0.91269898000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[112]" " -type \"float2\" 0.17919683 0.89809203000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[113]" " -type \"float2\" 0.18596095000000001 0.8970207"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[114]" " -type \"float2\" 0.17086261999999999 0.87169569999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[115]" " -type \"float2\" 0.030888438000000001 0.87169569999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[116]" " -type \"float2\" 0.17415184 0.86144489000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[117]" " -type \"float2\" 0.17761666000000001 0.85119396000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[118]" " -type \"float2\" 0.23743206 0.88029670999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[119]" " -type \"float2\" 0.24353396999999999 0.87718766999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[120]" " -type \"float2\" 0.026512831000000001 0.67111719000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[121]" " -type \"float2\" 0.17761666000000001 0.91758430000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[122]" " -type \"float2\" 0.17919683 0.88737761999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[123]" " -type \"float2\" 0.18596101000000001 0.88844895000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[124]" " -type \"float2\" 0.030888438000000001 0.90244818000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[125]" " -type \"float2\" 0.030888438000000001 0.89219736999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[126]" " -type \"float2\" 0.17086261999999999 0.89219736999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[127]" " -type \"float2\" 0.17086261999999999 0.90244818000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[128]" " -type \"float2\" 0.17415184 0.90781367000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[129]" " -type \"float2\" 0.17761666000000001 0.91269898000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[130]" " -type \"float2\" 0.17086261999999999 0.88194644"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[131]" " -type \"float2\" 0.030888438000000001 0.88194644"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[132]" " -type \"float2\" 0.17415184 0.87169569999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[133]" " -type \"float2\" 0.17761666000000001 0.86144489000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[134]" " -type \"float2\" 0.23239362 0.873362"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[135]" " -type \"float2\" 0.23723620000000001 0.86851937000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[136]" " -type \"float2\" 0.18092985 0.88204389999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[137]" " -type \"float2\" 0.1873475 0.88418191999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[138]" " -type \"float2\" 0.20012482000000001 0.89069222999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[139]" " -type \"float2\" 0.17415184 0.89219736999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[140]" " -type \"float2\" 0.17415184 0.90244818000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[141]" " -type \"float2\" 0.17761666000000001 0.90781367000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[142]" " -type \"float2\" 0.18250775 0.87718755000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[143]" " -type \"float2\" 0.1886099 0.88029676999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[144]" " -type \"float2\" 0.17415184 0.88194644"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[145]" " -type \"float2\" 0.17761666000000001 0.87169569999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[146]" " -type \"float2\" 0.22545898 0.86832368000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[147]" " -type \"float2\" 0.22856808000000001 0.86222171999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[148]" " -type \"float2\" 0.17761666000000001 0.89219736999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[149]" " -type \"float2\" 0.17761666000000001 0.90244818000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[150]" " -type \"float2\" 0.18550915000000001 0.87305659000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[151]" " -type \"float2\" 0.19101095000000001 0.87699187000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[152]" " -type \"float2\" 0.17761666000000001 0.88194644"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[153]" " -type \"float2\" 0.21730673 0.86567490999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[154]" " -type \"float2\" 0.21837813 0.85891086000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[155]" " -type \"float2\" 0.20378826999999999 0.88350218999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[156]" " -type \"float2\" 0.19747365 0.86222160000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[157]" " -type \"float2\" 0.20058286 0.86832368000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[158]" " -type \"float2\" 0.19364803999999999 0.873362"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[159]" " -type \"float2\" 0.18880558 0.86851948000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[160]" " -type \"float2\" 0.20873499000000001 0.86567485"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[161]" " -type \"float2\" 0.20766366 0.85891086000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[162]" " -type \"float2\" 0.013595104 0.51710772999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[163]" " -type \"float2\" 0.074628413000000005 0.51706827"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[164]" " -type \"float2\" 0.074510485000000001 0.52065223000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[165]" " -type \"float2\" 0.072432220000000005 0.52282673000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[166]" " -type \"float2\" 0.015815138999999999 0.52287859000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[167]" " -type \"float2\" 0.013730078999999999 0.52070342999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[168]" " -type \"float2\" 0.12560818000000001 0.71032344999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[169]" " -type \"float2\" 0.065070838000000006 0.71032947000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[170]" " -type \"float2\" 0.065064638999999994 0.64979231000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[171]" " -type \"float2\" 0.12560198 0.64978623000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[172]" " -type \"float2\" 0.077202857 0.52052396999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[173]" " -type \"float2\" 0.074602663999999999 0.52498984000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[174]" " -type \"float2\" 0.013644755 0.52505493000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[175]" " -type \"float2\" 0.011041611 0.52059792999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[176]" " -type \"float2\" 0.15935424000000001 0.51712798999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[177]" " -type \"float2\" 0.15925624999999999 0.52071690999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[178]" " -type \"float2\" 0.098535209999999998 0.52078795"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[179]" " -type \"float2\" 0.098422378000000005 0.51718872999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[180]" " -type \"float2\" 0.17176905000000001 0.51663256000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[181]" " -type \"float2\" 0.23230633000000001 0.51663904999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[182]" " -type \"float2\" 0.23230597 0.52023463999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[183]" " -type \"float2\" 0.17176858 0.52022815"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[184]" " -type \"float2\" 0.23273441 0.63842248999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[185]" " -type \"float2\" 0.23633012 0.63842319999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[186]" " -type \"float2\" 0.23631938999999999 0.69896035999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[187]" " -type \"float2\" 0.23272380000000001 0.69895976999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[188]" " -type \"float2\" 0.078239201999999994 0.51796531999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[189]" " -type \"float2\" 0.077448159000000003 0.52469659000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[190]" " -type \"float2\" 0.013890593999999999 0.52974438999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[191]" " -type \"float2\" 0.010796905000000001 0.52473974000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[192]" " -type \"float2\" 0.0099807679999999992 0.51803863000000006"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[193]" " -type \"float2\" 0.15938105999999999 0.52477538999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[194]" " -type \"float2\" 0.098412483999999995 0.52483564999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[195]" " -type \"float2\" 0.095847516999999993 0.52058846000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[196]" " -type \"float2\" 0.16194381999999999 0.52050465000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[197]" " -type \"float2\" 0.094798297000000004 0.51803403999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[198]" " -type \"float2\" 0.2323055 0.52429104000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[199]" " -type \"float2\" 0.17176822 0.52428459999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[200]" " -type \"float2\" 0.24038646 0.63842379999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[201]" " -type \"float2\" 0.24037573000000001 0.69896108000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[202]" " -type \"float2\" 0.16297010000000001 0.51795005999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[203]" " -type \"float2\" 0.081985145999999995 0.51965386000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[204]" " -type \"float2\" 0.080850661000000004 0.52223240999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[205]" " -type \"float2\" 0.077564269000000005 0.52583586999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[206]" " -type \"float2\" 0.074365437000000006 0.52970748999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[207]" " -type \"float2\" 0.01068297 0.52585976999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[208]" " -type \"float2\" 0.0073867738000000004 0.52230251000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[209]" " -type \"float2\" 0.0062652528000000001 0.51973844000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[210]" " -type \"float2\" 0.15914717 0.52946329000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[211]" " -type \"float2\" 0.098663002 0.52955454999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[212]" " -type \"float2\" 0.095571904999999999 0.52462315999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[213]" " -type \"float2\" 0.16222872999999999 0.52456873999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[214]" " -type \"float2\" 0.092183798999999997 0.52224844999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[215]" " -type \"float2\" 0.091071158999999999 0.51969659000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[216]" " -type \"float2\" 0.23230502 0.52900440000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[217]" " -type \"float2\" 0.17176762000000001 0.52899801999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[218]" " -type \"float2\" 0.24509998999999999 0.63842463000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[219]" " -type \"float2\" 0.24508920000000001 0.69896197000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[220]" " -type \"float2\" 0.16672364000000001 0.51959080000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[221]" " -type \"float2\" 0.16560628999999999 0.52216267999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[222]" " -type \"float2\" 0.084520577999999999 0.52475207999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[223]" " -type \"float2\" 0.085589677000000003 0.52951937999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[224]" " -type \"float2\" 0.081903904999999999 0.52574646000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[225]" " -type \"float2\" 0.077946692999999997 0.52970898"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[226]" " -type \"float2\" 0.081995635999999997 0.52965110999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[227]" " -type \"float2\" 0.074390173000000004 0.63556093000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[228]" " -type \"float2\" 0.013893813 0.63555139000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[229]" " -type \"float2\" 0.010309488 0.52975576999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[230]" " -type \"float2\" 0.0062649250000000002 0.52968574000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[231]" " -type \"float2\" 0.0063486992999999999 0.52582680999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[232]" " -type \"float2\" 0.0037371814000000001 0.52482181999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[233]" " -type \"float2\" 0.0026781559000000001 0.52955823999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[234]" " -type \"float2\" 0.15929607000000001 0.63529038000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[235]" " -type \"float2\" 0.098811835000000001 0.63538158"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[236]" " -type \"float2\" 0.095450431000000002 0.52566223999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[237]" " -type \"float2\" 0.16234139 0.52559990000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[238]" " -type \"float2\" 0.088499634999999993 0.5246442"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[239]" " -type \"float2\" 0.091113895 0.52564310999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[240]" " -type \"float2\" 0.087450832000000006 0.52938258999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[241]" " -type \"float2\" 0.23229369999999999 0.63484125999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[242]" " -type \"float2\" 0.17175641999999999 0.63483489000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[243]" " -type \"float2\" 0.23181732999999999 0.74245262000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[244]" " -type \"float2\" 0.17128018 0.74244200999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[245]" " -type \"float2\" 0.17129853 0.63660519999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[246]" " -type \"float2\" 0.23183593 0.63661568999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[247]" " -type \"float2\" 0.16929390999999999 0.52449822000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[248]" " -type \"float2\" 0.17037084999999999 0.52926308"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[249]" " -type \"float2\" 0.16667965000000001 0.52549773"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[250]" " -type \"float2\" 0.077971101000000001 0.63555163000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[251]" " -type \"float2\" 0.082015425000000003 0.63562160999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[252]" " -type \"float2\" 0.074631453 0.64028090000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[253]" " -type \"float2\" 0.013650894 0.64023834000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[254]" " -type \"float2\" 0.010312557 0.63554697999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[255]" " -type \"float2\" 0.0062635243 0.63560379"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[256]" " -type \"float2\" 0.16272822000000001 0.52946258000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[257]" " -type \"float2\" 0.16287710999999999 0.63527619999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[258]" " -type \"float2\" 0.15954676000000001 0.64000922000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[259]" " -type \"float2\" 0.098578125000000003 0.64006943000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[260]" " -type \"float2\" 0.095230967 0.63538229000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[261]" " -type \"float2\" 0.095082133999999999 0.52956873000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[262]" " -type \"float2\" 0.091037541999999999 0.52950423999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[263]" " -type \"float2\" 0.16677703999999999 0.52939992999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[264]" " -type \"float2\" 0.091182023000000001 0.63544493999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[265]" " -type \"float2\" 0.087588340000000001 0.63558185"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[266]" " -type \"float2\" 0.0026691853999999998 0.73353988000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[267]" " -type \"float2\" 0.0026697814000000001 0.72882645999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[268]" " -type \"float2\" 0.063207 0.72883134999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[269]" " -type \"float2\" 0.063206643000000007 0.73354489"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[270]" " -type \"float2\" 0.085602163999999994 0.63574814999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[271]" " -type \"float2\" 0.17050841 0.63546228000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[272]" " -type \"float2\" 0.16692153000000001 0.63534069000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[273]" " -type \"float2\" 0.0026694238 0.63573539000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[274]" " -type \"float2\" 0.063213437999999997 0.64827681000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[275]" " -type \"float2\" 0.063213198999999998 0.65299021999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[276]" " -type \"float2\" 0.0026759803000000002 0.65298522000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[277]" " -type \"float2\" 0.0026763379999999999 0.64827179999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[278]" " -type \"float2\" 0.077596098000000002 0.63945823999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[279]" " -type \"float2\" 0.081933290000000006 0.63948302999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[280]" " -type \"float2\" 0.074499606999999995 0.64432895000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[281]" " -type \"float2\" 0.013766766 0.64429687999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[282]" " -type \"float2\" 0.010692447000000001 0.63940984000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[283]" " -type \"float2\" 0.0063547789999999996 0.63950580000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[284]" " -type \"float2\" 0.16250876 0.63918262999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[285]" " -type \"float2\" 0.15942397999999999 0.64405703999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[286]" " -type \"float2\" 0.098702817999999998 0.64412796000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[287]" " -type \"float2\" 0.095617681999999996 0.63924497000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[288]" " -type \"float2\" 0.091279535999999994 0.63934701999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[289]" " -type \"float2\" 0.088665277000000001 0.64034659000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[290]" " -type \"float2\" 0.0026700794999999999 0.72477013000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[291]" " -type \"float2\" 0.063207238999999998 0.72477502000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[292]" " -type \"float2\" 0.084546357000000003 0.64048547"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[293]" " -type \"float2\" 0.16684523000000001 0.63920169999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[294]" " -type \"float2\" 0.063212960999999998 0.65704655999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[295]" " -type \"float2\" 0.0026756823000000001 0.65704154999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[296]" " -type \"float2\" 0.16945948999999999 0.64020067000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[297]" " -type \"float2\" 0.0037388503999999999 0.64050143999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[298]" " -type \"float2\" 0.077471553999999998 0.64049988999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[299]" " -type \"float2\" 0.080854504999999993 0.64288235000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[300]" " -type \"float2\" 0.077186911999999996 0.64453435000000003"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[301]" " -type \"float2\" 0.074604540999999996 0.64792870999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[302]" " -type \"float2\" 0.013660937999999999 0.64788562000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[303]" " -type \"float2\" 0.011078744999999999 0.64450335999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[304]" " -type \"float2\" 0.010802776 0.64043861999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[305]" " -type \"float2\" 0.0074197352000000003 0.64283716999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[306]" " -type \"float2\" 0.16238727999999999 0.64022177000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[307]" " -type \"float2\" 0.16211167000000001 0.64425646999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[308]" " -type \"float2\" 0.15953687 0.64765620000000002"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[309]" " -type \"float2\" 0.098604888000000002 0.647717"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[310]" " -type \"float2\" 0.096015424000000002 0.64434027999999999"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[311]" " -type \"float2\" 0.095730513000000003 0.64027613000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[312]" " -type \"float2\" 0.091235489000000003 0.64525407999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[313]" " -type \"float2\" 0.092352777999999996 0.64268219000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[314]" " -type \"float2\" 0.094989270000000001 0.64689474999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[315]" " -type \"float2\" 0.0026704370999999999 0.72117441999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[316]" " -type \"float2\" 0.063207715999999997 0.72117942999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[317]" " -type \"float2\" 0.081961513 0.64543669999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[318]" " -type \"float2\" 0.078230590000000003 0.64709108999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[319]" " -type \"float2\" 0.063212722999999998 0.66064215000000004"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[320]" " -type \"float2\" 0.0026753842999999999 0.66063726"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[321]" " -type \"float2\" 0.16688802999999999 0.64514822000000005"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[322]" " -type \"float2\" 0.16316095 0.64681082999999995"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[323]" " -type \"float2\" 0.16577544999999999 0.64259635999999998"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[324]" " -type \"float2\" 0.0062968433000000004 0.64540653999999997"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[325]" " -type \"float2\" 0.010046869999999999 0.64705568999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[326]" " -type \"float2\" 0.026509583 0.71069848999999996"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[327]" " -type \"float2\" 0.045174329999999999 0.67407441000000001"
+		
+		2 "|Polish289:Polish|Polish289:PolishShape" "uvSet[0].uvSetPoints[328]" " -type \"float2\" 0.052731812000000003 0.69734037000000004";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN72";
+	rename -uid "15D40DE1-42CB-FAB0-1A3E-8D9F54C5B7B0";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN72"
+		"Polish69RN72" 0
+		"Polish69RN72" 3
+		2 "|Polish290:Polish" "translate" " -type \"double3\" 691.51966724325927771 356.98973032283964812 121.0553436279296875"
+		
+		2 "|Polish290:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish290:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN73";
+	rename -uid "38566569-48DC-D3B9-F2F6-4D858E5A7D51";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN73"
+		"Polish69RN73" 0
+		"Polish69RN73" 3
+		2 "|Polish291:Polish" "translate" " -type \"double3\" 691.51966724325927771 351.27198405859479635 121.0553436279296875"
+		
+		2 "|Polish291:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish291:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN74";
+	rename -uid "790DD465-42E7-BDF5-9573-CC9FFD700491";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN74"
+		"Polish69RN74" 0
+		"Polish69RN74" 3
+		2 "|Polish292:Polish" "translate" " -type \"double3\" 691.51966724325927771 345.39215296953994994 121.0553436279296875"
+		
+		2 "|Polish292:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish292:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN75";
+	rename -uid "835F28BD-45BF-7F80-A9C2-379BC05617B3";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN75"
+		"Polish69RN75" 0
+		"Polish69RN75" 3
+		2 "|Polish293:Polish" "translate" " -type \"double3\" 691.51966724325927771 339.67499995198136276 121.0553436279296875"
+		
+		2 "|Polish293:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish293:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN76";
+	rename -uid "568D3E3B-4417-FB65-5EB0-3C9EE2FD4435";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN76"
+		"Polish69RN76" 0
+		"Polish69RN76" 3
+		2 "|Polish294:Polish" "translate" " -type \"double3\" 691.51966724325927771 334.193774609278762 121.0553436279296875"
+		
+		2 "|Polish294:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish294:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN77";
+	rename -uid "8698D3CC-4284-9AA6-8F71-5095E31C694F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN77"
+		"Polish69RN77" 0
+		"Polish69RN77" 3
+		2 "|Polish295:Polish" "translate" " -type \"double3\" 691.51966724325927771 328.2789153457052862 121.0553436279296875"
+		
+		2 "|Polish295:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish295:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN78";
+	rename -uid "6F715C56-4B42-B936-2A46-C785D3CE7460";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN78"
+		"Polish69RN78" 0
+		"Polish69RN78" 3
+		2 "|Polish296:Polish" "translate" " -type \"double3\" 691.51966724325927771 323.04524153199906777 121.0553436279296875"
+		
+		2 "|Polish296:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish296:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN79";
+	rename -uid "919A77FF-4D5B-FDB0-3D41-6F89CA3E1B7C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN79"
+		"Polish69RN79" 0
+		"Polish69RN79" 3
+		2 "|Polish297:Polish" "translate" " -type \"double3\" 691.51966724325927771 317.45396457303718307 121.0553436279296875"
+		
+		2 "|Polish297:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish297:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN80";
+	rename -uid "DBEAB96E-446B-4DA2-3C89-7ABED4850EA3";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN80"
+		"Polish69RN80" 0
+		"Polish69RN80" 3
+		2 "|Polish298:Polish" "translate" " -type \"double3\" 691.51966724325927771 311.90884257419344294 121.0553436279296875"
+		
+		2 "|Polish298:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish298:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN81";
+	rename -uid "1C2EBC1F-439D-4F2C-FE54-5A836EA713B1";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN81"
+		"Polish69RN81" 0
+		"Polish69RN81" 3
+		2 "|Polish299:Polish" "translate" " -type \"double3\" 691.51966724325927771 305.95917711977381259 121.0553436279296875"
+		
+		2 "|Polish299:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish299:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN82";
+	rename -uid "95E80FBD-4505-C91E-2FE1-F39FC1DBC51C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN82"
+		"Polish69RN82" 0
+		"Polish69RN82" 3
+		2 "|Polish300:Polish" "translate" " -type \"double3\" 691.51966724325927771 300.43959346202791494 121.0553436279296875"
+		
+		2 "|Polish300:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish300:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN83";
+	rename -uid "BB6D9559-4CBB-6471-E6F3-CDAD24FDBDB0";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN83"
+		"Polish69RN83" 0
+		"Polish69RN83" 3
+		2 "|Polish301:Polish" "translate" " -type \"double3\" 691.51966724325927771 294.61118310461699821 121.0553436279296875"
+		
+		2 "|Polish301:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish301:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN84";
+	rename -uid "15C913CA-421D-CBAC-09A1-1F9DACD3035C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN84"
+		"Polish69RN84" 0
+		"Polish69RN84" 3
+		2 "|Polish302:Polish" "translate" " -type \"double3\" 691.51966724325927771 288.28112157120909842 121.0553436279296875"
+		
+		2 "|Polish302:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish302:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN85";
+	rename -uid "AA819F0E-4E9F-B2E3-36CC-1DABF971349A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN85"
+		"Polish69RN85" 0
+		"Polish69RN85" 334
+		2 "|Polish303:Polish" "translate" " -type \"double3\" 700.11274043345326845 363.32987492729574797 121.0553436279296875"
+		
+		2 "|Polish303:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish303:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvPivot" " -type \"double2\" 0.12796448425829532 0.63362252712249756"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[0]" " -type \"float2\" 0.024788781999999999 0.71182221000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[1]" " -type \"float2\" 0.053855493999999997 0.70722090999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[2]" " -type \"float2\" 0.056812748000000003 0.68855946999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[3]" " -type \"float2\" 0.020185515000000001 0.70721816999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[4]" " -type \"float2\" 0.030888438000000001 0.98445510999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[5]" " -type \"float2\" 0.17086261999999999 0.98445510999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[6]" " -type \"float2\" 0.17086261999999999 0.99470592000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[7]" " -type \"float2\" 0.030888438000000001 0.99470592000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[8]" " -type \"float2\" 0.018638656 0.70418172999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[9]" " -type \"float2\" 0.017230256999999999 0.70141703"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[10]" " -type \"float2\" 0.030888438000000001 0.97420430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[11]" " -type \"float2\" 0.17086261999999999 0.97420430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[12]" " -type \"float2\" 0.030888438000000001 0.78968864999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[13]" " -type \"float2\" 0.17086261999999999 0.78968877000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[14]" " -type \"float2\" 0.17086261999999999 0.79993957000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[15]" " -type \"float2\" 0.030888438000000001 0.79993957000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[16]" " -type \"float2\" 0.17415541000000001 0.98445510999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[17]" " -type \"float2\" 0.17423052 0.99470592000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[18]" " -type \"float2\" 0.016745135000000001 0.69835245999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[19]" " -type \"float2\" 0.037019804000000003 0.71579742000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[20]" " -type \"float2\" 0.030888438000000001 0.96395337999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[21]" " -type \"float2\" 0.17086261999999999 0.96395337999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[22]" " -type \"float2\" 0.17415195999999999 0.97420430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[23]" " -type \"float2\" 0.17086261999999999 0.81019037999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[24]" " -type \"float2\" 0.030888438000000001 0.81019037999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[25]" " -type \"float2\" 0.17423052 0.78968877000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[26]" " -type \"float2\" 0.17415541000000001 0.79993957000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[27]" " -type \"float2\" 0.17761666000000001 0.98445510999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[28]" " -type \"float2\" 0.17761666000000001 0.99470592000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[29]" " -type \"float2\" 0.016212329000000001 0.69498658000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[30]" " -type \"float2\" 0.030888438000000001 0.95370244999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[31]" " -type \"float2\" 0.17086261999999999 0.95370244999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[32]" " -type \"float2\" 0.17415184 0.96395337999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[33]" " -type \"float2\" 0.17761666000000001 0.97420430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[34]" " -type \"float2\" 0.17086261999999999 0.82044141999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[35]" " -type \"float2\" 0.030888438000000001 0.82044141999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[36]" " -type \"float2\" 0.17415195999999999 0.81019037999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[37]" " -type \"float2\" 0.17761666000000001 0.78968864999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[38]" " -type \"float2\" 0.17761666000000001 0.79993957000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[39]" " -type \"float2\" 0.21837807000000001 0.92655885000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[40]" " -type \"float2\" 0.21730679 0.91979467999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[41]" " -type \"float2\" 0.22545898 0.91714585000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[42]" " -type \"float2\" 0.22856808000000001 0.92324781"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[43]" " -type \"float2\" 0.0067503303000000002 0.72525430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[44]" " -type \"float2\" 0.067287608999999998 0.72525930000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[45]" " -type \"float2\" 0.030888438000000001 0.94345164000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[46]" " -type \"float2\" 0.17086261999999999 0.94345164000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[47]" " -type \"float2\" 0.17415184 0.95370244999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[48]" " -type \"float2\" 0.17761666000000001 0.96395337999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[49]" " -type \"float2\" 0.20766366 0.92655885000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[50]" " -type \"float2\" 0.20873499000000001 0.91979467999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[51]" " -type \"float2\" 0.17086261999999999 0.83069210999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[52]" " -type \"float2\" 0.030888438000000001 0.83069210999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[53]" " -type \"float2\" 0.17415184 0.82044141999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[54]" " -type \"float2\" 0.17761666000000001 0.81019037999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[55]" " -type \"float2\" 0.23239362 0.91210758999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[56]" " -type \"float2\" 0.23723620000000001 0.91695011000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[57]" " -type \"float2\" 0.21302086000000001 0.89273477000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[58]" " -type \"float2\" 0.067292616 0.66472207999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[59]" " -type \"float2\" 0.01723133 0.68855624999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[60]" " -type \"float2\" 0.030888438000000001 0.93320084000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[61]" " -type \"float2\" 0.17086261999999999 0.93320084000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[62]" " -type \"float2\" 0.17415184 0.94345164000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[63]" " -type \"float2\" 0.17761666000000001 0.95370244999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[64]" " -type \"float2\" 0.1974737 0.92324793000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[65]" " -type \"float2\" 0.20058280000000001 0.91714585000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[66]" " -type \"float2\" 0.17086261999999999 0.84094303999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[67]" " -type \"float2\" 0.030888438000000001 0.84094303999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[68]" " -type \"float2\" 0.17415184 0.83069210999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[69]" " -type \"float2\" 0.17761666000000001 0.82044141999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[70]" " -type \"float2\" 0.237432 0.90517281999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[71]" " -type \"float2\" 0.24353403000000001 0.90828204000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[72]" " -type \"float2\" 0.0067552775000000002 0.66471714000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[73]" " -type \"float2\" 0.057830675999999998 0.69498992000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[74]" " -type \"float2\" 0.030888438000000001 0.92294991000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[75]" " -type \"float2\" 0.17086261999999999 0.92294991000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[76]" " -type \"float2\" 0.037023201999999998 0.67417908000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[77]" " -type \"float2\" 0.17415184 0.93320084000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[78]" " -type \"float2\" 0.17761666000000001 0.94345164000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[79]" " -type \"float2\" 0.18880558 0.91695011000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[80]" " -type \"float2\" 0.19364816000000001 0.91210747000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[81]" " -type \"float2\" 0.17086261999999999 0.85119396000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[82]" " -type \"float2\" 0.030888438000000001 0.85119396000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[83]" " -type \"float2\" 0.17415184 0.84094303999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[84]" " -type \"float2\" 0.17761666000000001 0.83069210999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[85]" " -type \"float2\" 0.24008077 0.8970207"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[86]" " -type \"float2\" 0.24684489000000001 0.89809203000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[87]" " -type \"float2\" 0.020187512000000001 0.68275558999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[88]" " -type \"float2\" 0.030888438000000001 0.91758430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[89]" " -type \"float2\" 0.17086261999999999 0.91758430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[90]" " -type \"float2\" 0.17415184 0.92294991000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[91]" " -type \"float2\" 0.053857490000000001 0.68275832999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[92]" " -type \"float2\" 0.024791554 0.67815232000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[93]" " -type \"float2\" 0.030888438000000001 0.91269898000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[94]" " -type \"float2\" 0.17086261999999999 0.91269898000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[95]" " -type \"float2\" 0.17761666000000001 0.93320084000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[96]" " -type \"float2\" 0.18250780999999999 0.90828204000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[97]" " -type \"float2\" 0.18860978 0.90517281999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[98]" " -type \"float2\" 0.17086261999999999 0.86144489000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[99]" " -type \"float2\" 0.030888438000000001 0.86144489000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[100]" " -type \"float2\" 0.17415184 0.85119396000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[101]" " -type \"float2\" 0.17761666000000001 0.84094303999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[102]" " -type \"float2\" 0.24008077 0.88844889000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[103]" " -type \"float2\" 0.24684489000000001 0.88737756000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[104]" " -type \"float2\" 0.049251452000000001 0.71182418000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[105]" " -type \"float2\" 0.17415184 0.91758430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[106]" " -type \"float2\" 0.17761666000000001 0.92294991000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[107]" " -type \"float2\" 0.043453528999999998 0.67519808000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[108]" " -type \"float2\" 0.043450281 0.71477950000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[109]" " -type \"float2\" 0.030888438000000001 0.90781367000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[110]" " -type \"float2\" 0.17086261999999999 0.90781367000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[111]" " -type \"float2\" 0.17415184 0.91269898000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[112]" " -type \"float2\" 0.17919683 0.89809203000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[113]" " -type \"float2\" 0.18596095000000001 0.8970207"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[114]" " -type \"float2\" 0.17086261999999999 0.87169569999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[115]" " -type \"float2\" 0.030888438000000001 0.87169569999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[116]" " -type \"float2\" 0.17415184 0.86144489000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[117]" " -type \"float2\" 0.17761666000000001 0.85119396000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[118]" " -type \"float2\" 0.23743206 0.88029670999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[119]" " -type \"float2\" 0.24353396999999999 0.87718766999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[120]" " -type \"float2\" 0.030592725000000001 0.67519706000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[121]" " -type \"float2\" 0.17761666000000001 0.91758430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[122]" " -type \"float2\" 0.17919683 0.88737761999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[123]" " -type \"float2\" 0.18596101000000001 0.88844895000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[124]" " -type \"float2\" 0.030888438000000001 0.90244818000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[125]" " -type \"float2\" 0.030888438000000001 0.89219736999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[126]" " -type \"float2\" 0.17086261999999999 0.89219736999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[127]" " -type \"float2\" 0.17086261999999999 0.90244818000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[128]" " -type \"float2\" 0.17415184 0.90781367000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[129]" " -type \"float2\" 0.17761666000000001 0.91269898000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[130]" " -type \"float2\" 0.17086261999999999 0.88194644"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[131]" " -type \"float2\" 0.030888438000000001 0.88194644"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[132]" " -type \"float2\" 0.17415184 0.87169569999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[133]" " -type \"float2\" 0.17761666000000001 0.86144489000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[134]" " -type \"float2\" 0.23239362 0.873362"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[135]" " -type \"float2\" 0.23723620000000001 0.86851937000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[136]" " -type \"float2\" 0.18092985 0.88204389999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[137]" " -type \"float2\" 0.1873475 0.88418191999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[138]" " -type \"float2\" 0.20012482000000001 0.89069222999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[139]" " -type \"float2\" 0.17415184 0.89219736999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[140]" " -type \"float2\" 0.17415184 0.90244818000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[141]" " -type \"float2\" 0.17761666000000001 0.90781367000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[142]" " -type \"float2\" 0.18250775 0.87718755000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[143]" " -type \"float2\" 0.1886099 0.88029676999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[144]" " -type \"float2\" 0.17415184 0.88194644"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[145]" " -type \"float2\" 0.17761666000000001 0.87169569999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[146]" " -type \"float2\" 0.22545898 0.86832368000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[147]" " -type \"float2\" 0.22856808000000001 0.86222171999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[148]" " -type \"float2\" 0.17761666000000001 0.89219736999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[149]" " -type \"float2\" 0.17761666000000001 0.90244818000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[150]" " -type \"float2\" 0.18550915000000001 0.87305659000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[151]" " -type \"float2\" 0.19101095000000001 0.87699187000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[152]" " -type \"float2\" 0.17761666000000001 0.88194644"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[153]" " -type \"float2\" 0.21730673 0.86567490999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[154]" " -type \"float2\" 0.21837813 0.85891086000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[155]" " -type \"float2\" 0.20378826999999999 0.88350218999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[156]" " -type \"float2\" 0.19747365 0.86222160000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[157]" " -type \"float2\" 0.20058286 0.86832368000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[158]" " -type \"float2\" 0.19364803999999999 0.873362"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[159]" " -type \"float2\" 0.18880558 0.86851948000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[160]" " -type \"float2\" 0.20873499000000001 0.86567485"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[161]" " -type \"float2\" 0.20766366 0.85891086000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[162]" " -type \"float2\" 0.017674997000000001 0.52118766000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[163]" " -type \"float2\" 0.078708306000000006 0.52114819999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[164]" " -type \"float2\" 0.078590378000000002 0.52473210999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[165]" " -type \"float2\" 0.076512113000000007 0.52690661000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[166]" " -type \"float2\" 0.019895032 0.52695846999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[167]" " -type \"float2\" 0.017809972 0.52478336999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[168]" " -type \"float2\" 0.12968806999999999 0.71440338999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[169]" " -type \"float2\" 0.069150730999999993 0.71440935000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[170]" " -type \"float2\" 0.069144531999999995 0.65387225000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[171]" " -type \"float2\" 0.12968187 0.65386610999999994"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[172]" " -type \"float2\" 0.081282750000000001 0.52460384000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[173]" " -type \"float2\" 0.078682557 0.52906978000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[174]" " -type \"float2\" 0.017724647999999999 0.52913487000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[175]" " -type \"float2\" 0.015121505 0.52467786999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[176]" " -type \"float2\" 0.16343413000000001 0.52120792999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[177]" " -type \"float2\" 0.16333613999999999 0.52479684000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[178]" " -type \"float2\" 0.1026151 0.52486789"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[179]" " -type \"float2\" 0.10250227000000001 0.52126861000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[180]" " -type \"float2\" 0.17584895 0.52071248999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[181]" " -type \"float2\" 0.23638622000000001 0.52071893000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[182]" " -type \"float2\" 0.23638587 0.52431452000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[183]" " -type \"float2\" 0.17584847000000001 0.52430809"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[184]" " -type \"float2\" 0.23681431 0.64250242999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[185]" " -type \"float2\" 0.24041001000000001 0.64250308"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[186]" " -type \"float2\" 0.24039928999999999 0.70304023999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[187]" " -type \"float2\" 0.23680370000000001 0.70303965000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[188]" " -type \"float2\" 0.082319095999999994 0.52204525000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[189]" " -type \"float2\" 0.081528053000000003 0.52877653000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[190]" " -type \"float2\" 0.017970487 0.53382432000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[191]" " -type \"float2\" 0.014876798 0.52881968000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[192]" " -type \"float2\" 0.014060661 0.52211856999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[193]" " -type \"float2\" 0.16346095999999999 0.52885532000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[194]" " -type \"float2\" 0.10249237999999999 0.52891551999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[195]" " -type \"float2\" 0.099927409999999994 0.52466833999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[196]" " -type \"float2\" 0.16602372000000001 0.52458453000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[197]" " -type \"float2\" 0.098878190000000005 0.52211392000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[198]" " -type \"float2\" 0.23638539 0.52837098000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[199]" " -type \"float2\" 0.17584811 0.52836453999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[200]" " -type \"float2\" 0.24446635 0.64250373999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[201]" " -type \"float2\" 0.24445562000000001 0.70304096000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[202]" " -type \"float2\" 0.16704999000000001 0.52203"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[203]" " -type \"float2\" 0.086065038999999996 0.52373373999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[204]" " -type \"float2\" 0.084930554000000005 0.52631234999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[205]" " -type \"float2\" 0.081644163000000006 0.52991580999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[206]" " -type \"float2\" 0.078445329999999994 0.53378736999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[207]" " -type \"float2\" 0.014762864000000001 0.52993964999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[208]" " -type \"float2\" 0.011466667 0.52638244999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[209]" " -type \"float2\" 0.010345146 0.52381836999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[210]" " -type \"float2\" 0.16322707 0.53354323000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[211]" " -type \"float2\" 0.1027429 0.53363442000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[212]" " -type \"float2\" 0.099651798999999999 0.52870309000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[213]" " -type \"float2\" 0.16630863000000001 0.52864860999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[214]" " -type \"float2\" 0.096263691999999998 0.52632833000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[215]" " -type \"float2\" 0.095151052 0.52377653000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[216]" " -type \"float2\" 0.23638491 0.53308427000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[217]" " -type \"float2\" 0.17584752000000001 0.53307795999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[218]" " -type \"float2\" 0.24917987999999999 0.64250457000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[219]" " -type \"float2\" 0.2491691 0.70304191000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[220]" " -type \"float2\" 0.17080353000000001 0.52367067"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[221]" " -type \"float2\" 0.16968617999999999 0.52624261000000006"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[222]" " -type \"float2\" 0.088600472 0.52883195999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[223]" " -type \"float2\" 0.089669570000000004 0.53359926000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[224]" " -type \"float2\" 0.085983798 0.52982640000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[225]" " -type \"float2\" 0.082026585999999999 0.53378892"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[226]" " -type \"float2\" 0.086075528999999998 0.53373097999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[227]" " -type \"float2\" 0.078470066000000005 0.63964080999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[228]" " -type \"float2\" 0.017973705999999999 0.63963126999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[229]" " -type \"float2\" 0.014389381 0.53383564999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[230]" " -type \"float2\" 0.010344818 0.53376566999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[231]" " -type \"float2\" 0.010428593 0.52990674999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[232]" " -type \"float2\" 0.0078170746999999992 0.52890170000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[233]" " -type \"float2\" 0.0067580490999999999 0.53363811999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[234]" " -type \"float2\" 0.16337595999999999 0.63937032000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[235]" " -type \"float2\" 0.10289173 0.63946152000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[236]" " -type \"float2\" 0.099530324000000003 0.52974211999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[237]" " -type \"float2\" 0.16642128 0.52967978000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[238]" " -type \"float2\" 0.092579528999999994 0.52872406999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[239]" " -type \"float2\" 0.095193788000000001 0.52972304999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[240]" " -type \"float2\" 0.091530724999999993 0.53346245999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[241]" " -type \"float2\" 0.23637358999999999 0.63892114"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[242]" " -type \"float2\" 0.17583631 0.63891481999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[243]" " -type \"float2\" 0.23589723000000001 0.74653256000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[244]" " -type \"float2\" 0.17536007000000001 0.74652194999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[245]" " -type \"float2\" 0.17537843 0.64068508000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[246]" " -type \"float2\" 0.23591582 0.64069556999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[247]" " -type \"float2\" 0.17337379999999999 0.52857816000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[248]" " -type \"float2\" 0.17445073999999999 0.53334296000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[249]" " -type \"float2\" 0.17075953999999999 0.52957761000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[250]" " -type \"float2\" 0.082050994000000002 0.63963150999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[251]" " -type \"float2\" 0.086095318000000004 0.63970148999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[252]" " -type \"float2\" 0.078711346000000001 0.64436077999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[253]" " -type \"float2\" 0.017730787000000001 0.64431822000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[254]" " -type \"float2\" 0.014392449999999999 0.63962686000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[255]" " -type \"float2\" 0.010343418 0.63968371999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[256]" " -type \"float2\" 0.16680811000000001 0.53354250999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[257]" " -type \"float2\" 0.16695700999999999 0.63935613999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[258]" " -type \"float2\" 0.16362666000000001 0.64408909999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[259]" " -type \"float2\" 0.10265802 0.64414930000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[260]" " -type \"float2\" 0.099310860000000001 0.63946223000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[261]" " -type \"float2\" 0.099162027 0.53364860999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[262]" " -type \"float2\" 0.095117435 0.53358412"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[263]" " -type \"float2\" 0.17085694000000001 0.53347981"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[264]" " -type \"float2\" 0.095261917000000002 0.63952481999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[265]" " -type \"float2\" 0.091668233000000002 0.63966179000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[266]" " -type \"float2\" 0.0067490785999999997 0.73761975999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[267]" " -type \"float2\" 0.0067496746999999996 0.73290633999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[268]" " -type \"float2\" 0.067286894 0.73291123000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[269]" " -type \"float2\" 0.067286535999999994 0.73762475999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[270]" " -type \"float2\" 0.089682056999999996 0.63982808999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[271]" " -type \"float2\" 0.17458831 0.63954222000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[272]" " -type \"float2\" 0.17100141999999999 0.63942056999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[273]" " -type \"float2\" 0.0067493170000000003 0.63981533000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[274]" " -type \"float2\" 0.067293330999999998 0.65235668000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[275]" " -type \"float2\" 0.067293092999999998 0.65707009999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[276]" " -type \"float2\" 0.0067558736000000001 0.65706514999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[277]" " -type \"float2\" 0.0067562311999999998 0.65235173999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[278]" " -type \"float2\" 0.081675991000000003 0.64353811999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[279]" " -type \"float2\" 0.086013182999999993 0.64356290999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[280]" " -type \"float2\" 0.078579499999999997 0.64840889000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[281]" " -type \"float2\" 0.017846659000000001 0.64837676"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[282]" " -type \"float2\" 0.014772341 0.64348972000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[283]" " -type \"float2\" 0.010434672000000001 0.64358568000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[284]" " -type \"float2\" 0.16658865 0.64326251000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[285]" " -type \"float2\" 0.16350387 0.64813690999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[286]" " -type \"float2\" 0.10278271 0.64820789999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[287]" " -type \"float2\" 0.099697574999999997 0.64332484999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[288]" " -type \"float2\" 0.095359429999999995 0.64342690000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[289]" " -type \"float2\" 0.092745170000000002 0.64442646999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[290]" " -type \"float2\" 0.0067499726999999997 0.72885001000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[291]" " -type \"float2\" 0.067287131999999999 0.72885489000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[292]" " -type \"float2\" 0.088626251000000003 0.64456533999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[293]" " -type \"float2\" 0.17092513000000001 0.64328158000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[294]" " -type \"float2\" 0.067292853999999999 0.66112649000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[295]" " -type \"float2\" 0.0067555755000000004 0.66112148999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[296]" " -type \"float2\" 0.17353938999999999 0.64428054999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[297]" " -type \"float2\" 0.0078187436000000006 0.64458132000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[298]" " -type \"float2\" 0.081551447999999999 0.64457977"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[299]" " -type \"float2\" 0.084934398999999994 0.64696229000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[300]" " -type \"float2\" 0.081266805999999997 0.64861422999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[301]" " -type \"float2\" 0.078684433999999998 0.65200859"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[302]" " -type \"float2\" 0.017740830999999999 0.65196549999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[303]" " -type \"float2\" 0.015158638 0.64858322999999996"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[304]" " -type \"float2\" 0.014882668999999999 0.64451849000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[305]" " -type \"float2\" 0.011499628 0.64691710000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[306]" " -type \"float2\" 0.16646717 0.64430164999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[307]" " -type \"float2\" 0.16619155999999999 0.64833635000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[308]" " -type \"float2\" 0.16361676 0.65173608000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[309]" " -type \"float2\" 0.10268478 0.65179688000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[310]" " -type \"float2\" 0.10009532 0.64842016000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[311]" " -type \"float2\" 0.099810407000000004 0.64435600999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[312]" " -type \"float2\" 0.095315382000000004 0.64933395000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[313]" " -type \"float2\" 0.096432670999999998 0.64676213000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[314]" " -type \"float2\" 0.099069163000000002 0.65097463"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[315]" " -type \"float2\" 0.0067503303000000002 0.72525430000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[316]" " -type \"float2\" 0.067287608999999998 0.72525930000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[317]" " -type \"float2\" 0.086041406000000001 0.64951658000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[318]" " -type \"float2\" 0.082310483000000004 0.65117097000000002"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[319]" " -type \"float2\" 0.067292616 0.66472207999999999"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[320]" " -type \"float2\" 0.0067552775000000002 0.66471714000000004"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[321]" " -type \"float2\" 0.17096792 0.64922809999999997"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[322]" " -type \"float2\" 0.16724084 0.65089070999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[323]" " -type \"float2\" 0.16985533999999999 0.64667629999999998"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[324]" " -type \"float2\" 0.010376737 0.64948642000000001"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[325]" " -type \"float2\" 0.014126763000000001 0.65113555999999995"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[326]" " -type \"float2\" 0.030589476000000001 0.71477842000000003"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[327]" " -type \"float2\" 0.049254223999999999 0.67815429000000005"
+		
+		2 "|Polish303:Polish|Polish303:PolishShape" "uvSet[0].uvSetPoints[328]" " -type \"float2\" 0.056811704999999997 0.70142024999999997";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN86";
+	rename -uid "B2728610-422B-E369-6DA1-AC88AFF44256";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN86"
+		"Polish69RN86" 0
+		"Polish69RN86" 3
+		2 "|Polish304:Polish" "translate" " -type \"double3\" 700.11274043345304108 356.98973032283964812 121.0553436279296875"
+		
+		2 "|Polish304:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish304:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN87";
+	rename -uid "EA86D7AC-4AF4-A0F0-B2B3-E0BD57847CC5";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN87"
+		"Polish69RN87" 0
+		"Polish69RN87" 3
+		2 "|Polish305:Polish" "translate" " -type \"double3\" 700.11274043345304108 351.27198405859479635 121.0553436279296875"
+		
+		2 "|Polish305:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish305:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN88";
+	rename -uid "7410AC21-4D8D-D386-D21B-72B99DB93DDF";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN88"
+		"Polish69RN88" 0
+		"Polish69RN88" 3
+		2 "|Polish306:Polish" "translate" " -type \"double3\" 700.11274043345304108 345.39215296953994994 121.0553436279296875"
+		
+		2 "|Polish306:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish306:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN89";
+	rename -uid "77AAD97B-4F70-3FBD-6F6D-CBA311E30CB1";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN89"
+		"Polish69RN89" 0
+		"Polish69RN89" 3
+		2 "|Polish307:Polish" "translate" " -type \"double3\" 700.11274043345304108 339.67499995198136276 121.0553436279296875"
+		
+		2 "|Polish307:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish307:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN90";
+	rename -uid "F6015377-4870-DA1C-CC9E-E999035BAA70";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN90"
+		"Polish69RN90" 0
+		"Polish69RN90" 3
+		2 "|Polish308:Polish" "translate" " -type \"double3\" 700.11274043345304108 334.193774609278762 121.0553436279296875"
+		
+		2 "|Polish308:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish308:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN91";
+	rename -uid "C14138B5-4649-84B9-318A-788E17EF210E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN91"
+		"Polish69RN91" 0
+		"Polish69RN91" 3
+		2 "|Polish309:Polish" "translate" " -type \"double3\" 700.11274043345304108 328.2789153457052862 121.0553436279296875"
+		
+		2 "|Polish309:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish309:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN92";
+	rename -uid "54517862-443C-873D-AE45-06BB9E92C44A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN92"
+		"Polish69RN92" 0
+		"Polish69RN92" 3
+		2 "|Polish310:Polish" "translate" " -type \"double3\" 700.11274043345304108 323.04524153199906777 121.0553436279296875"
+		
+		2 "|Polish310:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish310:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN93";
+	rename -uid "BDA69448-4280-4A88-E5A8-CC8A8C79528E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN93"
+		"Polish69RN93" 0
+		"Polish69RN93" 3
+		2 "|Polish311:Polish" "translate" " -type \"double3\" 700.11274043345304108 317.45396457303718307 121.0553436279296875"
+		
+		2 "|Polish311:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish311:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN94";
+	rename -uid "A34CF56E-4D8C-01B7-C23A-209587465E26";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN94"
+		"Polish69RN94" 0
+		"Polish69RN94" 3
+		2 "|Polish312:Polish" "translate" " -type \"double3\" 700.11274043345304108 311.90884257419344294 121.0553436279296875"
+		
+		2 "|Polish312:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish312:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN95";
+	rename -uid "2E9A9F66-4509-016F-00D5-5F989AF790EC";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN95"
+		"Polish69RN95" 0
+		"Polish69RN95" 3
+		2 "|Polish313:Polish" "translate" " -type \"double3\" 700.11274043345304108 305.95917711977381259 121.0553436279296875"
+		
+		2 "|Polish313:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish313:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN96";
+	rename -uid "3B027FAA-411D-4AA5-03BA-2E9332CB6F94";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN96"
+		"Polish69RN96" 0
+		"Polish69RN96" 3
+		2 "|Polish314:Polish" "translate" " -type \"double3\" 700.11274043345304108 300.43959346202791494 121.0553436279296875"
+		
+		2 "|Polish314:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish314:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN97";
+	rename -uid "C82C0AAB-4073-0D41-E85C-BEB0344AAE0F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN97"
+		"Polish69RN97" 0
+		"Polish69RN97" 3
+		2 "|Polish315:Polish" "translate" " -type \"double3\" 700.11274043345304108 294.61118310461699821 121.0553436279296875"
+		
+		2 "|Polish315:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish315:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN98";
+	rename -uid "13B814AF-45DF-46F2-19A1-6D9E2D2DB5FE";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN98"
+		"Polish69RN98" 0
+		"Polish69RN98" 3
+		2 "|Polish316:Polish" "translate" " -type \"double3\" 700.11274043345304108 288.28112157120909842 121.0553436279296875"
+		
+		2 "|Polish316:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish316:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN99";
+	rename -uid "544287F1-4D72-C709-8B95-ADBC64D52660";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN99"
+		"Polish69RN99" 0
+		"Polish69RN99" 334
+		2 "|Polish317:Polish" "translate" " -type \"double3\" 709.21452633712488023 363.32987492729574797 121.0553436279296875"
+		
+		2 "|Polish317:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish317:Polish" "scale" " -type \"double3\" 1 1 1"
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvPivot" " -type \"double2\" 0.12592453228928624 0.62546268635325963"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints" " -s 329"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[0]" " -type \"float2\" 0.022748827999999999 0.70366240000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[1]" " -type \"float2\" 0.05181554 0.69906115999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[2]" " -type \"float2\" 0.054772794 0.68039965999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[3]" " -type \"float2\" 0.018145561000000001 0.69905841000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[4]" " -type \"float2\" 0.030888438000000001 0.98445510999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[5]" " -type \"float2\" 0.17086261999999999 0.98445510999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[6]" " -type \"float2\" 0.17086261999999999 0.99470592000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[7]" " -type \"float2\" 0.030888438000000001 0.99470592000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[8]" " -type \"float2\" 0.016598701 0.69602191000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[9]" " -type \"float2\" 0.015190303 0.69325720999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[10]" " -type \"float2\" 0.030888438000000001 0.97420430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[11]" " -type \"float2\" 0.17086261999999999 0.97420430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[12]" " -type \"float2\" 0.030888438000000001 0.78968864999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[13]" " -type \"float2\" 0.17086261999999999 0.78968877000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[14]" " -type \"float2\" 0.17086261999999999 0.79993957000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[15]" " -type \"float2\" 0.030888438000000001 0.79993957000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[16]" " -type \"float2\" 0.17415541000000001 0.98445510999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[17]" " -type \"float2\" 0.17423052 0.99470592000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[18]" " -type \"float2\" 0.014705180999999999 0.69019258000000006"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[19]" " -type \"float2\" 0.03497985 0.70763754999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[20]" " -type \"float2\" 0.030888438000000001 0.96395337999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[21]" " -type \"float2\" 0.17086261999999999 0.96395337999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[22]" " -type \"float2\" 0.17415195999999999 0.97420430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[23]" " -type \"float2\" 0.17086261999999999 0.81019037999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[24]" " -type \"float2\" 0.030888438000000001 0.81019037999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[25]" " -type \"float2\" 0.17423052 0.78968877000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[26]" " -type \"float2\" 0.17415541000000001 0.79993957000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[27]" " -type \"float2\" 0.17761666000000001 0.98445510999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[28]" " -type \"float2\" 0.17761666000000001 0.99470592000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[29]" " -type \"float2\" 0.014172374999999999 0.68682670999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[30]" " -type \"float2\" 0.030888438000000001 0.95370244999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[31]" " -type \"float2\" 0.17086261999999999 0.95370244999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[32]" " -type \"float2\" 0.17415184 0.96395337999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[33]" " -type \"float2\" 0.17761666000000001 0.97420430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[34]" " -type \"float2\" 0.17086261999999999 0.82044141999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[35]" " -type \"float2\" 0.030888438000000001 0.82044141999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[36]" " -type \"float2\" 0.17415195999999999 0.81019037999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[37]" " -type \"float2\" 0.17761666000000001 0.78968864999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[38]" " -type \"float2\" 0.17761666000000001 0.79993957000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[39]" " -type \"float2\" 0.21837807000000001 0.92655885000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[40]" " -type \"float2\" 0.21730679 0.91979467999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[41]" " -type \"float2\" 0.22545898 0.91714585000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[42]" " -type \"float2\" 0.22856808000000001 0.92324781"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[43]" " -type \"float2\" 0.0047103763000000002 0.71709453999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[44]" " -type \"float2\" 0.065247655000000002 0.71709955000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[45]" " -type \"float2\" 0.030888438000000001 0.94345164000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[46]" " -type \"float2\" 0.17086261999999999 0.94345164000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[47]" " -type \"float2\" 0.17415184 0.95370244999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[48]" " -type \"float2\" 0.17761666000000001 0.96395337999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[49]" " -type \"float2\" 0.20766366 0.92655885000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[50]" " -type \"float2\" 0.20873499000000001 0.91979467999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[51]" " -type \"float2\" 0.17086261999999999 0.83069210999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[52]" " -type \"float2\" 0.030888438000000001 0.83069210999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[53]" " -type \"float2\" 0.17415184 0.82044141999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[54]" " -type \"float2\" 0.17761666000000001 0.81019037999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[55]" " -type \"float2\" 0.23239362 0.91210758999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[56]" " -type \"float2\" 0.23723620000000001 0.91695011000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[57]" " -type \"float2\" 0.21302086000000001 0.89273477000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[58]" " -type \"float2\" 0.065252662000000003 0.65656227"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[59]" " -type \"float2\" 0.015191375999999999 0.68039643999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[60]" " -type \"float2\" 0.030888438000000001 0.93320084000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[61]" " -type \"float2\" 0.17086261999999999 0.93320084000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[62]" " -type \"float2\" 0.17415184 0.94345164000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[63]" " -type \"float2\" 0.17761666000000001 0.95370244999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[64]" " -type \"float2\" 0.1974737 0.92324793000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[65]" " -type \"float2\" 0.20058280000000001 0.91714585000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[66]" " -type \"float2\" 0.17086261999999999 0.84094303999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[67]" " -type \"float2\" 0.030888438000000001 0.84094303999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[68]" " -type \"float2\" 0.17415184 0.83069210999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[69]" " -type \"float2\" 0.17761666000000001 0.82044141999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[70]" " -type \"float2\" 0.237432 0.90517281999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[71]" " -type \"float2\" 0.24353403000000001 0.90828204000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[72]" " -type \"float2\" 0.0047153233999999997 0.65655732"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[73]" " -type \"float2\" 0.055790722000000001 0.68683015999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[74]" " -type \"float2\" 0.030888438000000001 0.92294991000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[75]" " -type \"float2\" 0.17086261999999999 0.92294991000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[76]" " -type \"float2\" 0.034983248000000002 0.66601931999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[77]" " -type \"float2\" 0.17415184 0.93320084000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[78]" " -type \"float2\" 0.17761666000000001 0.94345164000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[79]" " -type \"float2\" 0.18880558 0.91695011000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[80]" " -type \"float2\" 0.19364816000000001 0.91210747000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[81]" " -type \"float2\" 0.17086261999999999 0.85119396000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[82]" " -type \"float2\" 0.030888438000000001 0.85119396000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[83]" " -type \"float2\" 0.17415184 0.84094303999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[84]" " -type \"float2\" 0.17761666000000001 0.83069210999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[85]" " -type \"float2\" 0.24008077 0.8970207"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[86]" " -type \"float2\" 0.24684489000000001 0.89809203000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[87]" " -type \"float2\" 0.018147558000000001 0.67459570999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[88]" " -type \"float2\" 0.030888438000000001 0.91758430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[89]" " -type \"float2\" 0.17086261999999999 0.91758430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[90]" " -type \"float2\" 0.17415184 0.92294991000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[91]" " -type \"float2\" 0.051817535999999997 0.67459846000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[92]" " -type \"float2\" 0.0227516 0.66999244999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[93]" " -type \"float2\" 0.030888438000000001 0.91269898000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[94]" " -type \"float2\" 0.17086261999999999 0.91269898000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[95]" " -type \"float2\" 0.17761666000000001 0.93320084000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[96]" " -type \"float2\" 0.18250780999999999 0.90828204000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[97]" " -type \"float2\" 0.18860978 0.90517281999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[98]" " -type \"float2\" 0.17086261999999999 0.86144489000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[99]" " -type \"float2\" 0.030888438000000001 0.86144489000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[100]" " -type \"float2\" 0.17415184 0.85119396000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[101]" " -type \"float2\" 0.17761666000000001 0.84094303999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[102]" " -type \"float2\" 0.24008077 0.88844889000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[103]" " -type \"float2\" 0.24684489000000001 0.88737756000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[104]" " -type \"float2\" 0.047211497999999998 0.70366441999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[105]" " -type \"float2\" 0.17415184 0.91758430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[106]" " -type \"float2\" 0.17761666000000001 0.92294991000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[107]" " -type \"float2\" 0.041413575000000001 0.66703831999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[108]" " -type \"float2\" 0.041410326999999997 0.70661962"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[109]" " -type \"float2\" 0.030888438000000001 0.90781367000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[110]" " -type \"float2\" 0.17086261999999999 0.90781367000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[111]" " -type \"float2\" 0.17415184 0.91269898000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[112]" " -type \"float2\" 0.17919683 0.89809203000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[113]" " -type \"float2\" 0.18596095000000001 0.8970207"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[114]" " -type \"float2\" 0.17086261999999999 0.87169569999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[115]" " -type \"float2\" 0.030888438000000001 0.87169569999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[116]" " -type \"float2\" 0.17415184 0.86144489000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[117]" " -type \"float2\" 0.17761666000000001 0.85119396000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[118]" " -type \"float2\" 0.23743206 0.88029670999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[119]" " -type \"float2\" 0.24353396999999999 0.87718766999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[120]" " -type \"float2\" 0.028552771000000001 0.66703725000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[121]" " -type \"float2\" 0.17761666000000001 0.91758430000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[122]" " -type \"float2\" 0.17919683 0.88737761999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[123]" " -type \"float2\" 0.18596101000000001 0.88844895000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[124]" " -type \"float2\" 0.030888438000000001 0.90244818000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[125]" " -type \"float2\" 0.030888438000000001 0.89219736999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[126]" " -type \"float2\" 0.17086261999999999 0.89219736999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[127]" " -type \"float2\" 0.17086261999999999 0.90244818000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[128]" " -type \"float2\" 0.17415184 0.90781367000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[129]" " -type \"float2\" 0.17761666000000001 0.91269898000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[130]" " -type \"float2\" 0.17086261999999999 0.88194644"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[131]" " -type \"float2\" 0.030888438000000001 0.88194644"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[132]" " -type \"float2\" 0.17415184 0.87169569999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[133]" " -type \"float2\" 0.17761666000000001 0.86144489000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[134]" " -type \"float2\" 0.23239362 0.873362"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[135]" " -type \"float2\" 0.23723620000000001 0.86851937000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[136]" " -type \"float2\" 0.18092985 0.88204389999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[137]" " -type \"float2\" 0.1873475 0.88418191999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[138]" " -type \"float2\" 0.20012482000000001 0.89069222999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[139]" " -type \"float2\" 0.17415184 0.89219736999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[140]" " -type \"float2\" 0.17415184 0.90244818000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[141]" " -type \"float2\" 0.17761666000000001 0.90781367000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[142]" " -type \"float2\" 0.18250775 0.87718755000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[143]" " -type \"float2\" 0.1886099 0.88029676999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[144]" " -type \"float2\" 0.17415184 0.88194644"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[145]" " -type \"float2\" 0.17761666000000001 0.87169569999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[146]" " -type \"float2\" 0.22545898 0.86832368000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[147]" " -type \"float2\" 0.22856808000000001 0.86222171999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[148]" " -type \"float2\" 0.17761666000000001 0.89219736999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[149]" " -type \"float2\" 0.17761666000000001 0.90244818000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[150]" " -type \"float2\" 0.18550915000000001 0.87305659000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[151]" " -type \"float2\" 0.19101095000000001 0.87699187000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[152]" " -type \"float2\" 0.17761666000000001 0.88194644"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[153]" " -type \"float2\" 0.21730673 0.86567490999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[154]" " -type \"float2\" 0.21837813 0.85891086000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[155]" " -type \"float2\" 0.20378826999999999 0.88350218999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[156]" " -type \"float2\" 0.19747365 0.86222160000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[157]" " -type \"float2\" 0.20058286 0.86832368000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[158]" " -type \"float2\" 0.19364803999999999 0.873362"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[159]" " -type \"float2\" 0.18880558 0.86851948000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[160]" " -type \"float2\" 0.20873499000000001 0.86567485"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[161]" " -type \"float2\" 0.20766366 0.85891086000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[162]" " -type \"float2\" 0.015635043000000001 0.51302778999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[163]" " -type \"float2\" 0.076668351999999995 0.51298832999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[164]" " -type \"float2\" 0.076550424000000006 0.51657235999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[165]" " -type \"float2\" 0.074472158999999996 0.51874684999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[166]" " -type \"float2\" 0.017855078 0.51879871"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[167]" " -type \"float2\" 0.015770018 0.51662350000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[168]" " -type \"float2\" 0.12764812 0.70624352000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[169]" " -type \"float2\" 0.067110776999999996 0.70624958999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[170]" " -type \"float2\" 0.067104577999999998 0.64571244000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[171]" " -type \"float2\" 0.12764191999999999 0.64570629999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[172]" " -type \"float2\" 0.079242796000000004 0.51644409000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[173]" " -type \"float2\" 0.076642603000000004 0.52090997000000006"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[174]" " -type \"float2\" 0.015684693999999999 0.52097505"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[175]" " -type \"float2\" 0.013081551 0.516518"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[176]" " -type \"float2\" 0.16139418 0.51304804999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[177]" " -type \"float2\" 0.16129619000000001 0.51663696999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[178]" " -type \"float2\" 0.10057515 0.51670802000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[179]" " -type \"float2\" 0.10046231999999999 0.51310884999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[180]" " -type \"float2\" 0.17380899 0.51255262000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[181]" " -type \"float2\" 0.23434627 0.51255918"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[182]" " -type \"float2\" 0.23434590999999999 0.51615476999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[183]" " -type \"float2\" 0.17380851999999999 0.51614821"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[184]" " -type \"float2\" 0.23477434999999999 0.63434261000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[185]" " -type \"float2\" 0.23837005999999999 0.63434327000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[186]" " -type \"float2\" 0.23835933000000001 0.69488048999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[187]" " -type \"float2\" 0.23476374 0.69487988999999994"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[188]" " -type \"float2\" 0.080279141999999998 0.51388537999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[189]" " -type \"float2\" 0.079488099000000006 0.52061665000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[190]" " -type \"float2\" 0.015930533 0.52566444999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[191]" " -type \"float2\" 0.012836844 0.52065980000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[192]" " -type \"float2\" 0.012020707 0.51395869000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[193]" " -type \"float2\" 0.161421 0.52069544999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[194]" " -type \"float2\" 0.10045242 0.52075576999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[195]" " -type \"float2\" 0.097887455999999998 0.51650857999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[196]" " -type \"float2\" 0.16398376000000001 0.51642478000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[197]" " -type \"float2\" 0.096838235999999994 0.51395416000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[198]" " -type \"float2\" 0.23434543999999999 0.52021110000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[199]" " -type \"float2\" 0.17380815999999999 0.52020465999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[200]" " -type \"float2\" 0.24242639999999999 0.63434391999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[201]" " -type \"float2\" 0.24241567 0.69488119999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[202]" " -type \"float2\" 0.16501004 0.51387011999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[203]" " -type \"float2\" 0.084025084999999999 0.51557397999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[204]" " -type \"float2\" 0.082890599999999995 0.51815248000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[205]" " -type \"float2\" 0.079604207999999996 0.52175592999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[206]" " -type \"float2\" 0.076405375999999997 0.52562761000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[207]" " -type \"float2\" 0.012722908999999999 0.52177989000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[208]" " -type \"float2\" 0.0094267129999999998 0.51822257000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[209]" " -type \"float2\" 0.0083051919999999994 0.51565850000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[210]" " -type \"float2\" 0.16118710999999999 0.52538335000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[211]" " -type \"float2\" 0.10070294 0.52547467000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[212]" " -type \"float2\" 0.097611845000000003 0.52054321999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[213]" " -type \"float2\" 0.16426867000000001 0.52048886000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[214]" " -type \"float2\" 0.094223738000000001 0.51816857000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[215]" " -type \"float2\" 0.093111098000000003 0.51561665999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[216]" " -type \"float2\" 0.23434495999999999 0.52492452000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[217]" " -type \"float2\" 0.17380756 0.52491807999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[218]" " -type \"float2\" 0.24713993000000001 0.63434475999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[219]" " -type \"float2\" 0.24712914 0.69488203999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[220]" " -type \"float2\" 0.16876358 0.51551091999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[221]" " -type \"float2\" 0.16764623000000001 0.51808273999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[222]" " -type \"float2\" 0.086560518000000003 0.52067220000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[223]" " -type \"float2\" 0.087629615999999994 0.52543949999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[224]" " -type \"float2\" 0.083943844000000004 0.52166652999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[225]" " -type \"float2\" 0.079986632000000002 0.52562903999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[226]" " -type \"float2\" 0.084035575000000001 0.52557122999999994"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[227]" " -type \"float2\" 0.076430111999999994 0.63148104999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[228]" " -type \"float2\" 0.015933751999999999 0.63147151000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[229]" " -type \"float2\" 0.012349427 0.52567589000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[230]" " -type \"float2\" 0.0083048641999999995 0.52560580000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[231]" " -type \"float2\" 0.0083886385000000001 0.52174686999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[232]" " -type \"float2\" 0.0057771206000000004 0.52074193999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[233]" " -type \"float2\" 0.0047180950999999999 0.52547836000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[234]" " -type \"float2\" 0.161336 0.63121050999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[235]" " -type \"float2\" 0.10085176999999999 0.63130164"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[236]" " -type \"float2\" 0.097490370000000007 0.52158236999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[237]" " -type \"float2\" 0.16438132999999999 0.52152001999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[238]" " -type \"float2\" 0.090539574999999997 0.52056431999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[239]" " -type \"float2\" 0.093153834000000005 0.52156316999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[240]" " -type \"float2\" 0.089490770999999997 0.52530264999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[241]" " -type \"float2\" 0.23433362999999999 0.63076138000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[242]" " -type \"float2\" 0.17379636000000001 0.63075495000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[243]" " -type \"float2\" 0.23385727000000001 0.73837268"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[244]" " -type \"float2\" 0.17332011 0.73836206999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[245]" " -type \"float2\" 0.17333846999999999 0.63252531999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[246]" " -type \"float2\" 0.23387587000000001 0.63253581999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[247]" " -type \"float2\" 0.17133385000000001 0.52041828999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[248]" " -type \"float2\" 0.17241079000000001 0.52518319999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[249]" " -type \"float2\" 0.16871959 0.52141786000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[250]" " -type \"float2\" 0.080011040000000005 0.63147175"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[251]" " -type \"float2\" 0.084055363999999994 0.63154173000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[252]" " -type \"float2\" 0.076671392000000005 0.63620102000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[253]" " -type \"float2\" 0.015690833000000001 0.63615847000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[254]" " -type \"float2\" 0.012352495999999999 0.63146709999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[255]" " -type \"float2\" 0.0083034635000000002 0.63152385"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[256]" " -type \"float2\" 0.16476816 0.52538264000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[257]" " -type \"float2\" 0.16491705000000001 0.63119632000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[258]" " -type \"float2\" 0.1615867 0.63592934999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[259]" " -type \"float2\" 0.10061806 0.63598955000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[260]" " -type \"float2\" 0.097270906000000004 0.63130235999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[261]" " -type \"float2\" 0.097122073000000003 0.52548885000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[262]" " -type \"float2\" 0.093077481000000004 0.52542436000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[263]" " -type \"float2\" 0.16881698000000001 0.52532005000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[264]" " -type \"float2\" 0.093221962000000005 0.63136506000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[265]" " -type \"float2\" 0.089628279000000005 0.63150191"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[266]" " -type \"float2\" 0.0047091245999999996 0.72946"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[267]" " -type \"float2\" 0.0047097205999999999 0.72474658000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[268]" " -type \"float2\" 0.065246940000000003 0.72475146999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[269]" " -type \"float2\" 0.065246581999999997 0.72946500999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[270]" " -type \"float2\" 0.087642102999999999 0.63166820999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[271]" " -type \"float2\" 0.17254834999999999 0.63138234999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[272]" " -type \"float2\" 0.16896147 0.63126075000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[273]" " -type \"float2\" 0.0047093630000000003 0.63165545000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[274]" " -type \"float2\" 0.065253377000000001 0.64419687000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[275]" " -type \"float2\" 0.065253139000000002 0.64891027999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[276]" " -type \"float2\" 0.0047159194999999996 0.64890534"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[277]" " -type \"float2\" 0.0047162771000000001 0.64419192000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[278]" " -type \"float2\" 0.079636037000000007 0.63537836000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[279]" " -type \"float2\" 0.083973228999999996 0.63540315999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[280]" " -type \"float2\" 0.076539546 0.64024906999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[281]" " -type \"float2\" 0.015806705000000001 0.64021695000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[282]" " -type \"float2\" 0.012732387 0.63532995999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[283]" " -type \"float2\" 0.0083947181999999999 0.63542593000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[284]" " -type \"float2\" 0.16454869999999999 0.63510275000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[285]" " -type \"float2\" 0.16146392000000001 0.63997709999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[286]" " -type \"float2\" 0.10074276 0.64004808999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[287]" " -type \"float2\" 0.097657621 0.63516510000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[288]" " -type \"float2\" 0.093319475999999998 0.63526713999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[289]" " -type \"float2\" 0.090705216000000005 0.63626671000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[290]" " -type \"float2\" 0.0047100186 0.72069024999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[291]" " -type \"float2\" 0.065247178000000003 0.72069514000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[292]" " -type \"float2\" 0.086586297000000007 0.63640558999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[293]" " -type \"float2\" 0.16888517 0.63512181999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[294]" " -type \"float2\" 0.065252900000000003 0.65296662000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[295]" " -type \"float2\" 0.0047156215000000003 0.65296160999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[296]" " -type \"float2\" 0.17149943000000001 0.63612080000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[297]" " -type \"float2\" 0.0057787895000000001 0.63642156000000005"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[298]" " -type \"float2\" 0.079511493000000003 0.63642001000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[299]" " -type \"float2\" 0.082894443999999998 0.63880247000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[300]" " -type \"float2\" 0.079226851000000001 0.64045441000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[301]" " -type \"float2\" 0.076644480000000001 0.64384878000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[302]" " -type \"float2\" 0.015700876999999999 0.64380574000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[303]" " -type \"float2\" 0.013118684 0.64042341999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[304]" " -type \"float2\" 0.012842714999999999 0.63635874000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[305]" " -type \"float2\" 0.0094596743999999996 0.63875729000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[306]" " -type \"float2\" 0.16442722000000001 0.63614190000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[307]" " -type \"float2\" 0.16415161 0.64017652999999997"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[308]" " -type \"float2\" 0.16157680999999999 0.64357626000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[309]" " -type \"float2\" 0.10064483 0.64363705999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[310]" " -type \"float2\" 0.098055363000000006 0.64026033999999998"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[311]" " -type \"float2\" 0.097770451999999994 0.63619625999999996"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[312]" " -type \"float2\" 0.093275427999999994 0.64117420000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[313]" " -type \"float2\" 0.094392717000000001 0.63860231999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[314]" " -type \"float2\" 0.097029209000000005 0.64281487000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[315]" " -type \"float2\" 0.0047103763000000002 0.71709453999999995"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[316]" " -type \"float2\" 0.065247655000000002 0.71709955000000003"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[317]" " -type \"float2\" 0.084001452000000004 0.64135682999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[318]" " -type \"float2\" 0.080270528999999993 0.64301121000000006"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[319]" " -type \"float2\" 0.065252662000000003 0.65656227"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[320]" " -type \"float2\" 0.0047153233999999997 0.65655732"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[321]" " -type \"float2\" 0.16892797000000001 0.64106834000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[322]" " -type \"float2\" 0.16520088999999999 0.64273095000000002"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[323]" " -type \"float2\" 0.16781539000000001 0.63851648999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[324]" " -type \"float2\" 0.0083367825000000007 0.64132666999999999"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[325]" " -type \"float2\" 0.012086809 0.64297581000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[326]" " -type \"float2\" 0.028549522000000001 0.70661861000000004"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[327]" " -type \"float2\" 0.047214270000000003 0.66999447000000001"
+		
+		2 "|Polish317:Polish|Polish317:PolishShape" "uvSet[0].uvSetPoints[328]" " -type \"float2\" 0.054771751 0.69326043000000004";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN100";
+	rename -uid "73DC8693-40E7-4B9E-71DA-AFB7BD59D0B2";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN100"
+		"Polish69RN100" 0
+		"Polish69RN100" 3
+		2 "|Polish318:Polish" "translate" " -type \"double3\" 709.21452633712465285 356.98973032283964812 121.0553436279296875"
+		
+		2 "|Polish318:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish318:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN101";
+	rename -uid "85C2AA28-4616-F78F-24E5-E1A10F855FFC";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN101"
+		"Polish69RN101" 0
+		"Polish69RN101" 3
+		2 "|Polish319:Polish" "translate" " -type \"double3\" 709.21452633712465285 351.27198405859479635 121.0553436279296875"
+		
+		2 "|Polish319:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish319:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN102";
+	rename -uid "C5A96FD4-411E-CE49-5FDF-C791E0D58E0B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN102"
+		"Polish69RN102" 0
+		"Polish69RN102" 3
+		2 "|Polish320:Polish" "translate" " -type \"double3\" 709.21452633712465285 345.39215296953994994 121.0553436279296875"
+		
+		2 "|Polish320:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish320:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN103";
+	rename -uid "406C0094-4818-D2A6-0A6A-688F4A62E91F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN103"
+		"Polish69RN103" 0
+		"Polish69RN103" 3
+		2 "|Polish321:Polish" "translate" " -type \"double3\" 709.21452633712465285 339.67499995198136276 121.0553436279296875"
+		
+		2 "|Polish321:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish321:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN104";
+	rename -uid "7B96A4EA-4281-9F19-EE46-2BB8808755F7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN104"
+		"Polish69RN104" 0
+		"Polish69RN104" 3
+		2 "|Polish322:Polish" "translate" " -type \"double3\" 709.21452633712465285 334.193774609278762 121.0553436279296875"
+		
+		2 "|Polish322:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish322:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN105";
+	rename -uid "C5E6E603-42D2-F13D-138D-9083A18B73E8";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN105"
+		"Polish69RN105" 0
+		"Polish69RN105" 3
+		2 "|Polish323:Polish" "translate" " -type \"double3\" 709.21452633712465285 328.2789153457052862 121.0553436279296875"
+		
+		2 "|Polish323:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish323:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN106";
+	rename -uid "C6ABDB52-4C49-5645-FE09-6993E0713CC0";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN106"
+		"Polish69RN106" 0
+		"Polish69RN106" 3
+		2 "|Polish324:Polish" "translate" " -type \"double3\" 709.21452633712465285 323.04524153199906777 121.0553436279296875"
+		
+		2 "|Polish324:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish324:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN107";
+	rename -uid "158A19E7-413E-A1F9-7F47-C6B5E1F285D6";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN107"
+		"Polish69RN107" 0
+		"Polish69RN107" 3
+		2 "|Polish325:Polish" "translate" " -type \"double3\" 709.21452633712465285 317.45396457303718307 121.0553436279296875"
+		
+		2 "|Polish325:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish325:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN108";
+	rename -uid "F6F9BD1B-4F8C-0C74-363B-66850B5ECD48";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN108"
+		"Polish69RN108" 0
+		"Polish69RN108" 3
+		2 "|Polish326:Polish" "translate" " -type \"double3\" 709.21452633712465285 311.90884257419344294 121.0553436279296875"
+		
+		2 "|Polish326:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish326:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN109";
+	rename -uid "2FA7BB8A-4F3E-7675-24A0-C39ADA0490C9";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN109"
+		"Polish69RN109" 0
+		"Polish69RN109" 3
+		2 "|Polish327:Polish" "translate" " -type \"double3\" 709.21452633712465285 305.95917711977381259 121.0553436279296875"
+		
+		2 "|Polish327:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish327:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN110";
+	rename -uid "84916B35-41E9-D208-7EAE-5AA9594B1FE7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN110"
+		"Polish69RN110" 0
+		"Polish69RN110" 3
+		2 "|Polish328:Polish" "translate" " -type \"double3\" 709.21452633712465285 300.43959346202791494 121.0553436279296875"
+		
+		2 "|Polish328:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish328:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN111";
+	rename -uid "0F53D691-4F4E-DF9F-FA7F-BA84E1B70B14";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN111"
+		"Polish69RN111" 0
+		"Polish69RN111" 3
+		2 "|Polish329:Polish" "translate" " -type \"double3\" 709.21452633712465285 294.61118310461699821 121.0553436279296875"
+		
+		2 "|Polish329:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish329:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN112";
+	rename -uid "4CA0EE61-45BE-D51D-B0BE-97BCA5D8A68E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN112"
+		"Polish69RN112" 0
+		"Polish69RN112" 3
+		2 "|Polish330:Polish" "translate" " -type \"double3\" 709.21452633712465285 288.28112157120909842 121.0553436279296875"
+		
+		2 "|Polish330:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish330:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN113";
+	rename -uid "AB8281A8-4EBF-7EBF-6614-4492E2206BAF";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN113"
+		"Polish69RN113" 0
+		"Polish69RN113" 3
+		2 "|Polish331:Polish" "translate" " -type \"double3\" 691.51966724325950509 281.97188318756730041 121.0553436279296875"
+		
+		2 "|Polish331:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish331:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN114";
+	rename -uid "8816D1C5-4C52-6BBC-9EB0-BBA820F6085A";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN114"
+		"Polish69RN114" 0
+		"Polish69RN114" 3
+		2 "|Polish332:Polish" "translate" " -type \"double3\" 691.51966724325927771 275.63173858311120057 121.0553436279296875"
+		
+		2 "|Polish332:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish332:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN115";
+	rename -uid "B97010C3-4104-39D6-F07B-5A85B12F4CF4";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN115"
+		"Polish69RN115" 0
+		"Polish69RN115" 3
+		2 "|Polish333:Polish" "translate" " -type \"double3\" 691.51966724325927771 269.9139923188663488 121.0553436279296875"
+		
+		2 "|Polish333:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish333:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN116";
+	rename -uid "EB3749DB-4C87-496F-E225-2180E9419287";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN116"
+		"Polish69RN116" 0
+		"Polish69RN116" 3
+		2 "|Polish334:Polish" "translate" " -type \"double3\" 691.51966724325927771 264.03416122981150238 121.0553436279296875"
+		
+		2 "|Polish334:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish334:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN117";
+	rename -uid "DA75DA1C-41B0-D4C2-E2BD-FF979690376C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN117"
+		"Polish69RN117" 0
+		"Polish69RN117" 3
+		2 "|Polish335:Polish" "translate" " -type \"double3\" 691.51966724325927771 258.31700821225285836 121.0553436279296875"
+		
+		2 "|Polish335:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish335:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN118";
+	rename -uid "6D8F68CD-45EA-0C15-D63E-9980AE427872";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN118"
+		"Polish69RN118" 0
+		"Polish69RN118" 3
+		2 "|Polish336:Polish" "translate" " -type \"double3\" 691.51966724325927771 252.83578286955028602 121.0553436279296875"
+		
+		2 "|Polish336:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish336:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN119";
+	rename -uid "5E7C62B9-4023-E174-9684-2599B11ADC3F";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN119"
+		"Polish69RN119" 0
+		"Polish69RN119" 3
+		2 "|Polish337:Polish" "translate" " -type \"double3\" 691.51966724325927771 246.92092360597695233 121.0553436279296875"
+		
+		2 "|Polish337:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish337:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN120";
+	rename -uid "104B7584-47C5-D861-D84A-2AA695826883";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN120"
+		"Polish69RN120" 0
+		"Polish69RN120" 3
+		2 "|Polish338:Polish" "translate" " -type \"double3\" 691.51966724325927771 241.68724979227081917 121.0553436279296875"
+		
+		2 "|Polish338:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish338:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN121";
+	rename -uid "26813CE7-4F51-E1A6-B51F-9DB79D48C0B1";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN121"
+		"Polish69RN121" 0
+		"Polish69RN121" 3
+		2 "|Polish339:Polish" "translate" " -type \"double3\" 691.51966724325927771 236.09597283330893447 121.0553436279296875"
+		
+		2 "|Polish339:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish339:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN122";
+	rename -uid "C56277BF-4613-2D5E-6036-2A9F08C0C499";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN122"
+		"Polish69RN122" 0
+		"Polish69RN122" 3
+		2 "|Polish340:Polish" "translate" " -type \"double3\" 691.51966724325927771 230.55085083446519434 121.0553436279296875"
+		
+		2 "|Polish340:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish340:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN123";
+	rename -uid "75D0672F-410C-DDFA-8957-C4AC416A6A94";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN123"
+		"Polish69RN123" 0
+		"Polish69RN123" 3
+		2 "|Polish341:Polish" "translate" " -type \"double3\" 691.51966724325927771 224.60118538004556399 121.0553436279296875"
+		
+		2 "|Polish341:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish341:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN124";
+	rename -uid "9BA7F442-4185-2920-E60E-2798DD3693BA";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN124"
+		"Polish69RN124" 0
+		"Polish69RN124" 3
+		2 "|Polish342:Polish" "translate" " -type \"double3\" 691.51966724325927771 219.08160172229966633 121.0553436279296875"
+		
+		2 "|Polish342:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish342:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN125";
+	rename -uid "6EB649D3-460C-D8B8-8DD0-21B1E8E83689";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN125"
+		"Polish69RN125" 0
+		"Polish69RN125" 3
+		2 "|Polish343:Polish" "translate" " -type \"double3\" 691.51966724325927771 213.2531913648887496 121.0553436279296875"
+		
+		2 "|Polish343:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish343:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN126";
+	rename -uid "27F50AF5-45E8-25D1-628C-C195D6BE87CE";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN126"
+		"Polish69RN126" 0
+		"Polish69RN126" 3
+		2 "|Polish344:Polish" "translate" " -type \"double3\" 691.51966724325927771 206.92312983148084982 121.0553436279296875"
+		
+		2 "|Polish344:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish344:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN127";
+	rename -uid "2375CE0C-48E3-1E2A-1EE6-BE84BAD0252D";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN127"
+		"Polish69RN127" 0
+		"Polish69RN127" 3
+		2 "|Polish345:Polish" "translate" " -type \"double3\" 700.11274043345326845 281.97188318756730041 121.0553436279296875"
+		
+		2 "|Polish345:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish345:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN128";
+	rename -uid "7492374D-4628-96E5-5980-CBAEF70A3B59";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN128"
+		"Polish69RN128" 0
+		"Polish69RN128" 3
+		2 "|Polish346:Polish" "translate" " -type \"double3\" 700.11274043345304108 275.63173858311120057 121.0553436279296875"
+		
+		2 "|Polish346:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish346:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN129";
+	rename -uid "1F01C17A-46BD-804B-67CD-E3B5083B6450";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN129"
+		"Polish69RN129" 0
+		"Polish69RN129" 3
+		2 "|Polish347:Polish" "translate" " -type \"double3\" 700.11274043345304108 269.9139923188663488 121.0553436279296875"
+		
+		2 "|Polish347:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish347:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN130";
+	rename -uid "E14D3871-48A1-26A3-53C1-9D93F4193760";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN130"
+		"Polish69RN130" 0
+		"Polish69RN130" 3
+		2 "|Polish348:Polish" "translate" " -type \"double3\" 700.11274043345304108 264.03416122981150238 121.0553436279296875"
+		
+		2 "|Polish348:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish348:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN131";
+	rename -uid "E4C16FF0-4FD2-1C55-5706-9FB5D0E37C46";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN131"
+		"Polish69RN131" 0
+		"Polish69RN131" 3
+		2 "|Polish349:Polish" "translate" " -type \"double3\" 700.11274043345304108 258.31700821225285836 121.0553436279296875"
+		
+		2 "|Polish349:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish349:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN132";
+	rename -uid "F3DA031B-4B9A-6342-412E-E68A246DA9A2";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN132"
+		"Polish69RN132" 0
+		"Polish69RN132" 3
+		2 "|Polish350:Polish" "translate" " -type \"double3\" 700.11274043345304108 252.83578286955028602 121.0553436279296875"
+		
+		2 "|Polish350:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish350:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN133";
+	rename -uid "0B686E20-4028-237D-0F8D-68AA32D3E817";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN133"
+		"Polish69RN133" 0
+		"Polish69RN133" 3
+		2 "|Polish351:Polish" "translate" " -type \"double3\" 700.11274043345304108 246.92092360597695233 121.0553436279296875"
+		
+		2 "|Polish351:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish351:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN134";
+	rename -uid "25CB7ADB-4557-B5D0-7961-0B93435495FA";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN134"
+		"Polish69RN134" 0
+		"Polish69RN134" 3
+		2 "|Polish352:Polish" "translate" " -type \"double3\" 700.11274043345304108 241.68724979227081917 121.0553436279296875"
+		
+		2 "|Polish352:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish352:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN135";
+	rename -uid "37F59A8F-483B-E5B8-A838-DDB48E81C00E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN135"
+		"Polish69RN135" 0
+		"Polish69RN135" 3
+		2 "|Polish353:Polish" "translate" " -type \"double3\" 700.11274043345304108 236.09597283330893447 121.0553436279296875"
+		
+		2 "|Polish353:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish353:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN136";
+	rename -uid "FFFBB0CD-4566-8E66-2021-398E53412F3B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN136"
+		"Polish69RN136" 0
+		"Polish69RN136" 3
+		2 "|Polish354:Polish" "translate" " -type \"double3\" 700.11274043345304108 230.55085083446519434 121.0553436279296875"
+		
+		2 "|Polish354:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish354:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN137";
+	rename -uid "8983E536-4051-CA68-533E-05A6816D9DDC";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN137"
+		"Polish69RN137" 0
+		"Polish69RN137" 3
+		2 "|Polish355:Polish" "translate" " -type \"double3\" 700.11274043345304108 224.60118538004556399 121.0553436279296875"
+		
+		2 "|Polish355:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish355:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN138";
+	rename -uid "3D41606C-4A36-9B89-C81F-ECA651E5D7A3";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN138"
+		"Polish69RN138" 0
+		"Polish69RN138" 3
+		2 "|Polish356:Polish" "translate" " -type \"double3\" 700.11274043345304108 219.08160172229966633 121.0553436279296875"
+		
+		2 "|Polish356:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish356:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN139";
+	rename -uid "9B2023EB-4C62-A2D5-4FD5-2DB31CB63054";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN139"
+		"Polish69RN139" 0
+		"Polish69RN139" 3
+		2 "|Polish357:Polish" "translate" " -type \"double3\" 700.11274043345304108 213.2531913648887496 121.0553436279296875"
+		
+		2 "|Polish357:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish357:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN140";
+	rename -uid "71A7FF96-415A-C2FC-4500-869CA9DD6345";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN140"
+		"Polish69RN140" 0
+		"Polish69RN140" 3
+		2 "|Polish358:Polish" "translate" " -type \"double3\" 700.11274043345304108 206.92312983148084982 121.0553436279296875"
+		
+		2 "|Polish358:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish358:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN141";
+	rename -uid "C6FA9B49-4BD1-5D07-B62B-3DB5FD280865";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN141"
+		"Polish69RN141" 0
+		"Polish69RN141" 3
+		2 "|Polish359:Polish" "translate" " -type \"double3\" 709.21452633712488023 281.97188318756730041 121.0553436279296875"
+		
+		2 "|Polish359:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish359:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN142";
+	rename -uid "2065E7E5-45A0-F74B-6ED7-4AA271828345";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN142"
+		"Polish69RN142" 0
+		"Polish69RN142" 3
+		2 "|Polish360:Polish" "translate" " -type \"double3\" 709.21452633712465285 275.63173858311120057 121.0553436279296875"
+		
+		2 "|Polish360:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish360:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN143";
+	rename -uid "7E7AD0DD-451B-C2AF-95F0-D6BBBB988628";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN143"
+		"Polish69RN143" 0
+		"Polish69RN143" 3
+		2 "|Polish361:Polish" "translate" " -type \"double3\" 709.21452633712465285 269.9139923188663488 121.0553436279296875"
+		
+		2 "|Polish361:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish361:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN144";
+	rename -uid "BC64054C-47E8-E437-8BFB-C6A31F95141E";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN144"
+		"Polish69RN144" 0
+		"Polish69RN144" 3
+		2 "|Polish362:Polish" "translate" " -type \"double3\" 709.21452633712465285 264.03416122981150238 121.0553436279296875"
+		
+		2 "|Polish362:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish362:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN145";
+	rename -uid "D74CB445-4C33-7AE4-6081-B18ADBC31547";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN145"
+		"Polish69RN145" 0
+		"Polish69RN145" 3
+		2 "|Polish363:Polish" "translate" " -type \"double3\" 709.21452633712465285 258.31700821225285836 121.0553436279296875"
+		
+		2 "|Polish363:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish363:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN146";
+	rename -uid "BA2B2A26-4C03-CB6E-BBFA-299F69B8037C";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN146"
+		"Polish69RN146" 0
+		"Polish69RN146" 3
+		2 "|Polish364:Polish" "translate" " -type \"double3\" 709.21452633712465285 252.83578286955028602 121.0553436279296875"
+		
+		2 "|Polish364:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish364:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN147";
+	rename -uid "F5C0FB10-453B-0D6C-CC98-3FAF7DF76278";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN147"
+		"Polish69RN147" 0
+		"Polish69RN147" 3
+		2 "|Polish365:Polish" "translate" " -type \"double3\" 709.21452633712465285 246.92092360597695233 121.0553436279296875"
+		
+		2 "|Polish365:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish365:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN148";
+	rename -uid "1252C566-45CD-9A1A-8A23-9A92047695B7";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN148"
+		"Polish69RN148" 0
+		"Polish69RN148" 3
+		2 "|Polish366:Polish" "translate" " -type \"double3\" 709.21452633712465285 241.68724979227081917 121.0553436279296875"
+		
+		2 "|Polish366:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish366:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN149";
+	rename -uid "3C899F56-41B1-A8C0-859F-0581698EB965";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN149"
+		"Polish69RN149" 0
+		"Polish69RN149" 3
+		2 "|Polish367:Polish" "translate" " -type \"double3\" 709.21452633712465285 236.09597283330893447 121.0553436279296875"
+		
+		2 "|Polish367:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish367:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN150";
+	rename -uid "0FBD9693-4C57-EA6B-1AEC-1BB7E8DE83BF";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN150"
+		"Polish69RN150" 0
+		"Polish69RN150" 3
+		2 "|Polish368:Polish" "translate" " -type \"double3\" 709.21452633712465285 230.55085083446519434 121.0553436279296875"
+		
+		2 "|Polish368:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish368:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN151";
+	rename -uid "5A5DC02B-45E7-3984-22E3-48BB4F2A8A33";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN151"
+		"Polish69RN151" 0
+		"Polish69RN151" 3
+		2 "|Polish369:Polish" "translate" " -type \"double3\" 709.21452633712465285 224.60118538004556399 121.0553436279296875"
+		
+		2 "|Polish369:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish369:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN152";
+	rename -uid "1C5D85A4-4417-2D2A-69EC-0AA933A07EC8";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN152"
+		"Polish69RN152" 0
+		"Polish69RN152" 3
+		2 "|Polish370:Polish" "translate" " -type \"double3\" 709.21452633712465285 219.08160172229966633 121.0553436279296875"
+		
+		2 "|Polish370:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish370:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN153";
+	rename -uid "C61BB134-49C4-11AD-8C52-D39BEDE5856B";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN153"
+		"Polish69RN153" 0
+		"Polish69RN153" 3
+		2 "|Polish371:Polish" "translate" " -type \"double3\" 709.21452633712465285 213.2531913648887496 121.0553436279296875"
+		
+		2 "|Polish371:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish371:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode reference -n "Polish69RN154";
+	rename -uid "EE038276-4D95-A9B8-153C-818A0A0A4266";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Polish69RN154"
+		"Polish69RN154" 0
+		"Polish69RN154" 3
+		2 "|Polish372:Polish" "translate" " -type \"double3\" 709.21452633712465285 206.92312983148084982 121.0553436279296875"
+		
+		2 "|Polish372:Polish" "rotate" " -type \"double3\" 0 0 0"
+		2 "|Polish372:Polish" "scale" " -type \"double3\" 1 1 1";
+lockNode -l 1 ;
+createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
+	rename -uid "4C13A876-464D-C940-D83E-0DAFA71FEB38";
+	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
+	setAttr ".tgi[0].vl" -type "double2" -44.047617297323995 -615.47616601936511 ;
+	setAttr ".tgi[0].vh" -type "double2" 604.76188073082676 44.047617297323995 ;
 select -ne :time1;
 	setAttr ".o" 1;
 	setAttr ".unw" 1;
@@ -23315,18 +25875,18 @@ select -ne :hardwareRenderingGlobals;
 	setAttr ".fprt" yes;
 	setAttr ".rtfm" 1;
 select -ne :renderPartition;
-	setAttr -s 77 ".st";
+	setAttr -s 244 ".st";
 select -ne :renderGlobalsList1;
 select -ne :defaultShaderList1;
-	setAttr -s 81 ".s";
+	setAttr -s 248 ".s";
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderUtilityList1;
-	setAttr -s 75 ".u";
+	setAttr -s 242 ".u";
 select -ne :defaultRenderingList1;
-	setAttr -s 76 ".r";
+	setAttr -s 243 ".r";
 select -ne :defaultTextureList1;
-	setAttr -s 75 ".tx";
+	setAttr -s 242 ".tx";
 select -ne :standardSurface1;
 	setAttr ".bc" -type "float3" 0.40000001 0.40000001 0.40000001 ;
 	setAttr ".sr" 0.5;
@@ -23334,11 +25894,10 @@ select -ne :openPBR_shader1;
 	setAttr ".bc" -type "float3" 0.40000001 0.40000001 0.40000001 ;
 	setAttr ".sr" 0.5;
 select -ne :initialShadingGroup;
-	setAttr -s 272 ".dsm";
+	setAttr -s 216 ".dsm";
 	setAttr ".ro" yes;
 select -ne :initialParticleSE;
 	setAttr ".ro" yes;
-select -ne :initialMaterialInfo;
 select -ne :defaultRenderGlobals;
 	addAttr -ci true -h true -sn "dss" -ln "defaultSurfaceShader" -dt "string";
 	setAttr ".ren" -type "string" "arnold";
@@ -23359,10 +25918,18 @@ select -ne :hardwareRenderGlobals;
 	setAttr ".btrs" 512;
 select -ne :ikSystem;
 	setAttr -s 4 ".sol";
+connectAttr "Polish_translateX.o" "Polish1RN.phl[1]";
+connectAttr "Polish_translateY.o" "Polish1RN.phl[2]";
+connectAttr "Polish_translateZ.o" "Polish1RN.phl[3]";
+connectAttr "Polish_rotateX.o" "Polish1RN.phl[4]";
+connectAttr "Polish_rotateY.o" "Polish1RN.phl[5]";
+connectAttr "Polish_rotateZ.o" "Polish1RN.phl[6]";
+connectAttr "Polish_scaleX.o" "Polish1RN.phl[7]";
+connectAttr "Polish_scaleY.o" "Polish1RN.phl[8]";
+connectAttr "Polish_scaleZ.o" "Polish1RN.phl[9]";
+connectAttr "Polish_visibility.o" "Polish1RN.phl[10]";
 connectAttr "Blockout.di" "Floor.do";
-connectAttr "polyNormal1.out" "FloorShape.i";
 connectAttr "Blockout.di" "Stairs.do";
-connectAttr "polyExtrudeFace6.out" "StairsShape.i";
 connectAttr "Blockout.di" "Stairs1.do";
 connectAttr "Blockout.di" "Man.do";
 connectAttr "Blockout.di" "|Object4.do";
@@ -23417,23 +25984,23 @@ connectAttr "Blockout.di" "Object31.do";
 connectAttr "Blockout.di" "Object30.do";
 connectAttr "Blockout.di" "Object29.do";
 connectAttr "Blockout.di" "Object28.do";
-connectAttr "Blockout.di" "|BoloTies|Object40.do";
-connectAttr "Blockout.di" "|BoloTies|Object41.do";
-connectAttr "Blockout.di" "|BoloTies|Object42.do";
-connectAttr "Blockout.di" "|BoloTies|Object43.do";
-connectAttr "Blockout.di" "|BoloTies|Object44.do";
-connectAttr "Blockout.di" "|BoloTies|Object45.do";
-connectAttr "Blockout.di" "|BoloTies|Object46.do";
-connectAttr "Blockout.di" "|BoloTies|Object47.do";
+connectAttr "Blockout.di" "Object40.do";
+connectAttr "Blockout.di" "Object41.do";
+connectAttr "Blockout.di" "Object42.do";
+connectAttr "Blockout.di" "Object43.do";
+connectAttr "Blockout.di" "Object44.do";
+connectAttr "Blockout.di" "Object45.do";
+connectAttr "Blockout.di" "Object46.do";
+connectAttr "Blockout.di" "Object47.do";
 connectAttr "Blockout.di" "|BoloTies|Table20.do";
-connectAttr "Blockout.di" "|BoloTies|Object48.do";
-connectAttr "Blockout.di" "|BoloTies|Object49.do";
-connectAttr "Blockout.di" "|BoloTies|Object50.do";
-connectAttr "Blockout.di" "|BoloTies|Object51.do";
-connectAttr "Blockout.di" "|BoloTies|Object52.do";
-connectAttr "Blockout.di" "|BoloTies|Object53.do";
-connectAttr "Blockout.di" "|BoloTies|Object54.do";
-connectAttr "Blockout.di" "|BoloTies|Object55.do";
+connectAttr "Blockout.di" "Object48.do";
+connectAttr "Blockout.di" "Object49.do";
+connectAttr "Blockout.di" "Object50.do";
+connectAttr "Blockout.di" "Object51.do";
+connectAttr "Blockout.di" "Object52.do";
+connectAttr "Blockout.di" "Object53.do";
+connectAttr "Blockout.di" "Object54.do";
+connectAttr "Blockout.di" "Object55.do";
 connectAttr "Blockout.di" "Object65.do";
 connectAttr "Blockout.di" "Object71.do";
 connectAttr "Blockout.di" "Object67.do";
@@ -23491,63 +26058,6 @@ connectAttr "Blockout.di" "Object112.do";
 connectAttr "Blockout.di" "Object113.do";
 connectAttr "Blockout.di" "Object114.do";
 connectAttr "Blockout.di" "Object115.do";
-connectAttr "Blockout.di" "|Polish|Object40.do";
-connectAttr "Blockout.di" "|Polish|Object41.do";
-connectAttr "Blockout.di" "|Polish|Object42.do";
-connectAttr "Blockout.di" "|Polish|Object43.do";
-connectAttr "Blockout.di" "|Polish|Object44.do";
-connectAttr "Blockout.di" "|Polish|Object45.do";
-connectAttr "Blockout.di" "|Polish|Object46.do";
-connectAttr "Blockout.di" "|Polish|Object47.do";
-connectAttr "Blockout.di" "|Polish|Table20.do";
-connectAttr "Blockout.di" "|Polish|Object48.do";
-connectAttr "Blockout.di" "|Polish|Object49.do";
-connectAttr "Blockout.di" "|Polish|Object50.do";
-connectAttr "Blockout.di" "|Polish|Object51.do";
-connectAttr "Blockout.di" "|Polish|Object52.do";
-connectAttr "Blockout.di" "|Polish|Object53.do";
-connectAttr "Blockout.di" "|Polish|Object54.do";
-connectAttr "Blockout.di" "|Polish|Object55.do";
-connectAttr "Blockout.di" "Object126.do";
-connectAttr "Blockout.di" "Object127.do";
-connectAttr "Blockout.di" "Object128.do";
-connectAttr "Blockout.di" "Object129.do";
-connectAttr "Blockout.di" "Object130.do";
-connectAttr "Blockout.di" "Object131.do";
-connectAttr "Blockout.di" "Object133.do";
-connectAttr "Blockout.di" "Object134.do";
-connectAttr "Blockout.di" "Object135.do";
-connectAttr "Blockout.di" "Object136.do";
-connectAttr "Blockout.di" "Object137.do";
-connectAttr "Blockout.di" "Object138.do";
-connectAttr "Blockout.di" "Object139.do";
-connectAttr "Blockout.di" "Object140.do";
-connectAttr "Blockout.di" "Object141.do";
-connectAttr "Blockout.di" "Object142.do";
-connectAttr "Blockout.di" "Object143.do";
-connectAttr "Blockout.di" "Object144.do";
-connectAttr "Blockout.di" "Object145.do";
-connectAttr "Blockout.di" "Object146.do";
-connectAttr "Blockout.di" "Object147.do";
-connectAttr "Blockout.di" "Object148.do";
-connectAttr "Blockout.di" "Object149.do";
-connectAttr "Blockout.di" "Object150.do";
-connectAttr "Blockout.di" "Object151.do";
-connectAttr "Blockout.di" "Object152.do";
-connectAttr "Blockout.di" "Object153.do";
-connectAttr "Blockout.di" "Object154.do";
-connectAttr "Blockout.di" "Object155.do";
-connectAttr "Blockout.di" "Object156.do";
-connectAttr "Blockout.di" "Object157.do";
-connectAttr "Blockout.di" "Object158.do";
-connectAttr "Blockout.di" "Object159.do";
-connectAttr "Blockout.di" "Object160.do";
-connectAttr "Blockout.di" "Object161.do";
-connectAttr "Blockout.di" "Object162.do";
-connectAttr "Blockout.di" "Object163.do";
-connectAttr "Blockout.di" "Object164.do";
-connectAttr "Blockout.di" "Object165.do";
-connectAttr "Blockout.di" "Object166.do";
 connectAttr "Blockout.di" "|Necklaces|Object116.do";
 connectAttr "Blockout.di" "|Necklaces|Object117.do";
 connectAttr "Blockout.di" "|Necklaces|Object118.do";
@@ -23592,7 +26102,6 @@ connectAttr "Blockout.di" "SwampCooler2.do";
 connectAttr "Blockout.di" "SwampCooler3.do";
 connectAttr "Blockout.di" "CoolerStand.do";
 connectAttr "Blockout.di" "Wall_table.do";
-connectAttr "polyExtrudeFace7.out" "Wall_tableShape.i";
 connectAttr "Blockout.di" "Shelf7.do";
 connectAttr "Blockout.di" "Shelf4.do";
 connectAttr "Blockout.di" "Shelf.do";
@@ -23616,7 +26125,6 @@ connectAttr "Blockout.di" "Table3.do";
 connectAttr "Blockout.di" "Table2.do";
 connectAttr "Blockout.di" "Table1.do";
 connectAttr "Blockout.di" "Table.do";
-connectAttr "polyCube2.out" "TableShape.i";
 connectAttr "Blockout.di" "SquareCenterTable.do";
 connectAttr "Blockout.di" "Table8.do";
 connectAttr "group1_translateX.o" "WallStands.tx";
@@ -23648,41 +26156,13 @@ connectAttr "WallStand14_scaleY.o" "WallStand14.sy";
 connectAttr "WallStand14_scaleZ.o" "WallStand14.sz";
 connectAttr "Blockout.di" "WallStand15.do";
 connectAttr "Blockout.di" "WallStand16.do";
+connectAttr "Blockout.di" "|Table20.do";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
 connectAttr "layerManager.dli[0]" "defaultLayer.id";
 connectAttr "renderLayerManager.rlmi[0]" "defaultRenderLayer.rlid";
-connectAttr "|Stairs|polySurfaceShape2.o" "polyExtrudeFace1.ip";
-connectAttr "StairsShape.wm" "polyExtrudeFace1.mp";
-connectAttr "polyTweak2.out" "polySplitRing1.ip";
-connectAttr "StairsShape.wm" "polySplitRing1.mp";
-connectAttr "polyExtrudeFace1.out" "polyTweak2.ip";
-connectAttr "polySplitRing1.out" "polySplitRing2.ip";
-connectAttr "StairsShape.wm" "polySplitRing2.mp";
-connectAttr "polySplitRing2.out" "polySplitRing3.ip";
-connectAttr "StairsShape.wm" "polySplitRing3.mp";
-connectAttr "polySplitRing3.out" "polySplitRing4.ip";
-connectAttr "StairsShape.wm" "polySplitRing4.mp";
-connectAttr "polySplitRing4.out" "polySplitRing5.ip";
-connectAttr "StairsShape.wm" "polySplitRing5.mp";
-connectAttr "polySplitRing5.out" "polyExtrudeFace2.ip";
-connectAttr "StairsShape.wm" "polyExtrudeFace2.mp";
-connectAttr "polyTweak3.out" "polyExtrudeFace3.ip";
-connectAttr "StairsShape.wm" "polyExtrudeFace3.mp";
-connectAttr "polyExtrudeFace2.out" "polyTweak3.ip";
-connectAttr "polyTweak4.out" "polyExtrudeFace4.ip";
-connectAttr "StairsShape.wm" "polyExtrudeFace4.mp";
-connectAttr "polyExtrudeFace3.out" "polyTweak4.ip";
-connectAttr "polyTweak5.out" "polyExtrudeFace5.ip";
-connectAttr "StairsShape.wm" "polyExtrudeFace5.mp";
-connectAttr "polyExtrudeFace4.out" "polyTweak5.ip";
-connectAttr "polyTweak6.out" "polyExtrudeFace6.ip";
-connectAttr "StairsShape.wm" "polyExtrudeFace6.mp";
-connectAttr "polyExtrudeFace5.out" "polyTweak6.ip";
-connectAttr "|WallBooth1|Wall_table|polySurfaceShape3.o" "polyExtrudeFace7.ip";
-connectAttr "Wall_tableShape.wm" "polyExtrudeFace7.mp";
 connectAttr "layerManager.dli[1]" "Items.id";
 connectAttr "layerManager.dli[2]" "Blockout.id";
 connectAttr "Shelf10.iog" "WallBooth2.dsm" -na;
@@ -23695,9 +26175,6 @@ connectAttr "Shelf16.iog" "WallBooth2.dsm" -na;
 connectAttr "Shelf17.iog" "WallBooth2.dsm" -na;
 connectAttr "Shelf18.iog" "WallBooth2.dsm" -na;
 connectAttr "Wall_table1.iog" "WallBooth2.dsm" -na;
-connectAttr "polyTweak1.out" "polyNormal1.ip";
-connectAttr "deleteComponent1.og" "polyTweak1.ip";
-connectAttr "polyCube1.out" "deleteComponent1.ig";
 connectAttr "sharedReferenceNode.sr" "BootRN.sr";
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "FloorShape.iog" ":initialShadingGroup.dsm" -na;
@@ -23802,39 +26279,23 @@ connectAttr "Object31Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object30Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object29Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object28Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|BoloTies|Object40|Object40Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object41|Object41Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object42|Object42Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object43|Object43Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object44|Object44Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object45|Object45Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object46|Object46Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object47|Object47Shape.iog" ":initialShadingGroup.dsm" -na
-		;
+connectAttr "Object40Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object41Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object42Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object43Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object44Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object45Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object46Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object47Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "|BoloTies|Table20|TableShape20.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|BoloTies|Object48|Object48Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object49|Object49Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object50|Object50Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object51|Object51Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object52|Object52Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object53|Object53Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object54|Object54Shape.iog" ":initialShadingGroup.dsm" -na
-		;
-connectAttr "|BoloTies|Object55|Object55Shape.iog" ":initialShadingGroup.dsm" -na
-		;
+connectAttr "Object48Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object49Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object50Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object51Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object52Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object53Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object54Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "Object55Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object58Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object59Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object60Shape.iog" ":initialShadingGroup.dsm" -na;
@@ -23897,23 +26358,7 @@ connectAttr "Object112Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object113Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object114Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Object115Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object40|Object40Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object41|Object41Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object42|Object42Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object43|Object43Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object44|Object44Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object45|Object45Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object46|Object46Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object47|Object47Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Table20|TableShape20.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object48|Object48Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object49|Object49Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object50|Object50Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object51|Object51Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object52|Object52Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object53|Object53Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object54|Object54Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "|Polish|Object55|Object55Shape.iog" ":initialShadingGroup.dsm" -na;
+connectAttr "|Table20|TableShape20.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "|Necklaces|Object116|Object116Shape.iog" ":initialShadingGroup.dsm"
 		 -na;
 connectAttr "|Necklaces|Object117|Object117Shape.iog" ":initialShadingGroup.dsm"
@@ -23931,47 +26376,7 @@ connectAttr "|Necklaces|Object122|Object122Shape.iog" ":initialShadingGroup.dsm"
 		 -na;
 connectAttr "|Necklaces|Object123|Object123Shape.iog" ":initialShadingGroup.dsm"
 		 -na;
-connectAttr "Object126Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object127Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object128Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object129Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object130Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object131Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object133Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object134Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object135Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object136Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object137Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object138Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object139Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object140Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object141Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object142Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object143Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object144Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object145Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object146Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object147Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object148Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object149Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object150Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object151Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object152Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object153Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object154Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object155Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Floor1Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object156Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object157Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object158Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object159Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object160Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object161Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object162Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object163Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object164Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object165Shape.iog" ":initialShadingGroup.dsm" -na;
-connectAttr "Object166Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "|Recorders|Object88|Object88Shape.iog" ":initialShadingGroup.dsm" -na
 		;
 connectAttr "Object167Shape.iog" ":initialShadingGroup.dsm" -na;
